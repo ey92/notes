@@ -39,6 +39,7 @@ _spectrograms_ produce graphs(_spectographs_) which map the _frequency_ (pulse/s
 
 ## Phonetics 28/1
 ### Design features of language
+---
 - open-ended due to compositionality
 - rule-governed
 - mental grammars are generative
@@ -62,6 +63,7 @@ languages are learnable
 
 
 ### Phonetics
+---
 **articulary phonetics** - looks at the way sounds are formed in the hman vocal tract
 - "high-front vowel /i:/" vs "high-back vowel /u:/" vs "low vowel /a:/"
 - physical position in mouth
@@ -75,8 +77,7 @@ languages are learnable
 separate from grammar: describes the physical/physiological phenomena outside the speaker's mind
 
 
-#### Consonants & Vowels
----
+### Consonants & Vowels
 **consonants** involve some degree of obstruction of airflow
 - **stop consonants** completely cut off airflow (hear consonant when air is released): t,g,b,p,m
 	* on spectrogram: blank/gap
