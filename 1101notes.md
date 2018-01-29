@@ -12,8 +12,8 @@
 - may be words, but they may be smaller than words
 -connection between sounds of a word and its meaning is mostly arbitrary
 except
-		* onomatopoeia
-		* sound symbolism
+	* onomatopoeia
+	* sound symbolism
 
 sound instead of writing: humans have had language from the beginning 50,000yrs
 - only literate about 5,000yrs
@@ -36,6 +36,7 @@ representing sounds in writing
 **acoustic phonetics**: analysis of speech sounds in their physical aspect
 _spectrograms_ produce graphs(_spectographs_) which map the _frequency_ (pulse/second) and intensity (_amplitude_) of vibrations over time
 
+
 ## Phonetics 28/1
 ### Design features of language
 - open-ended due to compositionality
@@ -45,7 +46,7 @@ _spectrograms_ produce graphs(_spectographs_) which map the _frequency_ (pulse/s
 - at each level, you can look at the objects that make up language from two different perspectives
 	* **paradigmatic relationships** - what the chunks are, what categories they belong to
 	* **syntagmatic relationships** - how they are put together (order, which ones work together)
-- rules of grammar create 2d objects
+- rules of grammar create 2D objects
 	* language has linear order
 	* but also hierarchical structure
 - at level of sounds
@@ -56,17 +57,23 @@ _spectrograms_ produce graphs(_spectographs_) which map the _frequency_ (pulse/s
 - **word** - a free morpheme with all the bound morphemes attached to it
 	*can a word be only made from bound morphemes?
 - words -> phrases -> sentences
+
 languages are learnable
+
 
 ### Phonetics
 **articulary phonetics** - looks at the way sounds are formed in the hman vocal tract
-	- "high-front vowel /i:/" vs "high-back vowel /u:/" vs "low vowel /a:/"
-	- physical position in mouth
+- "high-front vowel /i:/" vs "high-back vowel /u:/" vs "low vowel /a:/"
+- physical position in mouth
+
 **acoustic phonetics** - concerned with physical analysis of the speech sound
-	- spectrogram (waveform) time x frequency
+- spectrogram (waveform) time x frequency
+
 **perceptual phonetics** - concerned with the mechanisms of speech perception in the ear and the brain
-	- physical distrubances of air vibrating ear
+- physical distrubances of air vibrating ear
+
 separate from grammar: describes the physical/physiological phenomena outside the speaker's mind
+
 
 #### Consonants & Vowels
 **consonants** involve some degree of obstruction of airflow
