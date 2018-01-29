@@ -43,6 +43,11 @@ Advantages
 #1-3 myths of electronic commerce
 	valid potential advantages, but very difficult to utilize
 	success in any 3 is rare
+4. Ubiquity
+5. Universal Standards
+6. Information Density
+7. Personalization/Customization
+8. Social Technology
 
 ## Amazon
 - successful in advantages 1-3

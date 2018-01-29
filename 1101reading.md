@@ -1,20 +1,12 @@
-linguist
-	- someone who studies the structure of language and its use
-language
-	- an abstract cognitive system that uniquely allows humans to produce and comprehend meaningful utterances
-linguistic competence
-	- the unconscious knowledge a speaker has about his or her native language
-linguistic performance
-	- the observable use of language/actualization of one's linguistic knowledge
-performance error
-	- errors in language production or comprehension, including hesitations and slips of the tongue
-communication chain: source, transmitter, signal, receiver, destination
-noise
-	-interference in the communication chain
-phonetics
-	- study of minimal units of language (sounds)
-phonology
-	- language-specific knowledge about the distribution of speech sounds
+*linguist* - someone who studies the structure of language and its use
+*language* - an abstract cognitive system that uniquely allows humans to produce and comprehend meaningful utterances
+*linguistic competence* - the unconscious knowledge a speaker has about his or her native language
+*linguistic performance* - the observable use of language/actualization of one's linguistic knowledge
+*performance error* - errors in language production or comprehension, including hesitations and slips of the tongue
+*communication chain*: source, transmitter, signal, receiver, destination
+*noise* - interference in the communication chain
+*phonetics* - study of minimal units of language (sounds)
+*phonology* - language-specific knowledge about the distribution of speech sounds
 	allows you to recognize sounds and words spoken by different speakers
 morphology
 	- the study of how words are constructed out of morphemes
