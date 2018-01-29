@@ -13,7 +13,7 @@ What is civilization?
 - magic act, images,texts, rituals
 
 
-26/1 Controlling the Past/Archaeology, History, Colonialism, and Magic Meet in Egypt
+## 26/1 Controlling the Past/Archaeology, History, Colonialism, and Magic Meet in Egypt
 ---
 Auguste Mariette (Fr)
 - 1850
@@ -37,9 +37,9 @@ colonial powers try to amass collections
 	* historical artifact
 	* cofirmation of Bible/other texts
 
-29/1 Steps to Egyptology/ Exploring, Collecting
+## 29/1 Steps to Egyptology/ Exploring, Collecting
 ---
-Archaeology
+### Archaeology
 - less colonial now - cooperative/joint projects
 - local population has more say
 - more professional: scientific methods, inquisitive, rather than acquisitive
@@ -51,8 +51,7 @@ Archaeology
 	* layers of occupation (strata) carefully exposed
 	* 100 yrs thick or 1 season in a year
 
-3 Steps to Archaeology in ANE and Egypt
-
+### 3 Steps to Archaeology in ANE and Egypt
 1\. Exploration, including travel (5th-17th century)
 - 5th c BC Herodotous, Greek historian of Persian Wars
 - 3rd c CE Eusebius, bishop of Caesarea, Onomasticon, list of place-names
