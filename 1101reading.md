@@ -20,6 +20,7 @@
 **morphology** - the study of how words are constructed out of morphemes
 
 **syntax** - component of mental grammar that deals with constructing phrasal expressions out of smaller expressions
+    
     - subfield of linguistics that studies how expressions can combine to form larger expressions
 
 **'grammatical'** - correct grammar, according to descriptive grammar, esp syntax
@@ -31,6 +32,7 @@
 **pragmatics** - study of how context affects language use, whether or not it is by chance in a context and how the context affects the utterance's meaning or interpretation
 
 **lexicon** - mental repository of linguistic information about words and other lexical expressions, including their form and meaning and their morphological and syntactic properties
+    
     -part of mental lexicon, including entries that capture relevant properties of lexical expressions
 
 **language acquisition** - process by which children acquire lexicon and grammatical rules of language
@@ -38,11 +40,13 @@
 **language variation** - property of languages having different ways to express the same meanings in different contexts, according to factors such as geography, social class, gender, social class, etc.
 
 **writing** - physical representation of language other than speech
+    
     - adds an extra step to communcation process
 
 **form** - the structure or shape of any particular linguistic item, from individual segments to strings of words
 
 **linguistic sign** - combination of form and meaning
+    
     - connection between form and meaning is typically arbitrary
 
 **formal language** - communication system that has both semantic and syntactic rules and that encodes ideas with symbols that represent particular meanings, but could never be the native language of a human
@@ -50,7 +54,6 @@
 **natural language** - a language that has evolved naturally in a speech community
 
 **constructed language** - a language that has been designed by an individual or group of individuals for some particular purpose, such as use in a fictional world or international communication, but did not originate as the native language of any speech community
-
 
 
 ## 3 Types of Grammar:
