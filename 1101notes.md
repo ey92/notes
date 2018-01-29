@@ -76,6 +76,7 @@ separate from grammar: describes the physical/physiological phenomena outside th
 
 
 #### Consonants & Vowels
+---
 **consonants** involve some degree of obstruction of airflow
 - **stop consonants** completely cut off airflow (hear consonant when air is released): t,g,b,p,m
 	* on spectrogram: blank/gap
