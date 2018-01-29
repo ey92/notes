@@ -124,6 +124,6 @@
 	- rules at all levels of linguistic structure are productive & grant the ability to communicate about broad range of ideas
 
 languages have all 9 parts, but does having them mke a communication system a language?
-	- formal languages aren't natural languages
-	- constructed languages have te potential to become natural languages if learned by native speakers and adopted by speech community (e.g. modern hebrew)
-	- must be learnable
+- formal languages aren't natural languages
+- constructed languages have te potential to become natural languages if learned by native speakers and adopted by speech community (e.g. modern hebrew)
+- must be learnable
