@@ -1,32 +1,56 @@
 **linguist** - someone who studies the structure of language and its use
+
 **language** - an abstract cognitive system that uniquely allows humans to produce and comprehend meaningful utterances
+
 **linguistic competence** - the unconscious knowledge a speaker has about his or her native language
+
 **linguistic performance** - the observable use of language/actualization of one's linguistic knowledge
+
 **performance error** - errors in language production or comprehension, including hesitations and slips of the tongue
+
 **communication chain**: source, transmitter, signal, receiver, destination
+
 **noise** - interference in the communication chain
+
 **phonetics** - study of minimal units of language (sounds)
+
 **phonology** - language-specific knowledge about the distribution of speech sounds
 	allows you to recognize sounds and words spoken by different speakers
+
 **morphology** - the study of how words are constructed out of morphemes
+
 **syntax** - component of mental grammar that deals with constructing phrasal expressions out of smaller expressions
     - subfield of linguistics that studies how expressions can combine to form larger expressions
+
 **'grammatical'** - correct grammar, according to descriptive grammar, esp syntax
+
 **'ungrammatical'** - not following descriptive grammartical rules, esp syntax
+
 **semantics** - study of linguistic meaning
+
 **pragmatics** - study of how context affects language use, whether or not it is by chance in a context and how the context affects the utterance's meaning or interpretation
+
 **lexicon** - mental repository of linguistic information about words and other lexical expressions, including their form and meaning and their morphological and syntactic properties
     -part of mental lexicon, including entries that capture relevant properties of lexical expressions
+
 **language acquisition** - process by which children acquire lexicon and grammatical rules of language
+
 **language variation** - property of languages having different ways to express the same meanings in different contexts, according to factors such as geography, social class, gender, social class, etc.
+
 **writing** - physical representation of language other than speech
     - adds an extra step to communcation process
+
 **form** - the structure or shape of any particular linguistic item, from individual segments to strings of words
+
 **linguistic sign** - combination of form and meaning
     - connection between form and meaning is typically arbitrary
+
 **formal language** - communication system that has both semantic and syntactic rules and that encodes ideas with symbols that represent particular meanings, but could never be the native language of a human
+
 **natural language** - a language that has evolved naturally in a speech community
+
 **constructed language** - a language that has been designed by an individual or group of individuals for some particular purpose, such as use in a fictional world or international communication, but did not originate as the native language of any speech community
+
 
 
 ## 3 Types of Grammar:
@@ -56,20 +80,20 @@
 	utterances
 
 ## Non-essential Aspects of Language:
-	1) _writing_
-		- writing is less basic than speech:
-			- writing must be taught
-			- not all languages are written
-			- neurolinguistic evidence - writing activates same parts of brain as speech + more
-			- writing can be edited before sharing/ speech is spontaneous
-			- archaeological evidence that writing came later than spoken language
-		- why writing might be considered more 'perfect' than speech
-			- can be edited - more organized, fewer errors, pauses
-			- must be taught and associated with education
-			- more physically stable
-	2) _prescriptive grammar_
-		mark social identity & used for sical mobility
-		easier for nonstandard dialect speakers to explicitly learn standard dialect
+1) _writing_
+	- writing is less basic than speech:
+		- writing must be taught
+		- not all languages are written
+		- neurolinguistic evidence - writing activates same parts of brain as speech + more
+		- writing can be edited before sharing/ speech is spontaneous
+		- archaeological evidence that writing came later than spoken language
+	- why writing might be considered more 'perfect' than speech
+		- can be edited - more organized, fewer errors, pauses
+		- must be taught and associated with education
+		- more physically stable
+2) _prescriptive grammar_
+	mark social identity & used for sical mobility
+	easier for nonstandard dialect speakers to explicitly learn standard dialect
 
 ## Design Features of Language (Hockett)
 - a set of 9 descriptive characteristics of language necessary for a communication system to be considered a language
