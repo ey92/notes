@@ -1,5 +1,5 @@
 ## Productivity Paradox
-possible explanations
+possible explanations:
 	1. time lag
 		evidence: time graph
 	2. misuse argument
