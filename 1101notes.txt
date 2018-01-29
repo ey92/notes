@@ -3,8 +3,8 @@ language is a system of rules mapping sounds/gestures and meanings
 	idioms noncompositional
 
 grammar
-	descriptive grammar (functional)
-	prescriptive grammar (conventional with no basis)
+	descriptive grammar (observations)
+	prescriptive grammar (guidelines how to contruct phrases)
 	mental grammar
 
 morpheme: "minimal strings of sounds associated with fixed meanings"
