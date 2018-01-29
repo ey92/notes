@@ -1,3 +1,5 @@
+# Introduction
+
 ## Productivity Paradox
 possible explanations:
 1. time lag
@@ -50,3 +52,47 @@ profitable?
 	- spent the money on advertisement
 ### transformation
 books -> department store -> mall -> software and cloud services -> hardware: tablets -> streaming & content provider -> logistics & warehousing -> delivery -> grocery
+
+- Amazon vs. Stone Soup in 1999
+	* created a platform for selling items without providing any of the content
+	* _intermediaries_ - facilitators of transactions between buyers and sellers
+	* no physical processing, inventory, books, buildings, or significant physical existence
+	* _infomediaries_ - intermediaries with no significant physical existence
+
+## Constant Change as a Business Strategy
+Why is constant change a good strategy good for IT business?
+e.g. Google -> automobiles; Uber -> trucking; Apple -> music
+1. Ease of Imitation
+	- to prevent competitors from imitating, you create an arms race of technologies
+	constantly build up on the lead that you hve
+	e.g. Snapchat, iPhone, Bitcoin
+2. Synergies between Technologies
+	- there are shared components among many technologies
+	- one the shared component is in place, expanding into new areas is cheap with high returns
+	e.g. cloud computing by Google and Amazon, ebay & payment
+3. Substitutability of Technologies
+	- threats can come from anywhere, because there s substitutability among technologies
+	- Google Search threatened by Facebook; search vs. social networks
+	- "social shopping"
+4. Fast-Changing Technology Environment
+	- there is a fast-changing high tech environment
+	- easy to become irrelevant quickly
+	- similar problem with social institutions
+		e.g. law, religion, government, education, family are designed to be rigid and inflexible
+	- virtual instutions can explore the possibility of designing more flexible institutions using technology
+
+## Impact of IT
+- intense in 2 areas
+- _intermediation_ - bringing buyers and sellers together to facilitate exchange of goods and services
+	* _organizing_ and _coordinating_ efforts to produce goods and services
+- _management_:setting goals, communicating goals, coordinating efforts to achieve the goals
+- information intensive jobs require extensive communication and information processing
+- IT is designed to support communication and information processing
+
+## 2 Hypotheses
+1. IT is the tool of trade for managers and ofen lead to new forms and styles of management
+2. IT is a significant tool for intermediaries, and often leads to new types of intermediation
+Questions: 
+- What does IT do for managers and intermediaries?
+- How can they adapt the technology to create a better fit for the organization?
+- How do managers and intermediaries change themselves to take advantage of the technologies optimally?
