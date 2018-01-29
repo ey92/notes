@@ -1,37 +1,37 @@
 ## Intro
 **language** is a system of rules mapping sounds/gestures and meanings
-	- mostly compositional
-	- idioms noncompositional
+- mostly compositional
+- idioms noncompositional
 
 **grammar**
-	- descriptive grammar (observations)
-	- prescriptive grammar (guidelines how to contruct phrases)
-	- mental grammar
+- descriptive grammar (observations)
+- prescriptive grammar (guidelines how to contruct phrases)
+- mental grammar
 
 **morpheme**: "minimal strings of sounds associated with fixed meanings"
-	- may be words, but they may be smaller than words
-	-connection between sounds of a word and its meaning is mostly arbitrary
+- may be words, but they may be smaller than words
+-connection between sounds of a word and its meaning is mostly arbitrary
 except
 		* onomatopoeia
 		* sound symbolism
 
-sound instead of writing - humans have had language from the beginning 50,000yrs
-	- only literate about 5,000yrs
-	- infrequency of developing independent writing systems
-	- -> writing not central to language
-	- graphical way of representing sounds
+sound instead of writing: humans have had language from the beginning 50,000yrs
+- only literate about 5,000yrs
+- infrequency of developing independent writing systems
+- -> writing not central to language
+- graphical way of representing sounds
 
 representing sounds in writing
-	- no 'th' letter - multiple sounds for 'th'
-	- many letters have multiple sounds
-	- why use 2+ letters to represent sound?
+- no 'th' letter - multiple sounds for 'th'
+- many letters have multiple sounds
+- why use 2+ letters to represent sound?
 
 **International Phonetic Alphabet (IPA)**
-	- 1888
-	- phonetic alphabet with characters having simple, consistent sounds, based on the Roman alphabet
-	- one sound per character
-	- one character for every sound used distinctively in some language
-	- advantage of universality
+- 1888
+- phonetic alphabet with characters having simple, consistent sounds, based on the Roman alphabet
+- one sound per character
+- one character for every sound used distinctively in some language
+- advantage of universality
 
 **acoustic phonetics**: analysis of speech sounds in their physical aspect
 _spectrograms_ produce graphs(_spectographs_) which map the _frequency_ (pulse/second) and intensity (_amplitude_) of vibrations over time
@@ -76,7 +76,7 @@ separate from grammar: describes the physical/physiological phenomena outside th
 
 Classifying Sounds
 - egressive pulmonary sounds - begine with airflow from lungs
-	- airflow passes through the larynx and ca be modified by vocal cords in larynx
+	* airflow passes through the larynx and ca be modified by vocal cords in larynx
 
 larynx is dangerously close to esophogus opening
 - protected by epiglotties
