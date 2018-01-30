@@ -33,16 +33,16 @@ same reasons for delay in productivity
 ## Ecommerce is complex
 Advantages
 1. Reach: can reach more customers, over longer distances, at a lower cost, any time
-- lower customer acquisition cost
+	- lower customer acquisition cost
 2. Richness: higher quality and complexity of information delivered to customers at lower cost
-- e.g. multimedia, customized product descriptions and recommendations
-- lower information deliver cost
+	- e.g. multimedia, customized product descriptions and recommendations
+	- lower information deliver cost
 3. Interactivity: form a stronger relationship with your customers
-- receive information back from your customers such as orders, reviews, preferences, and recommendations
-- lower information collection cost
-- #1-3 myths of electronic commerce
-- valid potential advantages, but very difficult to utilize
-- success in any 3 is rare
+	- receive information back from your customers such as orders, reviews, preferences, and recommendations
+	- lower information collection cost
+	- #1-3 myths of electronic commerce
+	- valid potential advantages, but very difficult to utilize
+	- success in any 3 is rare
 4. Ubiquity
 5. Universal Standards
 6. Information Density
