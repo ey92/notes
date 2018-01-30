@@ -110,30 +110,32 @@ phonetics: consonants, vowels, melodies, rhythms
 
 ### 3 aspects:
 1\. _articulary phonetics_ - study of production of speech sounds
-	- which sounds are possible?
-	- which parts of the mouth are used?
-	- use x-rays, EM articulograph receptors, ultrasound
-	- palatography to observe tongue/roof of mouth contact, airflow, air pressure
+- which sounds are possible?
+- which parts of the mouth are used?
+- use x-rays, EM articulograph receptors, ultrasound
+- palatography to observe tongue/roof of mouth contact, airflow, air pressure
+
 2\. _acoustic phonetics_ - study of transmission and physical properties of speech sounds
-	- concerns characteristics of sounds produced by articulations
-	- use sound spectrograph
+- concerns characteristics of sounds produced by articulations
+- use sound spectrograph
+
 3\. _auditory phonetics_ - study of perception of speech sounds
-	- how humans perceive pronunciation
-	- observe human responses to stimuli
-	- use MRI and CT
-	- impressionistic phonetic transcription
-		- spelling is conventionalized to symbolize shared meaning, not pronunciation
-		- avoid ambiguity:
-			- each symbol should only represent on sound/phone & vice versa <c>
-			- if two sounds can distinguish one word from another <th>
-			- if two sounds very similar and difference comes from context, similarity should be represented <k> (_coarticulation_)
-		- English is bad:
-			- same sound is spelled using different letters
-			- sometimes same letter has different sounds
-			- sometimes single sound is spelled by combination of letters
-			- sometimes single letter represents combination of sounds
-			- sometimes letters don't represent any sound e.g. know, doubt, island
-		- must be consistent and unambiguous 1-to-1 correspondence between sounds and symbols
+- how humans perceive pronunciation
+- observe human responses to stimuli
+- use MRI and CT
+- impressionistic phonetic transcription
+	- spelling is conventionalized to symbolize shared meaning, not pronunciation
+	- avoid ambiguity:
+		- each symbol should only represent on sound/phone & vice versa <c>
+		- if two sounds can distinguish one word from another <th>
+		- if two sounds very similar and difference comes from context, similarity should be represented <k> (_coarticulation_)
+	- English is bad:
+		- same sound is spelled using different letters
+		- sometimes same letter has different sounds
+		- sometimes single sound is spelled by combination of letters
+		- sometimes single letter represents combination of sounds
+		- sometimes letters don't represent any sound e.g. know, doubt, island
+	- must be consistent and unambiguous 1-to-1 correspondence between sounds and symbols
 
 ### Types of Speech Sounds
 1. segments
