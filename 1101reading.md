@@ -44,31 +44,32 @@
 ## Design Features of Language (Hockett)
 - a set of 9 descriptive characteristics of language necessary for a communication system to be considered a language
 - all systems have first 3, only human have last 2
-1. mode of communication	e.g. voice, gestures
-2. semanticity
+1. _mode of communication_
+	- e.g. voice, gestures
+2. _semanticity_
 	- property of having signals that convey a meaning, shared by all communiation systems
 	- hear a word you don't know, assume it has meaning
-3. pragmatic function
+3. _pragmatic function_
 	- systems must serve useful purpose - help survival, influence others' behavior, exploring the world
-4. interchangeability
+4. _interchangeability_
 	- ability of individuals to both transmit and receive messages
-5. cultural transmission
+5. _cultural transmission_
 	- aspects of language that can only be acquired via communicative interaction with other users
-6. arbitrariness
+6. _arbitrariness_
 	- refers to the fact that a word's meaning is not predictable from its linguistic form nor its meaning
 	- nonarbitrariness: form represents meaning directly (iconic/picture-like)
 		- evidence: cross-linguistic comparisons
 		- onomatopoeia - a nonarbitrary aspect of language where the words imitate natural sounds or meaning is associated with nature
 		- sound symbolism - phenomenon where certain sounds are evocative of a particular meaning
-			e.g. 'small' have 'i' sound (teeny, wee, mikros);
+			e.g. 'small' have 'i' sound (teeny, wee, mikros); 
 				use high-pitched vowel because small objects give off high pitched sounds
 		- speakers well-aware of nonarbitrary aspects and often used in poetry for example
-7. discreteness
+7. _discreteness_
 	- property of language that allows discrete units to be combined into larger communicative units
 	- every language has limited number of sounds, but the ability to combine them in so many ways to express many ideas makes them useful
-8. displacement
+8. _displacement_
 	- the ability of a language to communicate about things, actions, and ideas that aren't present in space or time while speakers are communicating (or just things that don't exist)
-9. productivity
+9. _productivity_
 	- capacity of communication system for novel messages built out of discrete units to be produced and understood
 	- differs from discreteness in that the units can be recombined into new messages and still be understood
 	- understood because there are rules for how to put the sounds/morphemes/words together
@@ -142,7 +143,7 @@ phonetics: consonants, vowels, melodies, rhythms
 2. suprasegmentals
 
 consonants vs. vowels
-|   | consonants | vowels |
+| - | consonants | vowels |
 | - | ---------- | ------ |
 | articulary  | produce constriction in vocal tract to impede airflow | slight narrowing & allow air to flow freely
 | acoustically | usually less intense | usually more intense |
