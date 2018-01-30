@@ -47,6 +47,11 @@
 
 **constructed language** - a language that has been designed by an individual or group of individuals for some particular purpose, such as use in a fictional world or international communication, but did not originate as the native language of any speech community
 
+**modality** - mode of communication; tells us how the language is produced and how it is perceived
+- **auditory-vocal**/**aural-vocal**/**spoken languages** - perceived via hearing & produced via speech
+- **visual-gestural**/**signed languages** - perceived visually and produced via hand and arm movements, facial expressions, and head movements
+
+**code** - an artificially constructed system for representing a natural language; borrows its structure from the natural language it represents; doesn't have native speakers e.g. Morse code
 
 ## 3 Types of Grammar:
 1) _mental grammar_
@@ -127,3 +132,27 @@ languages have all 9 parts, but does having them mke a communication system a la
 - formal languages aren't natural languages
 - constructed languages have te potential to become natural languages if learned by native speakers and adopted by speech community (e.g. modern hebrew)
 - must be learnable
+
+## Language Modality
+- _auditory-vocal/aural-oral/spoken languages_
+	- misconception that language is inseparable from speech comes from interchanging terms speech and language
+- _visual-gestural/signed languages_
+	- usually used by those with hearing difficulties
+	- an be acquired as a first language
+	- other than modality, similar to spoken languages in every other way
+	- misconceptions:
+		- 1\. _signed language_ vs. _manual codes_: signed languages are NOT derived from spoken languages and evolve naturally and independently of spoken languages
+			- British Sign Language & American Sign Language are unrelated
+			- manual codes for spoken languages exist
+			- true languages are more efficient than signed codes
+		- 2\. _signed language_ vs. _pantomime_: false impression that signers draw pictures in air or act out the meaning
+			- 2 misconceptions:
+			- a\. signed languages don't have internal structure but governed by the same sorts of phonological, morphological, syntactic rules that govern spoken languages
+			- b\. signed language words are completely iconic; if true, no need to learn
+			- association signs to meanings are still arbitrary (even if iconic when introduced, evolved to become more arbitrary)
+			- pantomime idea would restrict signed language from being able to communicate about abstract concepts
+		- 3\. _universality of signed languages_ - there is NOT only one signed language
+			- may come from the idea of the pantomime myth, where iconicity would lend itself to universality
+	- when large enough proportion of a population is deaf, the rest are fluent in signing
+	- hard to represent in 2D
+- studying different modalities allow linguists to observe things such as minimum pause length in spoken language but no minimum pause in signed language

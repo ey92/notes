@@ -14,7 +14,6 @@ What is civilization?
 
 
 ## 26/1 Controlling the Past/Archaeology, History, Colonialism, and Magic Meet in Egypt
----
 Auguste Mariette (Fr)
 - 1850
 - Louvre purchaser
@@ -38,7 +37,6 @@ colonial powers try to amass collections
 	* cofirmation of Bible/other texts
 
 ## 29/1 Steps to Egyptology/ Exploring, Collecting
----
 ### Archaeology
 - less colonial now - cooperative/joint projects
 - local population has more say
