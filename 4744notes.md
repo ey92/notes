@@ -14,8 +14,8 @@
 | print random-words | |
 | print net | displays states and outgoing paths |
 
-| --- | -------------- |
 | Ss0 | starting state |
+| --- | -------------- |
 | s1 | state |
 | fs3 | potential final state |
 
