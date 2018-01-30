@@ -214,24 +214,45 @@ consonants vs. vowels
 
 ## Ch. 2 Phonetics
 **phonetics** - study of minimal units that make up language
+
 **articulary phonetics** - study of production of speech sounds
+
 **acoustic phonetics** - study of transmission and physical properties of speech sounds
+
 **auditory phonetics** - study of perception of speech sounds
+
 **palatography** - experimental method that shows the contact between the tongue and the roof of the mouth
+
 **sound spectrograph** - equipment that generates spectrograms from speech input
+
 **spectrogram** - a 3D representation of sound: time x frequency x amplitude
+
 **impressionistic phonetic transcription** - a method of writing down speech sounds with the intent of capturing how they are pronounced; usually based simply on how the sounds are perceived when heard without any special analysis
+
 **coarticulation** - the adjustment of articulation of a segment due to the influence of a neighboring sound(s)
+
 **segments** - discrete units of speech stream and can be further divided into consonants, transcribed with discrete symbols
+
 **segmental feature** - a phonetic characteristic of speech sounds, such as voicing, place of articulation, rounding, etc.
+
 **suprasegmental feature** - a phonetic characteristic of speech sounds, such as lenght, intonation, tone, or stress that "rides on top of" segmental features; usually identified by comparison to same feature on other sounds or strings of sounds
+
 **consonant** - speech sound produced with constriction somewhere in the vocal tract that impedes airflow
+
 **vowel** - speech sound produced with at most only a slight narrowing somewhere in the vocal tract, allowing air to flow freely through the oral cavity
+
 **monophthong** - a simple vowel, composed of a single configuration of vocal organs
+
 **diphthong** - a complex vowel, composed of a sequence of two different configurations of the vocal organs
+
 **syllable** - a unit of speech, made up of an onset and rhyme
+
 **onset** - any consonant that occurs before the rhyme
+
 **rhyme** - in a syllable, the vowel and any consonants that follow it
+
 **nucleus** - vocalic part of rhyme; core element of a syllable, carrying stress, length, and pitch/tone; usually vowel or syllabic consonant (m,n,l,r)
+
 **coda** - in a syllable, any consonant(s) that occur in the rhyme, after the nucleus
+
 **running speech/continuous speech** - the usual form of spoken language, with all the words and phrases run together, without pauses in between them
