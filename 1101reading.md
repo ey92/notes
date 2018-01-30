@@ -182,6 +182,7 @@ _pulmonic egressive airstream mechanism_ - speech formed when exhaling
 
 #### 2. Place of Articulation
 place in vocal tract where airflow is constricted
+
 | type | description | example |
 | ---- | ----------- | ------- |
 | **bilabial** | bring both lips close together | [p] pat <br> [b] bat <br> [m] mat <br> [w] with <br> [w̥] where (for some) |
@@ -202,6 +203,7 @@ how the airstream is constricted or modified in the vocal tract to produce the s
 - depends on degree of closure of articulators
 - _stops_/_plosives_ completely obstruct airstream in oral cavity
 - glottal stop occurs in larynx, not oral cavity
+
 | type | description | example |
 | ---- | ----------- | ------- |
 | **fricatives** | form nearly complete obstruction in vocal tract, noise called _frication_ | [f] <br> [v] <br> [θ] <br> [ð] <br> [s] <br> [z] <br> [ʒ] <br> [h] |
