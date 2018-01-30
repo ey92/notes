@@ -251,6 +251,7 @@ English Consonant Chart
 - focus on monophthongs
 
 English Vowel (Monophthong) Chart
+
 ![English Vowel (Monophthong) Chart](https://github.com/ey92/notes/blob/master/english-vowel-chart.gif)
 
 #### 1. Tongue Height
@@ -288,6 +289,7 @@ most unstressed vowels pronounced as [ə]
 	- [ɑɪ] buy; [ɔɪ] boy; [oʊ] bow (performance); [eɪ] bay
 
 English Vowel (Diphthong) Chart
+
 ![English Vowel (Diphthong) Chart](https://github.com/ey92/notes/blob/master/english-vowel-diphthong-chart.png)
 
 articulations best observed via imaging - X-ray, MRI, EMA, Ultrasound
