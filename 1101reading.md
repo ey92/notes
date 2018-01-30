@@ -250,7 +250,7 @@ English Consonant Chart
 		- making movements with tense or lax gestures
 - focus on monophthongs
 
-English Vowel (Monophthong) Chart
+#### English Vowel (Monophthong) Chart
 
 ![English Vowel (Monophthong) Chart](https://github.com/ey92/notes/blob/master/english-vowel-chart.gif)
 
@@ -288,7 +288,7 @@ most unstressed vowels pronounced as [ə]
 - diphthongs complex 2-part sounds, transition from one vowel to another in the same syllable
 	- [ɑɪ] buy; [ɔɪ] boy; [oʊ] bow (performance); [eɪ] bay
 
-English Vowel (Diphthong) Chart
+#### English Vowel (Diphthong) Chart
 
 ![English Vowel (Diphthong) Chart](https://github.com/ey92/notes/blob/master/english-vowel-diphthong-chart.png)
 
