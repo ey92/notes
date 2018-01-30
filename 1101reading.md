@@ -143,6 +143,7 @@ phonetics: consonants, vowels, melodies, rhythms
 2. suprasegmentals
 
 consonants vs. vowels
+
 | - | consonants | vowels |
 | - | ---------- | ------ |
 | articulary  | produce constriction in vocal tract to impede airflow | slight narrowing & allow air to flow freely
