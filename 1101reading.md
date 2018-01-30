@@ -235,7 +235,62 @@ observing place and manner of articulation: **palatography** - picture where ton
 - description typically voicing-place-manner
 
 English Consonant Chart
-![English Consonant Chart](https://github.com/ey92/notes/english-consonant-chart.gif)
+![English Consonant Chart](https://github.com/ey92/notes/blob/master/english-consonant-chart.gif)
+
+### Vowel Articulation
+---
+- consonants that surround vowels depend on it for audibility
+- produced with open vocal tract, no place or manner of articulation (constriction), always voiced
+- _low_ & _high_ vowels
+- sound source is in vocal fold vibration, vocal tract acts as acoustic resonator, affecting quality of vowel
+	- 4 main ways to change shape of vocal tract:
+		- raising/lowering body of tongue
+		- advancing/retracting body of tongue
+		- rounding/not rounding lips
+		- making movements with tense or lax gestures
+- focus on monophthongs
+
+English Vowel (Monophthong) Chart
+![English Vowel (Monophthong) Chart](https://github.com/ey92/notes/blob/master/english-vowel-chart.gif)
+
+#### 1. Tongue Height
+| height | description | vowels |
+| ------ | ----------- | ------ |
+| high | raised tongue, front of mouth less open | [i] leak <br> [ɪ] lick <br> [u] Luke <br> [ʊ] look |
+| mid | intermediate tongue height | [ɛ] bet <br> [ᴧ] but <br> [ɔ] bought <br> [ə] above |
+| low | tongue lowered, front of mouth open | [æ] cat < br> [ɑ] cot |
+
+most unstressed vowels pronounced as [ə] 
+
+#### 2. Tongue Advancement
+| place | description | vowels |
+| ----- | ----------- | ------ |
+| front | tongue raised & pushed forward under hard palate | [i] seek <br> [ɪ] sick <br> [ɛ] sec <br> [æ] sack |
+| central | no tongue advancement or retraction | [ᴧ] luck <br> [ə] another |
+| back | tongue raised in back of mouth toward velum | [u] ooze <br> [ʊ] look <br> [ɔ] draw <br> [ɑ] dot |
+
+#### 3. Lip Rounding
+| | description | vowels |
+| - | ----------- | ------ |
+| rounded | lips are rounded | [u] loop <br> [ʊ] foot <br> [ɔ] paw |
+| unrounded | lips are spread | [i] leak <br> [ɪ] lick <br> [ɛ] bet <br> [ᴧ] but <br> [ə] above <br> [æ] cat <br> [ɑ] cot |
+
+#### 4. Tenseness
+**tense** vowels have more extreme positions of tongue/lips than **lax vowels**
+- more extreme tongue gestures from mid-central position to reach periphery of possible _vowel space_
+
+| | |
+| - | - |
+| tense | [i] leak; [u] loop |
+| lax | [ɪ] lick; [ʊ] foot; [ɛ] bet; [ᴧ] but; [ə] above; [ɔ] paw; [æ] cat; [ɑ] cot |
+
+- diphthongs complex 2-part sounds, transition from one vowel to another in the same syllable
+	- [ɑɪ] buy; [ɔɪ] boy; [oʊ] bow (performance); [eɪ] bay
+
+English Vowel (Diphthong) Chart
+![English Vowel (Diphthong) Chart](https://github.com/ey92/notes/blob/master/english-vowel-diphthong-chart.png)
+
+articulations best observed via imaging - X-ray, MRI, EMA, Ultrasound
 
 ---
 # Vocab
@@ -320,7 +375,7 @@ English Consonant Chart
 
 **segmental feature** - a phonetic characteristic of speech sounds, such as voicing, place of articulation, rounding, etc.
 
-**suprasegmental feature** - a phonetic characteristic of speech sounds, such as lenght, intonation, tone, or stress that "rides on top of" segmental features; usually identified by comparison to same feature on other sounds or strings of sounds
+**suprasegmental feature** - a phonetic characteristic of speech sounds, such as length, intonation, tone, or stress that "rides on top of" segmental features; usually identified by comparison to same feature on other sounds or strings of sounds
 
 **consonant** - speech sound produced with constriction somewhere in the vocal tract that impedes airflow
 
@@ -385,3 +440,13 @@ English Consonant Chart
 **palatography** - experimental method that shows the contact between the tongue and the roof of the mouth; static or dynamic
 
 **static palatography** - experimental method that displays contact resulting from a single articulatory gesture between the gesture and the hard palate
+
+**low vowel** - articulation where tongue is held in relatively low area of oral cavity
+
+**high vowel** - articulation where tongue is held in relatively high area of oral cavity
+
+**tense vowel** - vowel that has more peripheral position in vowel space
+
+**lax vowel** - vowel that has less peripheral position in vowel space
+
+**vowel space** - range of possible vowel sounds of a language from the high front vowel to the high back vower; languages and dialects don't exploit all possibilities
