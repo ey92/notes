@@ -44,10 +44,36 @@ Advantages
 	- valid potential advantages, but very difficult to utilize
 	- success in any 3 is rare
 4. Ubiquity
+	- consumers expend extra effort to reach traditional marketplace
+	- marketspace is removed from temporal or geographic location
+	- reduces transaction costs - cost of participating in market
+	- reduces cognitive energy/mental effort to shop
 5. Universal Standards
+	- technical standards are universal
+	- traditional commerce technology differs in each country
+	- lower market entry costs (selling products)
+	- lower search costs (finding products)
+	- _price discovery_ faster, more accurate, easy to compare
 6. Information Density
+	- ecommerce tech reduces cost of
+		- information collection
+		- information storage
+		- information processing
+		- communication
+	- increase currency, accuracy, timeliness of information
+	- information is plentiful, cheaper, higher quality
+	- price transparency, cost transparency
+	- merchants can segment market, allowing for
+		- price discrimination
+		- cater to consumer preferences
 7. Personalization/Customization
+	- _customization_ - changing the delivered product or service based on a user's preferences or prior behavior
+		- past purchases
+		- browsing history
 8. Social Technology
+	- many-to-many model of mass communications
+	- create, edit, and distribute content
+	- social shopping and reputation
 
 ## Amazon
 - successful in advantages 1-3
