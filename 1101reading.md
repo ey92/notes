@@ -109,6 +109,7 @@ languages have all 9 parts, but does having them mke a communication system a la
 phonetics: consonants, vowels, melodies, rhythms
 - figuring out which sounds are possible is critical
 
+## Representing Speech Sounds
 ### 3 aspects:
 1\. _articulary phonetics_ - study of production of speech sounds
 - which sounds are possible?
@@ -139,8 +140,8 @@ phonetics: consonants, vowels, melodies, rhythms
 	- must be consistent and unambiguous 1-to-1 correspondence between sounds and symbols
 
 ### Types of Speech Sounds
-1. segments
-2. suprasegmentals
+1. _segments_
+2. _suprasegmentals_
 
 consonants vs. vowels
 
@@ -157,6 +158,72 @@ consonants vs. vowels
 
 - _running speech_/_continuous speech_: we speak on a daily basis with words, phrases, sentences, run together
 - pronunciation of words may be affected by surrounding words
+
+## Articulation
+focus on segmental features:
+- voiced or voiceless?
+- where is airstream constricted?
+- how is airstream constricted?
+
+3 components of human anatomy for speech production:
+- larynx/voice box
+- vocal tract
+- subglottal system
+
+_pulmonic egressive airstream mechanism_ - speech formed when exhaling
+
+### Consonant Articulation
+---
+#### 1. Voicing
+- _voiced sounds_ are created when the vocal cords vibrate; _voiceless sounds_ are created when the vocal cords don't vibrate
+- vocal folds also don't vibrate in whispering
+- observe _spectrogram_ & _voicing bar_
+- view vocal folds directly with tiny camera
+
+#### 2. Place of Articulation
+place in vocal tract where airflow is constricted
+| type | description | example |
+| ---- | ----------- | ------- |
+| **bilabial** | bring both lips close together | [p] pat <br> [b] bat <br> [m] mat <br> [w] with <br> [w̥] where (for some) |
+| **labiodental** | lower lip against upper front teeth | [f] fat | [v] vat |
+|**interdentals** | tip of tongue protruding between front teeth | [θ] thigh <br> [ð] thy |
+| **alveolar** | tongue tip at or near front of upper _alveolar ridge_ | [t] tab <br> [d] dab <br> [s] sip <br> [z] zip <br> [n] noose <br> [ɾ] atom <br> [l] loose <br> [ɹ] red |
+| **post-alveolar** | front of tongue just behind _alveolar ridge_, front of _hard palate_ | [ʃ] leash <br> [ʒ] measure <br> [ʧ] church <br> [ʤ] judge |
+| **palatal** | body of tongue near center of _hard palate_ | [j] yes |
+| **velar** | produced at _velum_ | [k] kill <br> [ɡ] gill <br> [ŋ] sing |
+| **glottal** | produced when air constricted at larynx | [h] high <br> [ʔ] glottal stop between vowels or middle of words (cotton) |
+
+_alveolar ridge_ - bony ridges of upper and lower jaws that contain sockets for teeth
+_hard palate_ - hard portion of roof of mouth
+_velum_/_soft palate_ - soft part of roof of mouth behind hard palate
+
+#### 3. Manner of Articulation
+how the airstream is constricted or modified in the vocal tract to produce the sound
+- depends on degree of closure of articulators
+- _stops_/_plosives_ completely obstruct airstream in oral cavity
+- glottal stop occurs in larynx, not oral cavity
+| type | description | example |
+| ---- | ----------- | ------- |
+| **fricatives** | form nearly complete obstruction in vocal tract, noise called _frication_ | [f] <br> [v] <br> [θ] <br> [ð] <br> [s] <br> [z] <br> [ʒ] <br> [h] |
+| **affricates** | briefly stop airstream completely and then slightly releasing articulators to produce frication <ul><li>begin with stop and end with fricative</li></ul> | [ʧ] <br> [ʤ] |
+| **nasals** | relax and lower velum, opening nasal passage to vocal tract | 'nasal stops' <br> [m] <br> [n] <br> [ŋ] |
+| **approximants** | constrict vocal tract but not narrow enough to block vocal tract or cause turbulence; includes _liquids_ and _glides_ | |
+|**liquids** | formed with slightly more constriction than glides; quality changes depending on where in word, usually voiced in English | [l] <br> [ɹ] (commonly _retroflex_)|
+| **glides** | slight closure of articulators, close to vowel sounds; require some gliding of articulators during production | [w] <br> [w̥] <br> [j] |
+| **flap**/tap | complete obstruction of oral cavity, but faster closure than a stop | [ɾ] <br> ('ladder' 'writer') |
+
+[ɹ]: voiced, alveolar <br>
+_retroflex_ - curling tip of tongue behind alveolar ridge
+
+[w]: voiced, labial-velar glide
+[w̥]: voiceless
+
+- _syllabic consonants_: nasals and liquids can act as syllable nuclei
+	- indicated by placing short vertical line below phonetic symbol
+	- e.g.  [m̩], [l̩], [ɹ̩]
+
+observing place and manner of articulation:
+- **palatography** - picture where tongue touches roof of mouth during articulation
 
 ---
 # Vocab
@@ -231,6 +298,8 @@ consonants vs. vowels
 
 **spectrogram** - a 3D representation of sound: time x frequency x amplitude
 
+**voice bar** - dark band at the bottom of a spectrogram that indicates a sound is voiced
+
 **impressionistic phonetic transcription** - a method of writing down speech sounds with the intent of capturing how they are pronounced; usually based simply on how the sounds are perceived when heard without any special analysis
 
 **coarticulation** - the adjustment of articulation of a segment due to the influence of a neighboring sound(s)
@@ -260,3 +329,43 @@ consonants vs. vowels
 **coda** - in a syllable, any consonant(s) that occur in the rhyme, after the nucleus
 
 **running speech/continuous speech** - the usual form of spoken language, with all the words and phrases run together, without pauses in between them
+
+**articulary description** - description of motion or positioning of parts of the vocal tract that are responsible for the production of a speech sound for an auditory-vocal language
+
+**articulation** - the motion or positioning of some part of the vocal tract, often muscular part e.g. tongue or lips, with respect to some other surface of the vocal tract in the production of a speech sound
+
+**articulary gesture** - a movement of a speech organ in the production of speech e.g. movement of the velum for nasal consonant
+
+**larynx** - aka voice box; cartilage and muscle located at top of trachea, containing vocal cords and glottis
+
+**vocal tract** - air passage above larynx, including pharyx, oral cavity, nasal cavity
+
+**subglottal system** - part of respiratory system below larynx
+
+**pulmonic egressive airstream mechanism** - airstream mechanism that produces speech sounds by modifying the stream of air forced out of the lungs and passed through the oral and/or nasal cavities
+
+**airstream mechanism** - any of the various ways to produce a stream of moving air through the vocal tract for the production of speech sounds e.g. pulmonic/glottalic/velar, egressive/ingressive
+
+**trachea** - windpipe, tube between larynx and lungs
+
+**vocal cords**/**vocal folds** - folds of muscle in larynx responsible for creating voiced sounds when they  vibrate
+
+**glottis** - opening between vocal folds of larynx
+
+**voicing** - vibration of the 'approximated' vocal fold (ends brought together) caused by air passing through them
+
+**voiced** sounds - sounds made with vocal folds vibrating
+
+**voiceless** sounds - sounds made with without vocal folds vibrating
+
+**place of articulation** - where in the vocal tract airflow is constricted
+
+**sagittal section** - cross section fo the human head, designed to show a side view of vocal anatomy
+
+**alveolar ridge** - bony ridges of upper and lower jaws that contain sockets for teeth
+
+**hard palate** - hard portion of roof of mouth
+
+**velum**/**soft palate** - soft part of roof of mouth behind hard palate
+
+**manner of articulation** - how the airstream is constricted or modified in the vocal tract to produce the sound
