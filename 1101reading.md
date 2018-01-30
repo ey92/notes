@@ -144,7 +144,7 @@ phonetics: consonants, vowels, melodies, rhythms
 
 consonants vs. vowels
 
-| - | consonants | vowels |
+|  | consonants | vowels |
 | - | ---------- | ------ |
 | articulary  | produce constriction in vocal tract to impede airflow | slight narrowing & allow air to flow freely
 | acoustically | usually less intense | usually more intense |
