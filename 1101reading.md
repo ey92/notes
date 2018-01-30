@@ -210,8 +210,8 @@ how the airstream is constricted or modified in the vocal tract to produce the s
 | **affricates** | briefly stop airstream completely and then slightly releasing articulators to produce frication <ul><li>begin with stop and end with fricative</li></ul> | [ʧ] <br> [ʤ] |
 | **nasals** | relax and lower velum, opening nasal passage to vocal tract | 'nasal stops' <br> [m] <br> [n] <br> [ŋ] |
 | **approximants** | constrict vocal tract but not narrow enough to block vocal tract or cause turbulence; includes _liquids_ and _glides_ | |
-|**liquids** | formed with slightly more constriction than glides; quality changes depending on where in word, usually voiced in English | [l] <br> [ɹ] (commonly _retroflex_)|
-| **glides** | slight closure of articulators, close to vowel sounds; require some gliding of articulators during production | [w] <br> [w̥] <br> [j] |
+| <ul><li>**liquids**</li></ul> | formed with slightly more constriction than glides; quality changes depending on where in word, usually voiced in English | [l] <br> [ɹ] (commonly _retroflex_)|
+| <ul><li>**glides**</li></ul> | slight closure of articulators, close to vowel sounds; require some gliding of articulators during production | [w] <br> [w̥] <br> [j] |
 | **flap**/tap | complete obstruction of oral cavity, but faster closure than a stop | [ɾ] <br> ('ladder' 'writer') |
 
 [ɹ]: voiced, alveolar <br>
@@ -224,8 +224,18 @@ _retroflex_ - curling tip of tongue behind alveolar ridge
 	- indicated by placing short vertical line below phonetic symbol
 	- e.g.  [m̩], [l̩], [ɹ̩]
 
-observing place and manner of articulation:
-- **palatography** - picture where tongue touches roof of mouth during articulation
+observing place and manner of articulation: **palatography** - picture where tongue touches roof of mouth during articulation
+- _static palatography_: paint tongue black with mixture of olive oil and charcoal poweder
+	- tongue leaves black trace wherever touched to make constriction when sound produced
+	- only words if speaker produces single isolated sound and contact pattern photographed or examined immediately
+- _dynamic palatography_: points of contact directly recorded on computer via artificial hard palate
+	- can record sequences of contacts over course of an utterance
+	- know place and duration of contact
+	- hard to observe contact for soft palate region/velar consonants
+- description typically voicing-place-manner
+
+English Consonant Chart
+![English Consonant Chart](https://github.com/ey92/notes/english-consonant-chart.gif)
 
 ---
 # Vocab
@@ -371,3 +381,7 @@ observing place and manner of articulation:
 **velum**/**soft palate** - soft part of roof of mouth behind hard palate
 
 **manner of articulation** - how the airstream is constricted or modified in the vocal tract to produce the sound
+
+**palatography** - experimental method that shows the contact between the tongue and the roof of the mouth; static or dynamic
+
+**static palatography** - experimental method that displays contact resulting from a single articulatory gesture between the gesture and the hard palate
