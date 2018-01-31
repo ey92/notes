@@ -69,7 +69,8 @@ languages are learnable
 - physical position in mouth
 
 **acoustic phonetics** - concerned with physical analysis of the speech sound
-- spectrogram (waveform) time x frequency
+- _sound spectrogram_ (waveform) time x frequency
+- _formant_ - uniform band of relativeley great intensity in the sound specturm over a particular frequency range
 
 **perceptual phonetics** - concerned with the mechanisms of speech perception in the ear and the brain
 - physical distrubances of air vibrating ear
@@ -80,7 +81,7 @@ separate from grammar: describes the physical/physiological phenomena outside th
 ### Consonants & Vowels
 **consonants** involve some degree of obstruction of airflow
 - **stop consonants** completely cut off airflow (hear consonant when air is released): t,g,b,p,m
-	* on spectrogram: blank/gap
+	* on spectrogram: blank/d
 - **fricative consonants** restrict airflow enough to create turbulence: f,v,th
 
 Classifying Sounds
@@ -96,3 +97,30 @@ voicing
 - **voiced sounds** - sounds articulated with vocal cords
 - **whispering**: holding back part of vocal cords apart
 - **glottal stops** - created by momentarily closingthe vocal cords
+
+#### Articulatory Phonetics
+- stop
+- fricative
+- affricate
+- voice (glottal gesture & vocal folds)
+
+glottal stops
+- not written in English, implied by phonology of words
+- glottal fricative: [h]
+- not possible to voice glottal stops
+
+vowels are normally voicedconsonants may or may not be voiced
+
+voiced sounds can be made loud or soft, or sung
+
+Voice Onset Time
+-if voicing coincides with the release of the consonant, consonant is voiceless
+-_voiceless aspirated stops_
+	- sometimes, voicing is delayed after the consonant is released, while vocal records are apart
+	- shows up as friction on spectrogram
+
+advanced voice onset 	/d/
+coincident voice onset 	/t/ 		only occurs after fricatives
+delayed voice onset 	/t^h/ 		doesn't occur after fricatives
+
+nasal soound: velum is lowered

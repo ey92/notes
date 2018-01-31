@@ -120,6 +120,7 @@ phonetics: consonants, vowels, melodies, rhythms
 2\. _acoustic phonetics_ - study of transmission and physical properties of speech sounds
 - concerns characteristics of sounds produced by articulations
 - use sound spectrograph
+	- _formant_ - uniform band of relativeley great intensity in the sound specturm over a particular frequency range
 
 3\. _auditory phonetics_ - study of perception of speech sounds
 - how humans perceive pronunciation
@@ -201,11 +202,11 @@ _velum_/_soft palate_ - soft part of roof of mouth behind hard palate
 #### 3. Manner of Articulation
 how the airstream is constricted or modified in the vocal tract to produce the sound
 - depends on degree of closure of articulators
-- _stops_/_plosives_ completely obstruct airstream in oral cavity
 - glottal stop occurs in larynx, not oral cavity
 
 | type | description | example |
 | ---- | ----------- | ------- |
+| **stops**/**plosives** | completely obstruct airstream in oral cavity | [p] <br> [b] <br> [t] <br> [d] <br> [k] <br> [g] <br> [m] <br> [n] <br> [ʔ] |
 | **fricatives** | form nearly complete obstruction in vocal tract, noise called _frication_ | [f] <br> [v] <br> [θ] <br> [ð] <br> [s] <br> [z] <br> [ʒ] <br> [h] |
 | **affricates** | briefly stop airstream completely and then slightly releasing articulators to produce frication <ul><li>begin with stop and end with fricative</li></ul> | [ʧ] <br> [ʤ] |
 | **nasals** | relax and lower velum, opening nasal passage to vocal tract | 'nasal stops' <br> [m] <br> [n] <br> [ŋ] |
@@ -219,6 +220,18 @@ _retroflex_ - curling tip of tongue behind alveolar ridge
 
 [w]: voiced, labial-velar glide
 [w̥]: voiceless
+
+---
+4.
+5. degree/type of obstruction
+- stops
+- flaps
+- trills
+- fricatives/spirants
+- affricates
+- liquids
+- semivowels
+---
 
 - _syllabic consonants_: nasals and liquids can act as syllable nuclei
 	- indicated by placing short vertical line below phonetic symbol
@@ -235,6 +248,7 @@ observing place and manner of articulation: **palatography** - picture where ton
 - description typically voicing-place-manner
 
 English Consonant Chart
+
 ![English Consonant Chart](https://github.com/ey92/notes/blob/master/english-consonant-chart.gif)
 
 ### Vowel Articulation
