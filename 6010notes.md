@@ -178,8 +178,8 @@ Asynchronous Education is even cheaper
 
 | | benefits |
 | - | - |
-asynchronous | anywhere/anytime/anyplace |
-synchronous | interaction |
+| asynchronous | anywhere/anytime/anyplace |
+| synchronous | interaction |
 
 Low Quality as a Competitive Strategy
 - in technology business, lower quality and cheaper competition is a concern
