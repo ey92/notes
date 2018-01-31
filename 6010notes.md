@@ -127,3 +127,92 @@ Questions:
 - What does IT do for managers and intermediaries?
 - How can they adapt the technology to create a better fit for the organization?
 - How do managers and intermediaries change themselves to take advantage of the technologies optimally?
+
+
+# Communication
+- communication technologies provide simple examples for several complex concepts
+	-tool-taks  fit, business processs reengineering
+		* webcasting and conferencing: consulting, education
+	- impact of IT on management
+		* doc sharing, coordination
+	- impact of IT on intermediaries
+
+## classification
+- criteria: mode, content, scope
+| _mode_ | example |
+| - | - |
+| synchronous | call |
+| asynchronous | email (stored for your convenience) |
+
+_content_
+- text, graphics, audio, video
+
+| _scope_ | example |
+| - | - |
+| 1:1 | call, mail |
+| 1:many | lecture, books/publications, web pages |
+| many:1 | web transactions, mailboxes |
+| many:many | group meetings |
+
+1:M synchronous with audio-video/broadcasting
+- loudspeaker -> charismatic dictators (publci speakers)
+- live TV -> looks/image
+- Twitter -> short slogans
+- _medium is the message_ - medium distorts the message
+- same type of technology can result in different outcomes: charismatic dictators vs arab spring
+	* -> ownership of technology is critical to impact
+- cost:
+	* synchronous tv broadcast expensive
+	* webcasting drastically reduced cost
+
+Drop in cost of technology often creates entrepreneurial opportunities
+	- parentwatch.com webcasting daycare, samething for pets
+	- education: distant learning
+
+Asynchronous Education is even cheaper
+- change education system to take advantage
+- massive open online courses (MOOCs)
+- _intelligent books_
+- online education generally considered loewr quality
+	- -> threatens lower level universities, but elitist universities may remain unaffected
+
+| | benefits |
+| - | - |
+asynchronous | anywhere/anytime/anyplace |
+synchronous | interaction |
+
+Low Quality as a Competitive Strategy
+- in technology business, lower quality and cheaper competition is a concern
+	* with technologies that improve over time, low quality technologies can upgrade to mainstream, and high quality technologies become extravagant
+- everyone's technology improves -> eventually the cheap option becomes good enough
+	- high quality product may become less desirable, even at the same price
+	- user experience - simple is better
+- _disruptive technologies_ - often ignored by dominant firms as unprofitable
+	- entry strategy, avoid competitive reaction, and slowly expand
+- online education fits the model
+- potential strategies to address these new entrants: ignore, buy out, direct competition
+
+Optimum Design of Online Courses
+- likely to become more of a production
+- combination of synchronous & asynchronous
+- parallel: music
+- improvements: more interactivity, personal customization
+
+Groupware and Consulting
+- conerestone systems consulting co.: custom business software
+-teams and client meetings via Cisco's Webex Conferencing
+	- save time and money
+	- place yourself closer to complex information and further from simpler information
+- video not the most critical part; screensharing/document sharing extremely important
+- _synchronous document sharing_: simultaneous viewing and editing of document by multiple users
+
+Workflow Systems
+- sequential document sharing, not synchronous, nor asynchronous
+- automate supervision and control, electronically move documents & issue warnings
+- e.g. paperwork
+
+Managerial Implication of Control and Monitoring Tools
+- use employee control and monitoring tools with care
+- there is an optimum level of control to exercise
+	- too little: no work done
+	- too much: treating employees as robots doesn't take advantage of their skills
