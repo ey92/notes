@@ -85,3 +85,17 @@ repurchase stock
 bank overdraft
 	very high interest
 	basically, dont run out of cash
+
+5 major elements of strategy
+economic logic: how do you get returns?
+arenas: which products and market segements
+differentiators: customer value proposition
+vehicles: organic growth
+speed and sequence of moves
+
+drop lots of research into SPI
+low price on WPI
+
+SG&A selling general and administration (expense) = sales reps
+demand: price, brand awareness, innovation
+sales reps is not cumulative
