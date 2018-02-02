@@ -139,4 +139,67 @@ colonial powers try to amass collections
         | Akhet | Jun - Oct | flood |
         | Peret | Oct - Feb | growing |
         | Schemu | Feb - Jun | harvest/drought |
-- Nile water comes fron monsoons in Indian ocean, trapped in mountains of Eritrea and Ethiopia
+- **Nile water comes fron summer monsoons in Indian ocean, trapped in mountains of Eritrea and Ethiopia
+
+### **Nile geography
+- 4180 miles
+- delta
+    - Rosetta branch
+    - Damietta branch
+- Faiyum - oasis with wildlife
+- cataracts
+    - Aswan at 1st cataract, more cataracts upstream
+    - 5th cataract at border with kush
+- Tributaries
+    - Atbara river, Blue Nile bring fertile silt
+        - blue nile branch off at Khartoum, sourced from Lake Tana
+    - White Nile privdes majority of the water
+        - white nile sourced from Lake Victoria
+
+### Egyptians called themselves
+- "Egypt" name from greeks
+- "The Two Lands"
+    * 1\. Lower Egypt (Delta, Faiyum), wide marshy flat
+    * 2\. Upper Egypt, narrow valley, floodplain
+        - Aswan steep sandstone cliffs, narrow floodplain
+    - double crown/shmty
+- Kemet(KMT) "Black Land"/ Deshret (DSRT) "Red Land"
+    - eastern and western deserts
+        - east is mineral (gold, copper) rich, includes Sinai
+        -west is water rich - oases (Faiyum), provide an alternative travel route via desert
+    - convention to put 'e' between short consonants
+- Orientation
+    - East/West, relative to the sun or river banks
+    - North/South, the Nile's current
+
+| Upper Egypt | Lower Egypt |
+| ----------- | ----------- |
+| white crown/hedjet | red crown/deshret|
+| lotus | papyrus |
+| vulture | cobra |
+
+### Natural Borders
+A. Mediterranean Sea
+B. Red Sea
+C. Nile Delta
+D. Faiyum
+E. First Cataract/Aswan/Southern Border/Lake Nassar
+F. Western Desert
+G. Eastern Desert
+H. Sinai
+
+Materials
+- mud for bricks, bakes in sun & used in everyday residential architecture
+    - doesn't last, archaeological remains imbalanced towards stone structures
+- red granaite, near Aswan
+- limestone near Giza
+- sandstone everywhere
+- tombs, temples, monumental architecture
+- semiprecious minerals for decorations: turquoise, carnelian, amethyst, cupric oxide (azorite & malacite)
+- flax for linen
+- papyrus: add water, sun, pressure (beat layers together) = paper
+    - reeds: build buildings, columns, boats
+- timber, indigenous (short, hard)
+    - tamarisk, acacia, sycamore
+- import long timbers
+    - cedar from Lebanon, aromatic, soft/carvable, rot-resistant
