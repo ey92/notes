@@ -65,3 +65,10 @@ verb.u (upper)
 define verb VerbUpper.o. eElision .o. symbolElision
 
 irregular verbs must be defined
+
+caron
+
+Nstem = [
+	[ POND .x. {prud}] |
+	[COLOR .x. {cvet}]
+];

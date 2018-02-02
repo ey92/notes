@@ -83,6 +83,9 @@ separate from grammar: describes the physical/physiological phenomena outside th
 - **stop consonants** completely cut off airflow (hear consonant when air is released): t,g,b,p,m
 	* on spectrogram: blank/d
 - **fricative consonants** restrict airflow enough to create turbulence: f,v,th
+**vowels** do not obstruct airflow but more concerned about the shape of the mouth
+
+_semivowels_ /j/ /w/ phonetically (articulatorily and acousitcally) vowels /ɪ/ /ʊ/
 
 Classifying Sounds
 - egressive pulmonary sounds - begine with airflow from lungs
@@ -96,7 +99,7 @@ voicing
 - **vocal bands** - two muscular folds inside larynx which vibrate with each other when close together
 - **voiced sounds** - sounds articulated with vocal cords
 - **whispering**: holding back part of vocal cords apart
-- **glottal stops** - created by momentarily closingthe vocal cords
+- **glottal stops** - created by momentarily closing the vocal cords
 
 #### Articulatory Phonetics
 - stop
@@ -124,3 +127,71 @@ coincident voice onset 	/t/ 		only occurs after fricatives
 delayed voice onset 	/t^h/ 		doesn't occur after fricatives
 
 nasal soound: velum is lowered
+
+dissimilation: r-> get switched
+
+Airstream Mechanisms
+- glottalic sounds: air pressure builds up between glottis and articulator
+	- egressive: ejectives; amerind, african, caucasian languages
+	- ingressive: implosives; rare, found in some american, african, south asian language
+- lingual sounds: air pressure from moving tongue
+	- ingressive: clicks; only in khoisan languages of southern Africa and southern Bantu (Xhosa, Zulu)
+- sibilants - special type of fricatives
+	- high frequency
+- groove (sibilants) vs slit fricatives (th)
+	- tongue shape
+
+Secondary Articulations
+- vocal tract is restricted articulations (co-articulations)
+- labialization		kʷ
+- palatalization	kʲ
+- velarization		ɫ
+- pharyngealization
+- glottalization
+
+---
+Great Vowel Shift
+
+parameters for vowels:
+- part of tongue raised
+- height of tongue
+- position of palate (nasalization)
+- lip position (round/spread)
+- tenseness
+- length (supersegmental)
+
+-English frotn vowels are always unrounded, back vowels always rounded
+- diphthongs are vowels plus glides
+	- bit, beet 	[ɪ, i]
+	- bet bait		[з, e]
+	- pull, pool 	[ʊ, u]
+	- 1st vowels are short and lax
+	- 2nd vowels are long and tense, tending strongly towards dipthongization
+
+Phonetic Features tend to be binary
+- [ʊ] [+V, -C, +back, +high, +round, -tense]
+- [n] [+C, +stop, +apical, +voice, +nasal]
+
+typical languages have more than twice as many consonants as vowels
+| language | consonants | vowels |
+| -------- | ---------- | ------ |
+| Haida (Amerind) | 46 | 3 |
+| Powaian (Indo-Pacific) | 12 | 10 |
+| English | 24 | 11-13 |
+
+Universal Implications
+- in general, languages hae more 'marked' (unusual) sounds only if they have more 'unmarked' (usual) sounds
+	- p -> k
+	- k -> t except Hawaiian
+	- g -> d
+	- d -> b
+	- m -> n
+- relationships mirrored in frequency of sounds in languages
+	- /n t d s/
+	- /sh ts zh/
+	- [ʃ tʃ dʒ ʒ]. 
+- nasal iff oral stops
+- voiced iff voiceless stops
+- front rounded vowels iff back rounded vowels
+- relative ease of pronunciation
+- vowel systems tend to be symmetrical

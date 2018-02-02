@@ -1,3 +1,5 @@
+# Introduction
+## 24-26/1
 **sedentism** - emergence of farming, village life
 
 monarchy/kingship
@@ -36,7 +38,8 @@ colonial powers try to amass collections
 	* historical artifact
 	* cofirmation of Bible/other texts
 
-## 29/1 Steps to Egyptology/ Exploring, Collecting
+# Discovery & Development of Egyptology
+## 29+31/1 Steps to Egyptology/ Exploring, Collecting
 ### Archaeology
 - less colonial now - cooperative/joint projects
 - local population has more say
@@ -121,3 +124,19 @@ colonial powers try to amass collections
 - Sir Alan Gardiner, language and literature expert
     - wrote grammar used by Egyptology students since 1927
         James Allen's /Middle Egyptian/
+- Head of Antiquities Egyptian since 1952
+    - Secretary General of Supreme Council of Antiquities Zahi Hawass 2002-2011
+    - 2011 SCA became Ministry of State for Antiquities
+
+# Chronology and Cosmology
+## 2/2 Cultural Ecology
+- Egypt is a gift of the Nile - small area of fertile land around Nile within a desert
+- length 4180 mi, Egypt is lower 750mi (1st cataract to delta)
+- 1-11 mi wide, usually 1 mi; flow 1-4 knots downstream; travel ~ 2 weeks or months
+- schedule and seasons
+    -   | Name | Months | Activity |
+        | ---- | ------ | -------- |
+        | Akhet | Jun - Oct | flood |
+        | Peret | Oct - Feb | growing |
+        | Schemu | Feb - Jun | harvest/drought |
+- Nile water comes fron monsoons in Indian ocean, trapped in mountains of Eritrea and Ethiopia
