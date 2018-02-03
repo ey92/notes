@@ -344,6 +344,7 @@ articulations best observed via imaging - X-ray, MRI, EMA, Ultrasound
 | [ʕ] | + | pharyngeal | fricative | |
 
 | place of articulation | manner of articulation |
+| - | - |
 | _uvular_ and _pharyngeal_ | <ul>
 <li>voiced alveolar _trill_</li>
 <li>_palatalized_ consonants (Russian)</li>
