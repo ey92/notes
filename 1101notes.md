@@ -138,6 +138,7 @@ Airstream Mechanisms
 	- ingressive: clicks; only in khoisan languages of southern Africa and southern Bantu (Xhosa, Zulu)
 - sibilants - special type of fricatives
 	- high frequency
+	- /s z ʃ ʒ/
 - groove (sibilants) vs slit fricatives (th)
 	- tongue shape
 
