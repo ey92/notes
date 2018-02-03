@@ -352,17 +352,17 @@ consonants
 | _uvular_ and _pharyngeal_ | <ul><li>voiced alveolar _trill_</li><li>_palatalized_ consonants (Russian)</li><li>velarized alveolar lateral liquid</li><li> <ul>_secondary articulation_</li><li>**clear** - tongue body down/ tongue tip up</li><li>**dark** - tongue body up/ tongue tip down</li></ul> </li><li>_glottalization_ affects airstream mechanism of speech - becomes an ejective</li></ul> |
 
 ## Suprasegmental Features
-**length**
+- **length**
 	- vowel before voiced consonant ~1.5x longer
 	- following consonant further back -> vowel longer
-**intonation** - pattern of pitch movements across a stretch of speech
+- **intonation** - pattern of pitch movements across a stretch of speech
 	- rising = question, falling = statement
 	- _pitch accents_ - change in fundamental frequncy in middle of utterance
 	- _edge tones_ - pitch pattern right before a percieved break instead of middle of utterance
-**tone** - pitch at which the syllable of a word is pronounced
+- **tone** - pitch at which the syllable of a word is pronounced
 	- 2 types of tones: level or contour
 	- not mutually exclusive with intonation
-**stress** - stress on a syllable
+- **stress** - stress on a syllable
 	- e.g. photograph vs. photography
 
 ## Acoustic Phonetics
@@ -539,3 +539,7 @@ consonants
 **pitch accents**- change in fundamental frequncy in middle of utterance
 
 **edge tones**- pitch pattern right before a percieved break instead of middle of utterance
+
+**tone** - pitch at which the syllable of a word is pronounced
+
+**stress** - property of syllables; more prominent due to greater loudness, longer duration, different pitch, or full vowels
