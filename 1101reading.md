@@ -317,12 +317,16 @@ most unstressed vowels pronounced as [ə]
 
 articulations best observed via imaging - X-ray, MRI, EMA, Ultrasound
 
+---
+### Non-English Sounds
+vowels
+
 | front | back |
 | ----- | ---- |
 | y | u |
 | ø | o |
 
-### Non-English Consonants
+consonants
 
 | IPA | Voiced | Place | Degree | appearance in language |
 | --- | ------ | ----- | ---- | --------------------- |
@@ -345,8 +349,23 @@ articulations best observed via imaging - X-ray, MRI, EMA, Ultrasound
 
 | place of articulation | manner of articulation |
 | - | - |
-| _uvular_ and _pharyngeal_ | <ul><li>voiced alveolar _trill_</li><li>_palatalized_ consonants (Russian)</li><li>velarized alveolar lateral liquid</li><li> <ul>s_econdary articulation_</li><li>**clear** - tongue body down/ tongue tip up</li><li>**dark** - tongue body up/ tongue tip down</li></ul> </li><li>_glottalization_ affects airstream mechanism of speech - becomes an ejective</li></ul> |
+| _uvular_ and _pharyngeal_ | <ul><li>voiced alveolar _trill_</li><li>_palatalized_ consonants (Russian)</li><li>velarized alveolar lateral liquid</li><li> <ul>_secondary articulation_</li><li>**clear** - tongue body down/ tongue tip up</li><li>**dark** - tongue body up/ tongue tip down</li></ul> </li><li>_glottalization_ affects airstream mechanism of speech - becomes an ejective</li></ul> |
 
+## Suprasegmental Features
+**length**
+	- vowel before voiced consonant ~1.5x longer
+	- following consonant further back -> vowel longer
+**intonation** - pattern of pitch movements across a stretch of speech
+	- rising = question, falling = statement
+	- _pitch accents_ - change in fundamental frequncy in middle of utterance
+	- _edge tones_ - pitch pattern right before a percieved break instead of middle of utterance
+**tone** - pitch at which the syllable of a word is pronounced
+	- 2 types of tones: level or contour
+	- not mutually exclusive with intonation
+**stress** - stress on a syllable
+	- e.g. photograph vs. photography
+
+## Acoustic Phonetics
 
 ---
 # Vocab
@@ -512,4 +531,11 @@ articulations best observed via imaging - X-ray, MRI, EMA, Ultrasound
 **vowel space** - range of possible vowel sounds of a language from the high front vowel to the high back vower; languages and dialects don't exploit all possibilities
 
 **clear** secondary articulation - tongue body down/ tongue tip up
+
 **dark** secondary articulation - tongue body up/ tongue tip down
+
+**intonation** - pattern of pitch movements across a stretch of speech
+
+**pitch accents**- change in fundamental frequncy in middle of utterance
+
+**edge tones**- pitch pattern right before a percieved break instead of middle of utterance
