@@ -345,15 +345,7 @@ articulations best observed via imaging - X-ray, MRI, EMA, Ultrasound
 
 | place of articulation | manner of articulation |
 | - | - |
-| _uvular_ and _pharyngeal_ | <ul>
-<li>voiced alveolar _trill_</li>
-<li>_palatalized_ consonants (Russian)</li>
-<li>velarized alveolar lateral liquid</li>
-<li> <ul>s_econdary articulation_</li><li>**clear** - tongue body down/ tongue tip up</li><li>**dark** - tongue body up/ tongue tip down</li></ul> </li>
-<li>_glottalization_ affects airstream mechanism of speech - becomes an ejective</li></ul> |
-
-
-
+| _uvular_ and _pharyngeal_ | <ul><li>voiced alveolar _trill_</li><li>_palatalized_ consonants (Russian)</li><li>velarized alveolar lateral liquid</li><li> <ul>s_econdary articulation_</li><li>**clear** - tongue body down/ tongue tip up</li><li>**dark** - tongue body up/ tongue tip down</li></ul> </li><li>_glottalization_ affects airstream mechanism of speech - becomes an ejective</li></ul> |
 
 
 ---
