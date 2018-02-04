@@ -417,8 +417,53 @@ English Vowel Frequencies
 Spectrograms
 - stops cause gap
 	- voiced stops still have _voice bar_
-	- _aspiration_no clear formant
+	- _aspiration_no clear formant, air released after stop closure & before vowel onset
+- fricatives
+	- fricative source wave not periodic, vs. vowels are periodic
+	- English fricatives clearly differ in relative frequency
+- nasals
+	- nasal passage becomes filter for source
+	- more similar formants
+- nasals & liquids have abrupt change before consonant
+- stops and glides have gradual changes
+- glides also _semivowels_
+- useful for preserving & analyzing speech
+- natural speech not as clear and articulated 
 
+## Phonetics in Signed Languages
+5 **parameters** of articulation = segments
+- place of articulation
+- movement
+- handshape
+- hand orientation
+- (non-manual markers)
+
+_phones_/_primes_ combined differently than in spoken languages
+- phones organized in linear temporal order, produced one at a time
+- primes always occur simultaneously & can't stand alone
+
+### 1. Location
+- _signing space_ general area where signs can be produced
+	- reduced for 'whispering' and expanded for 'yelling'
+- exact same gestures in different region changes meaning
+
+### 2. Movement
+- direction & regions involved
+- like vowels, meaning can be understood w/o movement
+
+### 3. Handshape
+- multiple handshapes and movements
+- differ in finger extension, position of thumb, fingers touching, etc.
+
+### 4. Orientation
+- direction palms are facing, relative to each other or the speaker
+
+### 5. Non-Manual Markers
+- facial expressions, head movements, gestures not made with hands
+- more suprasegmental
+
+- signs differ depending on language
+- easier to study and record, very visible
 
 ---
 # Vocab
@@ -606,3 +651,11 @@ Spectrograms
 **formants** - peaks from filtering/resonant peaks of vocal tract
 
 **aspiration** - puff of air that follows release of consonant when there is a delay in onset of voicing; symbolized by superscript
+
+**phonetics** - how language is produced, regardless of modality of production
+
+**parameter** - aspects of articulation that describe primes in signed languages
+
+**phone** - a speech sound
+
+**prime** - fundamental element in visual-gestural languages, equivalent to phoneme in auditory-vocal languages, except primes produced simultaneously; phonemes only produced sequentially
