@@ -349,7 +349,31 @@ consonants
 
 | place of articulation | manner of articulation |
 | - | - |
-| _uvular_ and _pharyngeal_ | <ul><li>voiced alveolar _trill_</li><li>_palatalized_ consonants (Russian)</li><li>velarized alveolar lateral liquid</li><li> <ul>_secondary articulation_</li><li>**clear** - tongue body down/ tongue tip up</li><li>**dark** - tongue body up/ tongue tip down</li></ul> </li><li>_glottalization_ affects airstream mechanism of speech - becomes an ejective</li></ul> |
+| _uvular_ and _pharyngeal_ | <ul><li>voiced alveolar _trill_</li><li>_palatalized_ consonants (Russian)</li><li>velarized alveolar lateral liquid</li><li> <ul>_secondary articulation_</li><li>**clear** - tongue body down/ tongue tip up</li><li>**dark** - tongue body up/ tongue tip down</li></ul> </li><li>_glottalization_ affects airstream mechanism of speech - becomes an _ejective_</li></ul> |
+
+**Airstream Mechanisms**
+- _glottalic sounds_: air pressure builds up between glottis and articulator
+	- egressive: ejectives; amerind, african, caucasian languages
+	- ingressive: implosives; rare, found in some american, african, south asian language
+- _lingual sounds_: air pressure from moving tongue
+	- ingressive: clicks; only in khoisan languages of southern Africa and southern Bantu (Xhosa, Zulu)
+- _sibilants_ - special type of fricatives
+	- high frequency
+	- /s z ʃ ʒ/
+- _groove (sibilants)_ vs _slit fricatives_ (th)
+	- tongue shape
+
+Secondary Articulations
+- vocal tract is restricted articulations (co-articulations)
+- labialization		kʷ
+- palatalization	kʲ
+- velarization		ɫ
+- pharyngealization
+- glottalization
+
+-English front vowels are always unrounded, back vowels always rounded
+- diphthongs are vowels plus glides
+
 
 ## Suprasegmental Features
 - **length**
@@ -366,6 +390,35 @@ consonants
 	- e.g. photograph vs. photography
 
 ## Acoustic Phonetics
+soundwaves, compression, rarefaction, periodic waves
+- recorded sound
+- _harmonics_ & fundamental frequency
+- vocal chords = source wave -> vocal tract = "filter" -> speech sound
+- higher frequency, lower amplitude
+- **formants** - peaks from filtering/resonant peaks of vocal tract
+
+Vowels
+- vowels have 3 important formants
+- plotting f2 x f1 produces vowel chart
+
+English Vowel Frequencies
+
+| vowel | f1 | f2 | f3 |
+| ----- | -- | -- | -- |
+| [i] | 280 | 2250 | 2890 |
+| [ɪ] | 400 | 1920 | 2560 |
+| [ɛ] | 550 | 1770 | 2490 |
+| [æ] | 690 | 1660 | 2490 |
+| [u] | 310 | 870 | 2250 |
+| [ʊ] | 450 | 1030 | 2380 |
+| [ɔ] | 590 | 880 | 2540 |
+| [ɑ] | 710 | 1100 | 2540 |
+
+Spectrograms
+- stops cause gap
+	- voiced stops still have _voice bar_
+	- _aspiration_no clear formant
+
 
 ---
 # Vocab
@@ -488,6 +541,8 @@ consonants
 
 **airstream mechanism** - any of the various ways to produce a stream of moving air through the vocal tract for the production of speech sounds e.g. pulmonic/glottalic/velar, egressive/ingressive
 
+**ejective** - consonant sound produced by compressing air in the mouth or pharynx while the glottis remains closed, then releasing; also **glottalic**/**glottalized sound***; transcribed with following apostrophe
+
 **trachea** - windpipe, tube between larynx and lungs
 
 **vocal cords**/**vocal folds** - folds of muscle in larynx responsible for creating voiced sounds when they  vibrate
@@ -510,11 +565,11 @@ consonants
 
 **velum**/**soft palate** - soft part of roof of mouth behind hard palate
 
-**uvula** - small fleshy mass that hangs down at the back of the throat
+**uvula** - small fleshy mass that hangs down at back of throat
 
-**pharynx**/throat - part of the oral tract above the larynx but behind the uvula
+**pharynx**/throat - part of oral tract above larynx but behind uvula
 
-**manner of articulation** - how the airstream is constricted or modified in the vocal tract to produce the sound
+**manner of articulation** - how airstream is constricted or modified in vocal tract to produce sound
 
 **palatography** - experimental method that shows the contact between the tongue and the roof of the mouth; static or dynamic
 
@@ -543,3 +598,11 @@ consonants
 **tone** - pitch at which the syllable of a word is pronounced
 
 **stress** - property of syllables; more prominent due to greater loudness, longer duration, different pitch, or full vowels
+
+**harmonics** - overtone of fundamental frequency of vocal tract; multiple of fundamental frequency
+
+**fundamental frequency** - rate at which vocal folds vibrate during voicing
+
+**formants** - peaks from filtering/resonant peaks of vocal tract
+
+**aspiration** - puff of air that follows release of consonant when there is a delay in onset of voicing; symbolized by superscript

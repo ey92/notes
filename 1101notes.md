@@ -161,7 +161,7 @@ parameters for vowels:
 - tenseness
 - length (supersegmental)
 
--English frotn vowels are always unrounded, back vowels always rounded
+-English front vowels are always unrounded, back vowels always rounded
 - diphthongs are vowels plus glides
 	- bit, beet 	[ɪ, i]
 	- bet bait		[з, e]
