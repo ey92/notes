@@ -414,7 +414,7 @@ English Vowel Frequencies
 | [ɔ] | 590 | 880 | 2540 |
 | [ɑ] | 710 | 1100 | 2540 |
 
-Spectrograms
+### Spectrograms
 - stops cause gap
 	- voiced stops still have _voice bar_
 	- _aspiration_no clear formant, air released after stop closure & before vowel onset
@@ -442,23 +442,23 @@ _phones_/_primes_ combined differently than in spoken languages
 - phones organized in linear temporal order, produced one at a time
 - primes always occur simultaneously & can't stand alone
 
-### 1. Location
+#### 1. Location
 - _signing space_ general area where signs can be produced
 	- reduced for 'whispering' and expanded for 'yelling'
 - exact same gestures in different region changes meaning
 
-### 2. Movement
+#### 2. Movement
 - direction & regions involved
 - like vowels, meaning can be understood w/o movement
 
-### 3. Handshape
+#### 3. Handshape
 - multiple handshapes and movements
 - differ in finger extension, position of thumb, fingers touching, etc.
 
-### 4. Orientation
+#### 4. Orientation
 - direction palms are facing, relative to each other or the speaker
 
-### 5. Non-Manual Markers
+#### 5. Non-Manual Markers
 - facial expressions, head movements, gestures not made with hands
 - more suprasegmental
 
