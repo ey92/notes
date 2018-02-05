@@ -188,18 +188,79 @@ F. Western Desert
 G. Eastern Desert
 H. Sinai
 
-Materials
-- mud for bricks, bakes in sun & used in everyday residential architecture
-    - doesn't last, archaeological remains imbalanced towards stone structures
-- red granaite, near Aswan
-- limestone near Giza
-- sandstone everywhere
-- tombs, temples, monumental architecture
-- semiprecious minerals for decorations: turquoise, carnelian, amethyst, cupric oxide (azorite & malacite)
-- flax for linen
-- papyrus: add water, sun, pressure (beat layers together) = paper
-    - reeds: build buildings, columns, boats
-- timber, indigenous (short, hard)
-    - tamarisk, acacia, sycamore
-- import long timbers
-    - cedar from Lebanon, aromatic, soft/carvable, rot-resistant
+### Materials
+- **construction**
+    - mud for bricks, bakes in sun & used in everyday residential architecture
+        - doesn't last, archaeological remains imbalanced towards stone structures
+    - red granaite, near Aswan
+    - limestone near Giza
+    - sandstone everywhere
+    - tombs, temples, monumental architecture
+    - semiprecious minerals for decorations: turquoise, carnelian, amethyst, cupric oxide (azorite & malacite)
+    - flax for linen
+    - papyrus: add water, sun, pressure (beat layers together) = paper
+        - reeds: build buildings, columns, boats
+    - timber, indigenous (short, hard)
+        - tamarisk, acacia, sycamore
+    - import long timbers
+        - cedar from Lebanon, aromatic, soft/carvable, rot-resistant (Khufu's burial barge)
+- **grains**
+    - emmer wheat -> flour, bread
+    - barley -> bread, cades, beer
+    - Menkaure's pyramid workers paid in beer 'Drunkards of Menkaure'
+    - imported wine, then imported grape vines
+    - leumes: lentils, chick peas, fava beans, hummouse foul
+    - leafy greens: cucumber, onion, radish, leek
+    - oils: flax, sesame, imported olive
+- fruits: melon, pomegranate, dates, figs (fiber, sweetener)
+- **meats**
+    - poultry: lots of birds, water fowl, migratory birds
+    - other meat: fish, sheep, goat, pork, oxen, hedgehog
+    - donkeys, ibexes from foreigners, camels much later
+- **transport**
+- reed bundles, wooden plank boats
+
+### Sprituality/elementality in gods
+- Ma'at: principle & goddess with ostrich feather headdress
+    - order, justice, truth, balance/ opposite of chaos
+    - most commonly found in book of the dead/weighing of the heart
+- Ra: sun, mounted on hawk or falcon
+    - clock-like order in the heavens
+- Horus: order on earth as hawk or falcon with crown
+    - Pharaoh is embodied Horus
+- Osiris: regeneration, killed and reincarnated, ruling the afterlife
+    - green/dark skin represents fertile soil & vegetation
+    - Pharaoh becomes Osiris in death
+    - symbols: feathered white crown, mummy-suit, crook and flail (animal and plant mastery)
+- Hapy: god of flooding Nile, nourishment
+    - sometimes as twins for Upper & Lower Egypt
+    - blue/black/green skin
+
+## Chronology
+- influenced by ecology
+- 3 main influences for 34-dynasty chronology
+1. Manetho's history 'Beloved of Thoth'
+    - 3rd c. BC priest at Heliopolis/On, near Memphis
+    - fragments of history referenced by later authors
+    - dynasties 1-31, starting with Menes, given kingship by Horus
+    - add Macedonian, Ptolemaic dynasties
+    - add Dyn 0 for pre-Menes kings
+2. Sothic Cycle
+    Sopdet (Sirius)
+    - rising tended to coincide with inundation, marking New Year
+    - misaligned calendar 365 days vs 365.24 days in a year
+    - New Year and Sothic rising coincided every 1460 years
+    - recorded observations of risings and coincidences to provide "linchpins" solid dates that connect king-lists to modern calendar
+        - Censorinus, 139 CE observation
+        - Senusret III's year 7 Dyn 12 1872 BC
+        - Meyer found 6 recorded Sothic observations in records in 1904
+3. King-lists
+    a. Palermo Stone, Dyn 5
+        - earliest king list
+        - from pre-dynastic divine kings to Horus to human kings Dynastic 5
+        - record notable events and height of the Nile every year of a king's reign
+        - Nileometers
+    b. Royal List of Karnak, Thutmose III
+    c. Royal List of Abydos, Seti I
+    d. Royal List of Saqqara, Ramesses II
+    e. 

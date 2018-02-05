@@ -205,7 +205,7 @@ English vowels
 Supersegmental/Prosodic Features
 - stress - loudness relative to neighboring sounds (variation in amplitude of sound waves)
 - pitch - different in frequency relative to neighboring sounds, due to increased tension of vocal bands and higher air pressure
-- length - longer periods of 
+- length - longer periods of *
 - accent - includes stress, pitch, and length in combinations that vary from language to language
 	- English stress accent language
 	- accent placement can affect meaning of word
