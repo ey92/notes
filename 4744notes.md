@@ -6,9 +6,9 @@
 | ^ | concatenate |
 | * | 0 or more |
 | + | 1 or more |
-| ?&10 | set of 10-char strings|
-| ?&{10,20} | set of 10-20-char strings|
-| view | fms |
+| ?^10 | set of 10-char strings|
+| ?^{10,20} | set of 10-20-char strings|
+| view | fsm |
 | print words | |
 | print words > syl.out | output to file |
 | print random-words | |
@@ -72,3 +72,23 @@ Nstem = [
 	[ POND .x. {prud}] |
 	[COLOR .x. {cvet}]
 ];
+
+
+
+--------------------------
+define P2 [N&V];
+regex P2;
+print random-words;
+
+define P3
+
+define P4 [?^4] & [V & [~N]];
+137 vs 871 words
+
+define P5 A { } [[N^{ }]+];
+regex P5;
+
+define P6 [[A N].r & [A N]];
+worst rap / parts row
+murder alb / blare rum
+

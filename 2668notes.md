@@ -176,7 +176,7 @@ colonial powers try to amass collections
 | ----------- | ----------- |
 | white crown/hedjet | red crown/deshret|
 | lotus | papyrus |
-| vulture | cobra |
+| vulture (Nekhbet) | cobra (Wadjet) |
 
 ### Natural Borders
 A. Mediterranean Sea

@@ -152,6 +152,7 @@ Secondary Articulations
 
 ---
 Great Vowel Shift
+- massive change in pronunciation of English long vowels, beginning in 1500s
 
 parameters for vowels:
 - part of tongue raised
@@ -196,3 +197,32 @@ Universal Implications
 - front rounded vowels iff back rounded vowels
 - relative ease of pronunciation
 - vowel systems tend to be symmetrical
+	- probably because easier to differentiate
+
+English vowels
+- some vowels are being replaced by related vowels
+
+Supersegmental/Prosodic Features
+- stress - loudness relative to neighboring sounds (variation in amplitude of sound waves)
+- pitch - different in frequency relative to neighboring sounds, due to increased tension of vocal bands and higher air pressure
+- length - longer periods of 
+- accent - includes stress, pitch, and length in combinations that vary from language to language
+	- English stress accent language
+	- accent placement can affect meaning of word
+- tone
+	- tonal languages have different meaning
+	- English signals illocutionary type (statement, question, etc)
+- span over syllables or phrases
+
+Resonance
+
+| Sonorants | vs | Obstruants |
+| --------- | -- | ---------- |
+| stops | | glides/semivowels |
+| fricatives | | liquids |
+| | | nasals |
+
+- sonorant produced with continuous, non-turbulent airflow
+
+categorize sounds: different sound endings for past tense
+-/t/ -/d/ -/ed/ 
