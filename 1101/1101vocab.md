@@ -202,3 +202,14 @@
 **phonotactic constraint** - restriction on possible combinations of sounds
 
 **sound substitution** - sounds that exit in a language used to replace sounds that don't exist when borrowing or speaking a foreign word
+
+**phoneme** - set of speech sounds that a variants of the same sound
+
+**allophone** - a phonetic segment in a phoneme set
+
+**distribution** - set of phonetic environments in which sound occurs
+- _contrastive distribution_: two sounds occur in the same phonetic environment
+- _complementary distribution_: two sounds never occur in same phonetic environment; allophones of same phoneme
+- _free variation_: multiple pronunciations of given sound without changing word meaning
+
+**phonetic environment** - sound that comes before and after a particular sound in a word
