@@ -264,3 +264,22 @@ H. Sinai
     c. Royal List of Abydos, Seti I
     d. Royal List of Saqqara, Ramesses II
     e. 
+
+
+Ogdoad: masculine/feminite counterparts, original gods
+Nun/Naunet:     water/inertia
+Huh/Hauhet:     infinity
+Kuk/Kauket:     darkness
+Amun/Amaunet:   uncertainty/hiddenness
+real world: dry, active, limited, light, tangible
+
+Ennead
+Atum self-evoloving
+Shu and Tefnut
+Nut and Geb
+Osiris, Set, Isis, Nephthys
+
+Ptah of Memphis
+- embodies human creation
+- turns idea (perception) into reality via annunciation
+    - property of the gods and king

@@ -73,22 +73,37 @@ Nstem = [
 	[COLOR .x. {cvet}]
 ];
 
+define U = P2;
+define Upcase(X) [X .o. U].l;
+define Shorter [?:?]* 0:?+;
+define Longest (X) X - [Shorter .o. X].u;
+# also works
+define Longest (X) X 0 [X .o. Shorter .o. X].u;
 
+regex Longest (N-$[" " | "-"]);
+# electroencephalograph
+interdominational
+contradistinguish
 
---------------------------
-define P2 [N&V];
-regex P2;
-print random-words;
+/// right quotient
+[A /// B] is a element of A with element B chopped off
+regex [[A /// e] & [N /// {ity}]] e;
 
-define P3
+Contains
+regex [N & $[{bat} | {bit}]] - $[" " | "-"];
+$A 		contains A
+$.A 	exactly one substring
+$?A 	zero or one substring
 
-define P4 [?^4] & [V & [~N]];
-137 vs 871 words
+i->I || b_t
+i target of substitution
+I substitute
+b left context
+t right context
+regex i->I || b i* _ i* t;
 
-define P5 A { } [[N^{ }]+];
-regex P5;
-
-define P6 [[A N].r & [A N]];
-worst rap / parts row
-murder alb / blare rum
-
+regex [{bitter} .o. [[i t+] -> [I T] || b _]].;
+[it+]	target of substitution
+[I T] 	substitute
+b 		left context
+		no right context
