@@ -55,6 +55,8 @@
 
 **code** - an artificially constructed system for representing a natural language; borrows its structure from the natural language it represents; doesn't have native speakers e.g. Morse code
 
+---
+
 ## Ch. 2 Phonetics
 **phonetics** - study of minimal units that make up language
 
@@ -191,3 +193,12 @@
 **phone** - a speech sound
 
 **prime** - fundamental element in visual-gestural languages, equivalent to phoneme in auditory-vocal languages, except primes produced simultaneously; phonemes only produced sequentially
+
+---
+
+# Ch. 3 Phonology
+**phonetic inventory** - set of sounds that are produced as part of the grammar of a language
+
+**phonotactic constraint** - restriction on possible combinations of sounds
+
+**sound substitution** - sounds that exit in a language used to replace sounds that don't exist when borrowing or speaking a foreign word
