@@ -41,10 +41,8 @@ phonetics vs phonology
 	- _complementary distribution_: two sounds never occur in same phonetic environment
 		- no minimal pair
 		- allophones of same phoneme
-		- | | |
-		| - | - |
-		| [i] | before [d, p, ɹ, t], word end |
-		| [ĩ] | before [n, m] |
+		- [i] before [d, p, ɹ, t], word end
+		- [ĩ] before [n, m]
 	- _free variation_: multiple pronunciations of given sound without changing word meaning
 	- _overlapping distribution_: sounds occur in same environment
 - _phonetic environment_ - sound that comes before and after a particular sound in a word
