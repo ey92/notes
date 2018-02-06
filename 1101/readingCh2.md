@@ -151,7 +151,7 @@ observing place and manner of articulation: **palatography** - picture where ton
 
 English Consonant Chart
 
-![English Consonant Chart](https://github.com/ey92/notes/blob/master/english-consonant-chart.gif)
+![English Consonant Chart](https://github.com/ey92/notes/blob/master/1101/english-consonant-chart.gif)
 
 ### Vowel Articulation
 ---
@@ -168,7 +168,7 @@ English Consonant Chart
 
 #### English Vowel (Monophthong) Chart
 
-![English Vowel (Monophthong) Chart](https://github.com/ey92/notes/blob/master/english-vowel-chart.gif)
+![English Vowel (Monophthong) Chart](https://github.com/ey92/notes/blob/master/1101/english-vowel-chart.gif)
 
 #### 1. Tongue Height
 | height | description | vowels |
@@ -206,7 +206,7 @@ most unstressed vowels pronounced as [ə]
 
 #### English Vowel (Diphthong) Chart
 
-![English Vowel (Diphthong) Chart](https://github.com/ey92/notes/blob/master/english-vowel-diphthong-chart.png)
+![English Vowel (Diphthong) Chart](https://github.com/ey92/notes/blob/master/1101/english-vowel-diphthong-chart.png)
 
 articulations best observed via imaging - X-ray, MRI, EMA, Ultrasound
 
