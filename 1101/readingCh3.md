@@ -52,4 +52,4 @@ phonetics vs phonology
 | - | ------------------ | ----------------- | -------------- |
 | relation to phonemes | allophones of separate phonemes | allophones of same phoneme | allophones of same phoneme |
 | distribution predictability | unpredictable | predictable | unpredictable |
-| how to recognize | contrastive distribution <br> minimal pairs <br> overlapping distribution with differences in meaning | complementary distribution | overlapping distribution with no difference in meaning
+| how to recognize | - contrastive distribution <br> - minimal pairs <br> - overlapping distribution with differences in meaning | complementary distribution | overlapping distribution with no difference in meaning
