@@ -239,13 +239,13 @@ H. Sinai
 ## Chronology
 - influenced by ecology
 - 3 main influences for 34-dynasty chronology
-1. Manetho's history 'Beloved of Thoth'
+#### 1. Manetho's history 'Beloved of Thoth'
 - 3rd c. BC priest at Heliopolis/On, near Memphis
 - fragments of history referenced by later authors
 - dynasties 1-31, starting with Menes, given kingship by Horus
 - add Macedonian, Ptolemaic dynasties
 - add Dyn 0 for pre-Menes kings
-2. Sothic Cycle/Sopdet (Sirius)
+#### 2. Sothic Cycle/Sopdet (Sirius)
 - rising tended to coincide with inundation, marking New Year
 - misaligned calendar 365 days vs 365.24 days in a year
 - New Year and Sothic rising coincided every 1460 years
@@ -253,7 +253,7 @@ H. Sinai
     - Censorinus, 139 CE observation
     - Senusret III's year 7 Dyn 12 1872 BC
     - Meyer found 6 recorded Sothic observations in records in 1904
-3. King-lists
+#### 3. King-lists
 - Palermo Stone, Dyn 5
     - earliest king list
     - from pre-dynastic divine kings to Horus to human kings Dynastic 5
