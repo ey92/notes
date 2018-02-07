@@ -240,29 +240,29 @@ H. Sinai
 - influenced by ecology
 - 3 main influences for 34-dynasty chronology
 1. Manetho's history 'Beloved of Thoth'
-    - 3rd c. BC priest at Heliopolis/On, near Memphis
-    - fragments of history referenced by later authors
-    - dynasties 1-31, starting with Menes, given kingship by Horus
-    - add Macedonian, Ptolemaic dynasties
-    - add Dyn 0 for pre-Menes kings
+- 3rd c. BC priest at Heliopolis/On, near Memphis
+- fragments of history referenced by later authors
+- dynasties 1-31, starting with Menes, given kingship by Horus
+- add Macedonian, Ptolemaic dynasties
+- add Dyn 0 for pre-Menes kings
 2. Sothic Cycle/Sopdet (Sirius)
-    - rising tended to coincide with inundation, marking New Year
-    - misaligned calendar 365 days vs 365.24 days in a year
-    - New Year and Sothic rising coincided every 1460 years
-    - recorded observations of risings and coincidences to provide "linchpins" solid dates that connect king-lists to modern calendar
-        - Censorinus, 139 CE observation
-        - Senusret III's year 7 Dyn 12 1872 BC
-        - Meyer found 6 recorded Sothic observations in records in 1904
+- rising tended to coincide with inundation, marking New Year
+- misaligned calendar 365 days vs 365.24 days in a year
+- New Year and Sothic rising coincided every 1460 years
+- recorded observations of risings and coincidences to provide "linchpins" solid dates that connect king-lists to modern calendar
+    - Censorinus, 139 CE observation
+    - Senusret III's year 7 Dyn 12 1872 BC
+    - Meyer found 6 recorded Sothic observations in records in 1904
 3. King-lists
-    3.a Palermo Stone, Dyn 5
-        - earliest king list
-        - from pre-dynastic divine kings to Horus to human kings Dynastic 5
-        - record notable events and height of the Nile every year of a king's reign
-        - Nileometers
-    3.b Royal List of Karnak, Thutmose III
-    3.c Royal List of Abydos, Seti I
-    3.d Royal List of Saqqara, Ramesses II
-    3.e  
+3.1 Palermo Stone, Dyn 5
+    - earliest king list
+    - from pre-dynastic divine kings to Horus to human kings Dynastic 5
+    - record notable events and height of the Nile every year of a king's reign
+    - Nileometers
+3.2 Royal List of Karnak, Thutmose III
+3.3 Royal List of Abydos, Seti I
+3.4 Royal List of Saqqara, Ramesses II
+3.5  
 
 
 Ogdoad: masculine/feminite counterparts, original gods
