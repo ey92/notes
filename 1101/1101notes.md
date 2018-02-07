@@ -1,4 +1,4 @@
-## Intro
+# Intro
 **language** is a system of rules mapping sounds/gestures and meanings
 - mostly compositional
 - idioms noncompositional
@@ -37,6 +37,7 @@ representing sounds in writing
 _spectrograms_ produce graphs(_spectographs_) which map the _frequency_ (pulse/second) and intensity (_amplitude_) of vibrations over time
 
 
+# Phonetics
 ## Phonetics 28/1
 ### Design features of language
 ---
@@ -61,8 +62,6 @@ _spectrograms_ produce graphs(_spectographs_) which map the _frequency_ (pulse/s
 
 languages are learnable
 
-
-### Phonetics
 ---
 **articulary phonetics** - looks at the way sounds are formed in the hman vocal tract
 - "high-front vowel /i:/" vs "high-back vowel /u:/" vs "low vowel /a:/"
@@ -216,7 +215,7 @@ Supersegmental/Prosodic Features
 
 Resonance
 
-| Sonorants | vs | Obstruants |
+| Obstruants | vs | Sonorants |
 | --------- | -- | ---------- |
 | stops | | glides/semivowels |
 | fricatives | | liquids |
@@ -224,5 +223,41 @@ Resonance
 
 - sonorant produced with continuous, non-turbulent airflow
 
-categorize sounds: different sound endings for past tense
--/t/ -/d/ -/ed/ 
+# Phonology
+English past tense
+| verb ending | past tense ending|
+| ----------- | ---------------- |
+| alveolar stop (t/d) | -eed |
+| voiced | -d |
+| voiceless | -t |
+
+1. **allomorphy**: - different forms of morphemes, called _allomorphs_, have predictable distribution based on phonetics of neighboring sounds
+2. **natural classes**: don't have to list the sounds that trigger an allomorph one by one; identify by specifying one feature in common
+- [+v] = [a l o j rr b n g z zh v ...]
+- [+stop] = [p b g k n m t d ...]
+- [+alveolar] = [s z t d ts ...]
+- [+sibilant] = [s z zh ts dzh tsh ...] (high freq fricatives/affricatives)
+- [-D past] /eed/ /t/ /d/
+3. **Assimilation** - sounds tend to become more like the sounds around them
+- consonants become voiced when adjacent to voiced sounds & vice versa
+- [CF]:[+v]->[+v]_[+v]
+- **dissimilations**: sounds that sound too similar change to be different
+- flood/flooded
+- cats, dogs, busses [+v$]->[s], [-v$]->[z] [sibilant]->[eez]
+4. Mental grammars allows us to perceive sounds that aren't there
+- bad at identifying speech sounds in isolation without linguistic context
+- in context, we can recognize words before they are finished
+	- knowledge of grammar enables us to guess what comes next
+- people speak ~150-200 words per minute
+
+## Allophones
+[t^h] [t] [D] [?] are _allophones_ of the same _phoneme_
+[d] [t] are different phonemes
+	- 'done' & 'ton' differ in meaning and exactly one sound -> *minimal pair*
+
+| | contrastive sounds | allophonic sounds | free variation |
+| - | ------------------ | ----------------- | -------------- |
+| relation to phonemes | allophones of separate phonemes | allophones of same phoneme | allophones of same phoneme |
+| distribution predictability | unpredictable | predictable | unpredictable |
+| how to recognize | - contrastive distribution <br> - minimal pairs <br> - overlapping distribution with differences in meaning | complementary distribution | overlapping distribution with no difference in meaning
+
