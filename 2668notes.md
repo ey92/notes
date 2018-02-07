@@ -260,10 +260,53 @@ H. Sinai
     - record notable events and height of the Nile every year of a king's reign
     - Nileometers
 - Royal List of Karnak, Thutmose III
+    -includes Hyksos kings
 - Royal List of Abydos, Seti I
+    - pro-Osiris bias
+    - no 2nd intermediate period kings
+    - no Armana kings
 - Royal List of Saqqara, Ramesses II
-- 
+    - from Anedjib to 
+- Royal Canon of Turin
+    - over 300 names, including pre-Menes, with moths and days of reign
+    - in Hieractic script, not hieroglyphics
+    - poorly preserved
+    - omits 2nd intermediate period
+#### 4. Mostly Accurate w/ Caveats
+Margin of Error
 
+| Period & Years | Margin |
+| -------------- | ------ |
+| Early Dynastic Period (ca.3000-2700) | ~100yrs |
+| New Kingdom (ca.1570) | ~decades |
+| 664bc | year in babylonian calendar |
+
+### Kingdoms and Dynasties
+Kingdoms - periods of unity divided by Intermediate Periods
+- Two Lands under one king, capitol at/near Memphis
+
+Three Kingdoms (Old, Middle, New) modern construct:
+- Menes (first of D1), beginning of Early Dynastic period, ca. 3050
+- Nebhepetre Mentuhotep II, beginning of Middle Kingdom, ca. 2050
+- Ahmose, beginning of New Kingdom, ca. 1570
+
+Dynasties - kingship passed father to son
+- relationship to Queen Mother essential, by blood or marriage (_matrilineality_)
+- no claim to throne if not related to Queen Mother
+
+## Cosmology: understanding of the universe
+Egyptian universe: bubble or void within watery chaos
+
+**Tripartite Cosmos**: heavens, Earth, Duat
+
+**Field of Reeds** in the northern sky with circumpolar stars "the eternal ones"
+
+**Duat**: the netherworld, 12 hours of passage for Re
+
+**Akhet** - horizon; dangerous, liminal, transitional place
+
+
+## Cosmogeny: understanding of how the world was created
 
 Ogdoad: masculine/feminite counterparts, original gods
 - Nun/Naunet:     water/inertia
