@@ -260,7 +260,7 @@ H. Sinai
     - record notable events and height of the Nile every year of a king's reign
     - Nileometers
 - Royal List of Karnak, Thutmose III
-    -includes Hyksos kings
+    - includes Hyksos kings
 - Royal List of Abydos, Seti I
     - pro-Osiris bias
     - no 2nd intermediate period kings
@@ -282,44 +282,69 @@ Margin of Error
 | 664bc | year in babylonian calendar |
 
 ### Kingdoms and Dynasties
-Kingdoms - periods of unity divided by Intermediate Periods
+**Kingdoms** - periods of unity divided by Intermediate Periods
 - Two Lands under one king, capitol at/near Memphis
+- Three Kingdoms (Old, Middle, New) modern construct:
+    - Menes (first of D1), beginning of Early Dynastic period, ca. 3050
+    - Nebhepetre Mentuhotep II, beginning of Middle Kingdom, ca. 2050
+    - Ahmose, beginning of New Kingdom, ca. 1570
 
-Three Kingdoms (Old, Middle, New) modern construct:
-- Menes (first of D1), beginning of Early Dynastic period, ca. 3050
-- Nebhepetre Mentuhotep II, beginning of Middle Kingdom, ca. 2050
-- Ahmose, beginning of New Kingdom, ca. 1570
-
-Dynasties - kingship passed father to son
+**Dynasties** - kingship passed father to son
 - relationship to Queen Mother essential, by blood or marriage (_matrilineality_)
 - no claim to throne if not related to Queen Mother
 
 ## Cosmology: understanding of the universe
-Egyptian universe: bubble or void within watery chaos
+Egyptian universe: bubble or void within watery chaos _Nun_
 
 **Tripartite Cosmos**: heavens, Earth, Duat
 
 **Field of Reeds** in the northern sky with circumpolar stars "the eternal ones"
 
 **Duat**: the netherworld, 12 hours of passage for Re
+- Amduat scenes
+    - sun/Ra travels through 12 gates watery gates in Duat
+    - Apep the serpent threatens passage
+    - potentially influenced Christian ideas of Hell
 
 **Akhet** - horizon; dangerous, liminal, transitional place
 
+### Ra
+- polymorphic, polynomic
+- Ra, sun disc
+- Khepri, scarab at dawn
+- Atum, ram at sunset
+- Ra-Horakthty, merged with Horus
+- Aten, life-giving solar disc
 
 ## Cosmogeny: understanding of how the world was created
+- 4 creation myths/theologies
+1. Hermopolis (earlier)
+- originates from city of Thoth (wisdom, writing, magic), who Greeks connect to Hermes
+- mentioned in Pyramid Texts
+- mound rises out of water
+- bird lays an egg on mound
+- plurality of gods coming out of chaos
+- **Ogdoad**: masculine/feminite counterparts, original gods
+    - Nun/Naunet:     water/inertia
+    - Huh/Hauhet:     infinity/eternity
+    - Kuk/Kauket:     darkness
+    - Amun/Amaunet:   uncertainty/hiddenness
+    - real world: dry, active, limited, light, tangible
+2. Heliopolis
+- Plutarch's Isis and Osiris (2nd c.)
+- Hymn to Osiris
+- Horus & Seth known by Early Dynastic Period, Osiris by Old Kingdom
+- Atum is the chief god, created himself and the other gods
+- **Ennead**
+    - Atum self-evoloving
+    - Shu (air) and Tefnut (moisture)
+    - Nut (sky) and Geb (Earth)
+    - Osiris, Set, Isis, Nephthys
+    - Horus
+3. Memphis
+4. Amun cult, centered at Thebes
 
-Ogdoad: masculine/feminite counterparts, original gods
-- Nun/Naunet:     water/inertia
-- Huh/Hauhet:     infinity
-- Kuk/Kauket:     darkness
-- Amun/Amaunet:   uncertainty/hiddenness
-- real world: dry, active, limited, light, tangible
 
-Ennead
-- Atum self-evoloving
-- Shu and Tefnut
-- Nut and Geb
-- Osiris, Set, Isis, Nephthys
 
 Ptah of Memphis
 - embodies human creation
