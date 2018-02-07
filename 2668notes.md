@@ -254,15 +254,15 @@ H. Sinai
     - Senusret III's year 7 Dyn 12 1872 BC
     - Meyer found 6 recorded Sothic observations in records in 1904
 3. King-lists
-3.1 Palermo Stone, Dyn 5
+- Palermo Stone, Dyn 5
     - earliest king list
     - from pre-dynastic divine kings to Horus to human kings Dynastic 5
     - record notable events and height of the Nile every year of a king's reign
     - Nileometers
-3.2 Royal List of Karnak, Thutmose III
-3.3 Royal List of Abydos, Seti I
-3.4 Royal List of Saqqara, Ramesses II
-3.5  
+- Royal List of Karnak, Thutmose III
+- Royal List of Abydos, Seti I
+- Royal List of Saqqara, Ramesses II
+- 
 
 
 Ogdoad: masculine/feminite counterparts, original gods
