@@ -267,17 +267,17 @@ H. Sinai
 
 
 Ogdoad: masculine/feminite counterparts, original gods
-Nun/Naunet:     water/inertia
-Huh/Hauhet:     infinity
-Kuk/Kauket:     darkness
-Amun/Amaunet:   uncertainty/hiddenness
-real world: dry, active, limited, light, tangible
+- Nun/Naunet:     water/inertia
+- Huh/Hauhet:     infinity
+- Kuk/Kauket:     darkness
+- Amun/Amaunet:   uncertainty/hiddenness
+- real world: dry, active, limited, light, tangible
 
 Ennead
-Atum self-evoloving
-Shu and Tefnut
-Nut and Geb
-Osiris, Set, Isis, Nephthys
+- Atum self-evoloving
+- Shu and Tefnut
+- Nut and Geb
+- Osiris, Set, Isis, Nephthys
 
 Ptah of Memphis
 - embodies human creation
