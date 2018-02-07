@@ -225,6 +225,7 @@ Resonance
 
 # Phonology
 English past tense
+
 | verb ending | past tense ending|
 | ----------- | ---------------- |
 | alveolar stop (t/d) | -eed |
@@ -251,8 +252,8 @@ English past tense
 - people speak ~150-200 words per minute
 
 ## Allophones
-[t^h] [t] [D] [?] are _allophones_ of the same _phoneme_
-[d] [t] are different phonemes
+- [t^h] [t] [D] [?] are _allophones_ of the same _phoneme_
+- [d] [t] are different phonemes
 	- 'done' & 'ton' differ in meaning and exactly one sound -> *minimal pair*
 
 | | contrastive sounds | allophonic sounds | free variation |
