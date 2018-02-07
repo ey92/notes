@@ -341,6 +341,8 @@ Egyptian universe: bubble or void within watery chaos _Nun_
     - Nut (sky) and Geb (Earth)
     - Osiris, Set, Isis, Nephthys
     - Horus
+- Order (ma'at) vs Chaos (isfet)
+- Eye of Horus protection from harm
 3. Memphis
 4. Amun cult, centered at Thebes
 
