@@ -245,8 +245,7 @@ H. Sinai
     - dynasties 1-31, starting with Menes, given kingship by Horus
     - add Macedonian, Ptolemaic dynasties
     - add Dyn 0 for pre-Menes kings
-2. Sothic Cycle
-    Sopdet (Sirius)
+2. Sothic Cycle/Sopdet (Sirius)
     - rising tended to coincide with inundation, marking New Year
     - misaligned calendar 365 days vs 365.24 days in a year
     - New Year and Sothic rising coincided every 1460 years
@@ -255,15 +254,15 @@ H. Sinai
         - Senusret III's year 7 Dyn 12 1872 BC
         - Meyer found 6 recorded Sothic observations in records in 1904
 3. King-lists
-    a. Palermo Stone, Dyn 5
+    3.a Palermo Stone, Dyn 5
         - earliest king list
         - from pre-dynastic divine kings to Horus to human kings Dynastic 5
         - record notable events and height of the Nile every year of a king's reign
         - Nileometers
-    b. Royal List of Karnak, Thutmose III
-    c. Royal List of Abydos, Seti I
-    d. Royal List of Saqqara, Ramesses II
-    e. 
+    3.b Royal List of Karnak, Thutmose III
+    3.c Royal List of Abydos, Seti I
+    3.d Royal List of Saqqara, Ramesses II
+    3.e  
 
 
 Ogdoad: masculine/feminite counterparts, original gods
