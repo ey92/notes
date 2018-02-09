@@ -99,3 +99,35 @@ low price on WPI
 SG&A selling general and administration (expense) = sales reps
 demand: price, brand awareness, innovation
 sales reps is not cumulative
+
+
+team:
+s18teamb1
+dacrak
+
+home market
+
+
+
+review
+- stock price
+- cashe
+- profitability
+- market share
+- market g rowth
+- other teams' strats
+- impact on future strategic decisions
+
+if demand > sales
+	someone has superior value proposition - who?
+	is your offering decent 2nd alternative
+	implications for capacity planning
+	implications for competitive strategy
+if you have overdraft
+	what assets do you have to quickly pay it down
+	how to liquify assets
+if your competitors have overdraft
+	what would you do if them?
+	how does this affect competitive dynamic
+COGS and reject rate
+operating costs

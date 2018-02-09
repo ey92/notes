@@ -111,7 +111,7 @@ glottal stops
 - glottal fricative: [h]
 - not possible to voice glottal stops
 
-vowels are normally voicedconsonants may or may not be voiced
+vowels are normally voiced consonants may or may not be voiced
 
 voiced sounds can be made loud or soft, or sung
 
@@ -254,7 +254,7 @@ English past tense
 ## Allophones
 - [t^h] [t] [D] [?] are _allophones_ of the same _phoneme_
 - [d] [t] are different phonemes
-	- 'done' & 'ton' differ in meaning and exactly one sound -> *minimal pair*
+	- 'done' & 'ton' differ in meaning and exactly one sound -> **minimal pair**
 
 | | contrastive sounds | allophonic sounds | free variation |
 | - | ------------------ | ----------------- | -------------- |
@@ -262,3 +262,31 @@ English past tense
 | distribution predictability | unpredictable | predictable | unpredictable |
 | how to recognize | - contrastive distribution <br> - minimal pairs <br> - overlapping distribution with differences in meaning | complementary distribution | overlapping distribution with no difference in meaning
 
+## Figuring out the sound system of a new language
+1. identify differnt sounds that occur in the language
+	- determine **phoneme inventory**
+2. determine which differences are distinctive and meaningful (phonemic)
+	- find _minimal pairs_
+3. which differences are automatic, predictable, meaningless (allophonic)
+	- identify phonetic environments in which allophones occur
+	- 4 contexts:
+		- surrounding (preceding/following) phones in
+		- syllable phone is in
+		- surrounding syllables
+		- stress of syllables (suprasegmental features)
+
+- must be done individually for each language
+- phonemic differences in one language don't apply to all languages
+- allophonic distribution for 2 allophones usually 1 allophone restricted to certain context, and other allophone is everywhere else
+
+example:
+/s/ in front of back vowel
+/sh/ in front of non back vowel
+
+zulu
+/ou/+C+low vowel
+/o/+C+tense vowel
+
+korean
+/l/ when final or in front of consonant
+/r/ in front of vowel

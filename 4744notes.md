@@ -107,3 +107,62 @@ regex [{bitter} .o. [[i t+] -> [I T] || b _]].;
 [I T] 	substitute
 b 		left context
 		no right context
+
+8/2
+CFG ant Nuts-and-Bolts Parsing
+- ambiguities corresponding with tree structure
+- difference in reading/meaning results in difference in tree structure
+
+he saw [a man with a telescope]
+[a man with a telescope] was seen -> NP
+[what man with a telescope] did he see? -> (WH movement)
+[a man with a telescope] he saw
+	- implications for tree shape?
+movement diagnostics: wen prases "move", they do so as units, and transform the semantics in a systematic way
+- in NP reading, PP forms unit with "a man"
+
+a man was seen with a telescope
+what man did he see with a telescope?
+a man he saw with a telescope
+	- all intuitively ambiguous
+	PP can move right
+a man was seen with a telescope
+a man with a telescope was seen
+
+many sentences can be sytactically ambiguous
+
+Grammar for tree language:
+- CFGs
+- Categorical grammar
+- Minimalist movement grammar
+
+Productivity
+speakers can use many phrases in this family, of seemingly unbounded size
+[titles of books on tables near windows in gardens by rivers in kingdoms]
+
+Ambiguity
+..?
+
+CFG: tree-licensing interpretation - all local trees must be in the grammar
+1. set of rules/productions/local trees constructed form vocabularies
+	NP -> NP PP
+	PP -> PP NP
+	NP -> noun (lexicon)
+2. Terminals: ?
+3. ?
+
+Tree Licensing (acceptance)
+/t/ is licensed as an NPl because local tree at each non-terminal vertex is production of the grammar, root is з
+
+parsing: given a terminal string and grammar, find all the trees that have the given terminal string and are licensed by the grammar as a start symbol of the grammar
+
+cat sentA.in | lopar -in pp -trees | vpf
+vpf #view in tree form
+# sentA.in is sentence in textfile, each word on new line, blank line between new sentences
+
+tree domains and gorn trees
+Gorn trees to define derivation trees
+def: tree domain D is a nonempty subset of strings in N* satisfying conditions
+1. for all u,v ϵ N*+, if uv ϵ D, then u ϵ D
+2. for all u ϵ N*+, for every i ϵ N+, if ui ϵ D, then uj ϵ D for every j, 1 <= j <= i
+domain of tree t is dom(t), tree address or node
