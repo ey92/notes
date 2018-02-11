@@ -53,3 +53,41 @@ phonetics vs phonology
 | relation to phonemes | allophones of separate phonemes | allophones of same phoneme | allophones of same phoneme |
 | distribution predictability | unpredictable | predictable | unpredictable |
 | how to recognize | - contrastive distribution <br> - minimal pairs <br> - overlapping distribution with differences in meaning | complementary distribution | overlapping distribution with no difference in meaning
+
+### Implicational Laws
+- some sounds [p t a] are more common in languages than others [ħ ʕ]
+- **implicational law**: observation about language universals that takes the form of an implication
+	- if language uses a less common sound, one of its more common counterparts will also be used
+	- voiceless consonants more common than voiced consonants
+	- if language has a fricative, it also has stop in the same place of articulation
+
+| less common | more common |
+| ----------- | ----------- |
+| [ã] | [a] |
+| [ḁ] | [a] |
+| [x] | [k] or [s] |
+| [s] | [t] |
+| [d] | [t] |
+| [ð] | [d] or [z] |
+| voiced stops | voiceless stops |
+| fricatives in place X | stops in place X |
+
+- frequency & range of distribution
+- acquisition of sounds: children learn common sounds first and substitute them for less common sounds
+- sound change: less common sounds are less stable
+- use _maximally distinct_ consonants and vowels to avoid confusion in conveying message
+
+## Challenges of Phonology
+- different for each language
+- minute differences to observe unnoticed by native speakers & can't be physically determined
+- absence of minimal pairs doesn't necessarily imply that two phones are allophones of same phoneme
+	- if no generalization can be made, probably contrastive and allophones of different phonemes
+- using **near-minimal pairs**
+- allophonic variation results from application of phonological rules
+
+### Phonemic Analysis
+1. look at natural environments to find natural classes
+2. look for complementary gaps in environments
+3. state a generalization about the distribution of each of the sounds
+4. determine the identity of the phoneme and its allophones
+	- determine _restricted allophone_ and _basic allophone_

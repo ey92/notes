@@ -216,3 +216,9 @@ Managerial Implication of Control and Monitoring Tools
 - there is an optimum level of control to exercise
 	- too little: no work done
 	- too much: treating employees as robots doesn't take advantage of their skills
+
+A0 CTB
+products: bagel-based meals, fresh desserts, drinks
+revenue: selling food and drinks (restaurant)
+customers: college students
+advantages: convenient location, unique products, many food options

@@ -213,3 +213,7 @@
 - _free variation_: multiple pronunciations of given sound without changing word meaning
 
 **phonetic environment** - sound that comes before and after a particular sound in a word
+
+**basic allophone**/elsewhere allophone - allophone of a phoneme used when no change-inducing conditions fulfilled; least limited in where it can occur
+
+**restricted allophone** - allophone of a phoneme that appears in more limited set of phonetic environments

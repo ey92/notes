@@ -318,7 +318,7 @@ Egyptian universe: bubble or void within watery chaos _Nun_
 
 ## Cosmogeny: understanding of how the world was created
 - 4 creation myths/theologies
-1. Hermopolis (earlier)
+#### 1. Hermopolis (earlier)
 - originates from city of Thoth (wisdom, writing, magic), who Greeks connect to Hermes
 - mentioned in Pyramid Texts
 - mound rises out of water
@@ -330,7 +330,7 @@ Egyptian universe: bubble or void within watery chaos _Nun_
     - Kuk/Kauket:     darkness
     - Amun/Amaunet:   uncertainty/hiddenness
     - real world: dry, active, limited, light, tangible
-2. Heliopolis
+#### 2. Heliopolis
 - Plutarch's Isis and Osiris (2nd c.)
 - Hymn to Osiris
 - Horus & Seth known by Early Dynastic Period, Osiris by Old Kingdom
@@ -343,7 +343,7 @@ Egyptian universe: bubble or void within watery chaos _Nun_
     - Horus
 - Order (ma'at) vs Chaos (isfet)
 - Eye of Horus protection from harm
-3. Memphis (later than Heliopolitan)
+#### 3. Memphis (later than Heliopolitan)
 - cult of Ptah, god of humanistic creativity
 - embodies human creation
 - turns idea (perception) into reality via annunciation (magic)
@@ -357,7 +357,7 @@ Egyptian universe: bubble or void within watery chaos _Nun_
     - made four winds, great inundation, made every man alike
     - evil comes from men's heart, made them fear the west 
     - created gods from sweat, men from tears
-4. Amun cult, centered at Thebes (New Kingdom)
+#### 4. Amun cult, centered at Thebes (New Kingdom)
 
 ## Stone Age Egypt
 1. increasing precision, complexity of stone tools
