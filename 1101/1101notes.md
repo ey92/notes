@@ -288,5 +288,51 @@ zulu
 /o/+C+tense vowel
 
 korean
-/l/ when final or in front of consonant
-/r/ in front of vowel
+/r/ in between vowels
+/l/ elsewhere
+
+## Paradigmatic vs Syntagmatic linguistic description
+- _paradigmatic_: which parts is the language made of 
+	- in phonology ...
+- _syntagmatic_: how the parts combine together
+	- in phonology, how sounds combine with each other in sequences: phonotactics
+
+## Initial Word Clusters
+Old English initial clusters only allow:
+- 1st consonant obstruants: stops, fricatives
+- 2nd consonant sonorants: glides, liquids, nasals, semivowels
+
+Modern English:
+- bn, gn, kn, fn no longer allowed
+- bl, br, gl, gr, kl, kr, fl, fr still allowed
+- 1st consonant obstruants: stops, fricatives
+- 2nd consonant liquids (or non-nasal sonorants)
+
+- exceptions:
+- first consonant is /s/ (obstruant followed by anything)
+- loan words from other languages, e.g. from Greek, which have different set of restrictions
+
+Other restrictions
+- Greek has 2nd obstruant is alveolar
+- English 3-consonant cluster: /s/+Stop+Liquid
+- Japanese has no consonant clusters: insert vowels
+
+possible word-initial sequences:
+
+| | JP | EN | Old EN | GK |
+| - | -- | -- | ------ | -- |
+| CV | Y | Y | Y | Y |
+| OL | N | Y | Y | Y |
+| ON | N | N | Y | Y |
+| OO | N | N | N | Y |
+| SS | N | N | N | N |
+
+- possible implicational universal?
+	- if language has ON onset cluster, must also have OL onset clusters
+	- no counterexample yet
+
+## Final Word Clusters
+- end with /nt/ but not begin with /nt/
+- begin with /pl/ but not end with /lp/
+- /tl/ /pl/ /lp/ allowed in middle of word
+- /kn/ sometimes allowed in middle of word

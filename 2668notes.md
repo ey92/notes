@@ -392,3 +392,4 @@ stone tools "type fossils"/diagnostic artifact types
     - hman burial Taramsa
     - finely made backed blaelets, violence/warfare upper paleolithic
     - unpredictable circumstances
+
