@@ -1,7 +1,27 @@
 # Introduction
+- companies invest in IT to increase productivity
+	- suggests capital to labor substitution
+- **productivity** - output per employee per hour
 
 ## Productivity Paradox
-possible explanations:
+**productivity paradox**: over 1975-1990, IT investment dramatically increasing, but productivity has been stagnant
+
+### simple explanations:
+1. measuring average productivity per employee (poor measurement)
+	- some dramatically increase productivity while others' productivity drop
+2. technology isn't used properly, can even be a distraction
+3. time lag: delay in productivity increase
+	3.1 training
+	3.2 adapt tech for organization (customization), combined with secondary tech -> takes a long time
+	3.3 adapt the organization to use IT (_business process engineering BPE_)
+
+- optimal application of tech is between 3.2 and 3.3
+
+e.g. electricity & redesigning factories ~ 40yrs
+- estimating productivity delay is critical for high-tech companies
+evidence: productivity shot up in 1990-1998, internet 2003-2016
+
+### complex explanations:
 1. time lag
 	- evidence: time graph
 2. misuse argument
@@ -222,3 +242,8 @@ products: bagel-based meals, fresh desserts, drinks
 revenue: selling food and drinks (restaurant)
 customers: college students
 advantages: convenient location, unique products, many food options
+
+
+ Metcalfe’s Law, which states that the value of a network is proportional to the square of the number of connected users
+ - doesn't apply to Uber/Lyft
+ - whoever has majority of drivers will slowly win

@@ -53,7 +53,7 @@ colonial powers try to amass collections
 	* 100 yrs thick or 1 season in a year
 
 ### 3 Steps to Archaeology in ANE and Egypt
-1\. Exploration, including travel (5th-17th century)
+#### 1\. Exploration, including travel (5th-17th century)
 - 5th c BC Herodotous, Greek historian of Persian Wars
 - 3rd c CE Eusebius, bishop of Caesarea, Onomasticon, list of place-names
 - 4th c CE Queen Helena's pilgrimmage, Imp. Contantine's mother
@@ -72,7 +72,7 @@ colonial powers try to amass collections
 	* mistakenly believed that hieroglyphs were magic symbols for natural and moral principles "symbology"
 	* held back actual deciphering
 
-2\. Collecting (17th-19th century)
+#### 2\. Collecting (17th-19th century)
 - Private: _antiquarianism_ or amateur archaeology
 	* 17th c. Pietro della Valle, collecting Coptic (ancient Egyptian language written in Greek script) manuscripts in Egypt
 	* 1646 John Greaves /Pyramidographica/ Mis-measured Khufu pyramid as 152m high
@@ -94,7 +94,7 @@ colonial powers try to amass collections
         discovered Seti I's tomb
     * 1850s Auguste Mariette, Frenchman collecting for Louvre, founds Egyptian Antiquities Service and Cairo Museum
 
-3\. Archaeology/Egyptology (scientific, 19th century to present)
+#### 3\. Archaeology/Egyptology (scientific, 19th century to present)
 - 1833,63 Charles Lyell, /Principles of Geology/ and /Geological evidences of the antiquity of man?
     - gradual evolutionary change rather than catastrophic Biblical change
     - geological layers, gradual change, law of superposition (top layers are later than lower layers)
@@ -368,25 +368,25 @@ developments spread acrss many sites
 stone tools "type fossils"/diagnostic artifact types
 
 ### Paleolithic Egypt
-- lower paleolithic c. 400,000-250,000 before present
+#### lower paleolithic c. 400,000-250,000 before present
     - Acheulian handaxe, used by _homo erectus_
-- middle paleolithic c. 250,000-50,000 bc
+#### middle paleolithic c. 250,000-50,000 bc
     - from cores to flakes
     - Levallois flake and core tools
     - used by _homo neaderthalensis_
     - identified by scatter sites (tools and debitage) & refits
     - Taramsa-1 at Dendera: earliest Egyptian middle paleolithic burial, _homo sapiens_
-- upper paleolithic c. 50,000-24,000 bc
+#### upper paleolithic c. 50,000-24,000 bc
     - long blades, serrated edges
     - Nazlet-Khater 4, earliest Egyptian mining site
     - _homo sapiens_ skeletal remains
-- late paleolithic Egypt c. 24,000-10,000 bc
+#### late paleolithic Egypt c. 24,000-10,000 bc
     - microliths/bladelets: backed for mounting, knife, arrow, spear; regular shapes
     - Wadi Kubbaniya hunting and fishing around annual lake: red hartebeest, gazelle
     - Gebel Sahaba (Sudan) late paleolithic cemetary: simple burials in pits w/o goods projectiles in skeletons (violent deaths)
         - Wild Nile hypothesis: unpredictable Nile floods caused conflicts
     - Nataruk, Lake Turkana, Kenya: more violence, is violence/chaos inherently human?
-- stone age achievements
+#### stone age achievements
     - hunting-gathering-fishing lower paleolithic
     - advanced lithics, Levallois brades middle paleolithic
     - hman burial Taramsa

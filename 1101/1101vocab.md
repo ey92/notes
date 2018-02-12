@@ -217,3 +217,5 @@
 **basic allophone**/elsewhere allophone - allophone of a phoneme used when no change-inducing conditions fulfilled; least limited in where it can occur
 
 **restricted allophone** - allophone of a phoneme that appears in more limited set of phonetic environments
+
+**near-minimal pair** - similar to a minimal pair, but whereas words in minimal pair identical other than contrastive sounds, words in near-minimal pair only almost identical
