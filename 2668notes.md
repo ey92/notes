@@ -369,27 +369,27 @@ stone tools "type fossils"/diagnostic artifact types
 
 ### Paleolithic Egypt
 #### lower paleolithic c. 400,000-250,000 before present
-    - Acheulian handaxe, used by _homo erectus_
+- Acheulian handaxe, used by _homo erectus_
 #### middle paleolithic c. 250,000-50,000 bc
-    - from cores to flakes
-    - Levallois flake and core tools
-    - used by _homo neaderthalensis_
-    - identified by scatter sites (tools and debitage) & refits
-    - Taramsa-1 at Dendera: earliest Egyptian middle paleolithic burial, _homo sapiens_
+- from cores to flakes
+- Levallois flake and core tools
+- used by _homo neaderthalensis_
+- identified by scatter sites (tools and debitage) & refits
+- Taramsa-1 at Dendera: earliest Egyptian middle paleolithic burial, _homo sapiens_
 #### upper paleolithic c. 50,000-24,000 bc
-    - long blades, serrated edges
-    - Nazlet-Khater 4, earliest Egyptian mining site
-    - _homo sapiens_ skeletal remains
+- long blades, serrated edges
+- Nazlet-Khater 4, earliest Egyptian mining site
+- _homo sapiens_ skeletal remains
 #### late paleolithic Egypt c. 24,000-10,000 bc
-    - microliths/bladelets: backed for mounting, knife, arrow, spear; regular shapes
-    - Wadi Kubbaniya hunting and fishing around annual lake: red hartebeest, gazelle
-    - Gebel Sahaba (Sudan) late paleolithic cemetary: simple burials in pits w/o goods projectiles in skeletons (violent deaths)
-        - Wild Nile hypothesis: unpredictable Nile floods caused conflicts
-    - Nataruk, Lake Turkana, Kenya: more violence, is violence/chaos inherently human?
+- microliths/bladelets: backed for mounting, knife, arrow, spear; regular shapes
+- Wadi Kubbaniya hunting and fishing around annual lake: red hartebeest, gazelle
+- Gebel Sahaba (Sudan) late paleolithic cemetary: simple burials in pits w/o goods projectiles in skeletons (violent deaths)
+    - Wild Nile hypothesis: unpredictable Nile floods caused conflicts
+- Nataruk, Lake Turkana, Kenya: more violence, is violence/chaos inherently human?
 #### stone age achievements
-    - hunting-gathering-fishing lower paleolithic
-    - advanced lithics, Levallois brades middle paleolithic
-    - hman burial Taramsa
-    - finely made backed blaelets, violence/warfare upper paleolithic
-    - unpredictable circumstances
+- hunting-gathering-fishing lower paleolithic
+- advanced lithics, Levallois brades middle paleolithic
+- hman burial Taramsa
+- finely made backed blaelets, violence/warfare upper paleolithic
+- unpredictable circumstances
 
