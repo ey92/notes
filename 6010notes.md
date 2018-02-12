@@ -15,7 +15,7 @@
 	2. adapt tech for organization (customization), combined with secondary tech -> takes a long time
 	3. adapt the organization to use IT (_business process engineering BPE_)
 
-- optimal application of tech is between 3.2 and 3.3
+- optimal application of tech is between _ii_ and _iii_
 
 e.g. electricity & redesigning factories ~ 40yrs
 - estimating productivity delay is critical for high-tech companies
