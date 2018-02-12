@@ -157,15 +157,15 @@ Questions:
 		* doc sharing, coordination
 	- impact of IT on intermediaries
 
-## classification
+## Classification
 - criteria: mode, content, scope
+
 | _mode_ | example |
 | - | - |
 | synchronous | call |
 | asynchronous | email (stored for your convenience) |
 
-_content_
-- text, graphics, audio, video
+_content_: text, graphics, audio, video
 
 | _scope_ | example |
 | - | - |
@@ -174,7 +174,7 @@ _content_
 | many:1 | web transactions, mailboxes |
 | many:many | group meetings |
 
-1:M synchronous with audio-video/broadcasting
+#### 1:M synchronous with audio-video/broadcasting
 - loudspeaker -> charismatic dictators (publci speakers)
 - live TV -> looks/image
 - Twitter -> short slogans
@@ -185,11 +185,11 @@ _content_
 	* synchronous tv broadcast expensive
 	* webcasting drastically reduced cost
 
-Drop in cost of technology often creates entrepreneurial opportunities
+#### Drop in cost of technology often creates entrepreneurial opportunities
 	- parentwatch.com webcasting daycare, samething for pets
 	- education: distant learning
 
-Asynchronous Education is even cheaper
+#### Asynchronous Education is even cheaper
 - change education system to take advantage
 - massive open online courses (MOOCs)
 - _intelligent books_
@@ -201,7 +201,7 @@ Asynchronous Education is even cheaper
 | asynchronous | anywhere/anytime/anyplace |
 | synchronous | interaction |
 
-Low Quality as a Competitive Strategy
+#### Low Quality as a Competitive Strategy
 - in technology business, lower quality and cheaper competition is a concern
 	* with technologies that improve over time, low quality technologies can upgrade to mainstream, and high quality technologies become extravagant
 - everyone's technology improves -> eventually the cheap option becomes good enough
@@ -212,13 +212,13 @@ Low Quality as a Competitive Strategy
 - online education fits the model
 - potential strategies to address these new entrants: ignore, buy out, direct competition
 
-Optimum Design of Online Courses
+#### Optimum Design of Online Courses
 - likely to become more of a production
 - combination of synchronous & asynchronous
 - parallel: music
 - improvements: more interactivity, personal customization
 
-Groupware and Consulting
+#### Groupware and Consulting
 - conerestone systems consulting co.: custom business software
 -teams and client meetings via Cisco's Webex Conferencing
 	- save time and money
@@ -226,24 +226,24 @@ Groupware and Consulting
 - video not the most critical part; screensharing/document sharing extremely important
 - _synchronous document sharing_: simultaneous viewing and editing of document by multiple users
 
-Workflow Systems
+#### Workflow Systems
 - sequential document sharing, not synchronous, nor asynchronous
 - automate supervision and control, electronically move documents & issue warnings
 - e.g. paperwork
 
-Managerial Implication of Control and Monitoring Tools
+#### Managerial Implication of Control and Monitoring Tools
 - use employee control and monitoring tools with care
 - there is an optimum level of control to exercise
 	- too little: no work done
 	- too much: treating employees as robots doesn't take advantage of their skills
 
-A0 CTB
-products: bagel-based meals, fresh desserts, drinks
-revenue: selling food and drinks (restaurant)
-customers: college students
-advantages: convenient location, unique products, many food options
+### A0 CTB
+- products: bagel-based meals, fresh desserts, drinks
+- revenue: selling food and drinks (restaurant)
+- customers: college students
+- advantages: convenient location, unique products, many food options
 
 
- Metcalfe’s Law, which states that the value of a network is proportional to the square of the number of connected users
+**Metcalfe’s Law**, which states that the value of a network is proportional to the square of the number of connected users
  - doesn't apply to Uber/Lyft
  - whoever has majority of drivers will slowly win
