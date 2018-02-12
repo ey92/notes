@@ -11,9 +11,9 @@
 	- some dramatically increase productivity while others' productivity drop
 2. technology isn't used properly, can even be a distraction
 3. time lag: delay in productivity increase
-3.1 training
-3.2 adapt tech for organization (customization), combined with secondary tech -> takes a long time
-3.3 adapt the organization to use IT (_business process engineering BPE_)
+3.1. training
+3.2. adapt tech for organization (customization), combined with secondary tech -> takes a long time
+3.3. adapt the organization to use IT (_business process engineering BPE_)
 
 - optimal application of tech is between 3.2 and 3.3
 
