@@ -242,13 +242,84 @@ missing 2 lectures
 ---
 
 
+**Metcalfe’s Law**, which states that the value of a network is proportional to the square of the number of connected users
+ - doesn't apply to Uber/Lyft
+ - whoever has majority of drivers will slowly win
+
+ # Networks
+ **Protocols** - rules of navigating and sharing networks
+
+ - HTTP aka WWW, supports 1:M asynchronous communication
+ 	- views wolrd as collection of docuents, each with address
+ 	- address -> document
+ 	- hypertext: text can be linked to more docmuents (nonlinear sequence of documents)
+ - email, telnet, FTP
+
+ ### HTTP
+ - TCP
+ - IP: addressing
+ - client-server
+ - multiple layers bc developed at different times and served different purposes/"multi-purpose components"
+ - technologies change incrementally, allowing managers to anticipate if they know what to watch and follow the development
+ - technologies take a long time todevelop, commercialize, and even longer before widespread adoption
+
+- 1948 Vannevar Bush: concept of WWW 1948 called Memex, manual system
+- 1980s UMinnesota: Gopher, failed because no links, text-only, no GUI
+- extremely expensive to maintain
+- cost-based pricing too expensive in the beginning, incentivizes people to wait for cheaper price, no early users
+- value-based pricing
+
+### Network effects
+- typical of networking and communication technologies
+- product has positive network effects if the value of a product to a user increases with the total number of users (e.g. fax machine)
+- value grows quadratically with number of users n^2^
+- adds another cause for delay in adoption of technologies **in A1
+	- value of product is low in the beginning (before network is built)
+- fax machine invented 1843, adopted in 1980s; 1st email 1969
+- most companies can't afford long wait for return on investment
+- *strategies to reduce delay:
+	- free giveaways or introductory pricing
+	- Tim Berners Lee invented WWW 1991 and gave it away for free because inferior product, inefficient, unreliable
+- value-based dynamic pricing: multi-period analysis is necessary for the life of the product when there are network effects, because the price today effects the demand in the future
+- consumers psychologically require stable price
+- critical price point: free to charged
+	- NY Times Online and 99c/month subscription fee
+- bundling with an established product
+	- e.g. IE, audio/video conferencing
+- Google: search engine with learning algorithm: searchers
+- _weak network effect_:
+	- _fashion effect_ - fashion and reputation have weak network effects if they make your product more valuable
+	- _watercooler effect_ - sharing/discussing the same content
+	- _two-sided/indirect network effect_
+		- online magazine: more readers -> attract better writers
+		- Uber: drivers/riders
+		- MS Windows: applications/users
+		- Amazon: buyers/sellers
+- if you need to exchange documents, likely to have network effects
+- _economies of scale are not network effects, because they relate to cost, not value of the product_
+- **first mover advantages** - once you achieve a critical mass, product is more valuable than competitors' products who are just starting to build their network
+	- sustainable competitive advantage from size
+- linear vs quadratic adoption rate
+	- fatal implications:
+		- overestimate demand in beginning (overproduction)
+		- underestimate demand later (underproduction)
+	- Corning Glass fiber optic 1990s almost failed until internet videos
+	- railways in England 1800s: grew 20% annually, but traffic grew 4%; 1850s: railways grew 4%, traffic grew 20%
+	- NY canal system 1880s
+	- _Economist_: technological success but financial failure
+
+---
 ### A0 CTB
 - products: bagel-based meals, fresh desserts, drinks
 - revenue: selling food and drinks (restaurant)
 - customers: college students
 - advantages: convenient location, unique products, many food options
 
+### A1
+server: http://na6010.johnson.cornell.edu/<teamname>
+a1.html
+address http://na6010.johnson.cornell.edu/<teamname>/a1.html
+conceptual questions ~ final exam questions
+TA hours MW 8:30-9:30pm Sage B1
 
-**Metcalfe’s Law**, which states that the value of a network is proportional to the square of the number of connected users
- - doesn't apply to Uber/Lyft
- - whoever has majority of drivers will slowly win
+fill out submission form: which questions were answered, what were the answers

@@ -317,7 +317,8 @@ Egyptian universe: bubble or void within watery chaos _Nun_
 - Aten, life-giving solar disc
 
 ## Cosmogeny: understanding of how the world was created
-- 4 creation myths/theologies
+4 creation myths/theologies
+
 #### 1. Hermopolis (earlier)
 - originates from city of Thoth (wisdom, writing, magic), who Greeks connect to Hermes
 - mentioned in Pyramid Texts
@@ -359,7 +360,7 @@ Egyptian universe: bubble or void within watery chaos _Nun_
     - created gods from sweat, men from tears
 #### 4. Amun cult, centered at Thebes (New Kingdom)
 
-## Stone Age Egypt
+# Stone Age Egypt
 1. increasing precision, complexity of stone tools
 2. domestication of plants and animals
 3. sedentism - permanent houses in villages
@@ -367,29 +368,100 @@ challenge: no writing until 3150bc
 developments spread acrss many sites
 stone tools "type fossils"/diagnostic artifact types
 
-### Paleolithic Egypt
-#### lower paleolithic c. 400,000-250,000 before present
+## Paleolithic Egypt
+#### Lower Paleolithic c. 400,000-250,000 before present
 - Acheulian handaxe, used by _homo erectus_
-#### middle paleolithic c. 250,000-50,000 bc
+#### Middle Зaleolithic c. 250,000-50,000 bc
 - from cores to flakes
 - Levallois flake and core tools
 - used by _homo neaderthalensis_
 - identified by scatter sites (tools and debitage) & refits
 - Taramsa-1 at Dendera: earliest Egyptian middle paleolithic burial, _homo sapiens_
-#### upper paleolithic c. 50,000-24,000 bc
+#### Upper Paleolithic c. 50,000-24,000 bc
 - long blades, serrated edges
 - Nazlet-Khater 4, earliest Egyptian mining site
 - _homo sapiens_ skeletal remains
-#### late paleolithic Egypt c. 24,000-10,000 bc
+#### Late Paleolithic Egypt c. 24,000-10,000 bc
 - microliths/bladelets: backed for mounting, knife, arrow, spear; regular shapes
 - Wadi Kubbaniya hunting and fishing around annual lake: red hartebeest, gazelle
 - Gebel Sahaba (Sudan) late paleolithic cemetary: simple burials in pits w/o goods projectiles in skeletons (violent deaths)
     - Wild Nile hypothesis: unpredictable Nile floods caused conflicts
 - Nataruk, Lake Turkana, Kenya: more violence, is violence/chaos inherently human?
-#### stone age achievements
+- unprdictable resources, chaos (isfet)
+#### Stone Age Achievements
 - hunting-gathering-fishing lower paleolithic
 - advanced lithics, Levallois brades middle paleolithic
 - hman burial Taramsa
 - finely made backed blaelets, violence/warfare upper paleolithic
 - unpredictable circumstances
 
+## Neolithic: Western Desert, Nile Valley
+- domestication of plants and animals
+- (fill in)
+
+### Western Desert Neolithic, 8800-4500
+#### Nabta Playa
+- Earliest Phase 8800-5400
+    - has pottery ca. 7000
+    - wells, small mud huts, possible permanent settlements
+    - wild plants and animals
+- Middle PHase 5400-5100
+    - domesticated animals, herding over hunting
+- Late phase 5100-4700
+    - megalithic structure with standing stones
+    - cattle under tumulus, potential cult sites
+- "calendar circle" 
+    - orientation to Sothis disproven with GPS
+    - more excavation needed to prove anything
+    - example of organized labor
+#### Gilf Kebir, SW Egypt, W Desert
+- Cave of Swimmers
+- show neolithic had wetter conditions
+
+### Nile Valley 5500-4250
+#### Faiyum A 5500-4500
+- domesticated grain (barley, emmer), earliest in Nile Valley
+- storage pits, with sickle blade
+- "silo" groups/communal storage
+- domesticated sheep, goat, pig
+- fishing
+- flake tools, improved lunate points, crude polished pottery, baskets
+- NO burials or permanent housing (found)
+#### Merimde Beni Salama, SW Delta 4750-4250
+- five levels, first complex settlement with stratigraphy in Egypt - 1st village
+- MBS III-V 'classic' large _village with oval houses_, first figurines, 200k m2
+    - pottery large and coarse, decorative burnishing
+    - 400-200 people in oval houses, up to 3m diameter
+- intramural child burials without goods
+- no cemeteries, extramural burials
+#### Neolithic Achievements
+- first pottery ca. 7000 at Nabta Playa
+- first animal domestication 5400 Nabta Playa
+    - same time in Faiyum and Merimde
+- first plant domestication/agriculture at Faiyum and Merimde ca. 5000
+- first cultic or monumental architecture, ca. 5000 at Nabta Playa
+- first public construction for utilitarian purposes
+    - storage silos in Faiyum ca. 5500-4500
+- first village with human figurines at Merimbe ca. 4500
+
+### Badarian Egypt 4500-4000 BCE
+- main site: el-Badari, earliest cultural horizon
+- graves and pottery found by Petrie
+- begin finding Badarian ceramics in all of Upper Egypt
+
+Contrast to Merimde
+- in Upper Egypt, as opposed to Lower Egypt
+- no villages found
+- extramural burials, cemetaries
+
+#### Badarian
+- earliest agriculture in UPper Egypt
+- status differentiation in wealth of goods
+- groups of elite graves with extramural cemetery
+- 'ripple' bowl, type-fossil, possible craft specialists
+- pottery generally very fine, burnished ware
+- stone cosmetic palettes
+- figurines & vases in bone and ivory
+- hammered copper & glazed beads (Chalcolithic/copper age)
+- 'fully furnished' afterlife
+- evidence of class difference: more furnishings for wealthier, segregated graves
