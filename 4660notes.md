@@ -1,4 +1,4 @@
-last day March 7
+last day March 14
 25/1
 ----
 simulated company in competition with other student groups

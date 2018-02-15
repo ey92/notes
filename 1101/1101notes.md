@@ -297,12 +297,12 @@ korean
 - _syntagmatic_: how the parts combine together
 	- in phonology, how sounds combine with each other in sequences: phonotactics
 
-## Initial Word Clusters
+## Word Clusters
 Old English initial clusters only allow:
 - 1st consonant obstruants: stops, fricatives
 - 2nd consonant sonorants: glides, liquids, nasals, semivowels
 
-Modern English:
+Modern English Initial Consonant Clusters:
 - bn, gn, kn, fn no longer allowed
 - bl, br, gl, gr, kl, kr, fl, fr still allowed
 - 1st consonant obstruants: stops, fricatives
@@ -331,8 +331,32 @@ possible word-initial sequences:
 	- if language has ON onset cluster, must also have OL onset clusters
 	- no counterexample yet
 
-## Final Word Clusters
+Homorganic Cluster Constraint
+- obstruent+sonorant initial consonant cluster not allowed if both are in same place of articulation (Greek)
+
+Final Word Clusters
 - end with /nt/ but not begin with /nt/
 - begin with /pl/ but not end with /lp/
-- /tl/ /pl/ /lp/ allowed in middle of word
-- /kn/ sometimes allowed in middle of word
+- rules only apply to consonant cluster
+
+## Syllable
+- /tl/ /pl/ /lp/ /kn/ allowed in middle of word
+- not allowed at beginning or end of _syllable_
+- syllable boundary between consonants, no longer a consonant cluster
+
+- intuition tells us how to break words up into their syllables and how many there are
+
+Syllable Anatomy
+
+![Syllable Anatomy](https://github.com/ey92/notes/blob/master/1101/syllable.png)
+
+Sonority
+- some consonants are more sonorous (vowel-like) than others
+- obstruents < sonorants
+- nasal stops < liquids
+- voiceless < voiced stops
+- obstruents, nasals, liquids, vowels
+
+- sonority contour of syllables: need a maximally sonorous center
+- slope of rise has different threshold, depending on language, can change over time
+- if increase/decrease in sonority isn't strong enough for language, consonant cluster cannot begin the syllable

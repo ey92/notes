@@ -149,7 +149,7 @@ Questions:
 - How do managers and intermediaries change themselves to take advantage of the technologies optimally?
 
 
-# Communication
+# Communication and Conferencing, Virtual Corporation
 - communication technologies provide simple examples for several complex concepts
 	-tool-taks  fit, business processs reengineering
 		* webcasting and conferencing: consulting, education
@@ -186,8 +186,8 @@ _content_: text, graphics, audio, video
 	* webcasting drastically reduced cost
 
 #### Drop in cost of technology often creates entrepreneurial opportunities
-	- parentwatch.com webcasting daycare, samething for pets
-	- education: distant learning
+- parentwatch.com webcasting daycare, samething for pets
+- education: distant learning
 
 #### Asynchronous Education is even cheaper
 - change education system to take advantage
@@ -241,27 +241,27 @@ _content_: text, graphics, audio, video
 missing 2 lectures
 ---
 
-
+# Networks
 **Metcalfe’s Law**, which states that the value of a network is proportional to the square of the number of connected users
- - doesn't apply to Uber/Lyft
- - whoever has majority of drivers will slowly win
+- doesn't apply to Uber/Lyft
+- whoever has majority of drivers will slowly win
 
  # Networks
  **Protocols** - rules of navigating and sharing networks
 
- - HTTP aka WWW, supports 1:M asynchronous communication
+- HTTP aka WWW, supports 1:M asynchronous communication
  	- views wolrd as collection of docuents, each with address
  	- address -> document
  	- hypertext: text can be linked to more docmuents (nonlinear sequence of documents)
- - email, telnet, FTP
+- email, telnet, FTP
 
- ### HTTP
- - TCP
- - IP: addressing
- - client-server
- - multiple layers bc developed at different times and served different purposes/"multi-purpose components"
- - technologies change incrementally, allowing managers to anticipate if they know what to watch and follow the development
- - technologies take a long time todevelop, commercialize, and even longer before widespread adoption
+### HTTP
+- TCP
+- IP: addressing
+- client-server
+- multiple layers bc developed at different times and served different purposes/"multi-purpose components"
+- technologies change incrementally, allowing managers to anticipate if they know what to watch and follow the development
+- technologies take a long time todevelop, commercialize, and even longer before widespread adoption
 
 - 1948 Vannevar Bush: concept of WWW 1948 called Memex, manual system
 - 1980s UMinnesota: Gopher, failed because no links, text-only, no GUI
@@ -273,7 +273,7 @@ missing 2 lectures
 - typical of networking and communication technologies
 - product has positive network effects if the value of a product to a user increases with the total number of users (e.g. fax machine)
 - value grows quadratically with number of users n^2^
-- adds another cause for delay in adoption of technologies **in A1
+- adds another cause for delay in adoption of technologies **in A1**
 	- value of product is low in the beginning (before network is built)
 - fax machine invented 1843, adopted in 1980s; 1st email 1969
 - most companies can't afford long wait for return on investment
@@ -307,6 +307,72 @@ missing 2 lectures
 	- railways in England 1800s: grew 20% annually, but traffic grew 4%; 1850s: railways grew 4%, traffic grew 20%
 	- NY canal system 1880s
 	- _Economist_: technological success but financial failure
+
+# Databases and Electronic Markets
+## Information Storage
+Problems with Storage:
+
+1. Dynamic Information: text documents difficult to update
+2. Large Quantity: text documents waste space
+3. Search and Filter: text documents are difficult to search
+- complex questions
+	- e.g. card holders w/ past due balances
+	- e.g. purchsed camera in last month
+	- e.g. cards used only when travel
+
+- **fundamental problem**: accessibility
+- inccessible -> difficult to use and analyze data
+
+## Databases
+store, search, retrieve, and update data efficiently
+- every dept can collect and use own data
+
+### Local vs. Shared Data
+#### 1. decentralized and disconnected: duplicate storange in multiple databases
+- multiple databases, redundancy
+- issues:
+	- redundancy, slow, _potential inconsistencies_
+
+#### 2. decentralized and connected: store data where created and provide remote access
+- multiple databases, no redundancy
+- issues: 
+- incompatibility between multiple databases
+	- semantic: naming & unit conventions
+
+#### 3. centralized but distributed: single organizational database
+- centrally controlled pool of data with no redundancy or incompatibility
+- can be geographically distributed
+- _Data Model_ single central plan
+- issues:
+	- size problem/information overload: software solution
+	- difficult to design single central plan for organization -> Database Management System (DBMS)
+	- management problem: shared resources have to be managed and lead a political problems -> Database Administrator (DBA)
+
+### Business Applications:
+---
+#### 1. Tracking Resources: transactions, inventory, organizational performance, processes and workflow systems
+- freed _accounting_ from bookkeping via automation
+- _transactions_ on same document (ordering, shipping, delivery)
+- _inventory_ connected to registers, trigger reorder when supply below threshold
+- _organizational performance_ manager can bypass line of command and get his own information from the database
+	- information inconsistency vs overload -> stream the right level of information to corresponding level of management
+- _traders_ filter & aggregate analysts' advice from database
+- processes and **workflow systems** (systems that track processes): **concurrency**
+
+#### Braess Paradox
+network effects complicate centralization/decentralization debate further and require even more centralization to reach the global optimum
+
+Leads to **Negative Network Effects**
+1. centralize decisions
+2. new technology can make everyone worse off, although each person will be worse off
+
+- When there are network effects, need to cooperate and centralize decisions -> industry standards and platforms; cooperation allows better outcomes
+
+#### 2. 
+#### 3.
+#### 4.
+#### 5.
+
 
 ---
 ### A0 CTB

@@ -139,7 +139,7 @@ colonial powers try to amass collections
         | Akhet | Jun - Oct | flood |
         | Peret | Oct - Feb | growing |
         | Schemu | Feb - Jun | harvest/drought |
-- **Nile water comes fron summer monsoons in Indian ocean, trapped in mountains of Eritrea and Ethiopia
+- ** Nile water comes fron summer monsoons in Indian ocean, trapped in mountains of Eritrea and Ethiopia
 
 ### **Nile geography
 - 4180 miles
@@ -239,12 +239,14 @@ H. Sinai
 ## Chronology
 - influenced by ecology
 - 3 main influences for 34-dynasty chronology
+
 #### 1. Manetho's history 'Beloved of Thoth'
 - 3rd c. BC priest at Heliopolis/On, near Memphis
 - fragments of history referenced by later authors
 - dynasties 1-31, starting with Menes, given kingship by Horus
 - add Macedonian, Ptolemaic dynasties
 - add Dyn 0 for pre-Menes kings
+
 #### 2. Sothic Cycle/Sopdet (Sirius)
 - rising tended to coincide with inundation, marking New Year
 - misaligned calendar 365 days vs 365.24 days in a year
@@ -253,6 +255,7 @@ H. Sinai
     - Censorinus, 139 CE observation
     - Senusret III's year 7 Dyn 12 1872 BC
     - Meyer found 6 recorded Sothic observations in records in 1904
+
 #### 3. King-lists
 - Palermo Stone, Dyn 5
     - earliest king list
@@ -272,6 +275,7 @@ H. Sinai
     - in Hieractic script, not hieroglyphics
     - poorly preserved
     - omits 2nd intermediate period
+
 #### 4. Mostly Accurate w/ Caveats
 Margin of Error
 
@@ -331,6 +335,7 @@ Egyptian universe: bubble or void within watery chaos _Nun_
     - Kuk/Kauket:     darkness
     - Amun/Amaunet:   uncertainty/hiddenness
     - real world: dry, active, limited, light, tangible
+
 #### 2. Heliopolis
 - Plutarch's Isis and Osiris (2nd c.)
 - Hymn to Osiris
@@ -344,6 +349,7 @@ Egyptian universe: bubble or void within watery chaos _Nun_
     - Horus
 - Order (ma'at) vs Chaos (isfet)
 - Eye of Horus protection from harm
+
 #### 3. Memphis (later than Heliopolitan)
 - cult of Ptah, god of humanistic creativity
 - embodies human creation
@@ -371,16 +377,19 @@ stone tools "type fossils"/diagnostic artifact types
 ## Paleolithic Egypt
 #### Lower Paleolithic c. 400,000-250,000 before present
 - Acheulian handaxe, used by _homo erectus_
+
 #### Middle Зaleolithic c. 250,000-50,000 bc
 - from cores to flakes
 - Levallois flake and core tools
 - used by _homo neaderthalensis_
 - identified by scatter sites (tools and debitage) & refits
 - Taramsa-1 at Dendera: earliest Egyptian middle paleolithic burial, _homo sapiens_
+
 #### Upper Paleolithic c. 50,000-24,000 bc
 - long blades, serrated edges
 - Nazlet-Khater 4, earliest Egyptian mining site
 - _homo sapiens_ skeletal remains
+
 #### Late Paleolithic Egypt c. 24,000-10,000 bc
 - microliths/bladelets: backed for mounting, knife, arrow, spear; regular shapes
 - Wadi Kubbaniya hunting and fishing around annual lake: red hartebeest, gazelle
@@ -388,6 +397,7 @@ stone tools "type fossils"/diagnostic artifact types
     - Wild Nile hypothesis: unpredictable Nile floods caused conflicts
 - Nataruk, Lake Turkana, Kenya: more violence, is violence/chaos inherently human?
 - unprdictable resources, chaos (isfet)
+
 #### Stone Age Achievements
 - hunting-gathering-fishing lower paleolithic
 - advanced lithics, Levallois brades middle paleolithic
@@ -414,6 +424,7 @@ stone tools "type fossils"/diagnostic artifact types
     - orientation to Sothis disproven with GPS
     - more excavation needed to prove anything
     - example of organized labor
+
 #### Gilf Kebir, SW Egypt, W Desert
 - Cave of Swimmers
 - show neolithic had wetter conditions
@@ -427,6 +438,7 @@ stone tools "type fossils"/diagnostic artifact types
 - fishing
 - flake tools, improved lunate points, crude polished pottery, baskets
 - NO burials or permanent housing (found)
+
 #### Merimde Beni Salama, SW Delta 4750-4250
 - five levels, first complex settlement with stratigraphy in Egypt - 1st village
 - MBS III-V 'classic' large _village with oval houses_, first figurines, 200k m2
@@ -434,6 +446,7 @@ stone tools "type fossils"/diagnostic artifact types
     - 400-200 people in oval houses, up to 3m diameter
 - intramural child burials without goods
 - no cemeteries, extramural burials
+
 #### Neolithic Achievements
 - first pottery ca. 7000 at Nabta Playa
 - first animal domestication 5400 Nabta Playa
@@ -465,3 +478,70 @@ Contrast to Merimde
 - hammered copper & glazed beads (Chalcolithic/copper age)
 - 'fully furnished' afterlife
 - evidence of class difference: more furnishings for wealthier, segregated graves
+
+## Late Predynastic Egypt
+#### Naqada I (Amratian) 4000-3500
+- social hierarchy
+
+#### Naqada II (Gerzan) 3550-3150
+- cultural unification
+- kingship, vaguely & anonymously
+
+#### Naqada III (Dynasty 0) 3150-3050
+- political unification
+- named kings
+
+#### WMF Petrie and Sequence Dating of Naqada Sites, 1899
+- predynastic pottery styles or types
+- excavated and seriated pottery from 3000 graves at Naqada
+- sequence dated pottery types by 1899
+
+- Libby used to check radiocarbon C14 dating in 1940s
+- Naqada I types SD 30-39
+- Naqada II SD 40-52
+- organisms absorb C14 while alive (wood, bone, reeds)
+
+### Naqada I, Amratian 4000-3550
+- _hierarchal, militant chiefs_
+- red slipped, black-top ware common
+    - some white incised decoration
+    - warrior, hunting themes
+    - similar to Badarian (assemblages more diagnostic than single artifacts)
+    - brownish Badarian and Naqada thought to imitate leather
+    - all from graves, settlement pattern poorly known
+- more complex burials
+- ivory figurines with secondary sex characteristics
+- fine flint spear points
+    - almost too nice for use (probably ceremonial)
+- discoid maceheads characteristic of Naqada periods
+- faience & stone beads, amulets
+- natron trade good for cleaning and embalming
+
+### Naqada II, Gerzean 3500-3150
+- diagnostic 'marl-ware' pottery, found throughout Upper & Lower Egypt
+    - imagery on pottery match 3D figures
+- planked and reed-bundle boats
+    - models found in elite graves
+    - bronze technology and tools for wood boats
+- ripple-flaked blades, apex of Egyptian lithics
+- copper tools, more jewelry, precious metal
+    - gold, stone necklace, copper harpoon
+    - sculpted cosmetic stone palettes
+- pear-shaped maceheads
+- _classes of craftsmen_
+- burials: clay coffin, pets, jars, linen wrapping
+- first strong evidence for theology
+
+#### Nubt
+- 2 'towns' at _Nubt_: rectangular houses and 50x30m structure
+- elite graves at Cemetary T, hypogeum for the rich
+    - T5 nearly a full underground house for a chief
+- New Kingdom temple for Seth, possibly patron god of Nubt
+
+#### Hierakonpolis _Nekhen_
+-tomb 100, also underground house with brick walls
+- earliest tomb painting on wall: hunting and battle scenes, wooden plank boats
+- center of Horus cult
+- post holes with valuable cedar
+
+### Naqada III, Dynasty 0 3150-3050
