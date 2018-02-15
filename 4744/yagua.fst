@@ -4,11 +4,13 @@
 def NStem [[ WATER .x. {haa} ] | [ SLOTH .x. {pahiitu} ] | [ PAN .x. {pay} ] | [ SKIN .x. {hay} ]];
 
 # Morphology
-def InflN [NOM : 0] | [DAT : hu] | [POSS3M : ca] | [POSS1 : ra];
+def Poss [HIS : ca] | [MY : ra];
+def Decl [DAT : hu];
+def InflN Decl | Poss;
 
-def PhraseN NStem.u "+" z;
+def PhraseN [Poss.u "+"]^{0,1} NStem.u [ "+" Decl.u]^{0,1};
 
-def MN NStem | "+":0 | InflN;
+def MN InflN | "+":0 | NStem;
 def MorphN MN+;
 
 def Noun [PhraseN .o. MorphN].l;
@@ -16,13 +18,13 @@ def Noun [PhraseN .o. MorphN].l;
 
 # Phonology
 # swap hyu to word
-def swaphyu yhu -> hyu;
+def swap yhu -> hyu || yra -> rya;
 
 # palatalize after ra-prefix
-def palatalizera rahaa -> rahyaa, rapah -> rapya, pay -> -> rahe || .#._;
+def flipae a -> e || r a ? _ y;
+def inserty [..] -> y || r a h _ a; 
 
-def PhoneN swaphyu .o. palatalizera;
-
+def PhoneN flipae .o. swap .o. inserty;
 
 def YaguaN PhraseN .o. MorphN .o. PhoneN;
 def YaguaN2 Noun .o. PhoneN;
