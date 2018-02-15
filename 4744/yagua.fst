@@ -18,13 +18,14 @@ def Noun [PhraseN .o. MorphN].l;
 
 # Phonology
 # swap hyu to word
-def swap yhu -> hyu || yra -> rya;
+def swap [yhu -> hyu || _ .#. .o. yra -> rya || _ .#.];
 
 # palatalize after ra-prefix
-def flipae a -> e || r a ? _ y;
-def inserty [..] -> y || r a h _ a; 
+def flipae a -> e || .#. r a [p | h] _ y;
+def inserty [..] -> y || r a ? _ a; 
+def deletey y -> 0 || e _ .#.;
 
-def PhoneN flipae .o. swap .o. inserty;
+def PhoneN flipae .o. swap .o. inserty .o. deletey;
 
 def YaguaN PhraseN .o. MorphN .o. PhoneN;
 def YaguaN2 Noun .o. PhoneN;
