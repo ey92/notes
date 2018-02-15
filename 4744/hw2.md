@@ -24,18 +24,18 @@ def C [ {f} | {h} | {k} | {n} | {p} | {r} | {s} | {š} | {t} | {v} | {x} | {y} |
 
 ### Morphology
 ```
-def Infl [IMP : 0] | [FSTSG : ni] | [THRDSG : ʔu]; 	# define inflections
-def Phrase Infl.u "+" VStem.u; 						# define inflected words
-def M VStem | "+":0 | Infl; 						# map mopheme sequence to phone spelling
+def Infl [IMP : 0] | [FSTSG : ni] | [THRDSG : ʔu];  # define inflections
+def Phrase Infl.u "+" VStem.u;                      # define inflected words
+def M VStem | "+":0 | Infl;                         # map mopheme sequence to phone spelling
 def Morph M+;
-def Word [Phrase .o. Morph].l; 						# words in spelling form
+def Word [Phrase .o. Morph].l;                      # words in spelling form
 ```
 
 ### Phonology
-```def glottalPrepend [..] -> {ʔ} || .#. _ V ; 		# prepend a glottal stop if starts with vowel
-def delV [V -> 0 || [.#. ni | .#. ʔu] _]; 			# delete the second of two consecutive vowels
-def palatalize  s -> š || .#. [ ʔi | ni ] k* _; 	# palatalize s if preceeding vowel is i
-def depalatalize š -> s || .#. [ʔu k*]* _; 			# depalatalize s if preceeding vowel is not i
+```def glottalPrepend [..] -> {ʔ} || .#. _ V ;      # prepend a glottal stop if starts with vowel
+def delV [V -> 0 || [.#. ni | .#. ʔu] _];           # delete the second of two consecutive vowels
+def palatalize  s -> š || .#. [ ʔi | ni ] k* _;     # palatalize s if preceeding vowel is i
+def depalatalize š -> s || .#. [ʔu k*]* _;          # depalatalize s if preceeding vowel is not i
 
 def Phone glottalPrepend .o. delV .o. palatalize .o. depalatalize;
 ```
@@ -70,31 +70,31 @@ From other languages I have studied, I assumed the basic noun forms would come f
 
 ### Noun Morphology
 ```
-def Poss [HIS : {ca}] | [MY : {ra}]; 		# define different possessors (prefixes)
-def Decl [DAT : {hu}]; 						# define declension (suffix)
-def InflN Decl | Poss; 						# possible inflections
+def Poss [HIS : {ca}] | [MY : {ra}];    # define different possessors (prefixes)
+def Decl [DAT : {hu}];                  # define declension (suffix)
+def InflN Decl | Poss;                  # possible inflections
 
-def PhraseN [Poss.u "+"]^{0,1} NStem.u [ "+" Decl.u]^{0,1}; 		# assign prefixes/suffixes to precede/follow stem
+def PhraseN [Poss.u "+"]^{0,1} NStem.u [ "+" Decl.u]^{0,1};         # assign prefixes/suffixes to precede/follow stem
 
-def MN InflN | "+":0 | NStem; 				# map mopheme sequence to phone spelling
+def MN InflN | "+":0 | NStem;           # map mopheme sequence to phone spelling
 def MorphN MN+;
 
-def Noun [PhraseN .o. MorphN].l;			# Noun in spelling form
+def Noun [PhraseN .o. MorphN].l;        # Noun in spelling form
 ```
 
 ### Noun Phonology
 ```
-def flipa {ay} -> {e} || .#. r a [p | h] _; 				# convert -ay to -e suffix when beginning with ra- prefix
-def swap {yhu} -> {hyu} || _ .#.;							# swap y and h
-def inserty [..] -> y || r a [h | p] [{eh}*] _ [a | u]; 	# insert y after "h", "p", or "heh" when word begins with ra- prefix
+def flipa {ay} -> {e} || .#. r a [p | h] _;             # convert -ay to -e suffix when beginning with ra- prefix
+def swap {yhu} -> {hyu} || _ .#.;                       # swap y and h
+def inserty [..] -> y || r a [h | p] [{eh}*] _ [a | u]; # insert y after "h", "p", or "heh" when word begins with ra- prefix
 
 def PhoneN flipa .o. swap .o. inserty;
 ```
 
 ### Yagua Noun Phrase Relation and Set
 ```
-def YaguaN PhraseN .o. MorphN .o. PhoneN; 	# Define lexicon based on Phones, Morphology, and Phrase
-def YaguaN2 [Noun .o. PhoneN];				# Define relation mapping underlying to surface phonological forms
+def YaguaN PhraseN .o. MorphN .o. PhoneN;   # Define lexicon based on Phones, Morphology, and Phrase
+def YaguaN2 [Noun .o. PhoneN];              # Define relation mapping underlying to surface phonological forms
 ```
 
 ---
@@ -103,25 +103,25 @@ def YaguaN2 [Noun .o. PhoneN];				# Define relation mapping underlying to surfac
 
 ### Morphology
 ```
-def Subj [[HE : {ca}] | [I : {ra}]]; 				# define subject prefixes
-def DO [IT : {ra}]; 								# define direct object suffix
-def InflV Subj | DO; 								# possible inflections
+def Subj [[HE : {ca}] | [I : {ra}]];    # define subject prefixes
+def DO [IT : {ra}];                     # define direct object suffix
+def InflV Subj | DO;                    # possible inflections
 
-def PhraseV Subj.u "+" VStem.u ["+" DO.u]^{0,1}; 	# assign prefixes/suffixes to precede/follow stem
+def PhraseV Subj.u "+" VStem.u ["+" DO.u]^{0,1};        # assign prefixes/suffixes to precede/follow stem
 
-def MV InflV | "+":0 | VStem; 						# map mopheme sequence to phone spelling
+def MV InflV | "+":0 | VStem;           # map mopheme sequence to phone spelling
 def MorphV MV+;
 
-def Verb [PhraseV .o. MorphV].l;					# Verb in spelling form
+def Verb [PhraseV .o. MorphV].l;        # Verb in spelling form
 ```
 
 ### Phonology
 ```
-def flipaa {aay} -> {ee} || .#. r a c _ ; 			# convert -aay to -ee when beginning with ra- prefix
-def swap2 {yra} -> {rya} || _ .#.; 					# swap y and r
+def flipaa {aay} -> {ee} || .#. r a c _ ;   # convert -aay to -ee when beginning with ra- prefix
+def swap2 {yra} -> {rya} || _ .#.;          # swap y and r
 
 # insert y after "c" or "r" when word begins with ra-prefix or if word ends in -era, convert to -erya suffix
-def inserty2 [[..] -> y || .#. r a [c | r] _ [a | u]] .o. [{era} -> {erya} || _ .#.]; 		
+def inserty2 [[..] -> y || .#. r a [c | r] _ [a | u]] .o. [{era} -> {erya} || _ .#.];           
 
 def PhoneV flipaa .o. swap2 .o. inserty2;
 ```
@@ -129,8 +129,8 @@ def PhoneV flipaa .o. swap2 .o. inserty2;
 
 ### Yagua Noun Phrase Relation and Set
 ```
-def YaguaV PhraseV .o. MorphV .o. PhoneN; 			# Define lexicon based on Phones, Morphology, and Phrase
-def YaguaV2 [Verb .o. PhoneV];						# Define relation mapping underlying to surface phonological forms
+def YaguaV PhraseV .o. MorphV .o. PhoneN;   # Define lexicon based on Phones, Morphology, and Phrase
+def YaguaV2 [Verb .o. PhoneV];              # Define relation mapping underlying to surface phonological forms
 ```
 
 #### Determining Morphological and Phonological Rules
