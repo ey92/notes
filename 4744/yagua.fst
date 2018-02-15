@@ -6,7 +6,7 @@ def NStem [[ WATER .x. {haa} ] | [ SLOTH .x. {pahiitu} ] | [ PAN .x. {pay} ] | [
 # Morphology
 def InflN [NOM : 0] | [DAT : hu] | [POSS3M : ca] | [POSS1 : ra];
 
-def PhraseN NStem.u "+" InflN.u;
+def PhraseN NStem.u "+" z;
 
 def MN NStem | "+":0 | InflN;
 def MorphN MN+;
