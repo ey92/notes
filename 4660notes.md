@@ -131,3 +131,7 @@ if your competitors have overdraft
 	how does this affect competitive dynamic
 COGS and reject rate
 operating costs
+
+
+10-12% reject rate too high
+quality awareness: brand & innovation index, weighted by unit volume

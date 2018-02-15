@@ -189,12 +189,28 @@ temporal
 locative
 path
 
+
+CKY algorithm: parsing
+t labeled tree
+a address in dom(t)
+yield (t,a): sequence of terminal words
+span (t,a): index before first word, index after last word
+
 ---
 questions:
 1. how to prefix using morphological substitutions?
 
 
+4. How to "trigger" different phonological form
+[form]+NOUN -> map to initial stress
+[form]+VERB -> map to final stress
+~200, try to cover ~ 50-75%
+def PHRASE [STEM | NOUN | VERB]
+use your rule to print the new form...
+def STEM = [
+[FINANCE .X. [f ay1 n ae1 n s]] | 
 
+]
 
 
 ---
@@ -202,6 +218,23 @@ Karok
 s -> sh | i_s
 #V -> #ʔV | #V_
 
+#def VStem [ [ SHOOT .x. {pasip} ] | [ STEAL .x. {si:tva} ] | [ STOOP .x. {kifnuk} ] | [ MEASURE .x. {suprih} ] | [ PICKUP .x. {ʔifik} ] | [ PLUCKAT .x. {ʔaktuv} ] | [ FILL .x. {axyar} ] | [ JUMP .x. {iskak} ] | [ LAUGH .x. {iksah} ] | [ SHOOTATTARGET .x. {isriv} ] | [ POINT .x. {uksup} ]];
+
+
+# palatalize first s after i
+#def palatalize1 iks -> ikš;
+#def palatalize2 is -> iš;
+#def palatalize palatalize1 .o. palatalize2;
+
+#def Phone glottalPrepend .o. depalatalize .o. palatalize;
+
+regex Karok2 & [ni ?*];
+print words
+regex Karok2 & [ʔu ?*];
+print words
+
+
+ʔuškak
 
 
 https://www.quora.com/What-words-can-act-as-both-nouns-and-verbs
