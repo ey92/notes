@@ -539,9 +539,32 @@ Contrast to Merimde
 - New Kingdom temple for Seth, possibly patron god of Nubt
 
 #### Hierakonpolis _Nekhen_
--tomb 100, also underground house with brick walls
+- tomb 100, also underground house with brick walls
 - earliest tomb painting on wall: hunting and battle scenes, wooden plank boats
 - center of Horus cult
 - post holes with valuable cedar
 
 ### Naqada III, Dynasty 0 3150-3050
+political unification of Egypt
+- historians Manetho, Herodotus say Menes, but name doesn't exist from contemporary evience
+- **Palermo Stone**, predynastic divine kings, maybe Naqada kings, missing 1st human king
+- Abydos - Osiris cult center
+    - Tomb U-j at Umm el-Qa'ab: hundreds of imported Canaanite wine jars, earliest hieroglyphs on royal tags, trade, record-keeping (bureaucracy), _Scorpion_
+    - serakh: royal falcon sitting on building, symbolize king/palace
+- Hierakonpolis "_main deposit_" 
+    -Scorpion macehead, king in white crown with hoe and conquered, possible also red crown
+    - Battlefield Pelette, Tehenu/Siege/Lybian Palette, commemorating victories by king or kings (lion, falcon, scorpion) over walled towns
+    - Nermer Palette: complete, has unification, both crowns, mace/scepter, sandal bearer, Horus conquering delta, serekh with name, Hathor (house of Horus), control of chaos
+
+### Development of Settlement and Kingship
+- agrarian life ca. 5000
+    - pool resources (e.g. food)
+    - more security (strength in numbers), but increase in spread of disease
+    - _infant mortality_: children make it past neonatal period
+- social stratification ca. 4000
+    - land management: rule people to make land valuable
+- Upper Egypt first
+    - Heliopolitan myth recognizes inherent conflict, estaplishes dynastic principle (oldest son rules), identifiying ruler with fierce predator balances order vs chaos, rather than annihilation
+    - transportation, law
+    - land management/territoriality not an issue in the delta
+    - controlling people in linear valley is easier

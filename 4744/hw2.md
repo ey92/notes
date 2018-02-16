@@ -7,7 +7,7 @@ CS 4744 HW2
 | karok.fst | #1 |
 | yagua.fst | #2 |
 | doublets.fst | #3 |
-| | #4 |
+| doublets_phonology.fst| #4 |
 | ITYnouns.fst <br> 5b.fst | #5 |
 
 ## \#1 Karok
@@ -190,7 +190,7 @@ def missingDoublets [
 Most doublets seem to be noun/verb pairs, where the meanings are related and the noun forms were likely derived from the verb forms, known as deverbal nouns, as opposed to gerundives. Similarly to how we use gerundives, English speakers probably began using verbs as nouns.  However, since English seems to have different stress rules for different categories of words, these deverbal nouns ended up being pronounced differently when used as nouns, leading to these stress doublets that we have found.  However, nouns can also turn into verbs, which was probably the case with the word "forecast".
 
 ## \#4 
-[TODO]
+see _doublets_phonology.fst_ file
 
 ## \#5 ITY Nouns
 ### Part A
