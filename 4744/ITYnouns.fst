@@ -2,6 +2,8 @@
 # CS 4744 HW2
 
 # PROBLEM 5 - ITY Nouns
+load defined ANV.fsb
+load defined cmu2.fsb
 
 # PART 5A
 def add [N /// {ity}] & A;
