@@ -1,4 +1,7 @@
-# Yagua
+# Elizabeth Yam ey92
+# CS 4744 HW2
+
+# Problem 2 - Yagua
 
 # Noun stems
 def NStem [[ WATER .x. {haa} ] | [ SLOTH .x. {pahiitu} ] | [ PAN .x. {pay} ] | [ SKIN .x. {hay} ]];

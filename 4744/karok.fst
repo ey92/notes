@@ -1,4 +1,7 @@
-# Karok
+# Elizabeth Yam ey92
+# CS 4744 HW2
+
+# Problem 1 - Karok
 
 # Verb stems
 def VStem [ [ SHOOT .x. {pasip} ] | [ STEAL .x. {ši:tva} ] | [ STOOP .x. {kifnuk} ] | [ MEASURE .x. {šuprih} ] | [ PICKUP .x. {ʔifik} ] | [ PLUCKAT .x. {ʔaktuv} ] | [ FILL .x. {axyar} ] | [ JUMP .x. {iškak} ] | [ LAUGH .x. {ikšah} ] | [ SHOOTATTARGET .x. {išriv} ] | [ POINT .x. {ukšup} ]];
