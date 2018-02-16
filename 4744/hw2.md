@@ -148,24 +148,41 @@ def YaguaV2 [Verb .o. PhoneV];              # Define relation mapping underlying
 - Unlike Karok, Yagua adds both prefixes and suffixes, so the both the noun and verb phrases had to be defined with prefixes specifically before the stem and suffixes only placed after the stem
 - The remaining morphological patterns could be easily observed by comparing each word's new form when adding the same meanings to build similar phrases. From there, the phonological rules for both were rather similar and pretty straightforward to build. 
 
+## \#3 Doublets
+### Part A
+[TODO]
+
+### Part B
+```
+def missingDoublets [
+[THETA .x. {THEY1TAH0}|{THIY1TAH0}] ] | 
+[ENTRANCE .x. {EH2NTRAH1NS}|{EH1NTRAH0NS}] | 
+[CONSORT .x. {KAA1NSAO0RT}|{KAH0NSAO1RT}] | 
+[DISCHARGE .x. {DIH1SCHAA2RJH}|{DIH0SCHAA1RJH}] | 
+[TRANSPOSE .x. {TRAE1NSPOW2Z}|{TRAE0NSPOW1Z}] ];
+```
+
+### Part C
+Most doublets seem to be noun/verb pairs, where the meanings are related and the noun forms were likely derived from the verb forms, known as deverbal nouns, as opposed to gerundives. Similarly to how we use gerundives, English speakers probably began using verbs as nouns.  However, since English seems to have different stress rules for different categories of words, these deverbal nouns ended up being pronounced differently when used as nouns, leading to these stress doublets that we have found.  However, nouns can also turn into verbs, which was probably the case with the word "forecast".
+
 ## \#4 
 
 ## \#5 ITY Nouns
 ### Part A
 ```
-def add [N /// {ity}] & A; 				# found 167 adjectives/ITY nouns (provided)
-def adde [[N /// {ity}] e] & A; 		# found 97 adjectives/ITY nouns (provided)
-def ous [[N /// {ity}] {ous}] & A;		# found 33 adjectives/ITY nouns
-def ious [[N /// {ity}] {ious}] & A; 	# found 22 adjectives/ITY nouns
-def al [[N /// {ity}] {al}] & A; 		# found 13 adjectives/ITY nouns
-def ist [[N /// {ity}] {ist}] & A; 		# found 11 adjectives/ITY nouns
+def add [N /// {ity}] & A;              # found 167 adjectives/ITY nouns (provided)
+def adde [[N /// {ity}] e] & A;         # found 97 adjectives/ITY nouns (provided)
+def ous [[N /// {ity}] {ous}] & A;      # found 33 adjectives/ITY nouns
+def ious [[N /// {ity}] {ious}] & A;    # found 22 adjectives/ITY nouns
+def al [[N /// {ity}] {al}] & A;        # found 13 adjectives/ITY nouns
+def ist [[N /// {ity}] {ist}] & A;      # found 11 adjectives/ITY nouns
 
-def uous [[N /// {ity}] {uous}] & A; 	# found 0 adjectives/ITY nouns
+def uous [[N /// {ity}] {uous}] & A;    # found 0 adjectives/ITY nouns
 ```
 I looked up common adjective endings and tested them against ITY nouns to see how many more I could find.
 
 ### Part B
-see 5b.fst file
+see _5b.fst_ file
 
 I used the following regexes to find which words from Part A were in the CMU dictionary and to find their phonological forms:
 ```
@@ -184,7 +201,7 @@ regex [[[ious .o. upper].l & CMU.u].l .o. CMU].l;
 regex [[[al .o. upper].l & CMU.u].l .o. CMU].l;
 regex [[[ist .o. upper].l & CMU.u].l .o. CMU].l;
 ```
-I also observed that there was a pattern with how the phonological endings of adjectives became -ity nouns, usually ending with the vowels IH0 and AH0.  I then applied the same morphological-phonological structure from problems 1 and 2.
+I also observed that there was a pattern with how the phonological endings of adjectives became -ity nouns, usually ending with the vowels IH0 and AH0.  I then applied the same morphological-phonological structure from problems 1 and 2. However, it was very difficult to find any other patterns. This is likely due to English having so many influences from different language families and loaning foreign words into our vocabulary.
 
 ### Part C
 I used similar regexes to those from Part B to find which words _weren't_ in the CMU dictionary.
@@ -197,4 +214,4 @@ regex [ious .o. upper].l & ~CMU.u;
 regex [al .o. upper].l & ~CMU.u;
 regex [ist .o. upper].l & ~CMU.u;
 ```
-I then manually created the phonological forms and created a set to append to the given CMU dictionary. (See ITYnouns.fst to view the list of adjective/noun words missing from the CMU dictionary).
+I then manually created the phonological forms and created a set to append to the given CMU dictionary, deciding on stresses by sounding them out and comparing to similar words that are in the CMU dictionary. (See ITYnouns.fst to view the list of adjective/noun words missing from the CMU dictionary).
