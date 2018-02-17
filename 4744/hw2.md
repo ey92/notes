@@ -192,7 +192,7 @@ Most doublets seem to be noun/verb pairs, where the meanings are related and the
 ## \#4 
 see _doublets_phonology.fst_ file
 
-It was difficult to figure out any consistent rule than the stress shift. In the scope of two-syllable noun/verb doublets, nouns had the primary stress on their first syllable while verbs had the primary stress on their secondary syllables. This was what I coded in _doublets_phonology.fst_, but it was difficult to tell if there was a pattern for determining whether or not the nouns' other syllable would have no stress or a secondary stress, so I just took the larger set, which was no stress.
+It was difficult to figure out any consistent rule than the stress shift. In the scope of two-syllable noun/verb doublets, nouns had the primary stress on their first syllable while verbs had the primary stress on their second syllables. This was what I coded in _doublets_phonology.fst_, but it was difficult to tell if there was a pattern for determining whether or not the nouns' other syllable would have no stress or a secondary stress, so I just took the larger set, which was no stress.
 
 ## \#5 ITY Nouns
 ### Part A
