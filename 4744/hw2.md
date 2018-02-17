@@ -179,7 +179,7 @@ I generated a generic syllable (consisting of a vowel between any number of cons
 ### Part B
 ```
 def missingDoublets [
-[THETA .x. {THEY1TAH0}|{THIY1TAH0}] ] | 
+[RESEARCH .x. {RIY0SER1CH}|{RIY1SER0CH}] | 
 [ENTRANCE .x. {EH2NTRAH1NS}|{EH1NTRAH0NS}] | 
 [CONSORT .x. {KAA1NSAO0RT}|{KAH0NSAO1RT}] | 
 [DISCHARGE .x. {DIH1SCHAA2RJH}|{DIH0SCHAA1RJH}] | 
@@ -191,6 +191,8 @@ Most doublets seem to be noun/verb pairs, where the meanings are related and the
 
 ## \#4 
 see _doublets_phonology.fst_ file
+
+It was difficult to figure out any consistent rule than the stress shift. In the scope of two-syllable noun/verb doublets, nouns had the primary stress on their first syllable while verbs had the primary stress on their secondary syllables. This was what I coded in _doublets_phonology.fst_, but it was difficult to tell if there was a pattern for determining whether or not the nouns' other syllable would have no stress or a secondary stress, so I just took the larger set, which was no stress.
 
 ## \#5 ITY Nouns
 ### Part A

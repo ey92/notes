@@ -15,8 +15,9 @@ def v2 [AA2 | AE2 | AH2 | AO2 | AW2 | AY2 | EH2 | ER2 | EY2 | IH2 | IY2 | OW2 | 
 def Vowels [v0 | v1 | v2];
 
 
-# consider 01, 10, 12 stress patterns
+# consider 01, 10, 12, 21 stress patterns
 def zeroOne Consonants* v0 Consonants* v1 Consonants*;
+# def TwoOne Consonants* v2 Consonants* v1 Consonants*;
 def oneZero Consonants* v1 Consonants* v0 Consonants*;
 def oneTwo Consonants* v1 Consonants* v2 Consonants*;
 
@@ -27,7 +28,7 @@ def twoSyl CMU .o. [Syl^Syl];
 def ambTwoSyl _ambpart(twoSyl);
 
 
-def finalStress ambTwoSyl .o. zeroOne;
+def finalStress [ambTwoSyl .o. zeroOne]; # | [ambTwoSyl .o. TwoOne];
 def initStress [ambTwoSyl .o. oneZero] | [ambTwoSyl .o. oneTwo];
 
 # push through CMU dictionary and only get Noun/Verb doublets
@@ -35,7 +36,7 @@ def doublet [finalStress.u .o. initStress.u] .o. CMU;
 def NVdoublets [N .o. upper].l & [V .o. upper].l .o. doublet;
 
 # PART 3B
-def missingDoublets [[THETA .x. {THEY1TAH0}|{THIY1TAH0}] ] | [ENTRANCE .x. {EH2NTRAH1NS}|{EH1NTRAH0NS}] | [CONSORT .x. {KAA1NSAO0RT}|{KAH0NSAO1RT}] | [DISCHARGE .x. {DIH1SCHAA2RJH}|{DIH0SCHAA1RJH}] | [TRANSPOSE .x. {TRAE1NSPOW2Z}|{TRAE0NSPOW1Z}] ];
+def missingDoublets [[RESEARCH .x. {RIY0SER1CH}|{RIY1SER0CH}] | [ENTRANCE .x. {EH2NTRAH1NS}|{EH1NTRAH0NS}] | [CONSORT .x. {KAA1NSAO0RT}|{KAH0NSAO1RT}] | [DISCHARGE .x. {DIH1SCHAA2RJH}|{DIH0SCHAA1RJH}] | [TRANSPOSE .x. {TRAE1NSPOW2Z}|{TRAE0NSPOW1Z}] ];
 
 def CMU CMU | missingDoublets;
 

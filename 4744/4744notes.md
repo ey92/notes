@@ -190,11 +190,12 @@ locative
 path
 
 
-CKY algorithm: parsing
+### CKY algorithm: parsing
 t labeled tree
 a address in dom(t)
 yield (t,a): sequence of terminal words
 span (t,a): index before first word, index after last word
+- Chomsky normal form or two form
 
 ---
 questions:
@@ -214,29 +215,14 @@ def STEM = [
 
 
 ---
-Karok
-s -> sh | i_s
-#V -> #ʔV | #V_
+def add [N /// {ity}] & A; 				# 167
+def adde [[N /// {ity}] e] & A; 		# 97
+def ous [[N /// {ity}] {ous}] & A;		# 33
+def ious [[N /// {ity}] {ious}] & A; 	# 22
+def al [[N /// {ity}] {al}] & A; 		# 13
+def ist [[N /// {ity}] {ist}] & A; 		# 11
 
-#def VStem [ [ SHOOT .x. {pasip} ] | [ STEAL .x. {si:tva} ] | [ STOOP .x. {kifnuk} ] | [ MEASURE .x. {suprih} ] | [ PICKUP .x. {ʔifik} ] | [ PLUCKAT .x. {ʔaktuv} ] | [ FILL .x. {axyar} ] | [ JUMP .x. {iskak} ] | [ LAUGH .x. {iksah} ] | [ SHOOTATTARGET .x. {isriv} ] | [ POINT .x. {uksup} ]];
-
-
-# palatalize first s after i
-#def palatalize1 iks -> ikš;
-#def palatalize2 is -> iš;
-#def palatalize palatalize1 .o. palatalize2;
-
-#def Phone glottalPrepend .o. depalatalize .o. palatalize;
-
-regex Karok2 & [ni ?*];
-print words
-regex Karok2 & [ʔu ?*];
-print words
-
-
-ʔuškak
-
-
+---
 https://www.quora.com/What-words-can-act-as-both-nouns-and-verbs
 envelope
 research
