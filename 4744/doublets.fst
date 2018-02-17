@@ -15,9 +15,8 @@ def v2 [AA2 | AE2 | AH2 | AO2 | AW2 | AY2 | EH2 | ER2 | EY2 | IH2 | IY2 | OW2 | 
 def Vowels [v0 | v1 | v2];
 
 
-# consider 01, 10, 12, 21 stress patterns
+# consider 01, 10, 12, stress patterns
 def zeroOne Consonants* v0 Consonants* v1 Consonants*;
-# def TwoOne Consonants* v2 Consonants* v1 Consonants*;
 def oneZero Consonants* v1 Consonants* v0 Consonants*;
 def oneTwo Consonants* v1 Consonants* v2 Consonants*;
 
@@ -28,7 +27,7 @@ def twoSyl CMU .o. [Syl^Syl];
 def ambTwoSyl _ambpart(twoSyl);
 
 
-def finalStress [ambTwoSyl .o. zeroOne]; # | [ambTwoSyl .o. TwoOne];
+def finalStress [ambTwoSyl .o. zeroOne];
 def initStress [ambTwoSyl .o. oneZero] | [ambTwoSyl .o. oneTwo];
 
 # push through CMU dictionary and only get Noun/Verb doublets
