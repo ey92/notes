@@ -548,13 +548,28 @@ Contrast to Merimde
 political unification of Egypt
 - historians Manetho, Herodotus say Menes, but name doesn't exist from contemporary evience
 - **Palermo Stone**, predynastic divine kings, maybe Naqada kings, missing 1st human king
-- Abydos - Osiris cult center
+- *Abydos* - Osiris cult center
     - Tomb U-j at Umm el-Qa'ab: hundreds of imported Canaanite wine jars, earliest hieroglyphs on royal tags, trade, record-keeping (bureaucracy), _Scorpion_
     - serakh: royal falcon sitting on building, symbolize king/palace
-- Hierakonpolis "_main deposit_" 
-    -Scorpion macehead, king in white crown with hoe and conquered, possible also red crown
+    - Narmer label, name in serekh with Horus, shows victory over marsh-dwellers
+        - some doubts from lack of destruction evidence in Delta (Sagan's Law evidence of absence is not absence of evidence), archaeological evidence hasn't survived
+    - seal impression listing Narmer as last king of D0 before Aha of D1
+- *Hierakonpolis* "_main deposit_" 
+- Scorpion
+    - Scorpion macehead, king in white crown with hoe and conquered, possible also red crown
     - Battlefield Pelette, Tehenu/Siege/Lybian Palette, commemorating victories by king or kings (lion, falcon, scorpion) over walled towns
-    - Nermer Palette: complete, has unification, both crowns, mace/scepter, sandal bearer, Horus conquering delta, serekh with name, Hathor (house of Horus), control of chaos
+- Narmer
+    - Narmer Palette: complete, has unification, conquering king wash, both crowns, mace/scepter, sandal bearer, Horus conquering delta, serekh with name, Hathor (house of Horus), control of chaos (no double crown?)
+    - Narmer macehead
+    - not necessarily Menes
+- Aha/Hor-Aha/Men
+    - on ivory tag, given first title of "Two Ladies"
+    - nebti-name "Men" (Menes?)
+    - moved capital to Memphis, given credit for unification
+        - established a capital and the notion of a unified nation
+- Contrasting stories of unification
+    - historians Herodotus, Manetho describe legendary figure Menes
+    - archaeology shows evidence of gradual unification involving multiple leaders and violence
 
 ### Development of Settlement and Kingship
 - agrarian life ca. 5000
@@ -568,3 +583,25 @@ political unification of Egypt
     - transportation, law
     - land management/territoriality not an issue in the delta
     - controlling people in linear valley is easier
+
+# Early Dynastic Period: D1-2
+- sources: king lists, Manetho via Josephus et al, inscribed artifacts
+- Abydos provides most documentation for D0-2, royal cemetary, border between fertile land and desert
+
+## Dynasty 1 3050-2890
+- don't know exact reigns, but know order: Hor-Aha(Mene), Djer, Djet, Merneith\*, Den, Anedjib/Adjib, Smerkhet, Qa'a
+- tombs have funerary structures, most have satellite burials
+- some tombs reused as Middle Kingdom cenotaphs
+- found before 1900, all looted, burned, reused
+- Aha's wife Neith-hotep "Neith is satisfied" ruled during Djer's reign, earlier female de facto ruler, goddess of hunting, weaving
+- Merneith (queen) "Beloved of Neith"
+    - Merneith's tomb (Tomb Y) combined mound inside wall, within satellite burials
+        - Merneith has 2nd empty Saqqara tomb (Cenotaph - symbolic empty tomb), architectural shape _mastaba_ Arabic "bench"
+        - central burial chamber and store magazines
+        - "mother of king" title from seal: vulture, sedge-plant
+- satellite burials: young skeletons, neatly aligned, probably strangled -> human sacrifice?
+    - New Kingdom ushabti figurne with spell to activate service in aferlife - more human means of eternal service
+- 14 cedar boat fleet, each encased in brick and plaster, buried next to a funerary enclosure, oldest boats found
+    - 3 possible functions: solar barges, funerary procession, everyday boats to be used in the afterlife
+
+## Dynasty 2 2890-2686

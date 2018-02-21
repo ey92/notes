@@ -238,7 +238,7 @@ _content_: text, graphics, audio, video
 	- too much: treating employees as robots doesn't take advantage of their skills
 
 ---
-missing 2 lectures
+missing lectures 2/5, 2/7
 ---
 
 # Networks
@@ -382,9 +382,9 @@ Leads to **Negative Network Effects**
 - advantages: convenient location, unique products, many food options
 
 ### A1
-server: http://na6010.johnson.cornell.edu/<teamname>
+server: http://nba6010.johnson.cornell.edu/<teamname>
 a1.html
-address http://na6010.johnson.cornell.edu/<teamname>/a1.html
+address http://nba6010.johnson.cornell.edu/<teamname>/a1.html
 conceptual questions ~ final exam questions
 TA hours MW 8:30-9:30pm Sage B1
 

@@ -360,3 +360,37 @@ Sonority
 - sonority contour of syllables: need a maximally sonorous center
 - slope of rise has different threshold, depending on language, can change over time
 - if increase/decrease in sonority isn't strong enough for language, consonant cluster cannot begin the syllable
+
+---
+missing 2/16 class on syllables
+---
+---
+Not on prelim
+- infixed expletives can only be inserted between some syllables - after feet
+- feet: full syllables vs reduced syllables, impacts stress assignment
+- stress the strongest syllable
+- /t/ and /d/ flapped when between vowels and when both members of same foot
+---
+
+# Morphology
+- morpheme - minimal chunk of sound associated with fixed meaning
+- allomorphy, usually caused by assimilation
+/inter/relat/tion/ship/s
+- free morpheme - morpheme can be a word by itself
+- bound morphemes are _affixes_, stuck onto free morphemes
+	- classified by where they attach to free morpheme
+	- prefix, sufix, infix
+- _reduplication_ special case of affixation; affix created by copying part of root
+	- replacives: man/men, mouse/mice, find/found, eat/ate
+	- suppletion: extreme replacive morphology, completely replace word: go/went, am/was, good/better
+- productivity:
+	- open class morphemes:
+		house, wi-fi, tweet, run
+	- closed class morphemes:
+		- conjunctions, pronouns, prepositions, etc
+		- and, but, if, I, to, the, then, must
+- function
+	- inflectional morphemes: create grammatical forms of single lexeme (e.g. past tense, plural)
+		- cat/cats, run/runs/ran/running
+	- derivational morphemes: form new rods (lexemes) from other words
+		- govern/misgovern, tie/untie, govern/government/governable
