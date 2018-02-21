@@ -373,6 +373,67 @@ Leads to **Negative Network Effects**
 #### 4.
 #### 5.
 
+## Web Retailers
+earliest retailers: books computers, travel, brokerages
+	- formally defined and information intensive products -> require extensive search
+### Electronic Catalogs
+- Sears
+- advantages vs paper catalogs
+	- cheaper - print & delivery, updates
+	- easier to search, DBMS provides structure and language for search
+- disadvantages vs physical stores
+	- touch/feel products before buying
+		- free returns or request detailed measurements
+	- need web access
+- most appropriate for fast-changing databases
+- e.g. online stock trading, flight schedule, search engines
+	- web crawlers, search engine optimization, spamming is possible with invisible keywords or manually submit keywords to search engines
+- Physical stores have inventory, web stores have lower price
+	- **free rider problem**: benefit from a good or service without payment because of lack of a market
+	- web stores take advantage of services provided by physical stores; e.g. look at Best Buy, buy on Amazon
+
+#### Potential Solutions
+1. Physical stores also sell on internet, but doesn't reduce rent costs
+	- charge less online -> lose own customers
+	- charge same price -> lose customers to competitors
+	- Web store as separate business - loses brand name
+2. Charge for free service
+	- car dealers lobbied lawmakers to require cars to be sold via dealers and not manufacturers
+3. Add on services that online competitors couldn't provide (actual solution)
+	- bookstores (community events, booksigning, cafe), furniture (interior design, delivery,  used furniture marketplace, repairs, cleaning), brokerage
+
+**Most successful solution creates synergy between online and physical store**
+- larger inventory online
+- physical stores allow interaction with product but don't have to deliver
+- buy online, pick up at store
+
+Google as competition with Amazon
+- collaborate with local stores: take dynamic inventory of small stores and connect with search engine capabilities to allow for quick delivery
+
+### Direct Marketing
+- result of database technology, directed at individuals at specific point in time
+- keep track of individuals' purchases, allowing future purchase forecasting
+- predict behavior via _profiling_ using demographic data and past purchases
+
+### Relationship Marketing
+- tracking customers over time and adjust to their changing needs
+- database tech made tracking customers possible
+- acquiring new customer 4x as expensive as trackign and keeping old customer
+- **Hunter-Gather Paradigm of Marketing**: search for customers, locate them, sell, move on
+- **Agrarian (Farming) Paradigm of Marketing**: cultivate customers, watch & grow over time, educate, anticipate needs, shape and create needs, protect and reward
+- relationship marketing on the web necessary to compensate for lack of physical location or quality
+- easier by tracking customer and not just their purchases
+- cookies, identify information placed on customers' computers, determine when they come back and where they have been
+
+### Location-Based Commerce
+- tracking in the physical world
+- track path with wireless transmitters and sensors, recommends products as you pass them
+- **Location-Based Commerce**
+
+### Gamification
+- influence process of buying
+- convert shopping process into game - **gamification**
+- reveals information about customer and what is important to them, how much effort they are willing to put in
 
 ---
 ### A0 CTB

@@ -479,19 +479,19 @@ Contrast to Merimde
 - 'fully furnished' afterlife
 - evidence of class difference: more furnishings for wealthier, segregated graves
 
-## Late Predynastic Egypt
-#### Naqada I (Amratian) 4000-3500
+# Late Predynastic Egypt
+### Naqada I (Amratian) 4000-3500
 - social hierarchy
 
-#### Naqada II (Gerzan) 3550-3150
+### Naqada II (Gerzan) 3550-3150
 - cultural unification
 - kingship, vaguely & anonymously
 
-#### Naqada III (Dynasty 0) 3150-3050
+### Naqada III (Dynasty 0) 3150-3050
 - political unification
 - named kings
 
-#### WMF Petrie and Sequence Dating of Naqada Sites, 1899
+### WMF Petrie and Sequence Dating of Naqada Sites, 1899
 - predynastic pottery styles or types
 - excavated and seriated pottery from 3000 graves at Naqada
 - sequence dated pottery types by 1899
@@ -501,7 +501,7 @@ Contrast to Merimde
 - Naqada II SD 40-52
 - organisms absorb C14 while alive (wood, bone, reeds)
 
-### Naqada I, Amratian 4000-3550
+## Naqada I, Amratian 4000-3550
 - _hierarchal, militant chiefs_
 - red slipped, black-top ware common
     - some white incised decoration
@@ -517,7 +517,7 @@ Contrast to Merimde
 - faience & stone beads, amulets
 - natron trade good for cleaning and embalming
 
-### Naqada II, Gerzean 3500-3150
+## Naqada II, Gerzean 3500-3150
 - diagnostic 'marl-ware' pottery, found throughout Upper & Lower Egypt
     - imagery on pottery match 3D figures
 - planked and reed-bundle boats
@@ -532,19 +532,19 @@ Contrast to Merimde
 - burials: clay coffin, pets, jars, linen wrapping
 - first strong evidence for theology
 
-#### Nubt
+### Nubt
 - 2 'towns' at _Nubt_: rectangular houses and 50x30m structure
 - elite graves at Cemetary T, hypogeum for the rich
     - T5 nearly a full underground house for a chief
 - New Kingdom temple for Seth, possibly patron god of Nubt
 
-#### Hierakonpolis _Nekhen_
+### Hierakonpolis _Nekhen_
 - tomb 100, also underground house with brick walls
 - earliest tomb painting on wall: hunting and battle scenes, wooden plank boats
 - center of Horus cult
 - post holes with valuable cedar
 
-### Naqada III, Dynasty 0 3150-3050
+## Naqada III, Dynasty 0 3150-3050
 political unification of Egypt
 - historians Manetho, Herodotus say Menes, but name doesn't exist from contemporary evience
 - **Palermo Stone**, predynastic divine kings, maybe Naqada kings, missing 1st human king
@@ -571,7 +571,7 @@ political unification of Egypt
     - historians Herodotus, Manetho describe legendary figure Menes
     - archaeology shows evidence of gradual unification involving multiple leaders and violence
 
-### Development of Settlement and Kingship
+## Development of Settlement and Kingship
 - agrarian life ca. 5000
     - pool resources (e.g. food)
     - more security (strength in numbers), but increase in spread of disease
