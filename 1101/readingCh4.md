@@ -51,22 +51,58 @@ e.g. fast -> faster || speak -> speaker
 
 ## Morphological Processes
 **word formation process** - combination of morphemes according to rules of the language to make new wordsor forms of words
-1. **Affixation** - adding affixes to stems
-2. **Affixation in Signed Languages** - can occur simultaneously, but usually inflectional
-3. **Compounding** - combine 2+ independent words (free morphemes, affixed words, compounded words)
+#### 1. **Affixation** - adding affixes to stems
+#### 2. **Affixation in Signed Languages** - can occur simultaneously, but usually inflectional
+#### 3. **Compounding** - combine 2+ independent words (free morphemes, affixed words, compounded words)
 - can be written as one word, hyphenated word, or multiple words
 - stress pattern as if same word, instead of phrase - primary stress on first word only, instead of independent stresses
 - common in German
-4. **Reduplication** - repeat entire or part of free morpheme
+
+#### 4. **Reduplication** - repeat entire or part of free morpheme
 - _reduplicant_ - morpheme or part of morpheme duplicated in reduplication
 - _partial reduplication_
 - _total reduplication_
 - inflectional or derivational; often used to convey intensity
-5. **Alternation** - morpheme-internal modification to make new word or morphological distinction
+
+#### 5. **Alternation** - morpheme-internal modification to make new word or morphological distinction
 - mark morphological distinctions, although affecting phonology
 - e.g. inflectional: man/men, goose/geese; ring/rang/rung, feed/fed/fed, hold/held/held; break/broke/broken, bite/bit/bitten, fall/fell/fallen, give/gave/given
 - e.g. derivational: strife/strive, teeth/teethe, use/use
-6. **Suppletion** - one form can't be phonologically or morphologically derived from the other
+
+#### 6. **Suppletion** - one form can't be phonologically or morphologically derived from the other
 - e.g. is/was, go/went, good/better/best, bad/worse,worst
 
 ## Morphological Types of Languages
+2 types: Analytic/Isolated & Synthetic
+- languages can show mix of features and change from one category to another over time
+
+### Analytic/Isolated Language
+- most words consist of single morpheme
+- add invariant function word instead of affixes
+- grammar depends on word order
+- no morphological processes at all
+- e.g. Chinese
+
+### Synthetic Language
+- words consist of several morphemes
+- bound morphemes add meaning to stem or grammatical function
+- subcategories
+
+#### 1. Agglutinating Language
+**agglutinization** - putting morphemes together
+- easy to tell where morphemes were added
+- each bound morpheme only carries one meaning
+- e.g. Hungarian, Swahili
+
+#### 2. Fusional Language
+- also combines morphemes
+- hard to tell when morphemes start/end
+- bound morpheme can have several simultaneous meanings
+- e.g. Spanish, Russian
+
+#### 3. Polysynthetic Language
+- words formed by combining several stems and affixes
+- **incorporation** of objects into verbs
+- e.g. Sora
+
+## Hierarchical Structure of Derived Words

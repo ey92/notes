@@ -272,3 +272,13 @@
 **alternation** - morpheme-internal modification to make new word or morphological distinction
 
 **suppletion** - one form can't be phonologically or morphologically derived from the other
+
+**analytic language**/**isolating language** - type of language in which most words consist of one morpheme and sentences are composed of sequences of free morphemes; grammatical relationships depend on word order; e.g. Chinese, Vietnamese
+
+**synthetic language** - language in which affixes attached to morphemes so word made of multiple meaningful elements
+- **agglutinating language** - synthetic language in which relationships between words in sentence indicated by bound morphemes; morphemes bound loosely
+	- **agglutinization** - putting morphemes together
+- **fusional language** - synthetic language in which relationships between words in sentence are indicated by bound morphemes that are difficult to separate from stem
+- **polysynthetic language** - synthetic language in which several affixes attached to stem to show grammatical relationships
+	- **incorporation** - morphological process in which several distinct semantic components combined into single word
+
