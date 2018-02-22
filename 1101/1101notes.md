@@ -174,6 +174,7 @@ Phonetic Features tend to be binary
 - [n] [+C, +stop, +apical, +voice, +nasal]
 
 typical languages have more than twice as many consonants as vowels
+
 | language | consonants | vowels |
 | -------- | ---------- | ------ |
 | Haida (Amerind) | 46 | 3 |

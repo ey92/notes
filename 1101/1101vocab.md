@@ -196,7 +196,7 @@
 
 ---
 
-# Ch. 3 Phonology
+## Ch. 3 Phonology
 **phonetic inventory** - set of sounds that are produced as part of the grammar of a language
 
 **phonotactic constraint** - restriction on possible combinations of sounds
@@ -228,7 +228,7 @@
 
 ---
 
-# Ch. 4 Morphology
+## Ch. 4 Morphology
 **morphology** - study of how words are constructed out of morphemes; subset of mental grammar
 
 **lexicon** - mental dictionary of words in language
