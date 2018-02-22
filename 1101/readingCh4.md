@@ -12,6 +12,7 @@
 - word length NOT indicator of number of morphemes
 
 | | Content Morphemes | Function Morphemes |
+| - | ---------------- | ------------------ |
 | Free Morphemes | _content words_: <ul><li>nouns</li><li>verbs</li><li>adjectives</li><adverbs</li></ul> | _function words_: <ul><li>determiners</li><li>prepositions</li><li>pronouns</li><li>conjunctions</li></ul> |
 | Bound Morphemes | bound roots <br> derivational affixes | inflectional affixes |
 
