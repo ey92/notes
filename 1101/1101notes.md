@@ -339,18 +339,22 @@ Final Word Clusters
 - begin with /pl/ but not end with /lp/
 - rules only apply to consonant cluster
 
-## Syllable
+# Syllables and Feet
 - /tl/ /pl/ /lp/ /kn/ allowed in middle of word
 - not allowed at beginning or end of _syllable_
 - syllable boundary between consonants, no longer a consonant cluster
 
 - intuition tells us how to break words up into their syllables and how many there are
 
-Syllable Anatomy
+## Syllable Anatomy
 
 ![Syllable Anatomy](https://github.com/ey92/notes/blob/master/1101/syllable.png)
 
-Sonority
+- onset
+- nucleus (relative peak of sonority)
+- coda
+
+## Sonority & Sonority Scale
 - some consonants are more sonorous (vowel-like) than others
 - obstruents < sonorants
 - nasal stops < liquids
@@ -360,22 +364,35 @@ Sonority
 - sonority contour of syllables: need a maximally sonorous center
 - slope of rise has different threshold, depending on language, can change over time
 - if increase/decrease in sonority isn't strong enough for language, consonant cluster cannot begin the syllable
+- languages prefer syllables to initially increase sonority, reach peak in middle
+	- languages differ in how steep sonority rise, CV-CCCV
+	- Eng: Obs-Liq-Vow
+- consonant sequences vs consonant clusters (must be in same syllabe)
+
+### **Homorganic Cluster Constraint**: Eng: pl, \*tl, kl; Gk: pn, \*pm
+- syllable structure: onset,rhyme:nucleus,coda
+	- onsets can be moved (pig latin, spoonerisms)
+	- heavy syllable: branching rhyme: closed syllable (end in consonant) or branching nucleus (long vowel or diphthong)
+
+- determining difference between onsets and codas: maximize the onset of next syllable
+
+### Ambisyllabicity
+English lax vowels only occur in **closed syllable** - syllable with coda
 
 ---
-missing 2/16 class on syllables
----
----
-Not on prelim
+## Feet
 - infixed expletives can only be inserted between some syllables - after feet
 - feet: full syllables vs reduced syllables, impacts stress assignment
 - stress the strongest syllable
 - /t/ and /d/ flapped when between vowels and when both members of same foot
+- syllables with reduced vowels are **reduced syllables**, cannot form foot on their own
+- reduced syllables attached to right of full syllable to form full foot
 ---
 
 # Morphology
 - morpheme - minimal chunk of sound associated with fixed meaning
 - allomorphy, usually caused by assimilation
-/inter/relat/tion/ship/s
+	- inter/relat/tion/ship/s
 - free morpheme - morpheme can be a word by itself
 - bound morphemes are _affixes_, stuck onto free morphemes
 	- classified by where they attach to free morpheme
@@ -394,3 +411,20 @@ Not on prelim
 		- cat/cats, run/runs/ran/running
 	- derivational morphemes: form new rods (lexemes) from other words
 		- govern/misgovern, tie/untie, govern/government/governable
+
+---
+##### Prelim content
+1. Phonetics
+- transliterate to/from IPA/English
+- define specific English sounds in articulatory features
+- answer general questions about spectrogram
+2. Phonology
+- look at datasets -> complementary/contrastive distributions, environments/minimal pairs
+- draw syllable structure tree and apply to analysis of sound distribution
+3. Morphology
+- identify morphemes and meanings in dataset
+- draw tree representing morphological structure of English word and justify
+4. Definitions
+- provide short definitions of important concepts with examples
+5. DOESNT INCLUDE
+- clicks, ingressive/uvular/pharyngeal/consonants, feet, stress

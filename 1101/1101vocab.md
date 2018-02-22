@@ -120,7 +120,7 @@
 
 **airstream mechanism** - any of the various ways to produce a stream of moving air through the vocal tract for the production of speech sounds e.g. pulmonic/glottalic/velar, egressive/ingressive
 
-**ejective** - consonant sound produced by compressing air in the mouth or pharynx while the glottis remains closed, then releasing; also **glottalic**/**glottalized sound***; transcribed with following apostrophe
+**ejective** - consonant sound produced by compressing air in the mouth or pharynx while the glottis remains closed, then releasing; also **glottalic**/**glottalized sound**; transcribed with following apostrophe
 
 **trachea** - windpipe, tube between larynx and lungs
 
@@ -207,6 +207,8 @@
 
 **allophone** - a phonetic segment in a phoneme set
 
+**implicational law**: observation about language universals that takes the form of an implication
+
 **distribution** - set of phonetic environments in which sound occurs
 - _contrastive distribution_: two sounds occur in the same phonetic environment
 - _complementary distribution_: two sounds never occur in same phonetic environment; allophones of same phoneme
@@ -219,3 +221,54 @@
 **restricted allophone** - allophone of a phoneme that appears in more limited set of phonetic environments
 
 **near-minimal pair** - similar to a minimal pair, but whereas words in minimal pair identical other than contrastive sounds, words in near-minimal pair only almost identical
+
+**closed syllables** - syllable with coda
+
+**reduced syllables** - syllables with reduced vowels
+
+---
+
+# Ch. 4 Morphology
+**morphology** - study of how words are constructed out of morphemes; subset of mental grammar
+
+**lexicon** - mental dictionary of words in language
+
+**lexical category** - class of words grouped together based on morphological properties; part of speech
+- _open lexical category_ - lexical category in which new members are often introduced
+- _closed lexical category_ - lexical category in which new members are rarely introduced
+
+**root** - free morpheme or bound root in a word that contributes the most semantic content to the word, to which affixes can attach
+- _bound root_ - root has basic meaning but cannot stand alone as word
+
+**derivation** - morphological process that can change a words' lexical category or its meaning in a predictable ways
+
+**affix** - bound morpheme that attaches to a stem
+- prefixes, suffixes
+
+**stem** - base, consisting of at least one morpheme, to which affixes are added; includes root (+ affixes)
+
+**inflection** - morphological process modifying to indicate grammatically relevat information (person, number, gender, tense); like derivation but creates forms of words instead of completely new words
+
+**morpheme** - smallest linguistic unit with meaning or grammatical function
+- _free morpheme_ - can be a word alone
+- _bound morpheme_ - must be attached to a word stem, can't stand alone
+- _content morpheme_ - morpheme carrying semantic content
+- _function morpheme_ - morpheme providing information about grammatical relationships between words in sentence
+
+**homophony** - phenomenon where 2+ distinct morphemes or nonphrasal linguistic expressions happen to have the same form
+
+**productive** - descibes morpheme or rule that can be used to produce novel grammatical forms
+
+**word formation process** - combination of morphemes according to rules of the language to make new wordsor forms of words
+
+**affixation** - word formation process in which affixes added onto stems
+
+**compounding** - word formation process in which whole words are combined
+
+**reduplication** - word formation process in which new words formed by doubling part of or entire free morpheme
+- _partial reduplication_
+- _total reduplication_
+
+**alternation** - morpheme-internal modification to make new word or morphological distinction
+
+**suppletion** - one form can't be phonologically or morphologically derived from the other
