@@ -197,22 +197,53 @@ yield (t,a): sequence of terminal words
 span (t,a): index before first word, index after last word
 - Chomsky normal form or two form
 
+### Shared Forest Algorithms
+data structure that compactly represents the trees that have a given yied (terminal string) and licensed by a given grammar
+
+span shared forest: CFG where symbols are span symbols 
+span symbol - tuple of symbol from old grammar and interval in terminal string
+e.g. NPL 0 1
+tabular parsing together with shared forests makes CFGs efficient or natural language syntax
+tree: N \Sigma P R(roots) L
+
+count inside trees pseudocode
+```
+init integer array i [N U L U P] with zeros
+for x in L
+	do 
+		i,x. <- 1
+for p in P in bottom-up order
+	do 
+		i[p] <- PRODUCT over y in rhs(p) ^i[y]
+		i[lhs(p)] <- i[lhs(p)] + i[p]
+return i
+```
+ensure children are visited before parents
+	by row bottop to top and left to in right in row
+	by column from left to right and top to bottom in column
+
+CKY bottom-up: will build components that will never become part of a tree
+filter out roots not used in licensed trees
+
+tgrep search trees
+```
+>kuno:tgrep>which tgrep
+/resources/corpus/tgrep
+>kuno:tgrep> tgrep -c <corpus=web.crp> 'NP <2 DT' | tail
+<trees>
+>kuno:tgrep> tgrep -c web.crp 'NP <-1 NN <-2 NN <-3 DT'
+<trees>
+>kuno:tgrep> tgrep -c web.crp 'NP <-1 (NP <-2 NN)' | tail -3 | vpf
+<popup tree>
+>kuno:tgrep> tgrep -c web.crp 'NP <: DT' | tr 'A-Z' 'a-z' | sort | unique -C | sort -nr
+	# upper to lower, sort, count unique, sort in descending freq
+>kuno:tgrep> tgrep -c web.crp '__ < (VP <<. DT)' | tr 'A-Z' 'a-z' | sort | unique -C | sort -nr
+>kuno:tgrep> tgrep -c web.crp '__ < (NP , PP-CLR)' | tr '$' '-'
+```
+
 ---
 questions:
-1. how to prefix using morphological substitutions?
-
-
-4. How to "trigger" different phonological form
-[form]+NOUN -> map to initial stress
-[form]+VERB -> map to final stress
-~200, try to cover ~ 50-75%
-def PHRASE [STEM | NOUN | VERB]
-use your rule to print the new form...
-def STEM = [
-[FINANCE .X. [f ay1 n ae1 n s]] | 
-
-]
-
+how to read parse tree/chart on slides? (clicker Q A: 5)
 
 ---
 def add [N /// {ity}] & A; 				# 167

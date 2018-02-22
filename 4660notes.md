@@ -135,3 +135,6 @@ operating costs
 
 10-12% reject rate too high
 quality awareness: brand & innovation index, weighted by unit volume
+
+fully loaded cost per unit
+SG&I allocate proportionally to units of different products sold
