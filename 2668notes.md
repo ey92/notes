@@ -603,5 +603,57 @@ political unification of Egypt
     - New Kingdom ushabti figurne with spell to activate service in aferlife - more human means of eternal service
 - 14 cedar boat fleet, each encased in brick and plaster, buried next to a funerary enclosure, oldest boats found
     - 3 possible functions: solar barges, funerary procession, everyday boats to be used in the afterlife
+- Saqqara cenotaph 3038 with Adjib/Anedjib sealings
+    - 1st stepped architecture enclosure and tomb/cenotaph combined + stepped mound on seal
+- Saqqara elite official 3057 facade is more organic
+    - ~imitate wood, reeds, or woven architecture, some paint preserved
+    - clay modeled bull heads
+- _imitative magic_: architecture simulating organic elements important to tomb owner's afterlife
+- some real items: resin, wine, incense
+- more writing used in late D1
+
+### Saqqara nomarchs vs monarchs
+- 20-21 nomes
+- Tomb 3505 mastaba has stele of Merkha, titles include nomarch, captain of royal trip, controller of palace
+- Kathryn Bard: 
+    - D1 pharaohs buried at Abydos, pharaoh cenotaphs + officials at Saqqara
+    - D2-3 pharaohs mostly at Saqqara, except Peribsen & Khasekhem; Abydos abandoned until MK Osiris cult
 
 ## Dynasty 2 2890-2686
+- 7 kings
+- Peribsen switched from Horus to Seth title over serekh
+- Khasekhem(wy - dual marker) has Horus, then also Seth on serekh
+- cult shift or political disunity? both pharaohs buried at Abydos instead of Saqqara
+    - divine kingship worked for organizing labor
+- many Khasekhemwy statues from main deposit - earliest ka-statue for receiving offerings?
+    - largest tomb in Abydos, could fit all of D1 offerings
+    - name appears with cobra & vulture/two ladies on fragments
+    - central tomb limestone - 1st large stone construction
+    - copper tools(model&life) & vessels, stone vessels, gold covers, flint tools, pottery wit hgrain and fruit, glazed objects, carnelian beans, ceramic jars, basketry
+    - mound within enclosure - pyramid precursor
+- officials' tombs in Abydos resemble mastaba private tombs in later Old Kingdom, buried in cedar coffins and beginnings of mummification
+
+## Early Dynastic
+- unification in D0, consolidation in D1-2, inflation Old Kingdom
+- capital est in Memphis
+- bureaucracy
+- writing developed
+
+#### 1. State Control
+- seals & tags, serekh-names on pots
+- suggest ownership and accounting system, probably taxation
+
+#### 2. Government/palace built at Memphis, near conquered Delta
+- nothing excavated yet
+- consolidation
+
+#### 3. Conscribed Labor for large construction projects off-season
+- employment/exploitation, but not slavery
+- imitative magic used architecturally
+
+#### 4. King consumed enormous natural and human resources
+- human sacrifice in D1 - extreme conspicuous consumption
+- buried cedar boats
+
+#### 5. Divine kingship (Horus or Seth)
+- legitimized control over land, resources, labor

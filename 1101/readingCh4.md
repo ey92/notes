@@ -18,21 +18,26 @@
 
 ![Morpheme Classification](https://github.com/ey92/notes/blob/master/1101/morpheme.png)
 
-**lexical category/part of speech**
-- open lexical category: often has new words
-	e.g. noun, verb, adjective
-- closed lexical category: rarely has new words
-	e.g. pronoun, determiner, preposition, conjunction
-
+##### bound vs free
 - **root** - free morpheme or bound root in a word that contributes the most semantic content to the word
-- bound roots: can't stand alone, often borrowed from other languages and not _productive_
-- **derivation** - morphological process of changing PoS or meaning
+- _bound roots_: can't stand alone, often borrowed from other languages and not _productive_
 - **stem** - base consisting of at least one morpheme
 - **affix** - bound morpheme added to stem
 	- prefixes, infixes, suffixes
 
-**inflection** - morphological process modifying to indicate grammatically relevat information (person, number, gender, tense)
-- like derivation but creates forms of words instead of completely new words
+##### productivity
+**lexical category/part of speech**
+- _open lexical category_: often has new words
+	e.g. noun, verb, adjective
+- _closed lexical category_: rarely has new words
+	e.g. pronoun, determiner, preposition, conjunction
+
+##### inflection vs derivation
+- **derivation** - morphological process of changing PoS or meaning
+	- not productive
+- **inflection** - morphological process modifying to indicate grammatically relevat information (person, number, gender, tense)
+	- like derivation but creates forms of words instead of completely new words
+- derivational morphology always occurs before inflectional morphology
 
 **homophony** - 2+ morphemes have same form (sound)
 e.g. fast -> faster || speak -> speaker
@@ -54,7 +59,8 @@ e.g. fast -> faster || speak -> speaker
 #### 1. **Affixation** - adding affixes to stems
 #### 2. **Affixation in Signed Languages** - can occur simultaneously, but usually inflectional
 #### 3. **Compounding** - combine 2+ independent words (free morphemes, affixed words, compounded words)
-- can be written as one word, hyphenated word, or multiple words
+- derivational, can be written as one word, hyphenated word, or multiple words
+- PoS determined by last word, semantic meaning not as easy to tell
 - stress pattern as if same word, instead of phrase - primary stress on first word only, instead of independent stresses
 - common in German
 

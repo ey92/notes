@@ -17,6 +17,18 @@ phonetics vs phonology
 	- apply native phonotactic constraints to new language's words
 	- replace phones that don't exist in native phonetic inventory (_sound substituion_)
 
+possible word-initial sequences:
+
+| | JP | EN | Old EN | GK |
+| - | -- | -- | ------ | -- |
+| CV | Y | Y | Y | Y |
+| OL | N | Y | Y | Y |
+| ON | N | N | Y | Y |
+| OO | N | N | N | Y |
+| SS | N | N | N | N |
+
+- determined by required increase of sonority
+
 ## Phonemes and Allophones
 - which sound patterns are variants of "same" sound and which are significant differences?
 - [p] and [pʰ] _contrastive_ in Hindi: swapping will change definition

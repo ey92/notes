@@ -394,6 +394,9 @@ English lax vowels only occur in **closed syllable** - syllable with coda
 - morpheme - minimal chunk of sound associated with fixed meaning
 - allomorphy, usually caused by assimilation
 	- inter/relat/tion/ship/s
+- 3 ways to classify
+
+### Free vs Bound Morphemes
 - free morpheme - morpheme can be a word by itself
 - bound morphemes are _affixes_, stuck onto free morphemes
 	- classified by where they attach to free morpheme
@@ -401,17 +404,40 @@ English lax vowels only occur in **closed syllable** - syllable with coda
 - _reduplication_ special case of affixation; affix created by copying part of root
 	- replacives: man/men, mouse/mice, find/found, eat/ate
 	- suppletion: extreme replacive morphology, completely replace word: go/went, am/was, good/better
-- productivity:
-	- open class morphemes:
-		house, wi-fi, tweet, run
-	- closed class morphemes:
-		- conjunctions, pronouns, prepositions, etc
-		- and, but, if, I, to, the, then, must
-- function
-	- inflectional morphemes: create grammatical forms of single lexeme (e.g. past tense, plural)
-		- cat/cats, run/runs/ran/running
-	- derivational morphemes: form new rods (lexemes) from other words
-		- govern/misgovern, tie/untie, govern/government/governable
+
+### Productivity of Morphemes
+- _open class morphemes_:
+	house, wi-fi, tweet, run
+- _closed class morphemes_:
+	- conjunctions, pronouns, prepositions, etc
+	- and, but, if, I, to, the, then, must
+
+### Function of Morphemes
+- _inflectional morphemes_: create grammatical forms of single lexeme (e.g. past tense, plural)
+	- cat/cats, run/runs/ran/running
+- _derivational morphemes_: form new rods (lexemes) from other words
+	- govern/misgovern, tie/untie, govern/government/governable
+	- tends to be nonproductive
+
+### Compounding
+- special form of derivational morphology, combining 2+ free morphemes
+- generally PoS determined by last word
+	- exception e.g. passer-by noun not adv/prep, not productive, allows inflectional morphemes in middle, has stress contour of phrase
+- type of derivational morphology -> inflectional morphology occurs afterwards
+- noncompositional meaning:
+	- blue bird/bluebird, red coat/Redcoat, green house/greenhouse
+- have stress and intonation patterns as if single word, as opposed to phrases
+
+### Inflectional Morphology
+few productive affixes left in English
+- 's(genitive) -> behaves more like clitic (attach to end of phrases)
+- -ed (past participle), -ed(past tense) -ing(pres tense), -s(pres tense), -en(perf tense), -er(comparative), -est(superlative), -s (npl)
+
+### Words as morphological trees
+- un- (do the opposite of verb)
+- un- (describe opposite adjective)
+- ambiguity from multiple possible derivations: 
+	- untieable: _(untie)able_ capable of being untied vs _un(tieable)_ incapable of being tied
 
 ---
 ##### Prelim content
@@ -429,3 +455,5 @@ English lax vowels only occur in **closed syllable** - syllable with coda
 - provide short definitions of important concepts with examples
 5. DOESNT INCLUDE
 - clicks, ingressive/uvular/pharyngeal/consonants, feet, stress
+
+3/14 guest lecture
