@@ -357,5 +357,3 @@ _phones_/_primes_ combined differently than in spoken languages
 
 - signs differ depending on language
 - easier to study and record, very visible
-
-# Chapter 3: Phonology
