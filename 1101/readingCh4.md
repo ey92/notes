@@ -128,3 +128,15 @@ e.g. fast -> faster || speak -> speaker
 | ------ | -------- | ---------- |
 | preexist <br> preapprove <br> predetermine <br> | prewar <br> preseason <br> pregame | prefrontal <br> prehistoric |
 
+## Morphologial Analysis
+impossible to isolate morphemes by intuition
+- begin with comparing words with similar meaning and sharing a morpheme
+	- learn morpheme root and alternations
+- similarity in meaning not necessarily matched by similarity in form
+- inflections not universal among all languages (often assumed)
+
+### Procedure
+1. Isolate and compare forms that are partially similar, as we did for Classical Greek [ɡrapʰ-ɛː] and [ɡrapʰ-ɔː].
+2. If a single phonetic form has two distinct meanings, it must be analyzed as representing two different morphemes (as in (3)).
+3. If the same function and meaning are associated with different phonetic forms, these different forms all represent the same morpheme (i.e., they are allomorphs of the morpheme), and the choice of form in each case may be predictable on the basis of the phonetic environment (as in (4)).
+
