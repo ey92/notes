@@ -38,7 +38,7 @@
 		- must be taught and associated with education
 		- more physically stable
 2) _prescriptive grammar_
-	mark social identity & used for sical mobility
+	mark social identity & used for social mobility
 	easier for nonstandard dialect speakers to explicitly learn standard dialect
 
 ## Design Features of Language (Hockett)
@@ -47,7 +47,7 @@
 1. _mode of communication_
 	- e.g. voice, gestures
 2. _semanticity_
-	- property of having signals that convey a meaning, shared by all communiation systems
+	- property of having signals that convey a meaning, shared by all communication systems
 	- hear a word you don't know, assume it has meaning
 3. _pragmatic function_
 	- systems must serve useful purpose - help survival, influence others' behavior, exploring the world
@@ -75,9 +75,9 @@
 	- understood because there are rules for how to put the sounds/morphemes/words together
 	- rules at all levels of linguistic structure are productive & grant the ability to communicate about broad range of ideas
 
-languages have all 9 parts, but does having them mke a communication system a language?
+languages have all 9 parts, but does having them make a communication system a language?
 - formal languages aren't natural languages
-- constructed languages have te potential to become natural languages if learned by native speakers and adopted by speech community (e.g. modern hebrew)
+- constructed languages have the potential to become natural languages if learned by native speakers and adopted by speech community (e.g. modern hebrew)
 - must be learnable
 
 ## Language Modality
