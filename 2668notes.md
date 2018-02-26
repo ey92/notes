@@ -88,7 +88,7 @@ colonial powers try to amass collections
     * 1799-1808 Admiral Nelson evicts French & British Museum gets Rosetta Stone
     * 1822-36 Jean-Francois Champollion deciphers hieroglyphs via rubbing (copy)
         - phonetic and logographic principles, debunk symbology & produce grammar
-        - 1936 College du France 1st chairman of first egyptology department
+        - 1936 College du France 1st Chairman of first Egyptology Department
     * Europeans 'going native'/orientalism
     * 1815-22 Giovanni Belzoni 'Patagonian Samson', Italian ex-pat turned circus performer collecting for the British
         discovered Seti I's tomb
@@ -645,15 +645,84 @@ political unification of Egypt
 
 #### 2. Government/palace built at Memphis, near conquered Delta
 - nothing excavated yet
-- consolidation
+- _consolidation_
 
 #### 3. Conscribed Labor for large construction projects off-season
 - employment/exploitation, but not slavery
+- temporary human sacrifice
 - imitative magic used architecturally
 
-#### 4. King consumed enormous natural and human resources
+#### 4. King _consumed_ enormous natural and human resources
 - human sacrifice in D1 - extreme conspicuous consumption
 - buried cedar boats
 
 #### 5. Divine kingship (Horus or Seth)
 - legitimized control over land, resources, labor
+- unification lasted 800 yrs
+- people and elites are buying into ideology of divine kingship
+
+## Continuity into Old Kingdom
+- key architectural and cultural traits (funerary enclosures, mounds, stepped arch, pyramid, boat burials, mastaba tombs) derived from early dynastic prototypes
+
+# Writing System: Ancient Egyptian Language
+- _hieroglyph_ Greek: "sacred carving"; Egyptian: "divine words"
+- language is communication system for using sounds or symbols, governed by rules (grammar) and changes over time/space (dialects)
+- writing is letters or symbols impressed on a surface to represent the sounds or words of a language; imperfect representation & not necessarily intended to represent spoken language
+- Egyptian writing left out vowels & vocalizations
+- Afro-Asiatic language family - related to North African & Semitic language
+- last used 4th c. CE
+- spoken language developed into Coptic, early Christian era, later replaced by Arabic by 11th c., rare uses gone by 17th c.
+
+## Deciphering Hieroglyphs
+- 4th-5th c. CE Hor-Apollo's _Hieroglyphica_
+    - incorrectly assumes symbology
+- 9th-10th c. CE Arab historians Dhul-nun al-Misri and Ibn Wahshiyya
+    - suspect phonetic elements
+    - Coptic manuscripts held important clues
+- 11th c. Arabic replaces Egyptian
+- 16th-18th c.
+    - European scholars attempt deciphering by symbology
+    - Pietro delle Valle collected Coptic manuscripts
+- 17th c. Athanasius Kircher
+    - Coptic related to earlier Egyptian scripts, containing phonetic elemets
+    - lacked proof
+- 1799 Napoleon's soldiers find Rosetta Stone in Nile Delta
+    - Jean-Francois Champollion (and Thomas Young) demonstrated phonetic nature of script
+    - Champollion Chair of Egyptology 1836
+- 20th c. AH Gardiner, A Erman, RO Faulkner, Polotsky, Hoch, JP Allen
+
+## Egyptian Grammar
+- VSO word order
+- 2 grammatical genders: M/F
+- 3 gramatical numbers: singular, dual/pair, plural
+- triconsonantal roots like Semitic languages
+    - CCC prefixes/suffixes/infixes to create NVA from same CCC root
+
+## Development of Script
+- appears in archaeological record by 3100 BC
+- appears somewhat developed
+    - suggests sudden invention rather than gradual evolution
+    - relatively few changes
+
+## 6 Stages of Writing System
+1. Archaic Egyptian (before 2600 BC) : D0-D2
+2. Old Egyptian (2600-2100 BC): Old Kingdom
+3. Middle Egyptian (2100-1600BC): Middle Kingdom
+- most complete form
+- later changes are simplifications and borrowings
+4. Late Egyptian (1600-600 BC): New Kingdom to Early Greek
+- more foreign words
+5. Demotic (650 BC-4th c. CE): 3rd Intermediate to Late Period
+- Persian, Macedonian, Ptolemaic, Roman
+6. Coptic (1st-11th c. CE):
+
+### Scripts
+Hieroglyphs
+- earliest
+- cut into stone incised or sculpted relief
+- carved with hammer and chisel
+
+Cursive Hieroglyphs
+- funerary texts
+- written with brush
+- top to bottom, but left-right or right-left, depending on context

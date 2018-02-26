@@ -6,7 +6,9 @@
 **grammar**
 - descriptive grammar (observations)
 - prescriptive grammar (guidelines how to contruct phrases)
-- mental grammar
+- mental grammar: set of rules for how to build words and sentences
+
+fluency: lexicon + mental gammar
 
 **morpheme**: "minimal strings of sounds associated with fixed meanings"
 - may be words, but they may be smaller than words
@@ -40,7 +42,6 @@ _spectrograms_ produce graphs(_spectographs_) which map the _frequency_ (pulse/s
 # Phonetics
 ## Phonetics 28/1
 ### Design features of language
----
 - open-ended due to compositionality
 - rule-governed
 - mental grammars are generative
@@ -182,7 +183,7 @@ typical languages have more than twice as many consonants as vowels
 | English | 24 | 11-13 |
 
 Universal Implications
-- in general, languages hae more 'marked' (unusual) sounds only if they have more 'unmarked' (usual) sounds
+- in general, languages have more 'marked' (unusual) sounds only if they have more 'unmarked' (usual) sounds
 	- p -> k
 	- k -> t except Hawaiian
 	- g -> d
@@ -420,13 +421,14 @@ English lax vowels only occur in **closed syllable** - syllable with coda
 	- tends to be nonproductive
 
 ### Compounding
-- special form of derivational morphology, combining 2+ free morphemes
+- special form of derivational morphology, combining 2+ free (root) morphemes
 - generally PoS determined by last word
 	- exception e.g. passer-by noun not adv/prep, not productive, allows inflectional morphemes in middle, has stress contour of phrase
 - type of derivational morphology -> inflectional morphology occurs afterwards
 - noncompositional meaning:
 	- blue bird/bluebird, red coat/Redcoat, green house/greenhouse
 - have stress and intonation patterns as if single word, as opposed to phrases
+**cranberry morpheme** - root morpheme but not free
 
 ### Inflectional Morphology
 few productive affixes left in English
@@ -438,9 +440,28 @@ few productive affixes left in English
 - un- (describe opposite adjective)
 - ambiguity from multiple possible derivations: 
 	- untieable: _(untie)able_ capable of being untied vs _un(tieable)_ incapable of being tied
+- inflectional morphology always last
+
+|  [re[construct]]tion | un[[afford]able] | [[man]li]ness | im[[person]al] |
+| -------------------- | ---------------- | ------------- | -------------- |
+| inter[[nation]al] | [mis[understand]]ing | [ir[replace]]ability | [un[happi]]er |
+
+## Types of suffixes
+### Class I suffixes
+\-ity -ous -ory -al -ify -ive -ize -ion, -ian
+- cause sound changes to roots, including accent shift
+- mostly come from Latin or through Romance lanuage
+
+### Class II suffixes
+\-less -ish -er -ness -ful
+- don't cause sound changes to roots
+- native suffixes
+- productive
+
+- can attach Class II suffixes to words that already have suffixes, but not Class I
 
 ---
-##### Prelim content
+##### Prelim 1 content
 1. Phonetics
 - transliterate to/from IPA/English
 - define specific English sounds in articulatory features

@@ -25,7 +25,7 @@
 
 **'grammatical'** - correct grammar, according to descriptive grammar, esp syntax
 
-**'ungrammatical'** - not following descriptive grammartical rules, esp syntax
+**'ungrammatical'** - not following descriptive grammatical rules, esp syntax
 
 **semantics** - study of linguistic meaning
 
