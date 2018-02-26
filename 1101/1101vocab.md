@@ -282,3 +282,9 @@
 - **polysynthetic language** - synthetic language in which several affixes attached to stem to show grammatical relationships
 	- **incorporation** - morphological process in which several distinct semantic components combined into single word
 
+**input** - linguistic form before application of a rule or set of rules
+
+**output** - linguistic form after application of rule or set of rules
+
+**hierarchical structure** - the dominance relationship among morphemes in a word or among constituents in a phrase
+

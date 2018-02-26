@@ -112,3 +112,15 @@ e.g. fast -> faster || speak -> speaker
 - e.g. Sora
 
 ## Hierarchical Structure of Derived Words
+- stems to which affixes are joined to (_input_) are of same lexical category
+- resulting word (_output_) also in the same lexical category
+- can trace a word's derivational history based on _hierarchical structure_
+
+![Morphological Hierarchy](https://github.com/ey92/notes/blob/master/1101/morphological-hierarchy.png)
+
+![Ambiguous Morpheme Hierarchy](https://github.com/ey92/notes/blob/master/1101/ambiguous-morpheme-hierarchy.png)
+
+#### Some Morphemes Attach to Multiple Lexical Categories
+| V -> V | N -> Adj | Adj -> Adj |
+| ------ | -------- | ---------- |
+| preexist <br> preapprove <br> predetermine <br> | prewar <br> preseason <br> pregame | prefrontal <br> prehistoric |
