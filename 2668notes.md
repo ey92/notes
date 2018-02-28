@@ -764,19 +764,26 @@ Demotic
 - 'helpers' for meaning, as disambiguators
 - e.g. Pharaoh written as two logograms "house"(per) + "great"(ah)
     - vertical strike under house = determinative to indicate phonetic sign instead of logogram
+
 ![Pharaoh hieroglyphs](https://github.com/ey92/notes/blob/master/pharaoh.png)
+
 - e.g. "per" = "to walk"
     - house(biconsonant)"per" + mouth (uniconsonant) "r" + walking (determinative) "pri"
+
 ![Pharaoh hieroglyphs](https://github.com/ey92/notes/blob/master/walk.png)
+
 - other common logograms in royal inscriptions
     - ankh follows pharaoh's name
     - son of Ra "sa Ra"/daughter of Ra "saat Ra"
+
 ![Son of Ra hieroglyphs](https://github.com/ey92/notes/blob/master/son-of-ra.png)
 ![Daughter of Ra hieroglyphs](https://github.com/ey92/notes/blob/master/daughter-of-ra.png)
+
     - lord of the two lands  "neb tawy" dual ending, written with reduplicated logogram
+
 ![Lord of the Two Lands](https://github.com/ey92/notes/blob/master/lord-of-two-lands.png)
 
-## quiz up to 2/16 lecture
+#### quiz up to 2/16 lecture
 up to D0/D1
 orwell quote - proaganda
 egyptomania

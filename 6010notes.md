@@ -436,6 +436,36 @@ Google as competition with Amazon
 - reveals information about customer and what is important to them, how much effort they are willing to put in
 
 ---
+missing lecture 2/26
+---
+
+## Inter-organizational Systems/EDI/B2B SYstems
+- Electronic Data Interchange (EDI) - inter-organizational systems on private networks
+- B-B systems (business-to-business systems) - inter-organizational systems on public networks
+
+organizational db deliver data to whole organization from a single source
+- extend idea to multiple organizations
+
+EDI allows entering transaction only once transaction is initiated
+EDI: database to database communication of business transactions through db-web-db connection
+- if encrypted and automatically commnicated to multiple databases for enhanced trust, called **blockchain**
+
+advantages:
+- reduce errors, inconsistencies, delays
+- track resources in other organization
+- concurrent task execution
+
+?-db-web-dbb-?
+- link transaction to internal systems at either end
+e.g. link supplier and retailer
+retailer: inventory control, automatic reorder systems
+supplier: production-distribution systems
+
+e-business
+
+
+
+---
 ### A0 CTB
 - products: bagel-based meals, fresh desserts, drinks
 - revenue: selling food and drinks (restaurant)
