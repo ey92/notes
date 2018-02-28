@@ -5,10 +5,10 @@
 
 **grammar**
 - descriptive grammar (observations)
-- prescriptive grammar (guidelines how to contruct phrases)
+- prescriptive grammar (guidelines how to construct phrases)
 - mental grammar: set of rules for how to build words and sentences
 
-fluency: lexicon + mental gammar
+fluency: lexicon + mental grammar
 
 **morpheme**: "minimal strings of sounds associated with fixed meanings"
 - may be words, but they may be smaller than words
@@ -64,16 +64,16 @@ _spectrograms_ produce graphs(_spectographs_) which map the _frequency_ (pulse/s
 languages are learnable
 
 ---
-**articulary phonetics** - looks at the way sounds are formed in the hman vocal tract
+**articulatory phonetics** - looks at the way sounds are formed in the human vocal tract
 - "high-front vowel /i:/" vs "high-back vowel /u:/" vs "low vowel /a:/"
 - physical position in mouth
 
 **acoustic phonetics** - concerned with physical analysis of the speech sound
 - _sound spectrogram_ (waveform) time x frequency
-- _formant_ - uniform band of relativeley great intensity in the sound specturm over a particular frequency range
+- _formant_ - uniform band of relatively great intensity in the sound spectrum over a particular frequency range
 
 **perceptual phonetics** - concerned with the mechanisms of speech perception in the ear and the brain
-- physical distrubances of air vibrating ear
+- physical disturbances of air vibrating ear
 
 separate from grammar: describes the physical/physiological phenomena outside the speaker's mind
 
@@ -85,14 +85,14 @@ separate from grammar: describes the physical/physiological phenomena outside th
 - **fricative consonants** restrict airflow enough to create turbulence: f,v,th
 **vowels** do not obstruct airflow but more concerned about the shape of the mouth
 
-_semivowels_ /j/ /w/ phonetically (articulatorily and acousitcally) vowels /ɪ/ /ʊ/
+_semivowels_ /j/ /w/ phonetically (articulatorily and acoustically) vowels /ɪ/ /ʊ/
 
 Classifying Sounds
-- egressive pulmonary sounds - begine with airflow from lungs
+- egressive pulmonary sounds - begin with airflow from lungs
 	* airflow passes through the larynx and ca be modified by vocal cords in larynx
 
-larynx is dangerously close to esophogus opening
-- protected by epiglotties
+larynx is dangerously close to esophagus opening
+- protected by epiglottis
 - gives more room to articulate more sounds
 
 voicing
@@ -126,7 +126,7 @@ advanced voice onset 	/d/
 coincident voice onset 	/t/ 		only occurs after fricatives
 delayed voice onset 	/t^h/ 		doesn't occur after fricatives
 
-nasal soound: velum is lowered
+nasal sound: velum is lowered
 
 dissimilation: r-> get switched
 
@@ -239,14 +239,14 @@ English past tense
 - [+v] = [a l o j rr b n g z zh v ...]
 - [+stop] = [p b g k n m t d ...]
 - [+alveolar] = [s z t d ts ...]
-- [+sibilant] = [s z zh ts dzh tsh ...] (high freq fricatives/affricatives)
+- [+sibilant] = [s z zh ts dzh tsh ...] (high freq fricatives/affricates)
 - [-D past] /eed/ /t/ /d/
 3. **Assimilation** - sounds tend to become more like the sounds around them
 - consonants become voiced when adjacent to voiced sounds & vice versa
 - [CF]:[+v]->[+v]_[+v]
 - **dissimilations**: sounds that sound too similar change to be different
 - flood/flooded
-- cats, dogs, busses [+v$]->[s], [-v$]->[z] [sibilant]->[eez]
+- cats, dogs, buses [+v$]->[s], [-v$]->[z] [sibilant]->[eez]
 4. Mental grammars allows us to perceive sounds that aren't there
 - bad at identifying speech sounds in isolation without linguistic context
 - in context, we can recognize words before they are finished
@@ -265,7 +265,7 @@ English past tense
 | how to recognize | - contrastive distribution <br> - minimal pairs <br> - overlapping distribution with differences in meaning | complementary distribution | overlapping distribution with no difference in meaning
 
 ## Figuring out the sound system of a new language
-1. identify differnt sounds that occur in the language
+1. identify different sounds that occur in the language
 	- determine **phoneme inventory**
 2. determine which differences are distinctive and meaningful (phonemic)
 	- find _minimal pairs_
@@ -369,7 +369,7 @@ Final Word Clusters
 - languages prefer syllables to initially increase sonority, reach peak in middle
 	- languages differ in how steep sonority rise, CV-CCCV
 	- Eng: Obs-Liq-Vow
-- consonant sequences vs consonant clusters (must be in same syllabe)
+- consonant sequences vs consonant clusters (must be in same syllable)
 
 ### **Homorganic Cluster Constraint**: Eng: pl, \*tl, kl; Gk: pn, \*pm
 - syllable structure: onset,rhyme:nucleus,coda
@@ -401,7 +401,7 @@ English lax vowels only occur in **closed syllable** - syllable with coda
 - free morpheme - morpheme can be a word by itself
 - bound morphemes are _affixes_, stuck onto free morphemes
 	- classified by where they attach to free morpheme
-	- prefix, sufix, infix
+	- prefix, suffix, infix
 - _reduplication_ special case of affixation; affix created by copying part of root
 	- replacives: man/men, mouse/mice, find/found, eat/ate
 	- suppletion: extreme replacive morphology, completely replace word: go/went, am/was, good/better
@@ -450,7 +450,7 @@ few productive affixes left in English
 ### Class I suffixes
 \-ity -ous -ory -al -ify -ive -ize -ion, -ian
 - cause sound changes to roots, including accent shift
-- mostly come from Latin or through Romance lanuage
+- mostly come from Latin or through Romance language
 
 ### Class II suffixes
 \-less -ish -er -ness -ful

@@ -239,7 +239,69 @@ tgrep search trees
 	# upper to lower, sort, count unique, sort in descending freq
 >kuno:tgrep> tgrep -c web.crp '__ < (VP <<. DT)' | tr 'A-Z' 'a-z' | sort | unique -C | sort -nr
 >kuno:tgrep> tgrep -c web.crp '__ < (NP , PP-CLR)' | tr '$' '-'
+
 ```
+
+---
+## CFGs in parser
+can be regex if purely left-branching or purely right-branching
+e.g. for the language `[a | b]+ b`
+
+### Grammar Files
+ab.lex
+```
+a 	A 	1.0
+b 	B 	1.0
+```
+
+ab.gram
+```
+1.0 	S A' T
+1.0 	S B' T
+1.0 	T A' T
+1.0 	T B' T
+1.0 	T B'
+```
+RHS of productions has to have a "head" (arbitrarily assign)
+
+ab.start
+```
+S 1.0
+```
+ab.oc 		# empty
+ab.OC 		# empty
+
+### Input Files
+ab.good
+ab.bad
+
+echo 'a b b b a b' | tr ' ' '\12'  	# replace space to newline
+echo 'a b b b a b' | tr ' ' '\12' | lopar -in ab -trees
+echo 'a b b b a b' | tr ' ' '\12' | lopar -in ab -trees | vpf
+
+multiple sentences in same file
+separate sentences by blank line
+
+#### include screenshots of results on pdf
+- corpora under /resources/corpus
+- translate '$' to '-'
+- \`VBD prints the verb
+- n.b. "if" ~ "whether" so counts as wh word
+
+```
+> cqp -D <corpus>
+NYT 2005 > questioned 
+NYT 2005 > "questioned";
+NYT 2005 > [word="questioned"] [pos="DT"]
+NYT 2005 > [lemma="question""] [pos="DT"]
+```
+
+```
+>cwb-scan-corpus NYT2006 word+0="/questioned/" word+1 | unique -C | sort -nr | less
+>cwb-scan-corpus NYT2006 pos+0="/VBD/" word+1 word+!="/whether/" | unique -C | sort -nr | less
+>cwb-scan-corpus NYT2006 pos+0="/VBD/" ?word+1 lemma+0 word+!="/whether/" | unique -C | sort -nr | less
+```
+
 
 ---
 questions:
