@@ -772,14 +772,14 @@ Demotic
 
 ![Pharaoh hieroglyphs](https://github.com/ey92/notes/blob/master/walk.png)
 
-- other common logograms in royal inscriptions
-    - ankh follows pharaoh's name
-    - son of Ra "sa Ra"/daughter of Ra "saat Ra"
+- other common logograms in royal inscriptions: 
+- ankh follows pharaoh's name
+- son of Ra "sa Ra"/daughter of Ra "saat Ra"
 
 ![Son of Ra hieroglyphs](https://github.com/ey92/notes/blob/master/son-of-ra.png)
 ![Daughter of Ra hieroglyphs](https://github.com/ey92/notes/blob/master/daughter-of-ra.png)
 
-    - lord of the two lands  "neb tawy" dual ending, written with reduplicated logogram
+- lord of the two lands  "neb tawy" dual ending, written with reduplicated logogram
 
 ![Lord of the Two Lands](https://github.com/ey92/notes/blob/master/lord-of-two-lands.png)
 

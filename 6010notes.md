@@ -463,7 +463,82 @@ supplier: production-distribution systems
 
 e-business
 
+### Supplier Managed Inventory
+- supplier acess internal systems of retailer
+- Walmart-Proctor&Gamble alliance (retail link system)
+	- P&G sales forecasts from Wal-Mart directly and in real time and adjusts production and distribution schedules
+	- _just-in-time delivery_: minimize inventory to reduce cost but still get profits
+- Dell-Intel alliance (e2open System)
+- Colombia Drug Cartels
+- Cisco Systems
+	- business customers access Cisco's internal systems to configure networks, check for accuracy, completeness, price
+	 $3M investment, 800% ROI 1st yr, error rates dropped 30% - 0.3%
 
+### Support Virtual Organizations/Virtual Corporations
+- customization and tracking
+	- e.g. students take courses at other schools
+- resource sharing/specialization
+	- e.g. course level competition
+	- granularity of competition at course level, not just universities
+- outsourcing and (becoming) virtual organization
+	- e.g. eliminate unsuccessful courses and focus on core areas
+- process improvement using big data
+	- e.g. allow comparison data such as effectiveness
+
+### Sharing Economy/Mom-tech
+- virtualization allows resource sharing among individuals
+	- uber, flycleaners, handy, blue apron, etc...
+- social institutions
+	- families mix and match services offered by others (customization and tracking)
+	- specializing in tasks
+	- outsource tasks
+	- process improvement
+
+### Supply Chain Integration
+- chain of EDI connections support supply chain: retailer, distributor, wholesaler, manufacturer, parts supplier, parts manufacturer
+- speed communication, reduce errors and inconsistencies
+- perishable goods: grocery, fashion
+- channel time from design to sale: 2010-36days, 2016-16days
+
+### Problems
+- 4 organizational issues
+
+1. Technical Complexity and Outsourcing
+- make internal systems of every company compatible with each other's databases and internal systems
+- building web infrastructure can be serious risk for older established companies
+- **outsourcing complexity** with FedEx
+	- FedEx + caliber logistics = virtual order
+	- virtual order system is complete integrated logistics solution to physical logistics, information logistics, and payments
+	- what is left?
+- _be careful with outsourcing_ - no business left when everything is outsourced
+	- keep core competence
+- FedEx gets Silocon Valley Division of Texas Intruments - ideal client for virtual order
+	- controlling entire supply chain is even better
+- outsourcing complexity almost always reduce costs, but not long-term competitive advantage
+	 - competitors can also outsource
+	 - allows easy entry
+	- _complexity creates barriers to entry_ - can become its own competitive advantage if done well
+
+##### when to outsource complexity?
+**market share vs market size** tradeoff
+- outsourcing & industry standards causes costs and prices to go down
+	- customers benefit, market expands
+	- each individual has very small share of market (no competitive advantage)
+- with most technologies, smaller share of larger market is often more desirable
+	- -> outsourcing complexity pays off
+	- network effects - size of market increases value of product
+- Rule of Thumb: unless technology like EDI is your competitive advantage, you should support industry standards and outsource
+- MS vs Apple over PC
+	- Windows kept OS in-house & outsource hardware + software
+	- Apple kept everything in-house
+	- MS managed to build huge market & split with Intel, Dell, etc...
+	- Apple built small market but kept all of it
+- Google vs Apple over mobile
+	- same strategies but Apple outsourced applications (network effects)
+
+2. Privacy
+3. Ownership and Lock In
+4. BPR
 
 ---
 ### A0 CTB
@@ -480,3 +555,7 @@ conceptual questions ~ final exam questions
 TA hours MW 8:30-9:30pm Sage B1
 
 fill out submission form: which questions were answered, what were the answers
+
+
+market share vs market size
+	when to outsource complexity
