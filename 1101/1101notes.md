@@ -230,7 +230,7 @@ English past tense
 
 | verb ending | past tense ending|
 | ----------- | ---------------- |
-| alveolar stop (t/d) | -eed |
+| alveolar stop (t/d) | -ed |
 | voiced | -d |
 | voiceless | -t |
 
@@ -243,10 +243,10 @@ English past tense
 - [-D past] /eed/ /t/ /d/
 3. **Assimilation** - sounds tend to become more like the sounds around them
 - consonants become voiced when adjacent to voiced sounds & vice versa
-- [CF]:[+v]->[+v]_[+v]
+- \[CF]:[+v]->[+v]\_[+v]
 - **dissimilations**: sounds that sound too similar change to be different
 - flood/flooded
-- cats, dogs, buses [+v$]->[s], [-v$]->[z] [sibilant]->[eez]
+- cats, dogs, buses [+v$]->[s], [-v$]->[z] [sibilant]->[ez]
 4. Mental grammars allows us to perceive sounds that aren't there
 - bad at identifying speech sounds in isolation without linguistic context
 - in context, we can recognize words before they are finished

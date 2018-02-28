@@ -39,7 +39,7 @@ colonial powers try to amass collections
 	* cofirmation of Bible/other texts
 
 # Discovery & Development of Egyptology
-## 29+31/1 Steps to Egyptology/ Exploring, Collecting
+## Steps to Egyptology/ Exploring, Collecting
 ### Archaeology
 - less colonial now - cooperative/joint projects
 - local population has more say
@@ -721,8 +721,63 @@ Hieroglyphs
 - earliest
 - cut into stone incised or sculpted relief
 - carved with hammer and chisel
+- top to bottom, but left-right or right-left, depending on visual context (not textual)
 
 Cursive Hieroglyphs
-- funerary texts
+- Old Kingdom
+- exclusively funerary texts (coffin texts, pyramid texts, book of the dead)
+- red ink indicates beginning of new section or spell
 - written with brush
-- top to bottom, but left-right or right-left, depending on context
+- top to bottom, but left-right or right-left, depending on visual context (not textual)
+
+Hieratic
+- Old Kingdom
+- administrative & various uses
+- developed for everyday stylus writing on papyrus
+- more cursive red and black ink
+- written right to left (notable shift)
+- harder to see correlation with hieroglyphs
+
+Demotic
+- Late Period
+- painted
+- little to no resemblance to hieroglyphs
+- carved on Rosetta Stone
+
+### Reading & Arrangement
+- read into faces of animate signs/ approach from "front"
+- no punctuation
+- right to left or left to right, usually top to bottom
+- compact, space-efficient
+- about 500 signs used on regular basis
+
+## Types of Signs
+1. Phonograms
+- phonetic signs
+- individual sounds assembled into words
+- uni- bi- tri- consonantal signs
+2. Logograms/Ideograms
+- sign is entire word or concept
+- some are used as syllables (rebus principle)
+3. Determinatives
+- not pronounced
+- 'helpers' for meaning, as disambiguators
+- e.g. Pharaoh written as two logograms "house"(per) + "great"(ah)
+    - vertical strike under house = determinative to indicate phonetic sign instead of logogram
+![Pharaoh hieroglyphs](https://github.com/ey92/notes/blob/master/pharaoh.png)
+- e.g. "per" = "to walk"
+    - house(biconsonant)"per" + mouth (uniconsonant) "r" + walking (determinative) "pri"
+![Pharaoh hieroglyphs](https://github.com/ey92/notes/blob/master/walk.png)
+- other common logograms in royal inscriptions
+    - ankh follows pharaoh's name
+    - son of Ra "sa Ra"/daughter of Ra "saat Ra"
+![Son of Ra hieroglyphs](https://github.com/ey92/notes/blob/master/son-of-ra.png)
+![Daughter of Ra hieroglyphs](https://github.com/ey92/notes/blob/master/daughter-of-ra.png)
+    - lord of the two lands  "neb tawy" dual ending, written with reduplicated logogram
+![Lord of the Two Lands](https://github.com/ey92/notes/blob/master/lord-of-two-lands.png)
+
+## quiz up to 2/16 lecture
+up to D0/D1
+orwell quote - proaganda
+egyptomania
+superposition/stratification
