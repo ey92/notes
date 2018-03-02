@@ -12,3 +12,8 @@ done
 
 mv ./1101/vocab.md ./1101/1101vocab.md
 mv ./1101/notes.md ./1101/1101notes.md
+
+cp ../4744/hw3/*.txt ./4744/hw3/
+cp ../4744/hw3/*.sent ./4744/hw3/
+cp ../4744/hw3/*.lex ./4744/hw3/
+cp ../4744/hw3/*.gram ./4744/hw3/

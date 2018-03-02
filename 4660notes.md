@@ -138,3 +138,18 @@ quality awareness: brand & innovation index, weighted by unit volume
 
 fully loaded cost per unit
 SG&I allocate proportionally to units of different products sold
+
+margin analysis: (should calculate for ppt)
+
+prospect theory: perception of gain or loss impacts risk tolerance/loss aversion
+	coin flip 1: 50% win $5k vs coin flip 2: 100% win $2k
+	coin flip 3: 50% lose $5k vs coin flip 4: 100% lose $2k
+	70% people choose lower expected value in either situation
+	feel the loss twice as much as gaining same amount
+team attitudes impacted by conformity bias: risky shift and common knowledge effect/polarization
+	if someone learning toward risk before discussion, usually favor risk strongly afterward
+	articulate the lvel of risk you are comfortable with before group discussion
+	devil's advocacy
+managing and optimizing conflict
+assets and liabilities
+
