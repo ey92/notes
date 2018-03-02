@@ -50,12 +50,12 @@ p1.gram
 
 Chomsky Normal Form version:
 ```
-1.0		S NP' VP
-1.0		VP VB' NP
-1.0 	NP NP' NP1
-1.0 	NP1 WP' VP
-1.0 	NP1 WP' NP2
-1.0		NP2 NP' VB
+1.0     S NP' VP
+1.0     VP VB' NP
+1.0     NP NP' NP1
+1.0     NP1 WP' VP
+1.0     NP1 WP' NP2
+1.0     NP2 NP' VB
 ```
 
 p1.start
