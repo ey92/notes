@@ -6,10 +6,10 @@ CS 4744 HW3
 ## Files
 | problem | filename(s) |
 | ------- | ----------- | 
-| #1 | p1-bad.sent <br> p1-good.sent <br> p1.lex    p1.gram     p1.start    p1.oc   p1.OC |
-| #2 | p2.lex   p2.gram   p2.start  p2.oc    p2.OC |
+| #1 | p1-bad.sent <br> p1-good.sent <br> p1.lex	p1.gram	p1.start	p1.oc	p1.OC |
+| #2 | p2.lex	p2.gram	p2.start	p2.oc	p2.OC |
 | #3 |  |
-| #4 | p4a.lex  p4a.gram     p4a.start   p4a.oc    p4a.OC <br> p4b.lex     p4b.gram    p4b.start  p4b.oc   p4b.OC <br> p4c.lex    p4c.gram   p4c.start     p4c.oc  p4c.OC <br> p4d.lex   p4d.gram  p4d.start    p4d.oc     p4d.OC |
+| #4 | p4a.lex	p4a.gram	p4a.start	p4a.oc	p4a.OC <br> p4b.lex	p4b.gram	p4b.start	p4b.oc	p4b.OC <br> p4c.lex	p4c.gram	p4c.start	p4c.oc	p4c.OC <br> p4d.lex	p4d.gram	p4d.start	p4d.oc	p4d.OC |
 | #5 |  |
 
 ### P1
@@ -93,8 +93,8 @@ No, it isn't licensed by my grammar, and no, it is intuitively possible.
 - it is intuitively easy to understand the meaning in the smallest set of square brackets <br> `people who people need` <br> as a noun phrase
 - replace that smallest noun phrase with another noun to continue simplifying: <br> `[people who [people who [monkeys] need] need] people`
 - keep replacing and it will be clear that the sentence is not a valid English sentence:
-    - `[people who [monkeys] need] people`
-    - `[monkeys] people`
+	- `[people who [monkeys] need] people`
+	- `[monkeys] people`
 - the sentence is missing a verb
 
 #### Part F
@@ -113,13 +113,13 @@ Finding Patterns: First, I looked for groups of predicate endings that began the
 | starts with is/was | | MDB | | |
 
 - each pair got the same label: 
-    - may/should(MD)
-    - has/had(VBH)
-    - is/was(BES)
-    - ridicule/discuss(VB)
-    - ridicules/discusses(VBS)
-    - ridiculed/discussed(VBD)
-    - ridiculing/discussing(VBP)
+	- may/should(MD)
+	- has/had(VBH)
+	- is/was(BES)
+	- ridicule/discuss(VB)
+	- ridicules/discusses(VBS)
+	- ridiculed/discussed(VBD)
+	- ridiculing/discussing(VBP)
 
 p2.lex
 ```
