@@ -95,7 +95,7 @@ No, it isn't licensed by my grammar, and no, it is intuitively possible.
 
 ### P4
 #### Part A
-`a^{m} b^{m}     m > 0`
+`a^{m} b^{m}     m > 0` <br>
 p4a.gram
 ```
 1.0     S C'
@@ -105,7 +105,7 @@ p4a.gram
 - make sure every iteration inserts one A and one B before and after the recursive component respectively
 
 #### Part B
-`a^{m} b^{n}     n > m`
+`a^{m} b^{n}     n > m` <br>
 p4b.gram
 ```
 1.0     S C'
@@ -118,7 +118,7 @@ p4b.gram
 - allow recursive element to allow addition of only B within iteration
 
 #### Part C
-`[a b]^{n}      n > 0`
+`[a b]^{n}      n > 0` <br>
 p4c.gram
 ```
 1.0     S C'
@@ -131,7 +131,7 @@ p4c.gram
 - force recursive element to end on A or B so string length is greater than 0
 
 #### Part D
-`a b+`
+`a b+` <br>
 p4d.gram
 ```
 1.0     S A C'
