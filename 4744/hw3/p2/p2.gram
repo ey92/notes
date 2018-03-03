@@ -1,28 +1,28 @@
-1.0 	VPR VB' OBJ		// discuss it
-1.0 	MDB VBP' OBJ 	// discussing it
-1.0 	MDB BEP' VBD 	// being discussed
-1.0 	VPS VBS' OBJ 	// discusses it
-1.0 	VPP VBD' OBJ 	// discussed it
+1.0 	VPR VB' OBJ
+1.0 	MDB VBP' OBJ
+1.0 	MDB BEP' VBD
+1.0 	VPS VBS' OBJ
+1.0 	VPP VBD' OBJ
 
-1.0		S NP' VPS 		// she discusses it
-1.0 	S NP' VPP 		// she discussed it
+1.0		S NP' VPS
+1.0 	S NP' VPP
 
-1.0 	S NP' VPM 		// goes to may/should
-1.0		VPM MD' VPR 	// may/should discuss it
-1.0 	VPM MD' MDP 	// may/should other predicates
-1.0 	MDP BE' MDB 	// may/should be discussingit/beingdiscussed
-1.0 	MDP BE' VBD 	// may/should be discussed
-1.0 	MDP AUX' HB 	// may/should have been
-1.0 	HB BEN' MDB 	// may/should have been discussingit/beingdiscussed
-1.0 	HB BEN' VPD 	// may/should have been discussed
-1.0 	MDP AUX' VPP 	// may/should have discussed it
+1.0 	S NP' VPM
+1.0		VPM MD' VPR
+1.0 	VPM MD' MDP
+1.0 	MDP BE' MDB
+1.0 	MDP BE' VBD
+1.0 	MDP AUX' HB
+1.0 	HB BEN' MDB
+1.0 	HB BEN' VPD
+1.0 	MDP AUX' VPP
 
-1.0 	S NP' H 		// goes to has/had
-1.0 	H VBH' VPP 		// has/had discussed it
-1.0 	H VBH' HB 		// has/had been
-1.0 	HB BEN' MDB 	// has/had been discussingit/beingdiscussed
-1.0 	HB BEN' VPD 	// has/had been discussed
+1.0 	S NP' H
+1.0 	H VBH' VPP
+1.0 	H VBH' HB
+1.0 	HB BEN' MDB
+1.0 	HB BEN' VPD
 
-1.0 	S NP' BP 		// is/was
-1.0 	BP BES' MDB 	// is/was discussingit/beingdiscussed
-1.0 	BP BES' VPD 	// is/was discussed
+1.0 	S NP' BP
+1.0 	BP BES' MDB
+1.0 	BP BES' VPD
