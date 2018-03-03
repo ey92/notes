@@ -1,4 +1,5 @@
 need to include good/bad samples & screenshots for all
+`cat $input | lopar -in $grammar`
 
 Elizabeth Yam ey92
 CS 4744 HW3
@@ -76,10 +77,6 @@ p1.start
 ```
 S       1.0
 ```
-
-p1.oc
-
-p1.OC
 
 #### Part D
 ```
@@ -177,6 +174,8 @@ p2.gram
 1.0     BP BES' MDB     // is/was discussingit/beingdiscussed
 1.0     BP BES' VBD     // is/was discussed
 ```
+- since we are required to use Chomsky Normal Form with binary branching production rules, I separated "discussed"(VBD) from MDB predicates and just duplicated every MDB predicate rule, replacing with VBD.
+	- for example `BP BES' MDB` and `BP BES' VBD`
 
 ---
 
