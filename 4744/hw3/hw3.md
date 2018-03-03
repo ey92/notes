@@ -90,73 +90,14 @@ No, it isn't licensed by my grammar, and no, it is intuitively possible.
 
 ### P2
 finding patterns
-```
-VPR
----
-discuss it
----
-may
-should 
 
+|            | VPR | MDB | VPP | VPS |
+| ---------- | --- | --- | --- | --- |
+| represents | discuss it | discussing it <br> being discussed <br> discussed | discussed it | discusses it |
+| starts with may/should | VPR | be + MDB <br> have + been | have + VPP | |
+| starts with has/had | | been + MDB | VPP | |
+| starts with is/was | | MDB | | |
 
-MDB
----
-discussing it
-being discussed
-discussed
----
-may be
-should be
-
-had been
-has been
-
-may have been
-should have been
-
-was
-is
-
-
-VPP
----
-discussed it
----
-may have
-should have
-
-had
-has
-
-she/he
-
-
-VPS
----
-discusses it
----
-she/he
-
-
----
-
-
-may/should
----
-VPR
-be + MDB
-have + been + MDB
-have + VPP
-
-had/has
----
-VPP
-been + MDB
-
-was/is
----
-MDB
-```
 
 ---
 
