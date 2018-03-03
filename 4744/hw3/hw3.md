@@ -91,13 +91,21 @@ No, it isn't licensed by my grammar, and no, it is intuitively possible.
 ### P2
 finding patterns
 
-| predicates | VPR | MDB | VPP | VPS |
+| predicates | VPR <br> (verb base present) | MDB <br> (modified base) | VPP <br> (verb predicate past) | VPS <br> (verb predicate present) |
 | ---------- | --- | --- | --- | --- |
 | represents | discuss it | discussing it <br> being discussed <br> discussed | discussed it | discusses it |
 | starts with may/should | VPR | be + MDB <br> have + been + MDB | have + VPP | |
 | starts with has/had | | been + MDB | VPP | |
 | starts with is/was | | MDB | | |
-- each pair got the same label: may/should(MD), has/had(VBH), is/was(BES), ridicule/discuss(VB), ridicules/discusses(VBS), ridiculed/discussed(VBD), ridiculing/discussing(VBP)
+
+- each pair got the same label: 
+    - may/should(MD)
+    - has/had(VBH)
+    - is/was(BES)
+    - ridicule/discuss(VB)
+    - ridicules/discusses(VBS)
+    - ridiculed/discussed(VBD)
+    - ridiculing/discussing(VBP)
 
 p2.gram
 ```
