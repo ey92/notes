@@ -90,3 +90,54 @@ No, it isn't licensed by my grammar, and no, it is intuitively possible.
 
 ### P2
 #### Part A
+
+---
+
+### P4
+#### Part A
+`a^{m} b^{m}     m > 0`
+p4a.gram
+```
+1.0     S C'
+1.0     C A' C B
+1.0     C A' B
+```
+- make sure every iteration inserts one A and one B before and after the recursive component respectively
+
+#### Part B
+`a^{m} b^{n}     n > m`
+p4b.gram
+```
+1.0     S C'
+1.0     C A' C B
+1.0     C C' B
+1.0     C B
+```
+- make sure recursive element ends on B
+- allow recursive element to only produce A if there is also a B
+- allow recursive element to allow addition of only B within iteration
+
+#### Part C
+`[a b]^{n}      n > 0`
+p4c.gram
+```
+1.0     S C'
+1.0     C A' C
+1.0     C B' C
+1.0     C A'
+1.0     C B'
+```
+- allow recursive element to add A or B
+- force recursive element to end on A or B so string length is greater than 0
+
+#### Part D
+`a b+`
+p4d.gram
+```
+1.0     S A C'
+1.0     C B' C
+1.0     C B'
+```
+- force first production to start with A and never add A again
+- recursive element only goes to adding any number of B
+- recursive element must end with B to force at lease one B
