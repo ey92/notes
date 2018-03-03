@@ -1,13 +1,14 @@
+he			NP	1.0
 she			NP	1.0
 may			MD	1.0
 should		MD	1.0
 have		AUX	1.0
-had			VBH	1.0
 has			VBH	1.0
+had			VBH	1.0
 be			BE	1.0
 been		BEN	1.0
-was			BES	1.0
 is			BES	1.0
+was			BES	1.0
 being 		BEP	1.0
 it 			OBJ	1.0
 ridicule	VB	1.0

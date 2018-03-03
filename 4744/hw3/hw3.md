@@ -91,13 +91,45 @@ No, it isn't licensed by my grammar, and no, it is intuitively possible.
 ### P2
 finding patterns
 
-|            | VPR | MDB | VPP | VPS |
+| predicates | VPR | MDB | VPP | VPS |
 | ---------- | --- | --- | --- | --- |
 | represents | discuss it | discussing it <br> being discussed <br> discussed | discussed it | discusses it |
-| starts with may/should | VPR | be + MDB <br> have + been | have + VPP | |
+| starts with may/should | VPR | be + MDB <br> have + been + MDB | have + VPP | |
 | starts with has/had | | been + MDB | VPP | |
 | starts with is/was | | MDB | | |
+- each pair got the same label: may/should(MD), has/had(VBH), is/was(BES), ridicule/discuss(VB), ridicules/discusses(VBS), ridiculed/discussed(VBD), ridiculing/discussing(VBP)
 
+p2.gram
+```
+1.0     VPR VB' OBJ     // discuss it
+1.0     MDB VBP' OBJ    // discussing it
+1.0     MDB BEP' VBD    // being discussed
+1.0     VPS VBS' OBJ    // discusses it
+1.0     VPP VBD' OBJ    // discussed it
+
+1.0     S NP' VPS       // she discusses it
+1.0     S NP' VPP       // she discussed it
+
+1.0     S NP' VPM       // goes to may/should
+1.0     VPM MD' VPR     // may/should discuss it
+1.0     VPM MD' MDP     // may/should other predicates
+1.0     MDP BE' MDB     // may/should be discussingit/beingdiscussed
+1.0     MDP BE' VBD     // may/should be discussed
+1.0     MDP AUX' HB     // may/should have been
+1.0     HB BEN' MDB     // may/should have been discussingit/beingdiscussed
+1.0     HB BEN' VPD     // may/should have been discussed
+1.0     MDP AUX' VPP    // may/should have discussed it
+
+1.0     S NP' H         // goes to has/had
+1.0     H VBH' VPP      // has/had discussed it
+1.0     H VBH' HB       // has/had been
+1.0     HB BEN' MDB     // has/had been discussingit/beingdiscussed
+1.0     HB BEN' VPD     // has/had been discussed
+
+1.0     S NP' BP        // is/was
+1.0     BP BES' MDB     // is/was discussingit/beingdiscussed
+1.0     BP BES' VPD     // is/was discussed
+```
 
 ---
 
