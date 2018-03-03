@@ -9,7 +9,7 @@ CS 4744 HW3
 | #1 | p1-bad.sent <br> p1-good.sent <br> p1.lex <br> p1.gram <br> p1.start <br> p1.oc <br> p1.OC |
 | #2 | p2.lex <br> p2.gram <br> p2.start <br> p2.oc <br> p2.OC |
 | #3 |  |
-| #4 | p4a.lex <br> p4a.gram <br> p4a.start <br> p4a.oc <br> p4a.OC <br> p4b.lex <br> p4b.gram <br> p4b.start <br> p4b.oc <br> p4b.OC <br> p4c.lex <cr> p4c.gram <cr> p4c.start <cr> p4c.oc <cr> p4c.OC <br> p4d.lex <dr> p4d.gram <dr> p4d.start <dr> p4d.oc <dr> p4d.OC |
+| #4 | p4a.lex <br> p4a.gram <br> p4a.start <br> p4a.oc <br> p4a.OC <br> p4b.lex <br> p4b.gram <br> p4b.start <br> p4b.oc <br> p4b.OC <br> p4c.lex <br> p4c.gram <br> p4c.start <br> p4c.oc <br> p4c.OC <br> p4d.lex <br> p4d.gram <br> p4d.start <br> p4d.oc <br> p4d.OC |
 | #5 |  |
 
 ### P1
