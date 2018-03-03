@@ -1,3 +1,17 @@
+need to include good/bad samples & screenshots for all
+
+Elizabeth Yam ey92
+CS 4744 HW3
+
+## Files
+| problem | filename(s) |
+| ------- | ----------- | 
+| #1 | p1-bad.sent <br> p1-good.sent <br> p1.lex <br> p1.gram <br> p1.start <br> p1.oc <br> p1.OC |
+| #2 | p2.lex <br> p2.gram <br> p2.start <br> p2.oc <br> p2.OC |
+| #3 |  |
+| #4 | p4a.lex <br> p4a.gram <br> p4a.start <br> p4a.oc <br> p4a.OC <br> p4b.lex <br> p4b.gram <br> p4b.start <br> p4b.oc <br> p4b.OC <br> p4c.lex <cr> p4c.gram <cr> p4c.start <cr> p4c.oc <cr> p4c.OC <br> p4d.lex <dr> p4d.gram <dr> p4d.start <dr> p4d.oc <dr> p4d.OC |
+| #5 |  |
+
 ### P1
 #### Part A
 p1-bad.sent
@@ -89,7 +103,7 @@ No, it isn't licensed by my grammar, and no, it is intuitively possible.
 ---
 
 ### P2
-finding patterns
+Finding Patterns: First, I looked for groups of predicate endings that began the same way and found four groups (see columns in table below). I then looked for common ways sentence predicates began (see rows in table below). After that, it was just connecting which pieces went together and whether or not additional auxiliary verbs needed to be added.
 
 | predicates | VPR <br> (verb base present) | MDB <br> (modified base) | VPP <br> (verb predicate past) | VPS <br> (verb predicate present) |
 | ---------- | --- | --- | --- | --- |
@@ -106,6 +120,31 @@ finding patterns
     - ridicules/discusses(VBS)
     - ridiculed/discussed(VBD)
     - ridiculing/discussing(VBP)
+
+p2.lex
+```
+he          NP  1.0
+she         NP  1.0
+may         MD  1.0
+should      MD  1.0
+have        AUX 1.0
+has         VBH 1.0
+had         VBH 1.0
+be          BE  1.0
+been        BEN 1.0
+is          BES 1.0
+was         BES 1.0
+being       BEP 1.0
+it          OBJ 1.0
+ridicule    VB  1.0
+discuss     VB  1.0
+ridicules   VBS 1.0
+discusses   VBS 1.0
+ridiculed   VBD 1.0
+discussed   VBD 1.0
+ridiculing  VBP 1.0
+discussing  VBP 1.0
+```
 
 p2.gram
 ```
@@ -134,7 +173,7 @@ p2.gram
 1.0     HB BEN' MDB     // has/had been discussingit/beingdiscussed
 1.0     HB BEN' VPD     // has/had been discussed
 
-1.0     S NP' BP        // is/was
+1.0     S NP' BP        // goes to is/was
 1.0     BP BES' MDB     // is/was discussingit/beingdiscussed
 1.0     BP BES' VPD     // is/was discussed
 ```
@@ -142,7 +181,6 @@ p2.gram
 ---
 
 ### P4
-need to include good/bad samples
 #### Part A
 `a^{m} b^{m}     m > 0` <br>
 p4a.gram
