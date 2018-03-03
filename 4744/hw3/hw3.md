@@ -164,18 +164,18 @@ p2.gram
 1.0     MDP BE' VBD     // may/should be discussed
 1.0     MDP AUX' HB     // may/should have been
 1.0     HB BEN' MDB     // may/should have been discussingit/beingdiscussed
-1.0     HB BEN' VPD     // may/should have been discussed
+1.0     HB BEN' VBD     // may/should have been discussed
 1.0     MDP AUX' VPP    // may/should have discussed it
 
 1.0     S NP' H         // goes to has/had
 1.0     H VBH' VPP      // has/had discussed it
 1.0     H VBH' HB       // has/had been
 1.0     HB BEN' MDB     // has/had been discussingit/beingdiscussed
-1.0     HB BEN' VPD     // has/had been discussed
+1.0     HB BEN' VBD     // has/had been discussed
 
 1.0     S NP' BP        // goes to is/was
 1.0     BP BES' MDB     // is/was discussingit/beingdiscussed
-1.0     BP BES' VPD     // is/was discussed
+1.0     BP BES' VBD     // is/was discussed
 ```
 
 ---
