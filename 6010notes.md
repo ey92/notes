@@ -503,7 +503,7 @@ e-business
 ### Problems
 - 4 organizational issues
 
-1. Technical Complexity and Outsourcing
+#### 1. Technical Complexity and Outsourcing
 - make internal systems of every company compatible with each other's databases and internal systems
 - building web infrastructure can be serious risk for older established companies
 - **outsourcing complexity** with FedEx
@@ -512,7 +512,7 @@ e-business
 	- what is left?
 - _be careful with outsourcing_ - no business left when everything is outsourced
 	- keep core competence
-- FedEx gets Silocon Valley Division of Texas Intruments - ideal client for virtual order
+- FedEx gets Silicon Valley Division of Texas Instruments - ideal client for virtual order
 	- controlling entire supply chain is even better
 - outsourcing complexity almost always reduce costs, but not long-term competitive advantage
 	 - competitors can also outsource
@@ -536,9 +536,101 @@ e-business
 - Google vs Apple over mobile
 	- same strategies but Apple outsourced applications (network effects)
 
-2. Privacy
-3. Ownership and Lock In
-4. BPR
+#### 2. Privacy
+- retailer knows customers better than they know themselves
+	- know competitors
+- Amazon in 2002 shipped books only from Ingram Book Co.
+	- keep customer information & relationship (brand recognition expensive)
+	- advantage can easily be bypassed by stealing customers
+- Ingram tried to have B&N buy them, stopped by US Govt (antitrust/vertical integration)
+- privacy may prevent efficiency in the supply chain
+
+- difference from Walmart/P&G
+	- Walmart owns distribution (physical locations)
+	- P&G is producer
+	- Amazon only has customer information
+	- Ingram has distribution
+
+#### 3. Ownership and Lock In
+- system to system coupling requires compatibility, expensive
+	- Google merge local inventory
+	- GE subsidizes suppliers' compatible systems
+- **Lock In**: switching costs
+- independent B2B markets
+	- high potential
+	- slow to establish - easy to fail (_network effects_)
+- **Market Ownership**
+	- network effect solution 1: can't be free bc compatibility expensive to build
+		- B2B market has no value until integration issues are resolved	
+	- network effect solution 2: need large players to build critical mass quickly
+		- but they prefer to own the marketplace
+	- big players monopoly/oligopoly collude, fix prices, manipulate demand; exploit small players
+- _network effects + switching costs lead to monopolies_
+	- network effects: can't get new customers
+	- switching costs: can't steal customers
+	- 1st mover advantage - need to be the first to build a critical mass
+	- cooperate competitors and build industry standards, have a small slice of big market
+
+#### 4. BPR
+- EDI allows inter-firm coordination
+- organizational processes have to be redesigned to take full advantage of inter-firm coordination
+	- individual companies' systems are optimized for their specialties
+- P&G/Walmart
+	- eliminate backroom operations
+	- P&G prepackage products to be placed on shelf
+	- _supplier managed shelf space_
+- Netflix's DVD business
+	- don't reshelf DVD
+	- send it to the person who wants it next
+	- need system to match DVDs with addresses
+- UPS/HP
+	- manufacturer -> UPS -> HP -> retailer
+	- everything is delivered twice: combine assembly/delivery
+	- assemble computers while parts are waiting during transport layover - moved assembly operations to airport hangar
+	- cut $80 and 4 days
+- BPR creates new business models in 3 steps
+	- 1. networking and automated search (Netflix)
+	- 2. resources sharing (HP)
+	- 3. disintermediation (Walmart)
+- 2 industry examples
+	- taxi industry:
+		- 1. Uber
+		- 2. carpooling/carsharing
+		- 3. community share cars (no driver)
+	- music industry:
+		- 1. download (iTunes)
+		- 2. stream (YouTube/Spotify)
+		- 3. ? match artist to consumers
+
+### Information Logistics
+database is warehouse, web is transportation
+- 3 tools
+	- Data Model: describe contents of database
+	- Query Language: filter and retrieve data
+	- Data Page: transport data from database to web users
+
+#### Data Model
+- central plan that describes contents of database
+- **relational model** represents data in simple tables
+- Table (File, Relation) for each entity type (flights)
+- Row (Entity, Record) for each entity of a type (flight)
+- Column (Attribute, Field) each attribute of interest for entity type
+- Fill (Value)
+<br><br>
+- simplicity of model belies complexity underneath
+- tables are not stored as tables
+- extremely large - doesn't fit in RAM/hard drive too slow
+- DBMS create and maintain data structures e.g. indices, catalogues
+<br><br>
+- database design involves defining data needs of organization in form of tables
+- tables/relations have to be designed carefully to avoid duplication
+	- redundancy -> wastes space, difficult maintenance, inconsistencies
+- trivial redundancies: don't duplicate rows or columns
+- some redundancies very subtle
+- some redundancies are unavoidable
+- split into another table
+- design rule: put independent entity type in separate table
+- same entity type over multiple tables introduces unnecessary jumping table to table
 
 ---
 ### A0 CTB

@@ -205,13 +205,11 @@ p4b.gram
 p4c.gram
 ```
 1.0     S C'
-1.0     C A' C
-1.0     C B' C
-1.0     C A'
-1.0     C B'
+1.0     C A' B C
+1.0     C A' B
 ```
-- allow recursive element to add A or B
-- force recursive element to end on A or B so string length is greater than 0
+- allow recursive element to repeat after A B
+- force recursive element to end on A B so string has at least one instance of "ab"
 
 #### Part D
 `a b+` <br>
