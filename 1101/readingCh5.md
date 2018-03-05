@@ -1,25 +1,25 @@
 # Chapter 5: Syntax
 - component of mental grammar
 - how sentences and phrases constructed out of smaller phrases and words
-
+<br> <br>
 **linguistic expression** - piece of language with form, meaning, and syntactic properties
 - syntactic properties determine how to combine with other expressions
-
+<br> <br>
 - _grammatical_/syntactically well-formed
 - _ungrammatical_ expressions/syntactically ill-formed
 - _grammaticality judgment_ is reflection of native speaker's mental grammar, irrelevant from prescriptive grammar
-
+<br> <br>
 - syntax vs semantics: not mutually exclusive, since syntax can affect meaning
 	- missing semantics -> strange meaning
 	- missing syntax -> guess meaning or nonsense
 - syntax can't be predicted or explained based on expression's meaning
 - if syntax is meaning-related, would be similar across all languages
-
+<br> <br>
 - subject, object
 - _principle of compositionality_: meaning of phrase depends on combined expressions and how syntactically connected
 - _lexical expressions_ (e.g. words, idioms)
 - _phrasal expressions_
-
+<br> <br>
 - _morphosyntax_: refers to morphology and syntax as a single grammar component
 
 ## Syntactic Properties
@@ -56,9 +56,9 @@
 - expressions whose occurrence is optional
 - e.g. adjectives
 
+##### Arguments vs Adjuncts
 - expressions can be arguments or adjuncts, depending on context
 
-##### Arguments vs Adjuncts
 ![Arguments vs Adjuncts](https://github.com/ey92/notes/blob/master/1101/arguments-vs-adjuncts.png)
 
 #### Agreement
@@ -85,7 +85,7 @@
 	- The cat was sleeping [there].
 	- The cat was [doing so].
 	- The cat was sleeping on [it].
-
+<br> <br>
 other tests:
 - coordination
 - deletion
