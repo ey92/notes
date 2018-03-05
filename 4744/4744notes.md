@@ -354,32 +354,4 @@ questions:
 how to read parse tree/chart on slides? (clicker Q A: 5)
 
 ---
-def add [N /// {ity}] & A;              # 167
-def adde [[N /// {ity}] e] & A;         # 97
-def ous [[N /// {ity}] {ous}] & A;      # 33
-def ious [[N /// {ity}] {ious}] & A;    # 22
-def al [[N /// {ity}] {al}] & A;        # 13
-def ist [[N /// {ity}] {ist}] & A;      # 11
-
----
-https://www.quora.com/What-words-can-act-as-both-nouns-and-verbs
-envelope
-research
-indent
-recoil
-invite
-discard
-compost
-
-theta
-    - shows up on cmu site, but not in given cmu2.fsb file
-entrance
-consort
-discharge
-    - shows up on cmu site, but not in given cmu2.fsb file
-transpose
-
-https://en.wikipedia.org/wiki/Deverbal_noun
-https://en.wikipedia.org/wiki/List_of_English_homographs
-
 http://www.speech.cs.cmu.edu/cgi-bin/cmudict

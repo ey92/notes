@@ -35,7 +35,7 @@
 ##### inflection vs derivation
 - **derivation** - morphological process of changing PoS or meaning
 	- not productive
-- **inflection** - morphological process modifying to indicate grammatically relevat information (person, number, gender, tense)
+- **inflection** - morphological process modifying to indicate grammatically relevant information (person, number, gender, tense)
 	- like derivation but creates forms of words instead of completely new words
 - derivational morphology always occurs before inflectional morphology
 
@@ -128,7 +128,7 @@ e.g. fast -> faster || speak -> speaker
 | ------ | -------- | ---------- |
 | preexist <br> preapprove <br> predetermine <br> | prewar <br> preseason <br> pregame | prefrontal <br> prehistoric |
 
-## Morphologial Analysis
+## Morphological Analysis
 impossible to isolate morphemes by intuition
 - begin with comparing words with similar meaning and sharing a morpheme
 	- learn morpheme root and alternations

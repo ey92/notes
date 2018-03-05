@@ -11,7 +11,7 @@ phonetics vs phonology
 - languages prefer syllables to begin with CV_ (one consonant, one vowel)
 - English allows up to three consonants to start a word, doesn't start with [ʒ ŋ]
 - certain segments can't follow each other (fk)
-- in ASL, monosyllabic sign must change handshape, location, or orientation
+- in ASL, monosyllabic sign must change hand shape, location, or orientation
 - dominant/non-dominant hand conventions
 - foreign accents
 	- apply native phonotactic constraints to new language's words

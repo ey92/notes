@@ -13,7 +13,7 @@ phonetics: consonants, vowels, melodies, rhythms
 2\. _acoustic phonetics_ - study of transmission and physical properties of speech sounds
 - concerns characteristics of sounds produced by articulations
 - use sound spectrograph
-	- _formant_ - uniform band of relativeley great intensity in the sound specturm over a particular frequency range
+	- _formant_ - uniform band of relatively great intensity in the sound spectrum over a particular frequency range
 
 3\. _auditory phonetics_ - study of perception of speech sounds
 - how humans perceive pronunciation
@@ -41,7 +41,7 @@ consonants vs. vowels
 
 |  | consonants | vowels |
 | - | ---------- | ------ |
-| articulary  | produce constriction in vocal tract to impede airflow | slight narrowing & allow air to flow freely
+| articulatory  | produce constriction in vocal tract to impede airflow | slight narrowing & allow air to flow freely
 | acoustically | usually less intense | usually more intense |
 | auditory | - | prominent nucleus of each syllable |
 
@@ -81,7 +81,7 @@ place in vocal tract where airflow is constricted
 | ---- | ----------- | ------- |
 | **bilabial** | bring both lips close together | [p] pat <br> [b] bat <br> [m] mat <br> [w] with <br> [w̥] where (for some) |
 | **labiodental** | lower lip against upper front teeth | [f] fat | [v] vat |
-|**interdentals** | tip of tongue protruding between front teeth | [θ] thigh <br> [ð] thy |
+| **interdental** | tip of tongue protruding between front teeth | [θ] thigh <br> [ð] thy |
 | **alveolar** | tongue tip at or near front of upper _alveolar ridge_ | [t] tab <br> [d] dab <br> [s] sip <br> [z] zip <br> [n] noose <br> [ɾ] atom <br> [l] loose <br> [ɹ] red |
 | **post-alveolar** | front of tongue just behind _alveolar ridge_, front of _hard palate_ | [ʃ] leash <br> [ʒ] measure <br> [ʧ] church <br> [ʤ] judge |
 | **palatal** | body of tongue near center of _hard palate_ | [j] yes |
@@ -99,11 +99,11 @@ how the airstream is constricted or modified in the vocal tract to produce the s
 
 | type | description | example |
 | ---- | ----------- | ------- |
-| **stops**/**plosives** | completely obstruct airstream in oral cavity | [p] <br> [b] <br> [t] <br> [d] <br> [k] <br> [g] <br> [m] <br> [n] <br> [ʔ] |
-| **fricatives** | form nearly complete obstruction in vocal tract, noise called _frication_ | [f] <br> [v] <br> [θ] <br> [ð] <br> [s] <br> [z] <br> [ʒ] <br> [h] |
-| **affricates** | briefly stop airstream completely and then slightly releasing articulators to produce frication <ul><li>begin with stop and end with fricative</li></ul> | [ʧ] <br> [ʤ] |
-| **nasals** | relax and lower velum, opening nasal passage to vocal tract | 'nasal stops' <br> [m] <br> [n] <br> [ŋ] |
-| **approximants** | constrict vocal tract but not narrow enough to block vocal tract or cause turbulence; includes _liquids_ and _glides_ | |
+| **stop**/**plosive** | completely obstruct airstream in oral cavity | [p] <br> [b] <br> [t] <br> [d] <br> [k] <br> [g] <br> [m] <br> [n] <br> [ʔ] |
+| **fricative** | form nearly complete obstruction in vocal tract, noise called _frication_ | [f] <br> [v] <br> [θ] <br> [ð] <br> [s] <br> [z] <br> [ʒ] <br> [h] |
+| **affricate** | briefly stop airstream completely and then slightly releasing articulators to produce frication <ul><li>begin with stop and end with fricative</li></ul> | [ʧ] <br> [ʤ] |
+| **nasal** | relax and lower velum, opening nasal passage to vocal tract | 'nasal stops' <br> [m] <br> [n] <br> [ŋ] |
+| **approximant** | constrict vocal tract but not narrow enough to block vocal tract or cause turbulence; includes _liquids_ and _glides_ | |
 | <ul><li>**liquids**</li></ul> | formed with slightly more constriction than glides; quality changes depending on where in word, usually voiced in English | [l] <br> [ɹ] (commonly _retroflex_)|
 | <ul><li>**glides**</li></ul> | slight closure of articulators, close to vowel sounds; require some gliding of articulators during production | [w] <br> [w̥] <br> [j] |
 | **flap**/tap | complete obstruction of oral cavity, but faster closure than a stop | [ɾ] <br> ('ladder' 'writer') |
@@ -118,7 +118,7 @@ types of liquid:
 - _rhotic_: [ɹ]
 - _lateral_: [l] airstream proceeds along the sides of the tongue, but it is blocked by the tongue from going through the middle of the mouth
 
-### 4. Nature/Part of the Obstructor
+### 4. Nature/Part of the Obstructer
 - labiodental vs bilabial
 - tongue position/part
 	* _apical_ (tongue tip) vs dorsal
@@ -140,7 +140,7 @@ types of liquid:
 	- e.g.  [m̩], [l̩], [ɹ̩]
 
 observing place and manner of articulation: **palatography** - picture where tongue touches roof of mouth during articulation
-- _static palatography_: paint tongue black with mixture of olive oil and charcoal poweder
+- _static palatography_: paint tongue black with mixture of olive oil and charcoal powder
 	- tongue leaves black trace wherever touched to make constriction when sound produced
 	- only words if speaker produces single isolated sound and contact pattern photographed or examined immediately
 - _dynamic palatography_: points of contact directly recorded on computer via artificial hard palate
@@ -225,7 +225,7 @@ consonants
 | --- | ------ | ----- | ---- | --------------------- |
 | [ф] | + | bilabial | fricative | |
 | [β] | + | bilabial | fricative | 'Cuba' |
-| [ç] | - | palatel | fricative | |
+| [ç] | - | palatal | fricative | |
 | [ʝ] | + | palatal | fricative | |
 | [х] | - | velar | fricative | 'Bach', '好' |
 | [ɣ] | + | velar | fricative | 'amigo' |
@@ -274,8 +274,8 @@ Secondary Articulations
 	- following consonant further back -> vowel longer
 - **intonation** - pattern of pitch movements across a stretch of speech
 	- rising = question, falling = statement
-	- _pitch accents_ - change in fundamental frequncy in middle of utterance
-	- _edge tones_ - pitch pattern right before a percieved break instead of middle of utterance
+	- _pitch accents_ - change in fundamental frequency in middle of utterance
+	- _edge tones_ - pitch pattern right before a perceived break instead of middle of utterance
 - **tone** - pitch at which the syllable of a word is pronounced
 	- 2 types of tones: level or contour
 	- not mutually exclusive with intonation
@@ -327,7 +327,7 @@ English Vowel Frequencies
 5 **parameters** of articulation = segments
 - place of articulation
 - movement
-- handshape
+- hand shape
 - hand orientation
 - (non-manual markers)
 
@@ -344,8 +344,8 @@ _phones_/_primes_ combined differently than in spoken languages
 - direction & regions involved
 - like vowels, meaning can be understood w/o movement
 
-#### 3. Handshape
-- multiple handshapes and movements
+#### 3. Hand shape
+- multiple hand shapes and movements
 - differ in finger extension, position of thumb, fingers touching, etc.
 
 #### 4. Orientation

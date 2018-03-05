@@ -57,13 +57,13 @@
 	- aspects of language that can only be acquired via communicative interaction with other users
 6. _arbitrariness_
 	- refers to the fact that a word's meaning is not predictable from its linguistic form nor its meaning
-	- nonarbitrariness: form represents meaning directly (iconic/picture-like)
+	- non-arbitrariness: form represents meaning directly (iconic/picture-like)
 		- evidence: cross-linguistic comparisons
-		- onomatopoeia - a nonarbitrary aspect of language where the words imitate natural sounds or meaning is associated with nature
+		- onomatopoeia - a non arbitrary aspect of language where the words imitate natural sounds or meaning is associated with nature
 		- sound symbolism - phenomenon where certain sounds are evocative of a particular meaning
 			e.g. 'small' have 'i' sound (teeny, wee, mikros); 
 				use high-pitched vowel because small objects give off high pitched sounds
-		- speakers well-aware of nonarbitrary aspects and often used in poetry for example
+		- speakers well-aware of non arbitrary aspects and often used in poetry for example
 7. _discreteness_
 	- property of language that allows discrete units to be combined into larger communicative units
 	- every language has limited number of sounds, but the ability to combine them in so many ways to express many ideas makes them useful

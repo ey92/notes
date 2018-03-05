@@ -8,7 +8,7 @@ CS 4744 HW3
 | problem | filename(s) |
 | ------- | ----------- | 
 | #1 | p1-bad.sent <br> p1-good.sent <br> p1.lex	p1.gram	p1.start	p1.oc	p1.OC |
-| #2 | p2.lex	p2.gram	p2.start	p2.oc	p2.OC |
+| #2 | p2-good.sent <br> p2.lex	p2.gram	p2.start	p2.oc	p2.OC |
 | #3 |  |
 | #4 | p4a.lex	p4a.gram	p4a.start	p4a.oc	p4a.OC <br> p4b.lex	p4b.gram	p4b.start	p4b.oc	p4b.OC <br> p4c.lex	p4c.gram	p4c.start	p4c.oc	p4c.OC <br> p4d.lex	p4d.gram	p4d.start	p4d.oc	p4d.OC |
 | #5 |  |
@@ -43,9 +43,6 @@ people who need people who need people need people
 people who people need need people who need people
 people who people need need people who people need
 people need people who need people who people need
---
-people [who need people]* [who people need]* need people [who need people]* [who people need]*
-people [who people]^{n} [need]^{n} need people [ who people need]*
 ```
 
 #### Part C
@@ -100,7 +97,7 @@ No, it isn't licensed by my grammar, and no, it is intuitively possible.
 ---
 
 ### P2
-Finding Patterns: First, I looked for groups of predicate endings that began the same way and found four groups (see columns in table below). I then looked for common ways sentence predicates began (see rows in table below). After that, it was just connecting which pieces went together and whether or not additional auxiliary verbs needed to be added.
+Finding Patterns: <br> First, I looked for groups of predicate endings that began the same way and found four groups (see columns in table below). I then looked for common ways sentence predicates began (see rows in table below). After that, it was just connecting which pieces went together and whether or not additional auxiliary verbs needed to be inserted.
 
 | predicates | VPR <br> (verb base present) | MDB <br> (modified base) | VPP <br> (verb predicate past) | VPS <br> (verb predicate present) |
 | ---------- | --- | --- | --- | --- |

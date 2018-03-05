@@ -37,7 +37,7 @@
 
 **language variation** - property of languages having different ways to express the same meanings in different contexts, according to factors such as geography, social class, gender, social class, etc.
 
-**writing** - physical representation of language other than speech; adds an extra step to communcation process
+**writing** - physical representation of language other than speech; adds an extra step to communication process
 
 **form** - the structure or shape of any particular linguistic item, from individual segments to strings of words
 
@@ -60,7 +60,7 @@
 ## Ch. 2 Phonetics
 **phonetics** - study of minimal units that make up language
 
-**articulary phonetics** - study of production of speech sounds
+**articulatory phonetics** - study of production of speech sounds
 
 **acoustic phonetics** - study of transmission and physical properties of speech sounds
 
@@ -104,15 +104,15 @@
 
 **running speech/continuous speech** - the usual form of spoken language, with all the words and phrases run together, without pauses in between them
 
-**articulary description** - description of motion or positioning of parts of the vocal tract that are responsible for the production of a speech sound for an auditory-vocal language
+**articulatory description** - description of motion or positioning of parts of the vocal tract that are responsible for the production of a speech sound for an auditory-vocal language
 
 **articulation** - the motion or positioning of some part of the vocal tract, often muscular part e.g. tongue or lips, with respect to some other surface of the vocal tract in the production of a speech sound
 
-**articulary gesture** - a movement of a speech organ in the production of speech e.g. movement of the velum for nasal consonant
+**articulatory gesture** - a movement of a speech organ in the production of speech e.g. movement of the velum for nasal consonant
 
 **larynx** - aka voice box; cartilage and muscle located at top of trachea, containing vocal cords and glottis
 
-**vocal tract** - air passage above larynx, including pharyx, oral cavity, nasal cavity
+**vocal tract** - air passage above larynx, including pharynx, oral cavity, nasal cavity
 
 **subglottal system** - part of respiratory system below larynx
 
@@ -170,9 +170,9 @@
 
 **intonation** - pattern of pitch movements across a stretch of speech
 
-**pitch accents**- change in fundamental frequncy in middle of utterance
+**pitch accents**- change in fundamental frequency in middle of utterance
 
-**edge tones**- pitch pattern right before a percieved break instead of middle of utterance
+**edge tones**- pitch pattern right before a perceived break instead of middle of utterance
 
 **tone** - pitch at which the syllable of a word is pronounced
 
@@ -247,7 +247,7 @@
 
 **stem** - base, consisting of at least one morpheme, to which affixes are added; includes root (+ affixes)
 
-**inflection** - morphological process modifying to indicate grammatically relevat information (person, number, gender, tense); like derivation but creates forms of words instead of completely new words
+**inflection** - morphological process modifying to indicate grammatically relevant information (person, number, gender, tense); like derivation but creates forms of words instead of completely new words
 
 **morpheme** - smallest linguistic unit with meaning or grammatical function
 - _free morpheme_ - can be a word alone
@@ -257,9 +257,9 @@
 
 **homophony** - phenomenon where 2+ distinct morphemes or nonphrasal linguistic expressions happen to have the same form
 
-**productive** - descibes morpheme or rule that can be used to produce novel grammatical forms
+**productive** - describes morpheme or rule that can be used to produce novel grammatical forms
 
-**word formation process** - combination of morphemes according to rules of the language to make new wordsor forms of words
+**word formation process** - combination of morphemes according to rules of the language to make new words or forms of words
 
 **affixation** - word formation process in which affixes added onto stems
 
@@ -288,3 +288,46 @@
 
 **hierarchical structure** - the dominance relationship among morphemes in a word or among constituents in a phrase
 
+---
+
+## Ch. 5 Syntax
+**syntax** - component of mental grammar that deals with constructing phrasal expressions out of smaller expressions; subfield of linguistics that studies how expressions can combine to form larger expressions
+
+**linguistic expression** - piece of language with form, meaning, and syntactic properties
+
+**'grammatical'** - correct grammar, according to descriptive grammar, esp syntax
+
+**'ungrammatical'** - not following descriptive grammatical rules, esp syntax
+
+**grammaticality judgment** - native speaker decides whether string of words is grammatical expression in native language
+
+**principle of compositionality** - notion that meaning of phrasal expression is predictable from the meanings of constituent expressions and how they were syntactically combined
+
+**lexical expression** - linguistic expression that has to be listed in mental lexicon (e.g. words, idioms)
+
+**phrasal expression** - linguistic expression that results from syntactic combination of smaller expressions; multi-word linguistic expression; includes sentences
+
+**syntactic properties** - properties of linguistic expressions that dictate how they can syntactically combine with other expressions (word order, co-occurrence)
+
+**word order** - linear order in which words can occur in some phrasal expression; set of syntactic properties of expressions that dictates how they can be ordered with respect to other expressions
+
+**co-occurrence** - set of syntactic properties that determines which expressions may or have to co-occur with some other expressions in a sentence
+
+**topicalization** - syntactic process (in English) where syntactic constituent occurs at the beginning of sentence to highlight topic
+
+ **argument** - linguistic expression that must occur in a sentence if some other expression occurs in that sentence as well
+ - **complement** - non-subject argument of an expression
+
+**adjunct**/**modifier** - linguistic expression whose occurrence in a sentence is optional
+
+**agreement** - phenomenon by which certain expressions in a sentence (e.g., a verb and its subject) must be inflectionally marked for the same person, number, gender, etc.
+
+**morphosyntax** - refers to morphology and syntax as a single grammar component
+
+**syntactic constituent** - smaller expressions from which some larger phrasal expressions are constructed
+
+**cleft** - type of sentence that has general form It is/was X that Y (e.g., It was Sally that I wanted to meet); can be used as a constituency test
+
+**substitution** - constituency test where constituent replaced with single word (or simple phrase), such as a pro-form
+
+**pro-form** - word (e.g. pronoun) that can replace a syntactic constituent
