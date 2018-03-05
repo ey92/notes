@@ -36,7 +36,7 @@ colonial powers try to amass collections
 	* political and military influences
 	* profit
 	* historical artifact
-	* cofirmation of Bible/other texts
+	* confirmation of Bible/other texts
 
 # Discovery & Development of Egyptology
 ## Steps to Egyptology/ Exploring, Collecting
@@ -56,7 +56,7 @@ colonial powers try to amass collections
 #### 1\. Exploration, including travel (5th-17th century)
 - 5th c BC Herodotous, Greek historian of Persian Wars
 - 3rd c CE Eusebius, bishop of Caesarea, Onomasticon, list of place-names
-- 4th c CE Queen Helena's pilgrimmage, Imp. Contantine's mother
+- 4th c CE Queen Helena's pilgrimage, Imp. Constantine's mother
 - 7th c. Arab explorers going beyond Ptolemy's geography, Strabo
 - 9th c. Caliph al-Ma'mun penetrates the pyramids for treasure rather than knowledge
 	* vinegar and battering ram - hole still used for tourists
@@ -67,16 +67,16 @@ colonial powers try to amass collections
     * copied into 6 vol. German in 17th c, stimulating travel later
 - 1480, 1483 German friar Felix Fabri /Wanderings/ to Palestine and Egypt
 	* non-scientific travel log, with personal notes on places and people
-- 1400-1700 at least 200 accounts of pilgrimmages to Egypt and Palestine
-- 1505 during renaissance Hor-Apollo's Hieroglyphica published (coneceived during 5th c)
+- 1400-1700 at least 200 accounts of pilgrimages to Egypt and Palestine
+- 1505 during renaissance Hor-Apollo's _Hieroglyphica_ published (coneceived during 5th c)
 	* mistakenly believed that hieroglyphs were magic symbols for natural and moral principles "symbology"
 	* held back actual deciphering
 
 #### 2\. Collecting (17th-19th century)
 - Private: _antiquarianism_ or amateur archaeology
 	* 17th c. Pietro della Valle, collecting Coptic (ancient Egyptian language written in Greek script) manuscripts in Egypt
-	* 1646 John Greaves /Pyramidographica/ Mis-measured Khufu pyramid as 152m high
-	* 1800 "pyramid inch" theory of Joyn Taylor: sides of great pyramid = 36,524 'pyramid inches' - days in a solar year
+	* 1646 John Greaves _Pyramidographica_ Mis-measured Khufu pyramid as 152m high
+	* 1800 "pyramid inch" theory of John Taylor: sides of great pyramid = 36,524 'pyramid inches' - days in a solar year
 	* *disproved by Petrie in 1880
     * 1751 Frederik Norden's illustrated travelogues, bestseller, inaccurate
 - public: nationalistic, museum collecting
@@ -139,7 +139,7 @@ colonial powers try to amass collections
         | Akhet | Jun - Oct | flood |
         | Peret | Oct - Feb | growing |
         | Schemu | Feb - Jun | harvest/drought |
-- ** Nile water comes fron summer monsoons in Indian ocean, trapped in mountains of Eritrea and Ethiopia
+- ** Nile water comes from summer monsoons in Indian ocean, trapped in mountains of Eritrea and Ethiopia
 
 ### **Nile geography
 - 4180 miles
@@ -149,15 +149,15 @@ colonial powers try to amass collections
 - Faiyum - oasis with wildlife
 - cataracts
     - Aswan at 1st cataract, more cataracts upstream
-    - 5th cataract at border with kush
+    - 5th cataract at border with Kush
 - Tributaries
     - Atbara river, Blue Nile bring fertile silt
         - blue nile branch off at Khartoum, sourced from Lake Tana
-    - White Nile privdes majority of the water
+    - White Nile provides majority of the water
         - white nile sourced from Lake Victoria
 
 ### Egyptians called themselves
-- "Egypt" name from greeks
+- "Egypt" name from Greeks
 - "The Two Lands"
     * 1\. Lower Egypt (Delta, Faiyum), wide marshy flat
     * 2\. Upper Egypt, narrow valley, floodplain
@@ -192,7 +192,7 @@ H. Sinai
 - **construction**
     - mud for bricks, bakes in sun & used in everyday residential architecture
         - doesn't last, archaeological remains imbalanced towards stone structures
-    - red granaite, near Aswan
+    - red granite, near Aswan
     - limestone near Giza
     - sandstone everywhere
     - tombs, temples, monumental architecture
@@ -206,10 +206,10 @@ H. Sinai
         - cedar from Lebanon, aromatic, soft/carvable, rot-resistant (Khufu's burial barge)
 - **grains**
     - emmer wheat -> flour, bread
-    - barley -> bread, cades, beer
+    - barley -> bread, cakes, beer
     - Menkaure's pyramid workers paid in beer 'Drunkards of Menkaure'
     - imported wine, then imported grape vines
-    - leumes: lentils, chick peas, fava beans, hummouse foul
+    - legumes: lentils, chick peas, fava beans, hummus foul
     - leafy greens: cucumber, onion, radish, leek
     - oils: flax, sesame, imported olive
 - fruits: melon, pomegranate, dates, figs (fiber, sweetener)
@@ -272,7 +272,7 @@ H. Sinai
     - from Anedjib to 
 - Royal Canon of Turin
     - over 300 names, including pre-Menes, with moths and days of reign
-    - in Hieractic script, not hieroglyphics
+    - in Hieratic script, not hieroglyphics
     - poorly preserved
     - omits 2nd intermediate period
 
@@ -283,7 +283,7 @@ Margin of Error
 | -------------- | ------ |
 | Early Dynastic Period (ca.3000-2700) | ~100yrs |
 | New Kingdom (ca.1570) | ~decades |
-| 664bc | year in babylonian calendar |
+| 664bc | year in Babylonian calendar |
 
 ### Kingdoms and Dynasties
 **Kingdoms** - periods of unity divided by Intermediate Periods
@@ -320,7 +320,7 @@ Egyptian universe: bubble or void within watery chaos _Nun_
 - Ra-Horakthty, merged with Horus
 - Aten, life-giving solar disc
 
-## Cosmogeny: understanding of how the world was created
+## Cosmogony: understanding of how the world was created
 4 creation myths/theologies
 
 #### 1. Hermopolis (earlier)
@@ -329,7 +329,7 @@ Egyptian universe: bubble or void within watery chaos _Nun_
 - mound rises out of water
 - bird lays an egg on mound
 - plurality of gods coming out of chaos
-- **Ogdoad**: masculine/feminite counterparts, original gods
+- **Ogdoad**: masculine/feminine counterparts, original gods
     - Nun/Naunet:     water/inertia
     - Huh/Hauhet:     infinity/eternity
     - Kuk/Kauket:     darkness
@@ -371,14 +371,14 @@ Egyptian universe: bubble or void within watery chaos _Nun_
 2. domestication of plants and animals
 3. sedentism - permanent houses in villages
 challenge: no writing until 3150bc
-developments spread acrss many sites
+developments spread across many sites
 stone tools "type fossils"/diagnostic artifact types
 
 ## Paleolithic Egypt
 #### Lower Paleolithic c. 400,000-250,000 before present
 - Acheulian handaxe, used by _homo erectus_
 
-#### Middle Зaleolithic c. 250,000-50,000 bc
+#### Middle Paleolithic c. 250,000-50,000 bc
 - from cores to flakes
 - Levallois flake and core tools
 - used by _homo neaderthalensis_
@@ -393,16 +393,16 @@ stone tools "type fossils"/diagnostic artifact types
 #### Late Paleolithic Egypt c. 24,000-10,000 bc
 - microliths/bladelets: backed for mounting, knife, arrow, spear; regular shapes
 - Wadi Kubbaniya hunting and fishing around annual lake: red hartebeest, gazelle
-- Gebel Sahaba (Sudan) late paleolithic cemetary: simple burials in pits w/o goods projectiles in skeletons (violent deaths)
+- Gebel Sahaba (Sudan) late paleolithic cemetery: simple burials in pits w/o goods projectiles in skeletons (violent deaths)
     - Wild Nile hypothesis: unpredictable Nile floods caused conflicts
 - Nataruk, Lake Turkana, Kenya: more violence, is violence/chaos inherently human?
-- unprdictable resources, chaos (isfet)
+- unpredictable resources, chaos (isfet)
 
 #### Stone Age Achievements
 - hunting-gathering-fishing lower paleolithic
-- advanced lithics, Levallois brades middle paleolithic
-- hman burial Taramsa
-- finely made backed blaelets, violence/warfare upper paleolithic
+- advanced lithics, Levallois blades middle paleolithic
+- human burial Taramsa
+- finely made backed bladelets, violence/warfare upper paleolithic
 - unpredictable circumstances
 
 ## Neolithic: Western Desert, Nile Valley
@@ -465,7 +465,7 @@ stone tools "type fossils"/diagnostic artifact types
 Contrast to Merimde
 - in Upper Egypt, as opposed to Lower Egypt
 - no villages found
-- extramural burials, cemetaries
+- extramural burials, cemeteries
 
 #### Badarian
 - earliest agriculture in UPper Egypt
@@ -557,7 +557,7 @@ political unification of Egypt
 - *Hierakonpolis* "_main deposit_" 
 - Scorpion
     - Scorpion macehead, king in white crown with hoe and conquered, possible also red crown
-    - Battlefield Pelette, Tehenu/Siege/Lybian Palette, commemorating victories by king or kings (lion, falcon, scorpion) over walled towns
+    - Battlefield Palette, Tehenu/Siege/Lybian Palette, commemorating victories by king or kings (lion, falcon, scorpion) over walled towns
 - Narmer
     - Narmer Palette: complete, has unification, conquering king wash, both crowns, mace/scepter, sandal bearer, Horus conquering delta, serekh with name, Hathor (house of Horus), control of chaos (no double crown?)
     - Narmer macehead
@@ -579,7 +579,7 @@ political unification of Egypt
 - social stratification ca. 4000
     - land management: rule people to make land valuable
 - Upper Egypt first
-    - Heliopolitan myth recognizes inherent conflict, estaplishes dynastic principle (oldest son rules), identifiying ruler with fierce predator balances order vs chaos, rather than annihilation
+    - Heliopolitan myth recognizes inherent conflict, establishes dynastic principle (oldest son rules), identifying ruler with fierce predator balances order vs chaos, rather than annihilation
     - transportation, law
     - land management/territoriality not an issue in the delta
     - controlling people in linear valley is easier
@@ -600,7 +600,7 @@ political unification of Egypt
         - central burial chamber and store magazines
         - "mother of king" title from seal: vulture, sedge-plant
 - satellite burials: young skeletons, neatly aligned, probably strangled -> human sacrifice?
-    - New Kingdom ushabti figurne with spell to activate service in aferlife - more human means of eternal service
+    - New Kingdom ushabti figurine with spell to activate service in aferlife - more human means of eternal service
 - 14 cedar boat fleet, each encased in brick and plaster, buried next to a funerary enclosure, oldest boats found
     - 3 possible functions: solar barges, funerary procession, everyday boats to be used in the afterlife
 - Saqqara cenotaph 3038 with Adjib/Anedjib sealings
@@ -629,7 +629,7 @@ political unification of Egypt
     - largest tomb in Abydos, could fit all of D1 offerings
     - name appears with cobra & vulture/two ladies on fragments
     - central tomb limestone - 1st large stone construction
-    - copper tools(model&life) & vessels, stone vessels, gold covers, flint tools, pottery wit hgrain and fruit, glazed objects, carnelian beans, ceramic jars, basketry
+    - copper tools(model&life) & vessels, stone vessels, gold covers, flint tools, pottery with grain and fruit, glazed objects, carnelian beans, ceramic jars, basketry
     - mound within enclosure - pyramid precursor
 - officials' tombs in Abydos resemble mastaba private tombs in later Old Kingdom, buried in cedar coffins and beginnings of mummification
 
@@ -694,7 +694,7 @@ political unification of Egypt
 ## Egyptian Grammar
 - VSO word order
 - 2 grammatical genders: M/F
-- 3 gramatical numbers: singular, dual/pair, plural
+- 3 grammatical numbers: singular, dual/pair, plural
 - triconsonantal roots like Semitic languages
     - CCC prefixes/suffixes/infixes to create NVA from same CCC root
 
@@ -783,6 +783,7 @@ Demotic
 
 ![Lord of the Two Lands](https://github.com/ey92/notes/blob/master/lord-of-two-lands.png)
 
+---
 #### quiz up to 2/16 lecture
 up to D0/D1
 orwell quote - proaganda

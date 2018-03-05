@@ -92,3 +92,4 @@ other tests:
 - topicalization
 
 ## Syntactic Categories
+- groups of words that have similar word order or co-occurrence requirements

@@ -460,8 +460,25 @@ few productive affixes left in English
 
 - can attach Class II suffixes to words that already have suffixes, but not Class I
 
----
+# Syntax
+_lexical ambiguity_ arises when two word sound alike (homophony)
+- smallest units with meanings must be smaller than words
+- antecedent don't have to precede pronoun; they can co-refer
+
+- syntax - structural organization of language above the level of the word
+- morphology - structural organization of word below the level of the word
+
+- semantic criteria doesn't provide sound basis for classifying words into distinct morphological/syntactic categories
+	- noun - "person, place or thing"
+		- murder is an action, illness is a state
+	- "The river stretches over \_ and \_"
+		- stretches is a state, not an action
+	- fast food
+		- fast is an adverb describing action of creating food, not the food itself
+	- some nouns use singular form to refer to quantities (air, water) "mass nouns"
+
 ##### Prelim 1 content
+---
 1. Phonetics
 - transliterate to/from IPA/English
 - define specific English sounds in articulatory features
