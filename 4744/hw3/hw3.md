@@ -242,7 +242,7 @@ need frequencies
 | for | rush,  test,  fish,  search,  check |
 | on | finish,  bet,  focus,  film,  work |
 
-initially used ANV.fsb to find words that could be a noun or a verb to get a verb to start with
+I initially used ANV.fsb to find words that could be a noun or a verb to get a verb to start with.
 ```
 load ANV.fsb
 regex A & V;
@@ -251,7 +251,7 @@ print random-words
 
 I found the 3rd form to be the hardest to come up with, so I queried the corpora with that format of VB+IN+NN: <br>
 `cwb-scan-corpus NYT2006 ?word+0="/rush/" word+0 ?word+1="/IN/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less` <br>
-This gave me prepositions to work with, so I replaced the inital verb with pos as VB and replaced the preposition IN with some of the ones that I found in the query
+This gave me prepositions to work with, so I replaced the inital verb with pos as VB and replaced the preposition IN with some of the ones that I found in the query.
 
 ---
 ##### of
