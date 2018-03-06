@@ -138,7 +138,7 @@ a man he saw with a telescope
 a man was seen with a telescope
 a man with a telescope was seen
 ```
-many sentences can be sytactically ambiguous
+many sentences can be syntactically ambiguous
 
 #### Grammar for tree language:
 - CFGs
@@ -301,7 +301,7 @@ NYT 2005 > [lemma="question""] [pos="DT"]
 ```
 >cwb-scan-corpus NYT2006 word+0="/questioned/" word+1 | unique -C | sort -nr | less
 >cwb-scan-corpus NYT2006 pos+0="/VBD/" word+1 word+!="/whether/" | unique -C | sort -nr | less
->cwb-scan-corpus NYT2006 pos+0="/VBD/" ?word+1 lemma+0 word+!="/whether/" | unique -C | sort -nr | less
+>cwb-scan-corpus NYT2006 pos+0="/VBD/" ?word+1 lemma+0 word+1="/whether/" | unique -C | sort -nr | less
 ```
 
 lopar tables

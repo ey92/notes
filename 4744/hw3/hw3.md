@@ -1,4 +1,4 @@
-need to include good/bad samples & screenshots for all
+need to include good/bad samples & screenshots for all <br>
 `cat $input | lopar -in $grammar`
 
 Elizabeth Yam ey92
@@ -176,6 +176,12 @@ p2.gram
 
 ---
 
+### P3
+VBD+IN
+`cwb-scan-corpus NYT2006 ?pos+0="/VBD/" word+0 ?pos+1="/IN/" word+1 | uniq -c | sort -nr | less`
+
+---
+
 ### P4
 #### Part A
 `a^{m} b^{m}     m > 0` <br>
@@ -222,3 +228,164 @@ p4d.gram
 - force first production to start with A and never add A again
 - recursive element only goes to adding any number of B
 - recursive element must end with B to force at lease one B
+
+---
+
+### P5
+#### Part A
+| prepositions | root |
+| ------------ | ---- |
+| of | rush <br> smell <br> smoke <br> taste <br> sprinkle <br> change |
+| with | clash <br> sprinkle <br> struggle <br> work <br> cover  |
+| for | rush <br> test <br> fish <br> search <br> check |
+| on | finish <br> bet <br> focus <br> film <br> work |
+
+initially used ANV.fsb to find words that could be a noun or a verb to get a verb to start with
+```
+load ANV.fsb
+regex A & V;
+print random-words
+```
+
+I found the 3rd form to be the hardest to come up with, so I queried the corpora with that format of VB+IN+NN:
+`cwb-scan-corpus NYT2006 ?word+0="/rush/" word+0 ?word+1="/IN/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less`
+This gave me prepositions to work with, so I replaced the inital verb with pos as VB and replaced the preposition IN with some of the ones that I found in the query
+---
+`cwb-scan-corpus NYT2006 ?pos+0="/VB/" word+0 ?word+1="/of/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less`
+
+sugar rush -ed
+sugar rush
+rush of sugar
+
+urine smell -ed
+urine smell
+smell of urine
+(reek)
+
+fire smoke -d
+fire smoke
+smoke of fire
+
+cake taste -d
+cake taste
+taste of cake
+
+sugar sprinkle d
+sugar sprinkle
+sprinkle of sugar
+
+pace change -d
+pace change
+change of pace
+
+---
+`cwb-scan-corpus NYT2006 ?pos+0="/VB/" word+0 ?word+1="/with/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less`
+`cwb-scan-corpus NYT2006 ?pos+0="/DT/" word+0 ?pos+1="/VB/" word+1 ?word+2="/with/" word+2 ?pos+3="/NN/" word+3 | uniq -c | sort -nr | less`
+
+government clash -ed
+government clash
+clash with government
+
+sugar sprinkle -d
+sugar sprinkle
+sprinkle with sugar
+
+corruption struggle -d
+corruption struggle
+struggle with corruption
+
+immigration work -ed
+immigration work
+work with immigration
+
+foil cover -ed
+foil cover
+cover with foil
+
+-
+fire cook -ed
+fire cook
+cook with fire
+-
+money talk -ed
+money talk
+talk of money
+side
+kill
+
+---
+`cwb-scan-corpus NYT2006 ?pos+0="/VB/" word+0 ?word+1="/for/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less`
+
+gold rush -ed
+gold rush
+rush for gold
+
+test -ed lead
+lead test
+test for lead
+
+fish -ed tuna
+tuna fish
+fish for tuna
+
+child search -ed
+child search
+search for child
+
+check -ed damage
+damage check
+check for damage
+-
+paid insurance
+insurance pay
+pay for insurance
+-
+pay -ed travel
+travel pay
+pay for travel
+
+---
+`cwb-scan-corpus NYT2006 ?pos+0="/VB/" word+0 ?word+1="/on/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less`
+
+top finish -ed
+top finish
+finish on top
+
+league bet -ted
+league bet
+bet on league
+
+strategy focus -ed
+strategy focus
+focus on strategy
+
+capture -d film
+film capture
+capture on film
+
+union work -ed
+union work
+work on union
+-
+cream -ed cake
+cake cream
+cream on cake
+
+---
+rush -ed order
+order rush
+rush in order
+
+housing crash -ed
+housing crash
+crash in housing
+---
+questions:
+do all 3 forms have to be in provided corpus?
+run/ran, pay/paid
+fished tuna/tuna fish
+
+can it have a weird but grammatical meaning?
+can verbs be synonyms?
+
+can we reuse verbs for multiple prepositions?
