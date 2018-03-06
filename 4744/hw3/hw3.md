@@ -237,10 +237,10 @@ need frequencies
 
 | prepositions | root |
 | ------------ | ---- |
-| of | rush <br> smell <br> smoke <br> taste <br> sprinkle <br> change |
-| with | clash <br> sprinkle <br> struggle <br> work <br> cover  |
-| for | rush <br> test <br> fish <br> search <br> check |
-| on | finish <br> bet <br> focus <br> film <br> work |
+| of | rush,  smell,  smoke,  taste,  sprinkle,  change |
+| with | clash,  sprinkle,  struggle,  work,  cover  |
+| for | rush,  test,  fish,  search,  check |
+| on | finish,  bet,  focus,  film,  work |
 
 initially used ANV.fsb to find words that could be a noun or a verb to get a verb to start with
 ```
@@ -254,6 +254,7 @@ I found the 3rd form to be the hardest to come up with, so I queried the corpora
 This gave me prepositions to work with, so I replaced the inital verb with pos as VB and replaced the preposition IN with some of the ones that I found in the query
 
 ---
+##### of
 `cwb-scan-corpus NYT2006 ?pos+0="/VB/" word+0 ?word+1="/of/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less`
 
 | | rush | smell | smoke | taste | sprinkle | change |
@@ -265,6 +266,7 @@ This gave me prepositions to work with, so I replaced the inital verb with pos a
 (reek)
 
 ---
+##### with
 `cwb-scan-corpus NYT2006 ?pos+0="/VB/" word+0 ?word+1="/with/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less`
 
 | | clash | sprinkle | struggle | work | cover |
@@ -285,6 +287,7 @@ side
 kill 
 
 ---
+##### for
 `cwb-scan-corpus NYT2006 ?pos+0="/VB/" word+0 ?word+1="/for/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less`
 
 | | rush | test | fish | search | check |
@@ -303,6 +306,7 @@ travel pay
 pay for travel 
 
 ---
+##### on
 `cwb-scan-corpus NYT2006 ?pos+0="/VB/" word+0 ?word+1="/on/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less`
 
 | | finish | bet | focus | capture | work |
