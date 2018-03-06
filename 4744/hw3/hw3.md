@@ -233,6 +233,8 @@ p4d.gram
 
 ### P5
 #### Part A
+need frequencies
+
 | prepositions | root |
 | ------------ | ---- |
 | of | rush <br> smell <br> smoke <br> taste <br> sprinkle <br> change |
@@ -247,9 +249,10 @@ regex A & V;
 print random-words
 ```
 
-I found the 3rd form to be the hardest to come up with, so I queried the corpora with that format of VB+IN+NN:
-`cwb-scan-corpus NYT2006 ?word+0="/rush/" word+0 ?word+1="/IN/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less`
+I found the 3rd form to be the hardest to come up with, so I queried the corpora with that format of VB+IN+NN: <br>
+`cwb-scan-corpus NYT2006 ?word+0="/rush/" word+0 ?word+1="/IN/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less` <br>
 This gave me prepositions to work with, so I replaced the inital verb with pos as VB and replaced the preposition IN with some of the ones that I found in the query
+
 ---
 `cwb-scan-corpus NYT2006 ?pos+0="/VB/" word+0 ?word+1="/of/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less`
 
