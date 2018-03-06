@@ -273,15 +273,16 @@ This gave me prepositions to work with, so I replaced the inital verb with pos a
 | [X R] | government clash | sugar sprinkle | corruption struggle | immigration work | foil cover |
 | [R p X] | clash with government | sprinkle with sugar | struggle with corruption | work with immigration | cover with foil |
 
-fire cook -ed
-fire cook
-cook with fire
--
-money talk -ed
-money talk
-talk of money
-side
-kill
+fire cook -ed 
+fire cook 
+cook with fire 
+
+money talk -ed 
+money talk 
+talk of money 
+
+side 
+kill 
 
 ---
 `cwb-scan-corpus NYT2006 ?pos+0="/VB/" word+0 ?word+1="/for/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less`
@@ -293,13 +294,13 @@ kill
 | [X R] | gold rush | lead test | tuna fish | child search | damage check |
 | [R p X] | rush for gold | test for lead | fish for tuna | search for child | check for damage |
 
-paid insurance
-insurance pay
-pay for insurance
--
-pay -ed travel
-travel pay
-pay for travel
+paid insurance 
+insurance pay 
+pay for insurance 
+
+pay -ed travel 
+travel pay 
+pay for travel 
 
 ---
 `cwb-scan-corpus NYT2006 ?pos+0="/VB/" word+0 ?word+1="/on/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less`
@@ -311,23 +312,24 @@ pay for travel
 | [X R] | top finish | league bet | strategy focus | film capture | union work |
 | [R p X] | finish on top | bet on league | focus on strategy | capture on film | work on union |
 
-cream -ed cake
-cake cream
-cream on cake
+cream -ed cake 
+cake cream 
+cream on cake 
 
 ---
-rush -ed order
-order rush
-rush in order
+rush -ed order 
+order rush 
+rush in order 
 
-housing crash -ed
-housing crash
-crash in housing
+housing crash -ed 
+housing crash 
+crash in housing 
+
 ---
 questions:
-do all 3 forms have to be in provided corpus?
-run/ran, pay/paid
-fished tuna/tuna fish
+- do all 3 forms have to be in provided corpus?
+- run/ran, pay/paid
+- fished tuna/tuna fish
 
-can it have a weird but grammatical meaning?
-can verbs be synonyms?
+- can it have a weird but grammatical meaning?
+- can verbs be synonyms?
