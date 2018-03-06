@@ -580,7 +580,7 @@ e-business
 	- P&G prepackage products to be placed on shelf
 	- _supplier managed shelf space_
 - Netflix's DVD business
-	- don't reshelf DVD
+	- don't re-shelf DVD
 	- send it to the person who wants it next
 	- need system to match DVDs with addresses
 - UPS/HP
