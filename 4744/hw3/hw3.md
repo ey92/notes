@@ -334,6 +334,7 @@ questions:
 - do all 3 forms have to be in provided corpus?
 - run/ran, pay/paid
 - fished tuna/tuna fish
+- does grammar have to match nouns/verbs? (can the verbs match with whatever nouns?)
 
 - can it have a weird but grammatical meaning?
 - can verbs be synonyms?
