@@ -595,7 +595,7 @@ e-business
 - 2 industry examples
 	- taxi industry:
 		- 1. Uber
-		- 2. carpooling/carsharing
+		- 2. carpooling/car sharing
 		- 3. community share cars (no driver)
 	- music industry:
 		- 1. download (iTunes)
