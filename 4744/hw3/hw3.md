@@ -253,56 +253,23 @@ This gave me prepositions to work with, so I replaced the inital verb with pos a
 ---
 `cwb-scan-corpus NYT2006 ?pos+0="/VB/" word+0 ?word+1="/of/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less`
 
-sugar rush -ed
-sugar rush
-rush of sugar
+| | rush | smell | smoke | taste | sprinkle | change |
+| - | - | - | - | - | - | - |
+| [X R Tns] | sugar rush -ed | urine smell -ed | fire smoke -d | cake taste -d | sugar sprinkle -d | pace change -d |
+| [X R] | sugar rush | urine smell | fire smoke | cake taste | sugar sprinkle | pace change|
+| [R p X] | rush of sugar | smell of urine | smoke of fire | taste of cake | sprinkle of sugar | change of pace |
 
-urine smell -ed
-urine smell
-smell of urine
 (reek)
-
-fire smoke -d
-fire smoke
-smoke of fire
-
-cake taste -d
-cake taste
-taste of cake
-
-sugar sprinkle d
-sugar sprinkle
-sprinkle of sugar
-
-pace change -d
-pace change
-change of pace
 
 ---
 `cwb-scan-corpus NYT2006 ?pos+0="/VB/" word+0 ?word+1="/with/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less`
-`cwb-scan-corpus NYT2006 ?pos+0="/DT/" word+0 ?pos+1="/VB/" word+1 ?word+2="/with/" word+2 ?pos+3="/NN/" word+3 | uniq -c | sort -nr | less`
 
-government clash -ed
-government clash
-clash with government
+| | clash | sprinkle | struggle | work | cover |
+| - | - | - | - | - | - |
+| [X R Tns] | government clash -ed | sugar sprinkle -d | corruption struggle -d | immigration work -ed | foil cover -ed |
+| [X R] | government clash | sugar sprinkle | corruption struggle | immigration work | foil cover |
+| [R p X] | clash with government | sprinkle with sugar | struggle with corruption | work with immigration | cover with foil |
 
-sugar sprinkle -d
-sugar sprinkle
-sprinkle with sugar
-
-corruption struggle -d
-corruption struggle
-struggle with corruption
-
-immigration work -ed
-immigration work
-work with immigration
-
-foil cover -ed
-foil cover
-cover with foil
-
--
 fire cook -ed
 fire cook
 cook with fire
@@ -316,26 +283,13 @@ kill
 ---
 `cwb-scan-corpus NYT2006 ?pos+0="/VB/" word+0 ?word+1="/for/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less`
 
-gold rush -ed
-gold rush
-rush for gold
+| | rush | test | fish | search | check |
+| - | - | - | - | - | - |
+| [X R Tns] | gold rush -ed | | | child search -ed | |
+| [R Tns X] | | test -ed lead | fish -ed tuna | | check -ed damage |
+| [X R] | gold rush | lead test | tuna fish | child search | damage check |
+| [R p X] | rush for gold | test for lead | fish for tuna | search for child | check for damage |
 
-test -ed lead
-lead test
-test for lead
-
-fish -ed tuna
-tuna fish
-fish for tuna
-
-child search -ed
-child search
-search for child
-
-check -ed damage
-damage check
-check for damage
--
 paid insurance
 insurance pay
 pay for insurance
@@ -347,26 +301,13 @@ pay for travel
 ---
 `cwb-scan-corpus NYT2006 ?pos+0="/VB/" word+0 ?word+1="/on/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less`
 
-top finish -ed
-top finish
-finish on top
+| | finish | bet | focus | capture | work |
+| - | - | - | - | - | - |
+| [X R Tns] | top finish -ed | league bet -ted | strategy focus -ed | | union work -ed |
+| [R Tns X] | | | | capture -d film | |
+| [X R] | top finish | league bet | strategy focus | film capture | union work |
+| [R p X] | finish on top | bet on league | focus on strategy | capture on film | work on union |
 
-league bet -ted
-league bet
-bet on league
-
-strategy focus -ed
-strategy focus
-focus on strategy
-
-capture -d film
-film capture
-capture on film
-
-union work -ed
-union work
-work on union
--
 cream -ed cake
 cake cream
 cream on cake
@@ -387,5 +328,3 @@ fished tuna/tuna fish
 
 can it have a weird but grammatical meaning?
 can verbs be synonyms?
-
-can we reuse verbs for multiple prepositions?
