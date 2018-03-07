@@ -265,9 +265,9 @@ This gave me prepositions to work with, so I replaced the inital verb with pos a
 
 | | rush | smoke | taste | layer | change |
 | - | - | - | - | - | - |
-| [X R Tns] | oil rush -ed [1] | tobacco[1] smoke -d | meat taste -d [8] | cake layer -ed [4] | power[7]/life[326] change -d |
-| [X R] | oil rush [11] | tobacco[195] smoke | meat taste [7] | cake layer [66] | power[19]/life[107] change |
-| [R p X] | rush of oil [4] | smoke of tobacco [2]  | taste of meat [4] | layer of cake [16] | change[67]/life[85] of power |
+| [X R Tns] | oil rush -ed [1] | tobacco[1] smoke -d | meat taste -d [8] | cake layer -ed [4] | life [326] change -d |
+| [X R] | oil rush [11] | tobacco[195] smoke | meat taste [7] | cake layer [66] | life [107] change |
+| [R p X] | rush of oil [4] | smoke of tobacco [2]  | taste of meat [4] | layer of cake [16] | change of life [85] |
 
 ---
 ##### with
