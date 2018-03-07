@@ -347,7 +347,7 @@ p5.gram
 1.0 	RPX VWI' WP
 1.0 	RPX VFO' WP
 
-1.0 	S DT' XRP 		// determinter + [XR] phrase
+1.0 	S DT' XRP 		// determiner + [XR] phrase
 1.0 	XRP XR' P 		// [XR] phrase = [XR] form + predicate (P)
 1.0 	XR VOF' NN 		// build [XR] base form as verb + noun
 1.0 	XR VWI' NN
@@ -370,7 +370,7 @@ p5.gram
 	- some of the verbs paired with "with" and "for" sounded strange when used in the active voice, so I prepended "there was" to turn them into the passive voice. This also applied to the "of" verbs, so I just used this one rule to simplify the grammar.
 
 #### Part C
-- what are lexical properties of roots?
+??? what to write
 
 ---
 questions:

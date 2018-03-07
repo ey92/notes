@@ -783,9 +783,59 @@ Demotic
 
 ![Lord of the Two Lands](https://github.com/ey92/notes/blob/master/lord-of-two-lands.png)
 
+# Old Kingdom, Imhotep, Manufacturing Charisma
+- Khasekhemwy's wife Ni-Ma'at-Hapy (Ma'at of Hapy is in me)/"Nemathap" in textbook
+    - mother of first 2 kings of D3
+    - all Old Kingdom rules descend from her (matrilineality)
+    - enormous mastaba, seal has title "mother of king of Upper and Lower Egypt"
+
+## Rulers
+- Sanakhte = Nebka 19 yrs
+- Djoser = Netjerikhet 19 yrs
+- Sekhemkhet
+- Khaba
+- Huni
+
+## Djoser-Netjerikhet (divine of body)
+- Imhotep "master of works"/architect
+    - deified by Late Period (Greeks), as son of Ptah
+    - designed Djoser's funerary complex, ideologically loaded
+    - Step Pyramid
+- no other D3 king finished a pyramid
+- pyramid began as mastaba, which had 2 extensions before first pyramid (4 steps) was built over it, then 2nd pyramid (6 steps) built over it
+    - probably had to hide shaft to burial chambers
+    - 140 x 118 x 60m
+    - 15 hectare complex (ha=100x100m2)
+    - 10m walls, heb-sed court, fake entrances
+- walls and serekh copy palace facade that hasn't survived
+- entrance colonnade - reed-bundle columns translated into stone
+- "perfecting the king"
+    - make him perfect
+    - make everything permanent
+- "heb-sed court", probably where king ritually demonstrated fitness and unification after 30 yrs rule
+- "house of the north" papyrus columns
+- Ka statue, intentionally leaning 13 degrees back & look out hole in wall to see circumpolar stars to be an "akh" (effective spirit)
+    - serdab on North side of pyramid
+- Jean-Phillipe Lauer, architect, worked at Djoser's complex for 70 yrs during Franco-Egyptian excavations
+- chambers, galleries, storage areas
+- South Tomb chamber, carving of ruler running in Heb-Sed
+- inner burial vault - granite vault, engraved with stars
+
+3 key functions of pyramid complex
+- protect the mummy, permanent body
+    - where ba (mobile spirit) resides
+- place to sustain pharaoh's Ka - eternal provisioning
+-facilitate pharaoh's placement as Akh among gods to act on Egypt's behalf, maintaining ma'at forever
+
+3 parts of royal spirit
+- ka - hungry spirit in statue
+- akh - live in afterlife
+- ba - resides in body but can travel around
+
+
 ---
 #### quiz up to 2/16 lecture
 up to D0/D1
-orwell quote - proaganda
+orwell quote - propaganda
 egyptomania
 superposition/stratification
