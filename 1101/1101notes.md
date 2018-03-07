@@ -477,8 +477,32 @@ _lexical ambiguity_ arises when two word sound alike (homophony)
 		- fast is an adverb describing action of creating food, not the food itself
 	- some nouns use singular form to refer to quantities (air, water) "mass nouns"
 
-##### Prelim 1 content
+**phonesthemes**
+- a sound that tends to show up in words that have similar meaning
+- e.g. glow, glimmer, glitter
+- used to be a morpheme in English ancestor: "ghel-" - to shine
+- _frequentive morpheme _
+	- "-er", "-le" - t do x repeatedly
+	- gleam+er = glimmer, float+er = flutter, waddle, dribble
+- _sound symbolism_
+	- "small" words tend to have front vowels
+
+- syntax hierarchical organization needed to account for ambiguity of word order
+- word categories (noun, verb, adjective, preposition)
+
+- _topic fronting_ - take noun phrase and put in beginning of sentence
+- can only move complete phrases, not just strings of words
+
+- finding complete phrases:
+	- questions
+	- clefting (incl topic fronting)
+	- substitution
+
+- nouns are contained in noun phrases
+- principle of projection
+
 ---
+##### Prelim 1 content
 1. Phonetics
 - transliterate to/from IPA/English
 - define specific English sounds in articulatory features
