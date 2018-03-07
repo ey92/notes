@@ -11,7 +11,7 @@ CS 4744 HW3
 | #2 | p2-good.sent <br> p2.lex	p2.gram	p2.start	p2.oc	p2.OC |
 | #3 |  |
 | #4 | p4a.lex	p4a.gram	p4a.start	p4a.oc	p4a.OC <br> p4b.lex	p4b.gram	p4b.start	p4b.oc	p4b.OC <br> p4c.lex	p4c.gram	p4c.start	p4c.oc	p4c.OC <br> p4d.lex	p4d.gram	p4d.start	p4d.oc	p4d.OC |
-| #5 |  |
+| #5 | p5.lex	p5.gram	p5.start	p5.oc	p5.OC |
 
 ### P1
 #### Part A
@@ -179,8 +179,7 @@ p2.gram
 ### P3
 VBD+IN
 `cwb-scan-corpus NYT2006 ?pos+0="/VB/" word+0 ?pos+1="/IN/" word+1 | uniq -c | sort -nr | less`
-`cwb-scan-corpus NYT2006 ?pos+0="/VBD/" word+0 ?pos+1="/IN/" word+1 word+2 | uniq -
-c | sort -nr > ~/VBDIN12006.txt`
+`cwb-scan-corpus NYT2006 ?pos+0="/VBD/" word+0 ?pos+1="/IN/" word+1 word+2 | uniq -c | sort -nr > ~/VBDIN12006.txt`
 S 		that/IN + ind st
 SBAR 	obj + inf
 SBAR 	obj + inf (no to)
@@ -289,7 +288,84 @@ This gave me prepositions to work with, so I replaced the inital verb with pos a
 | [X R] | work report [22] | drug test [1318] | reform push [5] | information scan [1] | blood check [1] |
 | [R p X] | report for work [71] | test for drug [3] | push for reform [26] | scan for information [3] | check for blood [5] |
 
+#### Part B
+p5.lex
+```
+oil 	NN 	1.0
+tobacco	NN 	1.0
+meat 	NN 	1.0
+cake 	NN 	1.0
+life 	NN 	1.0
+milk 	NN 	1.0
+plastic	NN 	1.0
+child 	NN 	1.0
+sound 	NN 	1.0
+family 	NN 	1.0
+work 	NN 	1.0
+drug 	NN 	1.0
+reform 	NN 	1.0
+information 	NN 	1.0
+blood 	NN 	1.0
+
+rush	VOF	1.0
+smoke	VOF	1.0
+taste	VOF	1.0
+layer	VOF	1.0
+change	VOF	1.0
+
+mix 	VWI	1.0
+cover	VWI	1.0
+talk	VWI	1.0
+work	VWI	1.0
+visit	VWI	1.0
+
+report	VFO 	1.0
+test	VFO	1.0
+push	VFO	1.0
+scan	VFO	1.0
+check	VFO	1.0
+
+
+of	POF	1.0
+with	PWI	1.0
+for	PFO	1.0
+
+-ed 	ED	1.0
+the 	DT 	1.0
+there	PO 	1.0
+was 	WAS	1.0
+good 	JJ 	1.0
+```
+
+p5.gram
+```
+1.0 	S DT' RPXP 
+1.0 	RPXP RPX' P
+1.0 	RPX VOF' WP
+1.0 	RPX VWI' WP
+1.0 	RPX VFO' WP
+
+1.0 	S DT' XRP 
+1.0 	XRP XR' P
+1.0 	XR VOF' NN
+1.0 	XR VWI' NN
+1.0 	XR VFO' NN
+
+1.0 	WP PWI NN
+1.0 	P WAS' JJ
+
+1.0 	S DT' XRTD
+1.0 	XRTD NN' VOF ED
+1.0 	XRTD NN' VFO ED
+
+1.0 	S SP' XRTP
+1.0 	XRTP NN' VWI ED
+1.0 	SP PO' WAS
+```
+
+#### Part C
+- what are lexical properties of roots?
+
 ---
 questions:
 - is it okay that everything is only [X R Tns] form?
-- what are lexical properties of roots?

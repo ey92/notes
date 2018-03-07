@@ -39,6 +39,6 @@ for	PFO	1.0
 
 -ed 	ED	1.0
 the 	DT 	1.0
-they	PO 	1.0
+there	PO 	1.0
 was 	WAS	1.0
 good 	JJ 	1.0
