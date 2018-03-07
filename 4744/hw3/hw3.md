@@ -178,7 +178,13 @@ p2.gram
 
 ### P3
 VBD+IN
-`cwb-scan-corpus NYT2006 ?pos+0="/VBD/" word+0 ?pos+1="/IN/" word+1 | uniq -c | sort -nr | less`
+`cwb-scan-corpus NYT2006 ?pos+0="/VB/" word+0 ?pos+1="/IN/" word+1 | uniq -c | sort -nr | less`
+`cwb-scan-corpus NYT2006 ?pos+0="/VBD/" word+0 ?pos+1="/IN/" word+1 word+2 | uniq -
+c | sort -nr > ~/VBDIN12006.txt`
+S 		that/IN + ind st
+SBAR 	obj + inf
+SBAR 	obj + inf (no to)
+SBAR 	VHG (have gerund), VVG (PAP/gerund), VVN (PPP), WDT (wh det), WRB (wh adv)
 
 ---
 
@@ -237,9 +243,9 @@ need frequencies
 
 | prepositions | root |
 | ------------ | ---- |
-| of | rush,  smell,  smoke,  taste,  sprinkle,  change |
-| with | clash,  sprinkle,  struggle,  work,  cover  |
-| for | rush,  test,  fish,  search,  check |
+| of | rush, smoke,  taste,  layer,  change |
+| with | mix,  cover,  talk,  work,  visit  |
+| for | report,  test,  push,  scan,  check |
 | on | finish,  bet,  focus,  film,  work |
 
 I initially used ANV.fsb to find words that could be a noun or a verb to get a verb to start with.
@@ -257,84 +263,33 @@ This gave me prepositions to work with, so I replaced the inital verb with pos a
 ##### of
 `cwb-scan-corpus NYT2006 ?pos+0="/VB/" word+0 ?word+1="/of/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less`
 
-| | rush | smell | smoke | taste | sprinkle | change |
+| | rush | smoke | taste | layer | change |
 | - | - | - | - | - | - | - |
-| [X R Tns] | sugar rush -ed | urine smell -ed | fire smoke -d | cake taste -d | sugar sprinkle -d | pace change -d |
-| [X R] | sugar rush | urine smell | fire smoke | cake taste | sugar sprinkle | pace change|
-| [R p X] | rush of sugar | smell of urine | smoke of fire | taste of cake | sprinkle of sugar | change of pace |
-
-(reek)
+| [X R Tns] | oil rush -ed [1] | tobacco[1] smoke -d | meat taste -d [8] | cake layer -ed [4] | power[7]/life[326] change -d |
+| [X R] | oil rush [11] | tobacco[195] smoke | meat taste [7] | cake layer [66] | power[19]/life[107] change |
+| [R p X] | rush of oil [4] | smoke of tobacco [2]  | taste of meat [4] | layer of cake [16] | change[67]/life[85] of power |
 
 ---
 ##### with
 `cwb-scan-corpus NYT2006 ?pos+0="/VB/" word+0 ?word+1="/with/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less`
 
-| | clash | sprinkle | struggle | work | cover |
+| | mix | cover | talk | work | visit |
 | - | - | - | - | - | - |
-| [X R Tns] | government clash -ed | sugar sprinkle -d | corruption struggle -d | immigration work -ed | foil cover -ed |
-| [X R] | government clash | sugar sprinkle | corruption struggle | immigration work | foil cover |
-| [R p X] | clash with government | sprinkle with sugar | struggle with corruption | work with immigration | cover with foil |
-
-fire cook -ed 
-fire cook 
-cook with fire 
-
-money talk -ed 
-money talk 
-talk of money 
-
-side 
-kill 
+| [X R Tns] | milk mix -ed [10] | plastic cover -ed [5] | child talk -ed [1] | sound work -ed [1] | family visit -ed [76] |
+| [X R] | milk mix [1] | plastic cover [63] | child talk [10] | sound work [12] | family visit [79] |
+| [R p X] | mix with milk [4] | cover with plastic [16] | talk with child [5] | work with sound [8] | visit with family [22] |
 
 ---
 ##### for
 `cwb-scan-corpus NYT2006 ?pos+0="/VB/" word+0 ?word+1="/for/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less`
 
-| | rush | test | fish | search | check |
+| | report | test | push | scan | check |
 | - | - | - | - | - | - |
-| [X R Tns] | gold rush -ed | | | child search -ed | |
-| [R Tns X] | | test -ed lead | fish -ed tuna | | check -ed damage |
-| [X R] | gold rush | lead test | tuna fish | child search | damage check |
-| [R p X] | rush for gold | test for lead | fish for tuna | search for child | check for damage |
-
-paid insurance 
-insurance pay 
-pay for insurance 
-
-pay -ed travel 
-travel pay 
-pay for travel 
-
----
-##### on
-`cwb-scan-corpus NYT2006 ?pos+0="/VB/" word+0 ?word+1="/on/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less`
-
-| | finish | bet | focus | capture | work |
-| - | - | - | - | - | - |
-| [X R Tns] | top finish -ed | league bet -ted | strategy focus -ed | | union work -ed |
-| [R Tns X] | | | | capture -d film | |
-| [X R] | top finish | league bet | strategy focus | film capture | union work |
-| [R p X] | finish on top | bet on league | focus on strategy | capture on film | work on union |
-
-cream -ed cake 
-cake cream 
-cream on cake 
-
----
-rush -ed order 
-order rush 
-rush in order 
-
-housing crash -ed 
-housing crash 
-crash in housing 
+| [X R Tns] | work report -ed [9] | drug test-ed [26] | reform push -ed [3] | information scan -ned [2] | blood check -ed [4] |
+| [X R] | work report [22] | drug test [1318] | reform push [5] | information scan [1] | blood check [1] |
+| [R p X] | report for work [71] | test for drug [3] | push for reform [26] | scan for information [3] | check for blood [5] |
 
 ---
 questions:
-- do all 3 forms have to be in provided corpus?
-- run/ran, pay/paid
-- fished tuna/tuna fish
-- does grammar have to match nouns/verbs? (can the verbs match with whatever nouns?)
-
-- can it have a weird but grammatical meaning?
-- can verbs be synonyms?
+- is it okay that everything is only [X R Tns] form?
+- what are lexical properties of roots?

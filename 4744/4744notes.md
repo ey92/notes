@@ -182,7 +182,7 @@ domain of tree t is dom(t), tree address or node
 
 syntax trees
 
-```tgrep -c 2010.crp.gz 'NN' | sort -nr | uniq -C | sort -nr | head```
+`tgrep -c 2010.crp.gz 'NN' | sort -nr | uniq -C | sort -nr | head`
 
 PP classes
 temporal
@@ -198,7 +198,7 @@ path
 - Chomsky normal form or two form
 
 ### Shared Forest Algorithms
-data structure that compactly represents the trees that have a given yied (terminal string) and licensed by a given grammar
+data structure that compactly represents the trees that have a given yield (terminal string) and licensed by a given grammar
 
 - span shared forest: CFG where symbols are span symbols 
 - span symbol - tuple of symbol from old grammar and interval in terminal string
@@ -348,6 +348,27 @@ on      P   1.0
 - chomsky normal form grammar
     - min production length 2
     - don't need to check 1st col again
+
+# Semantics
+- use functional programming
+- has ocaml types/type inferencing
+    - n->n is < n, n >
+- successor function?
+- definition - identity functional
+
+- sentence produces truth values < n, nt >
+- currying (turn 1-arg fn into multi-arg fn)
+- < e t > set of values (value to truth value)
+    - < et, et > is mapping set to set
+- predicate logic 
+
+- XBAR theory
+    - phrases (NP,VP,DPetc)
+- check if function can combine function and argument
+    - intersection - apply each arg to dummy predicate z
+---
+prelim 3/20
+prelim review 3/15 (Shohini will be out)
 
 ---
 questions:
