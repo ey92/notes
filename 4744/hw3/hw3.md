@@ -7,10 +7,10 @@ CS 4744 HW3
 ## Files
 | problem | filename(s) |
 | ------- | ----------- | 
-| #1 | p1-bad.sent <br> p1-good.sent <br> p1.lex	p1.gram	p1.start	p1.oc	p1.OC |
-| #2 | p2-good.sent <br> p2.lex	p2.gram	p2.start	p2.oc	p2.OC |
+| #1 | p1-bad.sent p1-good.sent <br> p1.lex	p1.gram	p1.start	p1.oc	p1.OC |
+| #2 | p2-bad.sent <br> p2-good.sent <br> p2.lex	p2.gram	p2.start	p2.oc	p2.OC |
 | #3 |  |
-| #4 | p4a.lex	p4a.gram	p4a.start	p4a.oc	p4a.OC <br> p4b.lex	p4b.gram	p4b.start	p4b.oc	p4b.OC <br> p4c.lex	p4c.gram	p4c.start	p4c.oc	p4c.OC <br> p4d.lex	p4d.gram	p4d.start	p4d.oc	p4d.OC |
+| #4 | <br> p4a.lex	p4a.gram	p4a.start	p4a.oc	p4a.OC <br> p4b.lex	p4b.gram	p4b.start	p4b.oc	p4b.OC <br> p4c.lex	p4c.gram	p4c.start	p4c.oc	p4c.OC <br> p4d.lex	p4d.gram	p4d.start	p4d.oc	p4d.OC |
 | #5 | p5.lex	p5.gram	p5.start	p5.oc	p5.OC |
 
 ### P1
@@ -177,8 +177,9 @@ p2.gram
 ---
 
 ### P3
-queries:
-`tgrep -c 2010.crp 'VBD $. S' | sort -nr | uniq -c | sort -nr | head -50 > ~/VBDS50.txt`
+#### Part A
+queries: <br>
+`tgrep -c 2010.crp 'VBD $. S' | sort -nr | uniq -c | sort -nr | head -50 > ~/VBDS50.txt` <br>
 `tgrep -c 2010.crp 'VBD $. SBAR' | sort -nr | uniq -c | sort -nr | head -50 > ~/VBDSBAR50.txt`
 
 | freq | VBD preceding S | freq | VBD preceding SBAR |
@@ -234,6 +235,12 @@ queries:
 |  505 | required | 378 | looked |
 |  487 | struggled | 375 | denied |
 
+#### Part B
+S/SBAR classes
+
+#### Part C
+CNF grammar
+test sentences
 
 ---
 
@@ -304,7 +311,7 @@ print random-words
 ```
 
 I found the 3rd form [R p X] to be the hardest to come up with, so I queried the NYT2006 corpus with that, with the format of VB+IN+NN: <br>
-`cwb-scan-corpus NYT2006 ?word+0="/rush/" word+0 ?word+1="/IN/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less` <br>
+`cwb-scan-corpus NYT2006 ?word+0="/rush/" word+0 ?pos+1="/IN/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less` <br>
 This gave me a list of prepositions to work with, so I replaced the initial verb with _pos_ as VB or VBD and replaced the preposition IN with some of the ones that I found in the query. Eventually, I ran these queries on NYT200x to get as much coverage as possible.
 
 Somehow all 45 verb-preposition pairs formed nominal complements. A few also formed verbal complements, but I chose to use their nominal complements since they were more popular in the corpora.
@@ -423,4 +430,7 @@ p5.gram
 
 ---
 questions:
+- how to search for words using tgrep instead of just penn treebank symbols
+- more S clause examples
 - is it okay that everything is only [X R Tns] form?
+- confused what to write for 5c
