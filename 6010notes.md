@@ -632,6 +632,83 @@ database is warehouse, web is transportation
 - design rule: put independent entity type in separate table
 - same entity type over multiple tables introduces unnecessary jumping table to table
 
+#### Query Languages & Queries
+- query languages simple enough for user to interact with database without programmers
+- SQL Structured (English) Query Language, industry standard for RDBMS
+	- complete ( can access any information stored in the database)
+```
+SELECT 	column names
+FROM 	table name
+WHERE 	condition to select rows
+NOT IN 	negative query
+*
+<>
+DISTINCT
+```
+single-table
+```
+select flightno, destination
+from flight
+where origin='ny'
+```
+```
+select distinct origin
+from flight
+```
+multi-table
+- convention: tablename.column
+```
+select flight.flightno
+from flight, schedule, passenger
+where flight.origin='ny'
+	and flight.destination='chicago'
+	and flight.price < 300
+	and flight.flightno=schedule.flightno 	// join condition
+	and schedule.dtime < 900
+	and flight.flightno = passenger.flightno 	// join condition
+	and passenger.name='Jones'
+```
+```
+select flight.flightno
+from flight
+where flight.flightno not in (select passenger.flightno from passenger)
+```
+- _join condition_
+	- jumping from table to another, carry condition
+- inner query in parentheses
+	- inner query evaluated first
+
+#### Data Pages
+3 tools:
+- static data page (data on a web page)
+- dynamic data page (automatically updated)
+- interactive data page (customized)
+
+Static Data Page
+- manually carry response from query to web page
+- cheap
+- use when data doesn't change quickly
+- limited use - takes work to update
+- flights.html
+db ---create page---> server (flights.html/data) <---request--- browser <--- request
+												  ---deliver--- 
+
+Dynamic Data Page
+- flightd.aspx
+- Active Server Page with XML
+- more complex and expensive
+- data is cached & need to refresh page/send another query when database is updated
+- web page contains a program, not text (query)
+update ---> db <---run query--- server (flightd.aspx/query) <---request--- browser <--- request
+			    --create page-->							 ---deliver--- 
+
+
+Interactive Data Page
+- necessarily dynamic data page + parametric queries
+	- can't run query until received parameters from user
+- flighti.aspx
+- use forms to collect parameter values from users
+
 ---
 ### A0 CTB
 - products: bagel-based meals, fresh desserts, drinks
@@ -646,8 +723,17 @@ address http://nba6010.johnson.cornell.edu/<teamname>/a1.html
 conceptual questions ~ final exam questions
 TA hours MW 8:30-9:30pm Sage B1
 
-fill out submission form: which questions were answered, what were the answers
+### A2
+design and create db for business
+write relevant queries
+create data pages on web by linking database t web: static, dynamic, interactive, update
+conceptual questions about business applications
+DBMS: MS ACCESS (personal)
+- supports relational model and SQL, UI looks the same
+- corporate: size & sharing
+- MS SQL, MYSQL IBMDB2, ORACLE 12
 
+fill out submission form: which questions were answered, what were the answers
 
 market share vs market size
 	when to outsource complexity

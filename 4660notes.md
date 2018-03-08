@@ -111,7 +111,7 @@ home market
 
 review
 - stock price
-- cashe
+- cash
 - profitability
 - market share
 - market g rowth
@@ -148,8 +148,23 @@ prospect theory: perception of gain or loss impacts risk tolerance/loss aversion
 	feel the loss twice as much as gaining same amount
 team attitudes impacted by conformity bias: risky shift and common knowledge effect/polarization
 	if someone learning toward risk before discussion, usually favor risk strongly afterward
-	articulate the lvel of risk you are comfortable with before group discussion
+	articulate the level of risk you are comfortable with before group discussion
 	devil's advocacy
 managing and optimizing conflict
 assets and liabilities
 
+firm value
+future cash flows
+book value
+discount rate
+growth
+comparable multiples
+debt/equity
+
+
+
+increase cash flows
+decrease r
+increase g
+
+deduct every 15s over

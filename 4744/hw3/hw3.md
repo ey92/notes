@@ -177,13 +177,63 @@ p2.gram
 ---
 
 ### P3
-VBD+IN
-`cwb-scan-corpus NYT2006 ?pos+0="/VB/" word+0 ?pos+1="/IN/" word+1 | uniq -c | sort -nr | less`
-`cwb-scan-corpus NYT2006 ?pos+0="/VBD/" word+0 ?pos+1="/IN/" word+1 word+2 | uniq -c | sort -nr > ~/VBDIN12006.txt`
-S 		that/IN + ind st
-SBAR 	obj + inf
-SBAR 	obj + inf (no to)
-SBAR 	VHG (have gerund), VVG (PAP/gerund), VVN (PPP), WDT (wh det), WRB (wh adv)
+queries:
+`tgrep -c 2010.crp 'VBD $. S' | sort -nr | uniq -c | sort -nr | head -50 > ~/VBDS50.txt`
+`tgrep -c 2010.crp 'VBD $. SBAR' | sort -nr | uniq -c | sort -nr | head -50 > ~/VBDSBAR50.txt`
+
+| freq | VBD preceding S | freq | VBD preceding SBAR |
+| ---- | --------------- | ---- | ------------------ |
+| 7979 | had | 119916 | said |
+| 7935 | wanted | 5513 | thought |
+| 7713 | began | 4097 | was |
+| 7032 | called | 4052 | found |
+| 5793 | made | 3839 | knew |
+| 4782 | tried | 2647 | noted |
+| 4571 | declined | 2497 | suggested |
+| 3888 | seemed | 2060 | added |
+| 3683 | started | 1983 | felt |
+| 3515 | was | 1949 | announced |
+| 3498 | used | 1856 | showed |
+| 3059 | appeared | 1779 | reported |
+| 2845 | decided | 1776 | acknowledged |
+| 2561 | failed | 1638 | came |
+| 2475 | helped | 1458 | argued |
+| 2464 | said | 1368 | believed |
+| 2447 | found | 1153 | asked |
+| 2402 | needed | 1129 | insisted |
+| 2352 | agreed | 1062 | realized |
+| 2080 | continued | 1039 | warned |
+| 1813 | allowed | 1005 | concluded |
+| 1707 | left | 961 | decided |
+| 1674 | kept | 886 | estimated |
+| 1662 | refused | 861 | indicated |
+| 1601 | planned | 849 | wrote |
+| 1535 | saw | 848 | learned |
+| 1420 | expected | 804 | predicted |
+| 1363 | let | 730 | confirmed |
+| 1330 | sought | 668 | ruled |
+| 1152 | got | 656 | claimed |
+| 1080 | were | 608 | discovered |
+| 1068 | stopped | 603 | wondered |
+| 1024 | came | 595 | agreed |
+|  992 | vowed | 580 | did |
+|  990 | ordered | 567 | complained |
+|  983 | managed | 566 | meant |
+|  966 | considered | 561 | explained |
+|  812 | chose | 501 | admitted |
+|  798 | led | 450 | testified |
+|  789 | forced | 437 | declared |
+|  769 | promised | 435 | determined |
+|  749 | threatened | 430 | hoped |
+|  733 | intended | 422 | emphasized |
+|  711 | hoped | 419 | cautioned |
+|  687 | watched | 413 | saw |
+|  658 | prompted | 406 | figured |
+|  562 | caused | 399 | conceded |
+|  559 | voted | 397 | questioned |
+|  505 | required | 378 | looked |
+|  487 | struggled | 375 | denied |
+
 
 ---
 
@@ -245,7 +295,6 @@ need frequencies
 | of | rush, smoke,  taste,  layer,  change |
 | with | mix,  cover,  talk,  work,  visit  |
 | for | report,  test,  push,  scan,  check |
-| on | finish,  bet,  focus,  film,  work |
 
 I initially used ANV.fsb to find words that could be a noun or a verb to get a verb to start with.
 ```
@@ -267,7 +316,7 @@ Somehow all 45 verb-preposition pairs formed nominal complements. A few also for
 | | rush | smoke | taste | layer | change |
 | - | - | - | - | - | - |
 | [X R Tns] | oil rush -ed [1] | tobacco[1] smoke -d | meat taste -d [8] | cake layer -ed [4] | life change -d  [326] |
-| [X R] | oil rush [11] | tobacco[195] smoke | meat taste [7] | cake layer [66] | life change [107] |
+| [X R] | oil rush [11] | tobacco smoke [195] | meat taste [7] | cake layer [66] | life change [107] |
 | [R p X] | rush of oil [4] | smoke of tobacco [2]  | taste of meat [4] | layer of cake [16] | change of life [85] |
 
 ---
