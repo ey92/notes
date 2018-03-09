@@ -238,7 +238,7 @@ queries: <br>
 #### Part B
 S/SBAR complement classes
 
-1. _question_<sup>1</sup> + [WP]<sup>5</sup> +  SBAR <br> _question_<sup>1</sup> + [WRB]<sup>5</sup> + SBAR
+1. _question_<sup>1</sup> + [WP]<sup>6</sup> +  SBAR <br> _question_<sup>1</sup> + [WRB]<sup>6</sup> + SBAR
 	1. he _questioned_ **who** _could do such a a thing_
 	2. he _asked_ **why** _he deserved this_
 	3. he _inquired_ **where** _the restaurant was_
@@ -254,7 +254,7 @@ S/SBAR complement classes
 	5. he _speculated_ **whether** _things worked out_
 	6. he _decided_ **whether** _the race would happen_
 
-3.  _says_<sup>2</sup> + [that] + S	
+3.  _says_<sup>2</sup> + [that] + S	<br> _says (passive)_<sup>3</sup> + [that] + S	
 	1. he _said_ **that** _he could do such a a thing_
 	2. he _stated_ **that** _he deserved this_
 	3. he _declared_ **that** _the restaurant would be good_
@@ -270,25 +270,45 @@ S/SBAR complement classes
 	13. he _conveyed_ **that** _he preferred to live frugally_
 	14. he _asserted_ **that** _the bot would respond to all messages_
 
-4. _order_<sup>3</sup> + [direct object] + [objective infinitive] VP (SBAR)
-	1. he _ordered_ **the army** _to pitch camp at the base of the mountain_
+4. _order_<sup>3</sup> + [direct object] + [objective infinitive] (VP SBAR)
+	1. he _ordered_ the army **to pitch** camp at the base of the mountain_
+	2. he _told_ the dog **to sit**
+	3. he _persuaded_ her **to come** home
 
-5. _says_<sup>2</sup> + [complementary infinitive] VP (SBAR) <br> _try_<sup>4</sup> + [complementary infinitive] VP (SBAR)
-
-6. is _says_<sup>2</sup> + [to have] + VP (SBAR)
+5. _try_<sup>4</sup> + [complementary infinitive] (VP SBAR)
+	1. he _said_ **to do** _such a a thing_
+	2. he _claimed_ **to have put** _the prize in the box_
+	3. he _read_ **to learn** _where happiest place in the world was_
+	4. he _tried_ **to answer** _as many questions as possible_
+	5. he _attempted_ **to climb** _higher than last time_
+	6. he _endeavored_ **to complete** _the fastest runtime_
+	7. he _aimed_ **to surpass** _his teacher_
+	8. he _aspired_ **to become** _the best_
+	
+6. [subject] is _says_<sup>2</sup> + [to have] + (VP SBAR)
+	1. he is _said_ **to have** _done such a a thing_
+	2. he is _stated_ **to have** _deserved this_
+	3. he is _declared_ **to have** _been good_
+	4. he is _claimed_ **to have** _placed the prize in the box_
+	5. he is _announced_ **to have** _worked things out_
+	6. he is _believed_ **to have** _planned the race_
+	7. he is _acknowledged_ **to have** _finish early_
+	8. he is _revealed_ **to have** _lived there before_
 
 
 <sub>
 
 <sup>1</sup> **question verbs**:    asked, inquired, questioned, wondered, speculated, decided
 
-<sup>2</sup> **says verbs**:        said, stated, declared, conveyed, claimed, announced, asserted, believed, acknowledged, revealed, answered, responded, replied, read
+<sup>2</sup> **says verbs**:        said, stated, declared, claimed, announced, believed, acknowledged, revealed, 
 
-<sup>3</sup> **order verbs**:       told, persuaded, ordered
+<sup>3</sup> **says passive verbs**:answered, responded, replied, read, conveyed, asserted
 
-<sup>4</sup> **try verbs**:         tried, attempted, endeavored, aimed, aspired
+<sup>4</sup> **order verbs**:       told, persuaded, ordered
 
-<sup>5</sup> **WRB who-adverb/WP wh-pronoun**: who, what, when, where, why
+<sup>5</sup> **try verbs**:         tried, attempted, endeavored, aimed, aspired, said, claimed, read
+
+<sup>6</sup> **WRB who-adverb/WP wh-pronoun**: who, what, when, where, why
 
 </sub>
 
