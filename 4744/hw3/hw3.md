@@ -320,7 +320,7 @@ S/SBAR complement classes
 #### Part C
 CNF grammar
 
-For this part, I only used a few verbs per category and reconstructed simple versions of sentences, but combined many of the constructions #1-6 from Part B via recursion to test.
+For this part, I only used a few verbs per category and reconstructed simple versions of sentences, but combined many of the constructions #1-6 from Part B via recursion to test.<br><br>
 p3.lex
 ```
 restaurant  NN  1.0     // nouns used for subjects or objects
@@ -500,7 +500,7 @@ he wondered who said he tried to be happy
 class 2
 he wondered whether he was happy 
 he asked whether he believed that he was happy 
-he asked whether he wondered whether he wanted to be happy 
+he asked whether he wondered whether he wanted to be happy      // in sample parse below
 
 class 3
 he thought that he was happy 
@@ -526,6 +526,10 @@ S basic
 he was happy 
 ```
 - very general classification of test sentences
+- sample parse:
+![Sentence Parse](https://github.com/ey92/notes/blob/master/4744/hw3/p3sentparse.png)
+
+
 ---
 
 ### P4
@@ -579,8 +583,6 @@ p4d.gram
 
 ### P5
 #### Part A
-need frequencies
-
 | prepositions | root |
 | ------------ | ---- |
 | of | rush, smoke,  taste,  layer,  change |

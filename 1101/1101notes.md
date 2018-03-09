@@ -493,13 +493,25 @@ _lexical ambiguity_ arises when two word sound alike (homophony)
 - _topic fronting_ - take noun phrase and put in beginning of sentence
 - can only move complete phrases, not just strings of words
 
-- finding complete phrases:
-	- questions
-	- clefting (incl topic fronting)
-	- substitution
-
 - nouns are contained in noun phrases
 - principle of projection
+
+- constituents:
+- phrases, build clauses, build sentences
+
+- identify phrases:
+	- they can behave as a single unit
+	- can substitute them with something else
+	- can't insert elements in the middle
+	- movement test
+
+- finding complete phrases:
+	- questions/separability
+	- clefting (incl topic fronting)/movement
+	- substitution
+
+- if word can replace phrase, it is also a phrase/if can't replace a phrase, not a phrase
+- proverb - can substitute verb phrase
 
 ---
 ##### Prelim 1 content
