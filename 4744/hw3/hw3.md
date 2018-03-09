@@ -246,7 +246,6 @@ S/SBAR complement classes
 	3. he _asked_ **why** he deserved this
 	4. he _inquired_ **where** the restaurant was
 	5. he _speculated_ **how** things worked
-	6. he _decided_ **when** the race would happen
 
 2. _question_<sup>1</sup> + [whether] + S
 	1. he _questioned_ **whether** he could do such a a thing
@@ -254,6 +253,7 @@ S/SBAR complement classes
 	3. he _inquired_ **whether** the restaurant would be good
 	4. he _wondered_ **whether** the prize was in the box
 	5. he _speculated_ **whether** things worked out
+	6. he _decided_ **whether** the race would happen
 	6. he _decided_ **whether** the race would happen
 
 3.  _says_<sup>2</sup> + [that] + S	<br> _says (passive)_<sup>3</sup> + [that] + S	
@@ -271,6 +271,7 @@ S/SBAR complement classes
 	12. he _read_ **that** it was happiest place in the world
 	13. he _conveyed_ **that** he preferred to live frugally
 	14. he _asserted_ **that** the bot would respond to all messages
+	15. he _thought_ **that** it the bot was happy
 
 4. _order_<sup>3</sup> + [direct object] + [objective infinitive] (VP SBAR)
 	1. he _ordered_ the army **to pitch** camp at the base of the mountain
@@ -278,16 +279,15 @@ S/SBAR complement classes
 	3. he _persuaded_ her **to come** home
 
 5. _try_<sup>4</sup> + [complementary infinitive] (VP SBAR)
-	1. he _said_ **to do** such a thing
-	2. he _claimed_ **to have put** the prize in the box
-	3. he _read_ **to learn** where the happiest place in the world was
-	4. he _tried_ **to answer** as many questions as possible
-	5. he _attempted_ **to climb** higher than last time
-	6. he _endeavored_ **to complete** the fastest runtime
-	7. he _aimed_ **to surpass** his teacher
-	8. he _aspired_ **to become** the best
+	1. he _tried_ **to answer** as many questions as possible
+	2. he _attempted_ **to climb** higher than last time
+	3. he _endeavored_ **to complete** the fastest runtime
+	4. he _aimed_ **to surpass** his teacher
+	5. he _aspired_ **to become** the best
+	6. he _thought_ **to try** harder
+	7. he _wanted_ **to be** happy
 	
-6. [subject] is _says_<sup>2</sup> + [to have] + (VP SBAR)
+6. [subject] is _says_<sup>2</sup> + [to have/to be] + (VP SBAR)
 	1. he is _said_ **to have** done such a thing
 	2. he is _stated_ **to have** deserved this
 	3. he is _declared_ **to have** been good
@@ -296,19 +296,20 @@ S/SBAR complement classes
 	6. he is _believed_ **to have** planned the race
 	7. he is _acknowledged_ **to have** finish early
 	8. he is _revealed_ **to have** lived there before
+	9. he is _thought_ **to have** been happy
 
 
 <sub>
 
 <sup>1</sup> **question verbs**:    asked, inquired, questioned, wondered, speculated, decided
 
-<sup>2</sup> **says verbs**:        said, stated, declared, claimed, announced, believed, acknowledged, revealed, 
+<sup>2</sup> **says verbs**:        said, stated, declared, claimed, announced, believed, acknowledged, revealed, thought
 
 <sup>3</sup> **says passive verbs**: answered, responded, replied, read, conveyed, asserted
 
 <sup>4</sup> **order verbs**:       told, persuaded, ordered
 
-<sup>5</sup> **try verbs**:         tried, attempted, endeavored, aimed, aspired, said, claimed, read
+<sup>5</sup> **try verbs**:         tried, attempted, endeavored, aimed, aspired, wanted
 
 <sup>6</sup> **WRB who-adverb/WP wh-pronoun**: who, what, when, where, why
 
