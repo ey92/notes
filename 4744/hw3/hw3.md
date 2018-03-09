@@ -1,5 +1,3 @@
-need to include good/bad samples & screenshots for all <br>
-
 Elizabeth Yam ey92
 CS 4744 HW3
 
@@ -10,7 +8,7 @@ CS 4744 HW3
 | #2 | p2.bad p2.good <br> p2.lex   p2.gram p2.start    p2.oc   p2.OC |
 | #3 | p3.bad p3.good <br> p3.lex   p3.gram p3.start    p3.oc   p3.OC |
 | #4 | p4a.bad p4b.bad p4c.bad p4d.bad <br> p4a.good p4b.good p4c.good p4d.good <br> p4a.lex p4a.gram    p4a.start   p4a.oc  p4a.OC <br> p4b.lex p4b.gram    p4b.start   p4b.oc  p4b.OC <br> p4c.lex p4c.gram    p4c.start   p4c.oc  p4c.OC <br> p4d.lex p4d.gram    p4d.start   p4d.oc  p4d.OC |
-| #5 | p5.lex   p5.gram p5.start    p5.oc   p5.OC |
+| #5 | p5.bad p5.good <br> p5.lex   p5.gram p5.start    p5.oc   p5.OC |
 
 - NOTE: when using test files, need to translate spaces into newline characters <br> for example, `cat p3.good | tr ' ' '\n' | lopar -in p3`
 
@@ -627,7 +625,7 @@ print random-words
 
 I found the 3rd form [R p X] to be the hardest to come up with, so I queried the NYT2006 corpus with that, with the format of VB+IN+NN: <br>
 `cwb-scan-corpus NYT2006 ?word+0="/rush/" word+0 ?pos+1="/IN/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less` <br>
-![rush+IN+NN 2006 query](https://github.com/ey92/notes/blob/master/4744/hw3/rushINNN2006.png) <br>
+![rush+IN+NN 2006 query](https://github.com/ey92/notes/blob/master/4744/hw3/rushofNN.png) <br>
 This gave me a list of prepositions to work with, so I replaced the initial verb with _pos_ as VB or VBD and replaced the preposition IN with some of the ones that I found in the query. Eventually, I ran these queries on NYT200x to get as much coverage as possible. <br>
 ![VB+of+NN 200x query](https://github.com/ey92/notes/blob/master/4744/hw3/VBofNN200x.png) <br>
 
