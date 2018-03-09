@@ -743,14 +743,14 @@ p5.gram
         - e.g. [the] oil rushed
     - some of the verbs paired with "with" and "for" sounded strange when used in the active voice, so I prepended "there was" to turn them into the passive voice. This also applied to the "of" verbs, so I just used this one rule to simplify the grammar.
 
-![p5 tree](https://github.com/ey92/notes/blob/master/4744/hw3/5.1tree.png) <br>
-![p5 tree](https://github.com/ey92/notes/blob/master/4744/hw3/5.2tree.png) <br>
+![p5 tree](https://github.com/ey92/notes/blob/master/4744/hw3/5.1tree.png) 
+![p5 tree](https://github.com/ey92/notes/blob/master/4744/hw3/5.2tree.png) 
 ![p5 tree](https://github.com/ey92/notes/blob/master/4744/hw3/5.3tree.png) <br>
-![p5 tree](https://github.com/ey92/notes/blob/master/4744/hw3/5.4tree.png) <br>
-![p5 tree](https://github.com/ey92/notes/blob/master/4744/hw3/5.5tree.png) <br>
+![p5 tree](https://github.com/ey92/notes/blob/master/4744/hw3/5.4tree.png) 
+![p5 tree](https://github.com/ey92/notes/blob/master/4744/hw3/5.5tree.png) 
 ![p5 tree](https://github.com/ey92/notes/blob/master/4744/hw3/5.6tree.png) <br>
-![p5 tree](https://github.com/ey92/notes/blob/master/4744/hw3/5.7tree.png) <br>
-![p5 tree](https://github.com/ey92/notes/blob/master/4744/hw3/5.8tree.png) <br>
+![p5 tree](https://github.com/ey92/notes/blob/master/4744/hw3/5.7tree.png) 
+![p5 tree](https://github.com/ey92/notes/blob/master/4744/hw3/5.8tree.png) 
 ![p5 tree](https://github.com/ey92/notes/blob/master/4744/hw3/5.9tree.png)
 
 #### Part C
