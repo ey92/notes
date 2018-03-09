@@ -7,11 +7,11 @@ CS 4744 HW3
 ## Files
 | problem | filename(s) |
 | ------- | ----------- | 
-| #1 | p1-bad.sent p1-good.sent <br> p1.lex	p1.gram	p1.start	p1.oc	p1.OC |
-| #2 | p2-bad.sent <br> p2-good.sent <br> p2.lex	p2.gram	p2.start	p2.oc	p2.OC |
+| #1 | p1-bad.sent p1-good.sent <br> p1.lex p1.gram p1.start    p1.oc   p1.OC |
+| #2 | p2-bad.sent <br> p2-good.sent <br> p2.lex    p2.gram p2.start    p2.oc   p2.OC |
 | #3 |  |
-| #4 | <br> p4a.lex	p4a.gram	p4a.start	p4a.oc	p4a.OC <br> p4b.lex	p4b.gram	p4b.start	p4b.oc	p4b.OC <br> p4c.lex	p4c.gram	p4c.start	p4c.oc	p4c.OC <br> p4d.lex	p4d.gram	p4d.start	p4d.oc	p4d.OC |
-| #5 | p5.lex	p5.gram	p5.start	p5.oc	p5.OC |
+| #4 | <br> p4a.lex p4a.gram    p4a.start   p4a.oc  p4a.OC <br> p4b.lex p4b.gram    p4b.start   p4b.oc  p4b.OC <br> p4c.lex p4c.gram    p4c.start   p4c.oc  p4c.OC <br> p4d.lex p4d.gram    p4d.start   p4d.oc  p4d.OC |
+| #5 | p5.lex   p5.gram p5.start    p5.oc   p5.OC |
 
 ### P1
 #### Part A
@@ -87,8 +87,8 @@ No, it isn't licensed by my grammar, and no, it is intuitively possible.
 - it is intuitively easy to understand the meaning in the smallest set of square brackets <br> `people who people need` <br> as a noun phrase
 - replace that smallest noun phrase with another noun to continue simplifying: <br> `[people who [people who [monkeys] need] need] people`
 - keep replacing and it will be clear that the sentence is not a valid English sentence:
-	- `[people who [monkeys] need] people`
-	- `[monkeys] people`
+    - `[people who [monkeys] need] people`
+    - `[monkeys] people`
 - the sentence is missing a verb
 
 #### Part F
@@ -107,13 +107,13 @@ Finding Patterns: <br> First, I looked for groups of predicate endings that bega
 | starts with is/was | | MDB | | |
 
 - each pair got the same label: 
-	- may/should(MD)
-	- has/had(VBH)
-	- is/was(BES)
-	- ridicule/discuss(VB)
-	- ridicules/discusses(VBS)
-	- ridiculed/discussed(VBD)
-	- ridiculing/discussing(VBP)
+    - may/should(MD)
+    - has/had(VBH)
+    - is/was(BES)
+    - ridicule/discuss(VB)
+    - ridicules/discusses(VBS)
+    - ridiculed/discussed(VBD)
+    - ridiculing/discussing(VBP)
 
 p2.lex
 ```
@@ -172,7 +172,7 @@ p2.gram
 1.0     BP BES' VBD     // is/was discussed
 ```
 - since we are required to use Chomsky Normal Form with binary branching production rules, I separated "discussed"(VBD) from MDB predicates and just duplicated every MDB predicate rule, replacing with VBD.
-	- for example `BP BES' MDB` and `BP BES' VBD`
+    - for example `BP BES' MDB` and `BP BES' VBD`
 
 ---
 
@@ -250,17 +250,17 @@ S/SBAR complement classes
 
 
 <sub>
-<sup>1</sup> **question verbs**: asked, inquired, questioned, wondered, speculated, decided
+<sup>1</sup> **question verbs**:    asked, inquired, questioned, wondered, speculated, decided
 
-<sup>2</sup> **says verbs**: said, stated, declared, conveyed, claimed, announced, asserted, believed, acknowledged, revealed, answered, responded, replied, read
+<sup>2</sup> **says verbs**:        said, stated, declared, conveyed, claimed, announced, asserted, believed, acknowledged, revealed, answered, responded, replied, read
 
-<sup>3</sup> **order verbs**: told, persuaded, ordered
+<sup>3</sup> **order verbs**:       told, persuaded, ordered
 
-<sup>4</sup> **try verbs**: tried, attempted, endeavored, aimed, aspired
+<sup>4</sup> **try verbs**:         tried, attempted, endeavored, aimed, aspired
 
 <sup>5</sup> **WDT wh-determiner**: who, what, when, where, why
 
-<sup>6</sup> **IN**: that, whether
+<sup>6</sup> **IN**:                that, whether
 </sub>
 
 #### Part C
@@ -374,81 +374,81 @@ Somehow all 45 verb-preposition pairs formed nominal complements. A few also for
 #### Part B
 p5.lex
 ```
-oil 	NN 	1.0
-tobacco	NN 	1.0
-meat 	NN 	1.0
-cake 	NN 	1.0
-life 	NN 	1.0
-milk 	NN 	1.0
-plastic	NN 	1.0
-child 	NN 	1.0
-sound 	NN 	1.0
-family 	NN 	1.0
-work 	NN 	1.0
-drug 	NN 	1.0
-reform 	NN 	1.0
-information 	NN 	1.0
-blood 	NN 	1.0
+oil     NN  1.0
+tobacco NN  1.0
+meat    NN  1.0
+cake    NN  1.0
+life    NN  1.0
+milk    NN  1.0
+plastic NN  1.0
+child   NN  1.0
+sound   NN  1.0
+family  NN  1.0
+work    NN  1.0
+drug    NN  1.0
+reform  NN  1.0
+information     NN  1.0
+blood   NN  1.0
 
-rush	VOF	1.0
-smoke	VOF	1.0
-taste	VOF	1.0
-layer	VOF	1.0
-change	VOF	1.0
+rush    VOF 1.0
+smoke   VOF 1.0
+taste   VOF 1.0
+layer   VOF 1.0
+change  VOF 1.0
 
-mix 	VWI	1.0
-cover	VWI	1.0
-talk	VWI	1.0
-work	VWI	1.0
-visit	VWI	1.0
+mix     VWI 1.0
+cover   VWI 1.0
+talk    VWI 1.0
+work    VWI 1.0
+visit   VWI 1.0
 
-report	VFO 	1.0
-test	VFO	1.0
-push	VFO	1.0
-scan	VFO	1.0
-check	VFO	1.0
+report  VFO     1.0
+test    VFO 1.0
+push    VFO 1.0
+scan    VFO 1.0
+check   VFO 1.0
 
 
-of	POF	1.0
-with	PWI	1.0
-for	PFO	1.0
+of  POF 1.0
+with    PWI 1.0
+for PFO 1.0
 
--ed 	ED	1.0
-the 	DT 	1.0
-there	PO 	1.0
-was 	WAS	1.0
-good 	JJ 	1.0
+-ed     ED  1.0
+the     DT  1.0
+there   PO  1.0
+was     WAS 1.0
+good    JJ  1.0
 ```
 
 p5.gram
 ```
-1.0 	S DT' RPXP  	// determiner + [RpX] form phrase
-1.0 	RPXP RPX' P 	// [RpX] phrase = [verb + with + noun] (RpX) + predicate (P)
-1.0 	RPX VOF' WP 	// build [RpX] form: RPX = base verb + [with + noun] (WP)
-1.0 	RPX VWI' WP
-1.0 	RPX VFO' WP
+1.0     S DT' RPXP      // determiner + [RpX] form phrase
+1.0     RPXP RPX' P     // [RpX] phrase = [verb + with + noun] (RpX) + predicate (P)
+1.0     RPX VOF' WP     // build [RpX] form: RPX = base verb + [with + noun] (WP)
+1.0     RPX VWI' WP
+1.0     RPX VFO' WP
 
-1.0 	S DT' XRP 		// determiner + [XR] phrase
-1.0 	XRP XR' P 		// [XR] phrase = [XR] form + predicate (P)
-1.0 	XR VOF' NN 		// build [XR] base form as verb + noun
-1.0 	XR VWI' NN
-1.0 	XR VFO' NN
+1.0     S DT' XRP       // determiner + [XR] phrase
+1.0     XRP XR' P       // [XR] phrase = [XR] form + predicate (P)
+1.0     XR VOF' NN      // build [XR] base form as verb + noun
+1.0     XR VWI' NN
+1.0     XR VFO' NN
 
-1.0 	WP PWI NN 		// with phrase = with + noun
-1.0 	P WAS' JJ 	 	// predicate = form of "to be" (was) + adjective (good)
+1.0     WP PWI NN       // with phrase = with + noun
+1.0     P WAS' JJ       // predicate = form of "to be" (was) + adjective (good)
 
-1.0 	S SP' XRTP 		// subject phrase + XRT phrase
-1.0 	XRTP NN' VOF ED 	// XRT phrase = noun + verb + past tense
-1.0 	XRTP NN' VWI ED 	// XRT phrase = noun + verb + past tense
-1.0 	XRTP NN' VFO ED
-1.0 	SP PO' WAS 			// subject phrase = pronoun + was
+1.0     S SP' XRTP      // subject phrase + XRT phrase
+1.0     XRTP NN' VOF ED     // XRT phrase = noun + verb + past tense
+1.0     XRTP NN' VWI ED     // XRT phrase = noun + verb + past tense
+1.0     XRTP NN' VFO ED
+1.0     SP PO' WAS          // subject phrase = pronoun + was
 ```
 
 - the [RpX] and [XR] forms were easy to transform into sentences by prepending a determiner and appending a simple sentence predicate ("was good")
 - however, not all the [X R Tns] forms could be transformed into sentences the same way. There seemed to be a pattern, depending on the preposition used.
-	- the verbs paired with "of" could be turned into a complete sentence by prepending a determiner to the phrase.
-		- e.g. [the] oil rushed
-	- some of the verbs paired with "with" and "for" sounded strange when used in the active voice, so I prepended "there was" to turn them into the passive voice. This also applied to the "of" verbs, so I just used this one rule to simplify the grammar.
+    - the verbs paired with "of" could be turned into a complete sentence by prepending a determiner to the phrase.
+        - e.g. [the] oil rushed
+    - some of the verbs paired with "with" and "for" sounded strange when used in the active voice, so I prepended "there was" to turn them into the passive voice. This also applied to the "of" verbs, so I just used this one rule to simplify the grammar.
 
 #### Part C
 ??? what to write
