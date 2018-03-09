@@ -239,12 +239,14 @@ queries: <br>
 S/SBAR complement classes
 
 1. _question_<sup>1</sup> + [WDT]<sup>5</sup> +  SBAR
+	1. he questioned who could do such a a thing
+	2. he asked why  
 
-2. _question_<sup>1</sup>/_says_<sup>2</sup> + [IN]<sup>6</sup> + S
+2. _question_<sup>1</sup> + [IN]<sup>6</sup> + S <br> _says_<sup>2</sup> + [IN]<sup>6</sup> + S
 
 3. _order_<sup>3</sup> + [direct object] + [objective infinitive] VP (SBAR)
 
-4. _says_<sup>2</sup>/_try_<sup>4</sup>+ [complementary infinitive] VP (SBAR)
+4. _says_<sup>2</sup> + [complementary infinitive] VP (SBAR) <br> _try_<sup>4</sup> + [complementary infinitive] VP (SBAR)
 
 5. is _says_<sup>2</sup> + [to have] + VP (SBAR)
 
