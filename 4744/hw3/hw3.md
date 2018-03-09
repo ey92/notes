@@ -238,15 +238,15 @@ queries: <br>
 #### Part B
 S/SBAR complement classes
 
-1. [question verb<sup>1</sup>] + [wh-determiner (who,what,when,where,why)] +  SBAR
+1. [question<sup>1</sup>] + _WDT<sup>5</sup>_ +  SBAR
 
-2. [question verb<sup>1</sup>]/[says verb<sup>2</sup>] + [that/whether] + S
+2. [question<sup>1</sup>]/[says<sup>2</sup>] + _IN<sup>6</sup>_ + S
 
-3. [order verb<sup>3</sup>] + [direct object] + [objective infinitive] VP (SBAR)
+3. [order<sup>3</sup>] + _direct object_ + _objective infinitive_ VP (SBAR)
 
-4. [says verb<sup>2</sup>]/[try verb<sup>4</sup>] + [complementary infinitive] VP (SBAR)
+4. [says<sup>2</sup>]/[try<sup>4</sup>] + _complementary infinitive_ VP (SBAR)
 
-5. is [says verb<sup>2</sup>] [to have] + VP (SBAR)
+5. is [says<sup>2</sup>] + _to have_ + VP (SBAR)
 
 
 
@@ -270,6 +270,12 @@ S/SBAR complement classes
 - tried, attempted, endeavored
 - aimed, aspired
 
+<sup>5</sup> WDT wh-determiner: 
+- who, what, when, where, why
+
+<sup>6</sup> IN:
+- that
+- whether
 
 #### Part C
 CNF grammar
