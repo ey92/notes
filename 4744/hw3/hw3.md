@@ -8,9 +8,9 @@ CS 4744 HW3
 | problem | filename(s) |
 | ------- | ----------- | 
 | #1 | p1-bad.sent p1-good.sent <br> p1.lex p1.gram p1.start    p1.oc   p1.OC |
-| #2 | p2-bad.sent <br> p2-good.sent <br> p2.lex    p2.gram p2.start    p2.oc   p2.OC |
-| #3 |  |
-| #4 | <br> p4a.lex p4a.gram    p4a.start   p4a.oc  p4a.OC <br> p4b.lex p4b.gram    p4b.start   p4b.oc  p4b.OC <br> p4c.lex p4c.gram    p4c.start   p4c.oc  p4c.OC <br> p4d.lex p4d.gram    p4d.start   p4d.oc  p4d.OC |
+| #2 | p2.bad <br> p2.good <br> p2.lex    p2.gram p2.start    p2.oc   p2.OC |
+| #3 | p3.lex   p3.gram p3.start    p3.oc   p3.OC |
+| #4 | p4a.bad p4b.bad p4c.bad p4d.bad <br> p4a.good p4b.good p4c.good p4d.good <br> p4a.lex p4a.gram    p4a.start   p4a.oc  p4a.OC <br> p4b.lex p4b.gram    p4b.start   p4b.oc  p4b.OC <br> p4c.lex p4c.gram    p4c.start   p4c.oc  p4c.OC <br> p4d.lex p4d.gram    p4d.start   p4d.oc  p4d.OC |
 | #5 | p5.lex   p5.gram p5.start    p5.oc   p5.OC |
 
 ### P1
@@ -44,6 +44,7 @@ people who people need need people who need people
 people who people need need people who people need
 people need people who need people who people need
 ```
+- I left in the bad sentence (from piazza discussion), so the sentence marked with a '#' should fail
 
 #### Part C
 p1.lex
@@ -237,6 +238,7 @@ queries: <br>
 
 #### Part B
 S/SBAR complement classes
+- I mostly came up with example sentences using the verbs found in Part A and similar words and tried to generalize some patterns from them.
 
 1. _question_<sup>1</sup> + [WP]<sup>6</sup> +  SBAR <br> _question_<sup>1</sup> + [WRB]<sup>6</sup> + SBAR
 	1. he _questioned_ **who** could do such a thing
@@ -278,7 +280,7 @@ S/SBAR complement classes
 5. _try_<sup>4</sup> + [complementary infinitive] (VP SBAR)
 	1. he _said_ **to do** such a thing
 	2. he _claimed_ **to have put** the prize in the box
-	3. he _read_ **to learn** where happiest place in the world was
+	3. he _read_ **to learn** where the happiest place in the world was
 	4. he _tried_ **to answer** as many questions as possible
 	5. he _attempted_ **to climb** higher than last time
 	6. he _endeavored_ **to complete** the fastest runtime
@@ -502,12 +504,3 @@ p5.gram
 
 #### Part C
 ??? what to write
-
----
-questions:
-- how to search for words using tgrep instead of just penn treebank symbols
-- more S clause examples
-- is it okay that everything is only [X R Tns] form?
-- confused what to write for 5c
-
-`>tgrep -c 2007.crp 'VP << "/wondered/"' | head`

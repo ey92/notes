@@ -65,14 +65,25 @@ claimed 	TV 	1.0
 read 	TV 	1.0
 
 
+did 	WV 	1.0
+deserved 	WV 	1.0
+worked 	WV 	1.0
+happened 	WV 	1.0
+finished 	WV 	1.0
+chose 	WV 	1.0
+preferred 	WV 	1.0
+responded 	WV 	1.0
+
+
 who 	WPV	1.0
 what 	WPV	1.0
-when 	WPS	1.0
-where 	WPS	1.0
-why 	WPS	1.0
+when 	WPN	1.0
+where 	WPN	1.0
+why 	WPN	1.0
 
 to 	TO 	1.0
 is 	IS 	1.0
+in 	P 	1.0
 have 	HV 	1.0
 he 	PN 	1.0
 it 	IT 	1.0
