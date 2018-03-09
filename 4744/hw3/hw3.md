@@ -236,7 +236,40 @@ queries: <br>
 |  487 | struggled | 375 | denied |
 
 #### Part B
-S/SBAR classes
+S/SBAR complement classes
+
+1. [question verb<sup>1</sup>] + [wh-determiner (who,what,when,where,why)] +  SBAR
+
+2. [question verb<sup>1</sup>]/[says verb<sup>2</sup>] + [that/whether] + S
+
+3. [order verb<sup>3</sup>] + [direct object] + [objective infinitive] VP (SBAR)
+
+4. [says verb<sup>2</sup>]/[try verb<sup>4</sup>] + [complementary infinitive] VP (SBAR)
+
+5. is [says verb<sup>2</sup>] [to have] + VP (SBAR)
+
+
+
+<sup>1</sup> question verbs:
+- asked, inquired, questioned
+- wondered, speculated
+- decided
+
+<sup>2</sup> says verbs:
+- said, stated, declared, conveyed, claimed, announced, asserted
+- believed, acknowledged, revealed
+- answered, responded, replied
+- read
+
+<sup>3</sup> order verbs:
+- told
+- persuaded
+- ordered
+
+<sup>4</sup> try verbs:
+- tried, attempted, endeavored
+- aimed, aspired
+
 
 #### Part C
 CNF grammar
@@ -412,7 +445,7 @@ p5.gram
 1.0 	WP PWI NN 		// with phrase = with + noun
 1.0 	P WAS' JJ 	 	// predicate = form of "to be" (was) + adjective (good)
 
-1.0 	S SP' XRTP 			// subject phrase + XRT phrase
+1.0 	S SP' XRTP 		// subject phrase + XRT phrase
 1.0 	XRTP NN' VOF ED 	// XRT phrase = noun + verb + past tense
 1.0 	XRTP NN' VWI ED 	// XRT phrase = noun + verb + past tense
 1.0 	XRTP NN' VFO ED
@@ -434,3 +467,5 @@ questions:
 - more S clause examples
 - is it okay that everything is only [X R Tns] form?
 - confused what to write for 5c
+
+`>tgrep -c 2007.crp 'VP << "/wondered/"' | head`

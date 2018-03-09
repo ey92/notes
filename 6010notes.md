@@ -328,7 +328,7 @@ store, search, retrieve, and update data efficiently
 - every dept can collect and use own data
 
 ### Local vs. Shared Data
-#### 1. decentralized and disconnected: duplicate storange in multiple databases
+#### 1. decentralized and disconnected: duplicate storage in multiple databases
 - multiple databases, redundancy
 - issues:
 	- redundancy, slow, _potential inconsistencies_
@@ -364,7 +364,7 @@ network effects complicate centralization/decentralization debate further and re
 
 Leads to **Negative Network Effects**
 1. centralize decisions
-2. new technology can make everyone worse off, although each person will be worse off
+2. new technology can make everyone worse off, although each person will be better off
 
 - When there are network effects, need to cooperate and centralize decisions -> industry standards and platforms; cooperation allows better outcomes
 
@@ -418,7 +418,7 @@ Google as competition with Amazon
 ### Relationship Marketing
 - tracking customers over time and adjust to their changing needs
 - database tech made tracking customers possible
-- acquiring new customer 4x as expensive as trackign and keeping old customer
+- acquiring new customer 4x as expensive as tracking and keeping old customer
 - **Hunter-Gather Paradigm of Marketing**: search for customers, locate them, sell, move on
 - **Agrarian (Farming) Paradigm of Marketing**: cultivate customers, watch & grow over time, educate, anticipate needs, shape and create needs, protect and reward
 - relationship marketing on the web necessary to compensate for lack of physical location or quality
@@ -737,3 +737,6 @@ fill out submission form: which questions were answered, what were the answers
 
 market share vs market size
 	when to outsource complexity
+
+
+** how does outsourcing cause increase in market size? (bc lower prices?)

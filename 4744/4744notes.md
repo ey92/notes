@@ -239,7 +239,8 @@ tgrep search trees
     # upper to lower, sort, count unique, sort in descending freq
 >kuno:tgrep> tgrep -c web.crp '__ < (VP <<. DT)' | tr 'A-Z' 'a-z' | sort | unique -C | sort -nr
 >kuno:tgrep> tgrep -c web.crp '__ < (NP , PP-CLR)' | tr '$' '-'
-
+>kuno:tgrep> tgrep -c 2007.crp 'S < (NP <- `NN) < (VP <1 `VBD <-1 VBD)' | awk -f /resources/H/HW3/two.awk | sort | uniq-c | sort -nr | less
+>kuno:tgrep> tgrep -c 2007.crp 'S < (NP <- `NN) < (VP  <: `VBD)' | awk -f /resources/H/HW3/two.awk | sort | uniq -c | sort -nr | less
 ```
 
 ---
@@ -355,6 +356,8 @@ on      P   1.0
     - n->n is < n, n >
 - successor function?
 - definition - identity functional
+- referents?
+- truths
 
 - sentence produces truth values < n, nt >
 - currying (turn 1-arg fn into multi-arg fn)
@@ -366,6 +369,67 @@ on      P   1.0
     - phrases (NP,VP,DPetc)
 - check if function can combine function and argument
     - intersection - apply each arg to dummy predicate z
+
+- characteristic function
+e.g. cornell ontology
+undergrad: E -> {0,1}
+    x |-> 1 if x is a member of the AD group rg.cuniv.student.undergrad
+    x |-> 0 otherwise
+
+logical language
+
+| expressions | type labels  |  def | symbol |
+| ------------| ------------ | ---- | ------ |
+| b            |  e          | individual constant | element of E |
+| undergrad    |  et         | truth constant      | characteristic function |
+| undergrad(b) |  t          | formula             |  truth value |
+| admire       |  (e*e)t     | two-place relation symbol | two-place relation symbol
+| admire (j,k) |  t          | formula  | formula |
+
+#### currying using \lambda
+| function                            | type |
+| ----------------------------------- | ---- |
+| admire                              | (e\*e)t |
+| {\lambda}y{\lambda}x.admire(x,y)    | eet |
+| {\lambda}x.admire(x,k)              | et |
+| {\lambda}x.admire(j,k)              | t |
+
+function application
+tree    type    logical term
+F       ab      f
+X       a       x
+
+then
+tree            type    logical term
+[X Y]           a       f(x)
+[Y X]           b       f(x)
+
+[VP is]          et      {\lambda}.green(x) AND yeti(x)
+[NP beelzebub]   e       b
+[S beelzebub]    t       [{\lambda}.green(x) AND yeti(x)](b)
+simplification           [green(b) AND yeti(b)]
+
+lambda conversion
+[{\lambda}x.green(x) AND yet(x)](b)   -> [green(b) AND yeti(b)]
+
+b substitutes for x in the body of the lambda term
+- only substitute for free (unbound) variables
+- avoid variables becoming bound when substituting
+
+intersection
+X               at      f       // at is set of a's
+Y               at      g
+then
+[X Y]           at      {\lambda}z[f(z) AND g(z)]
+[Y X]           at      {\lambda}z[f(z) AND g(z)]
+
+[A green]       et      {\lambda}x.green(x)
+[N green]       et      {\lambda}x.yeti(x)
+[NP green yeti] et      [[{\lambda}x.green(x)] (z) AND [{\lambda}x.yeti(x)] (z)]
+
+
+
+
 ---
 prelim 3/20
 prelim review 3/15 (Shohini will be out)
