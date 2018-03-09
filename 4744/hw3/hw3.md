@@ -239,10 +239,10 @@ queries: <br>
 S/SBAR complement classes
 
 1. _question_<sup>1</sup> + [WP]<sup>6</sup> +  SBAR <br> _question_<sup>1</sup> + [WRB]<sup>6</sup> + SBAR
-	1. he _questioned_ **who** could do such a a thing
-	2. he _asked_ **why** he deserved this
-	3. he _inquired_ **where** the restaurant was
-	4. he _wondered_ **what** was in the box
+	1. he _questioned_ **who** could do such a thing
+	2. he _wondered_ **what** was in the box
+	3. he _asked_ **why** he deserved this
+	4. he _inquired_ **where** the restaurant was
 	5. he _speculated_ **how** things worked
 	6. he _decided_ **when** the race would happen
 
@@ -255,7 +255,7 @@ S/SBAR complement classes
 	6. he _decided_ **whether** the race would happen
 
 3.  _says_<sup>2</sup> + [that] + S	<br> _says (passive)_<sup>3</sup> + [that] + S	
-	1. he _said_ **that** he could do such a a thing
+	1. he _said_ **that** he could do such a thing
 	2. he _stated_ **that** he deserved this
 	3. he _declared_ **that** the restaurant would be good
 	4. he _claimed_ **that** the prize was in the box
@@ -276,7 +276,7 @@ S/SBAR complement classes
 	3. he _persuaded_ her **to come** home
 
 5. _try_<sup>4</sup> + [complementary infinitive] (VP SBAR)
-	1. he _said_ **to do** such a a thing
+	1. he _said_ **to do** such a thing
 	2. he _claimed_ **to have put** the prize in the box
 	3. he _read_ **to learn** where happiest place in the world was
 	4. he _tried_ **to answer** as many questions as possible
@@ -286,7 +286,7 @@ S/SBAR complement classes
 	8. he _aspired_ **to become** the best
 	
 6. [subject] is _says_<sup>2</sup> + [to have] + (VP SBAR)
-	1. he is _said_ **to have** done such a a thing
+	1. he is _said_ **to have** done such a thing
 	2. he is _stated_ **to have** deserved this
 	3. he is _declared_ **to have** been good
 	4. he is _claimed_ **to have** placed the prize in the box
