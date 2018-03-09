@@ -242,62 +242,62 @@ S/SBAR complement classes
 - I mostly came up with example sentences using the verbs found in Part A and similar words and tried to generalize some patterns from them.
 
 1. _question_<sup>1</sup> + [WP]<sup>6</sup> +  SBAR <br> _question_<sup>1</sup> + [WRB]<sup>6</sup> + SBAR
-	1. he _questioned_ **who** could do such a thing
-	2. he _wondered_ **what** was in the box
-	3. he _asked_ **why** he deserved this
-	4. he _inquired_ **where** the restaurant was
-	5. he _speculated_ **how** things worked
+    1. he _questioned_ **who** could do such a thing
+    2. he _wondered_ **what** was in the box
+    3. he _asked_ **why** he deserved this
+    4. he _inquired_ **where** the restaurant was
+    5. he _speculated_ **how** things worked
 
 2. _question_<sup>1</sup> + [whether] + S
-	1. he _questioned_ **whether** he could do such a a thing
-	2. he _asked_ **whether** he deserved this
-	3. he _inquired_ **whether** the restaurant would be good
-	4. he _wondered_ **whether** the prize was in the box
-	5. he _speculated_ **whether** things worked out
-	6. he _decided_ **whether** the race would happen
-	6. he _decided_ **whether** the race would happen
+    1. he _questioned_ **whether** he could do such a a thing
+    2. he _asked_ **whether** he deserved this
+    3. he _inquired_ **whether** the restaurant would be good
+    4. he _wondered_ **whether** the prize was in the box
+    5. he _speculated_ **whether** things worked out
+    6. he _decided_ **whether** the race would happen
+    6. he _decided_ **whether** the race would happen
 
-3.  _says_<sup>2</sup> + [that] + S	<br> _says (passive)_<sup>3</sup> + [that] + S	
-	1. he _said_ **that** he could do such a thing
-	2. he _stated_ **that** he deserved this
-	3. he _declared_ **that** the restaurant would be good
-	4. he _claimed_ **that** the prize was in the box
-	5. he _announced_ **that** things worked out
-	6. he _believed_ **that** the race would happen
-	7. he _acknowledged_ **that** it was possible to finish early
-	8. he _revealed_ **that** he had lived there before
-	9. he _answered_ **that** he had chosen the location for its weather
-	10. he _responded_ **that** snow days rarely happen
-	11. he _replied_ **that** it was the only choice
-	12. he _read_ **that** it was happiest place in the world
-	13. he _conveyed_ **that** he preferred to live frugally
-	14. he _asserted_ **that** the bot would respond to all messages
-	15. he _thought_ **that** it the bot was happy
+3.  _says_<sup>2</sup> + [that] + S <br> _says (passive)_<sup>3</sup> + [that] + S  
+    1. he _said_ **that** he could do such a thing
+    2. he _stated_ **that** he deserved this
+    3. he _declared_ **that** the restaurant would be good
+    4. he _claimed_ **that** the prize was in the box
+    5. he _announced_ **that** things worked out
+    6. he _believed_ **that** the race would happen
+    7. he _acknowledged_ **that** it was possible to finish early
+    8. he _revealed_ **that** he had lived there before
+    9. he _answered_ **that** he had chosen the location for its weather
+    10. he _responded_ **that** snow days rarely happen
+    11. he _replied_ **that** it was the only choice
+    12. he _read_ **that** it was happiest place in the world
+    13. he _conveyed_ **that** he preferred to live frugally
+    14. he _asserted_ **that** the bot would respond to all messages
+    15. he _thought_ **that** it the bot was happy
 
 4. _order_<sup>3</sup> + [direct object] + [objective infinitive] (VP SBAR)
-	1. he _ordered_ the army **to pitch** camp at the base of the mountain
-	2. he _told_ the dog **to sit**
-	3. he _persuaded_ her **to come** home
+    1. he _ordered_ the army **to pitch** camp at the base of the mountain
+    2. he _told_ the dog **to sit**
+    3. he _persuaded_ her **to come** home
 
 5. _try_<sup>4</sup> + [complementary infinitive] (VP SBAR)
-	1. he _tried_ **to answer** as many questions as possible
-	2. he _attempted_ **to climb** higher than last time
-	3. he _endeavored_ **to complete** the fastest runtime
-	4. he _aimed_ **to surpass** his teacher
-	5. he _aspired_ **to become** the best
-	6. he _thought_ **to try** harder
-	7. he _wanted_ **to be** happy
-	
+    1. he _tried_ **to answer** as many questions as possible
+    2. he _attempted_ **to climb** higher than last time
+    3. he _endeavored_ **to complete** the fastest runtime
+    4. he _aimed_ **to surpass** his teacher
+    5. he _aspired_ **to become** the best
+    6. he _thought_ **to try** harder
+    7. he _wanted_ **to be** happy
+    
 6. [subject] is _says_<sup>2</sup> + [to have/to be] + (VP SBAR)
-	1. he is _said_ **to have** done such a thing
-	2. he is _stated_ **to have** deserved this
-	3. he is _declared_ **to have** been good
-	4. he is _claimed_ **to have** placed the prize in the box
-	5. he is _announced_ **to have** worked things out
-	6. he is _believed_ **to have** planned the race
-	7. he is _acknowledged_ **to have** finish early
-	8. he is _revealed_ **to have** lived there before
-	9. he is _thought_ **to have** been happy
+    1. he is _said_ **to have** done such a thing
+    2. he is _stated_ **to have** deserved this
+    3. he is _declared_ **to have** been good
+    4. he is _claimed_ **to have** placed the prize in the box
+    5. he is _announced_ **to have** worked things out
+    6. he is _believed_ **to have** planned the race
+    7. he is _acknowledged_ **to have** finish early
+    8. he is _revealed_ **to have** lived there before
+    9. he is _thought_ **to have** been happy
 
 
 <sub>
@@ -323,169 +323,169 @@ CNF grammar
 For this part, I only used a few verbs per category and reconstructed simple versions of sentences, but combined many of the constructions #1-6 from Part B via recursion to test.
 p3.lex
 ```
-restaurant 	NN 	1.0 	// nouns used for subjects or objects
-box 	NN 	1.0
-place 	NN 	1.0
-bot 	NN 	1.0
-dog 	NN 	1.0
-cat 	NN 	1.0
-it 		IT	1.0
+restaurant  NN  1.0     // nouns used for subjects or objects
+box     NN  1.0
+place   NN  1.0
+bot     NN  1.0
+dog     NN  1.0
+cat     NN  1.0
+it      IT  1.0
 
-sit 	OBI 	1.0 	// objective infinitives
-send 	OBI 	1.0
+sit     OBI     1.0     // objective infinitives
+send    OBI     1.0
 
-take 	CPI 	1.0 	// complementary infinitives
-steal 	CPI 	1.0
-
-
-asked 		QV 	1.0 	// question verbs
-wondered 	QV 	1.0
-
-said 		SV 	1.0 	// say verbs
-believed 	SV 	1.0
-declared 	SV 	1.0
-
-asserted 	SPV	1.0 	// say passive verbs
-thought 	SPV	1.0
-
-told 	OV 	1.0 		// order verbs
-ordered	OV 	1.0
-
-tried 	TV 	1.0 		// try verbs
-wanted 	TV 	1.0
-
-was 	WAS	1.0
-been 	BEN	1.0
-
-ran 	WV 	1.0 		// normal verb for creating normal sentence
-sat 	WV 	1.0
+take    CPI     1.0     // complementary infinitives
+steal   CPI     1.0
 
 
-who 	WPV	1.0 		// wh-pronoun leading to verb predicates (SBARV)
-what 	WPV	1.0
-which 	WPV	1.0
-when 	WPN	1.0 		// wh-adverb leading to sentence recursion 
-where 	WPN	1.0
-why 	WPN	1.0
+asked       QV  1.0     // question verbs
+wondered    QV  1.0
 
-in 		P 	1.0 		// prepositions
-before	P 	1.0
-out 	P 	1.0
-into 	P 	1.0
-about 	P 	1.0
+said        SV  1.0     // say verbs
+believed    SV  1.0
+declared    SV  1.0
 
-to 		TO 	1.0
-is 		IS 	1.0
-be 		BE 	1.0
-have 	HV 	1.0
+asserted    SPV 1.0     // say passive verbs
+thought     SPV 1.0
 
-he 		SUB	1.0
+told    OV  1.0         // order verbs
+ordered OV  1.0
 
-a 		DET	1.0
-the 	DET	1.0
+tried   TV  1.0         // try verbs
+wanted  TV  1.0
 
-whether	WHE	1.0
-that 	THT	1.0
+was     WAS 1.0
+been    BEN 1.0
 
-happy 	ADJ	1.0
+ran     WV  1.0         // normal verb for creating normal sentence
+sat     WV  1.0
+
+
+who     WPV 1.0         // wh-pronoun leading to verb predicates (SBARV)
+what    WPV 1.0
+which   WPV 1.0
+when    WPN 1.0         // wh-adverb leading to sentence recursion 
+where   WPN 1.0
+why     WPN 1.0
+
+in      P   1.0         // prepositions
+before  P   1.0
+out     P   1.0
+into    P   1.0
+about   P   1.0
+
+to      TO  1.0
+is      IS  1.0
+be      BE  1.0
+have    HV  1.0
+
+he      SUB 1.0
+
+a       DET 1.0
+the     DET 1.0
+
+whether WHE 1.0
+that    THT 1.0
+
+happy   ADJ 1.0
 ```
 
 p3.gram
 ```
-1.0 	PP P' NP 		// create prepositional phrase
+1.0     PP P' NP        // create prepositional phrase
 
-1.0 	NP DET' NN 		// the noun
-1.0 	NP DET ADJ' NP 	// the adjective noun
+1.0     NP DET' NN      // the noun
+1.0     NP DET ADJ' NP  // the adjective noun
 
-1.0 	SUB NP'			// nouns can be subjects in addition to he/it
+1.0     SUB NP'         // nouns can be subjects in addition to he/it
 
-1.0 	DO NP'  		// construct direct objects from nouns
-1.0 	DO IT' 			// it is a DO
-1.0 	DO NP'
-1.0 	DO NP' PP 		// append prepositional phrase to DO
+1.0     DO NP'          // construct direct objects from nouns
+1.0     DO IT'          // it is a DO
+1.0     DO NP'
+1.0     DO NP' PP       // append prepositional phrase to DO
 
-1.0 	THV TO' HV 		// to have
-1.0 	TBE TO' BE 		// to be
+1.0     THV TO' HV      // to have
+1.0     TBE TO' BE      // to be
 
-1.0 	OI TO' OBI 		// objective infinitive "to sit"
-1.0 	CI TO' CPI 		// complementary infinitive "to take"
+1.0     OI TO' OBI      // objective infinitive "to sit"
+1.0     CI TO' CPI      // complementary infinitive "to take"
 
 // to be predicates
-1.0 	BEP TBE' ADJ 	// to be adj
-1.0 	BEP TBE' DO 	// to be NP (+PP)
-1.0 	HVP THV' BEN ADJ 	// to have been adj
+1.0     BEP TBE' ADJ    // to be adj
+1.0     BEP TBE' DO     // to be NP (+PP)
+1.0     HVP THV' BEN ADJ    // to have been adj
 
-1.0 	SBARV WV' NP 	// SBARV is Verb Predicate of sentence
-1.0 	SBARV WV' PP 	// (replace "S SUB" in all S productions with "SBARV")
-1.0 	SBARV QVP'
-1.0 	SBARV SVP'
-1.0 	SBARV SPVP'
-1.0 	SBARV OVP'
-1.0 	SBARV TVP'
+1.0     SBARV WV' NP    // SBARV is Verb Predicate of sentence
+1.0     SBARV WV' PP    // (replace "S SUB" in all S productions with "SBARV")
+1.0     SBARV QVP'
+1.0     SBARV SVP'
+1.0     SBARV SPVP'
+1.0     SBARV OVP'
+1.0     SBARV TVP'
 
-1.0 	SBARV IS' SV HVP
-1.0 	SBARV IS' SV BEP
-1.0 	SBARV IS' SV SBARV
+1.0     SBARV IS' SV HVP
+1.0     SBARV IS' SV BEP
+1.0     SBARV IS' SV SBARV
 
-1.0 	SBARV WAS'
-1.0 	SBARV WAS' ADJ
-1.0 	SBARV WAS' NP
-1.0 	SBARV QV' NP
-1.0 	SBARV SV' NP
-1.0 	SBARV SPV' NP
-1.0 	SBARV OV' NP
-1.0 	SBARV TV' NP
+1.0     SBARV WAS'
+1.0     SBARV WAS' ADJ
+1.0     SBARV WAS' NP
+1.0     SBARV QV' NP
+1.0     SBARV SV' NP
+1.0     SBARV SPV' NP
+1.0     SBARV OV' NP
+1.0     SBARV TV' NP
 
 // class #1 from Part B
-1.0 	QVP QV' WPV SBARV 	// questionverb who/what/which verb predicate
-1.0 	QVP QV' WPN WAS DO 	// questionverb when/where/why was NP (+PP)
-1.0 	QVP QV' WPN S 		// questionverb when/where/why + S (recurse)
+1.0     QVP QV' WPV SBARV   // questionverb who/what/which verb predicate
+1.0     QVP QV' WPN WAS DO  // questionverb when/where/why was NP (+PP)
+1.0     QVP QV' WPN S       // questionverb when/where/why + S (recurse)
 
 // class #2 from Part B
-1.0 	QVP QV' WHE S 		// questionverb whether + S (recurse)
+1.0     QVP QV' WHE S       // questionverb whether + S (recurse)
 
 // class #3 from Part B
-1.0 	SVP SV' THT S 		// sayverb that + S (recurse)
-1.0 	SVP SV' S 			// "that" unnecessary
-1.0 	SPVP  SPV' THT S 	// sayverbpassive that + S (recurse)
-1.0 	SPVP  SPV' S 		// "that" unnecessary
+1.0     SVP SV' THT S       // sayverb that + S (recurse)
+1.0     SVP SV' S           // "that" unnecessary
+1.0     SPVP  SPV' THT S    // sayverbpassive that + S (recurse)
+1.0     SPVP  SPV' S        // "that" unnecessary
 
 // class #4 from Part B
-1.0 	OVP OV' NP OI DO 	// orderverb + DO (being ordered) + obj inf + DO of inf
-1.0 	OVP OV' NP OI 		// orderverb + DO (being ordered) + obj inf
-1.0 	OVP OV' DO BEP 		// orderverb + DO (being ordered) + tobe predicate
+1.0     OVP OV' NP OI DO    // orderverb + DO (being ordered) + obj inf + DO of inf
+1.0     OVP OV' NP OI       // orderverb + DO (being ordered) + obj inf
+1.0     OVP OV' DO BEP      // orderverb + DO (being ordered) + tobe predicate
 
 // class #5 from Part B
-1.0 	TVP TV' TBE NP 		// tryverb + tobe a noun
-1.0 	TVP TV' BEP 		// tryverb + tobe predicate
-1.0 	TVP TV' CI DO 		// tryverb + compl inf + DO of inf
-1.0 	TVP TV' OI PP 		// tryverb + obj inf + PP
-1.0 	TVP TV' TO SBARV 	// tryverb + to SBAR beginning with verb (recurse)
-1.0 	TVP TV' THV NP 		// tryverb + to have something
+1.0     TVP TV' TBE NP      // tryverb + tobe a noun
+1.0     TVP TV' BEP         // tryverb + tobe predicate
+1.0     TVP TV' CI DO       // tryverb + compl inf + DO of inf
+1.0     TVP TV' OI PP       // tryverb + obj inf + PP
+1.0     TVP TV' TO SBARV    // tryverb + to SBAR beginning with verb (recurse)
+1.0     TVP TV' THV NP      // tryverb + to have something
 
 
-1.0 	S SUB' WV NP  		// normal verb with NP DO
-1.0 	S SUB' WV PP 		// normal verb with PP
-1.0 	S SUB' QVP 			// applying classes from Part B
-1.0 	S SUB' SVP 			// "
-1.0 	S SUB' SPVP 		// "
-1.0 	S SUB' OVP 			// "
-1.0 	S SUB' TVP 			// "
+1.0     S SUB' WV NP        // normal verb with NP DO
+1.0     S SUB' WV PP        // normal verb with PP
+1.0     S SUB' QVP          // applying classes from Part B
+1.0     S SUB' SVP          // "
+1.0     S SUB' SPVP         // "
+1.0     S SUB' OVP          // "
+1.0     S SUB' TVP          // "
 
 // class #6 from Part B
-1.0 	S SUB' IS SV HVP 	// subj is said to have been ___
-1.0 	S SUB' IS SV BEP 	// subj is said to be ___
-1.0 	S SUB' IS SV SBARV 	// subj is said to SBAR beginning with verb (recurse)
+1.0     S SUB' IS SV HVP    // subj is said to have been ___
+1.0     S SUB' IS SV BEP    // subj is said to be ___
+1.0     S SUB' IS SV SBARV  // subj is said to SBAR beginning with verb (recurse)
 
 // basic sentences
-1.0 	S SUB' WAS 			// subj was
-1.0 	S SUB' WAS ADJ 		// subj was adj
-1.0 	S SUB' WAS NP 		// subj was NP
-1.0 	S SUB' QV NP 		// subj verbed NP
-1.0 	S SUB' SV NP 		// "
-1.0 	S SUB' SPV NP 		// "
-1.0 	S SUB' OV NP 		// "
-1.0 	S SUB' TV NP 		// "
+1.0     S SUB' WAS          // subj was
+1.0     S SUB' WAS ADJ      // subj was adj
+1.0     S SUB' WAS NP       // subj was NP
+1.0     S SUB' QV NP        // subj verbed NP
+1.0     S SUB' SV NP        // "
+1.0     S SUB' SPV NP       // "
+1.0     S SUB' OV NP        // "
+1.0     S SUB' TV NP        // "
 ```
 ---
 
