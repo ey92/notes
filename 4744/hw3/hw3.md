@@ -238,7 +238,7 @@ queries: <br>
 #### Part B
 S/SBAR complement classes
 
-1. _question_<sup>1</sup> + _WDT_<sup>5</sup> +  SBAR
+1. _question_<sup>1</sup> + [WDT]<sup>5</sup> +  SBAR
 
 2. _question_<sup>1</sup>/_says_<sup>2</sup> + [IN]<sup>6</sup> + S
 
@@ -249,7 +249,7 @@ S/SBAR complement classes
 5. is _says_<sup>2</sup> + [to have] + VP (SBAR)
 
 
-
+<sub>
 <sup>1</sup> question verbs:
 - asked, inquired, questioned
 - wondered, speculated
@@ -276,6 +276,7 @@ S/SBAR complement classes
 <sup>6</sup> IN:
 - that
 - whether
+</sub>
 
 #### Part C
 CNF grammar
