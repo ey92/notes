@@ -8,7 +8,7 @@ plastic	NN 	1.0
 child 	NN 	1.0
 sound 	NN 	1.0
 family 	NN 	1.0
-work 	NN 	1.0
+works 	NN 	1.0
 drug 	NN 	1.0
 reform 	NN 	1.0
 information 	NN 	1.0

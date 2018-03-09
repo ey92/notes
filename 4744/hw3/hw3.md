@@ -571,6 +571,7 @@ p4b.gram
 1.0     C C' B
 1.0     C B
 ```
+- assumed m can be 0
 - make sure recursive element ends on B
 - allow recursive element to only produce A if there is also a B
 - allow recursive element to allow addition of only B within iteration
@@ -625,7 +626,7 @@ print random-words
 
 I found the 3rd form [R p X] to be the hardest to come up with, so I queried the NYT2006 corpus with that, with the format of VB+IN+NN: <br>
 `cwb-scan-corpus NYT2006 ?word+0="/rush/" word+0 ?pos+1="/IN/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less` <br>
-![rush+IN+NN 2006 query](https://github.com/ey92/notes/blob/master/4744/hw3/rushofNN.png) <br>
+![rush+IN+NN query](https://github.com/ey92/notes/blob/master/4744/hw3/rushofNN.png) <br>
 This gave me a list of prepositions to work with, so I replaced the initial verb with _pos_ as VB or VBD and replaced the preposition IN with some of the ones that I found in the query. Eventually, I ran these queries on NYT200x to get as much coverage as possible. <br>
 ![VB+of+NN 200x query](https://github.com/ey92/notes/blob/master/4744/hw3/VBofNN200x.png) <br>
 
@@ -638,7 +639,7 @@ Somehow all 45 verb-preposition pairs formed nominal complements. A few also for
 
 | | rush | smoke | taste | layer | change |
 | - | - | - | - | - | - |
-| [X R Tns] | oil rush -ed [1] | tobacco[1] smoke -d | meat taste -d [8] | cake layer -ed [4] | life change -d  [326] |
+| [X R Tns] | oil rush -ed [1] | tobacco smoke -d [1] | meat taste -d [8] | cake layer -ed [4] | life change -d  [326] |
 | [X R] | oil rush [11] | tobacco smoke [195] | meat taste [7] | cake layer [66] | life change [107] |
 | [R p X] | rush of oil [4] | smoke of tobacco [2]  | taste of meat [4] | layer of cake [16] | change of life [85] |
 
@@ -677,7 +678,7 @@ plastic NN  1.0
 child   NN  1.0
 sound   NN  1.0
 family  NN  1.0
-work    NN  1.0
+works   NN  1.0
 drug    NN  1.0
 reform  NN  1.0
 information     NN  1.0
@@ -717,24 +718,23 @@ p5.gram
 ```
 1.0     S DT' RPXP      // determiner + [RpX] form phrase
 1.0     RPXP RPX' P     // [RpX] phrase = [verb + with + noun] (RpX) + predicate (P)
-1.0     RPX VOF' WP     // build [RpX] form: RPX = base verb + [with + noun] (WP)
-1.0     RPX VWI' WP
-1.0     RPX VFO' WP
+1.0     RPX VOF' POF NN // build [RpX] form: RPX = base verb + [PP + noun]
+1.0     RPX VWI' PWI NN
+1.0     RPX VFO' PFO NN
 
 1.0     S DT' XRP       // determiner + [XR] phrase
 1.0     XRP XR' P       // [XR] phrase = [XR] form + predicate (P)
-1.0     XR VOF' NN      // build [XR] base form as verb + noun
-1.0     XR VWI' NN
-1.0     XR VFO' NN
+1.0     XR NN' VOF      // build [XR] base form as verb + noun
+1.0     XR NN' VWI
+1.0     XR NN' VFO
 
-1.0     WP PWI NN       // with phrase = with + noun
 1.0     P WAS' JJ       // predicate = form of "to be" (was) + adjective (good)
+1.0     SP PO' WAS      // subject phrase there was
 
-1.0     S SP' XRTP      // subject phrase + XRT phrase
-1.0     XRTP NN' VOF ED     // XRT phrase = noun + verb + past tense
-1.0     XRTP NN' VWI ED     // XRT phrase = noun + verb + past tense
+1.0     S SP' XRTP      // determiner + XRT phrase
+1.0     XRTP NN' VOF ED // XRT phrase = noun + verb + past tense
+1.0     XRTP NN' VWI ED
 1.0     XRTP NN' VFO ED
-1.0     SP PO' WAS          // subject phrase = pronoun + was
 ```
 
 - the [RpX] and [XR] forms were easy to transform into sentences by prepending a determiner and appending a simple sentence predicate ("was good")
