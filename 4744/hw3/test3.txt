@@ -1,0 +1,29 @@
+1
+he wondered who was happy 
+he asked where the dog was
+he asked who declared that he was happy 
+he wondered who believed that he was happy 
+he wondered who said he tried to be happy  
+2
+he wondered whether he was happy
+he asked whether he believed that he was happy 
+he asked whether he wondered whether he wanted to be happy 
+3
+he thought that he was happy
+he declared that he was happy
+he believed that he wanted to be happy 
+he thought he believed that he was happy 
+4
+he told the dog to be happy
+he told the dog to sit 
+he told the dog to send the bot 
+# he told the dog to send the bot to the cat
+5
+he tried to be happy 
+he wanted to be happy
+he wanted to have a dog
+6
+he is said to be happy
+he is said to have been happy
+S
+he was happy 

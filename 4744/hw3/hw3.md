@@ -319,7 +319,8 @@ S/SBAR complement classes
 
 #### Part C
 CNF grammar
-test sentences
+
+For this part, I only used a few verbs per category and reconstructed simple versions of sentences, but combined many of the constructions #1-6 from Part B via recursion to test.
 
 ---
 
