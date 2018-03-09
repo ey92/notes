@@ -238,15 +238,15 @@ queries: <br>
 #### Part B
 S/SBAR complement classes
 
-1. [question<sup>1</sup>] + _WDT<sup>5</sup>_ +  SBAR
+1. [question]<sup>1</sup> + [WDT]<sup>5</sup> +  SBAR
 
-2. [question<sup>1</sup>]/[says<sup>2</sup>] + _IN<sup>6</sup>_ + S
+2. [question]<sup>1</sup>/[says]<sup>2</sup> + [IN]<sup>6</sup> + S
 
-3. [order<sup>3</sup>] + _direct object_ + _objective infinitive_ VP (SBAR)
+3. [order]<sup>3</sup> + [direct object] + [objective infinitive] VP (SBAR)
 
-4. [says<sup>2</sup>]/[try<sup>4</sup>] + _complementary infinitive_ VP (SBAR)
+4. [says]<sup>2</sup>/[try]<sup>4</sup>+ [complementary infinitive] VP (SBAR)
 
-5. is [says<sup>2</sup>] + _to have_ + VP (SBAR)
+5. is [says]<sup>2</sup> + [to have] + VP (SBAR)
 
 
 
