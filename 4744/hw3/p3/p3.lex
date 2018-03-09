@@ -10,8 +10,6 @@ sit 	OBI 	1.0
 come 	OBI 	1.0
 
 do 	CPI 	1.0
-learn 	CPI 	1.0
-climb 	CPI 	1.0
 become 	CPI 	1.0
 
 
@@ -19,6 +17,7 @@ asked 	QV 	1.0
 wondered 	QV 	1.0
 
 said 	SV 	1.0
+believed 	SV 	1.0
 declared 	SV 	1.0
 
 asserted 	SPV 	1.0
@@ -30,8 +29,8 @@ ordered 	OV 	1.0
 tried 	TV 	1.0
 wanted 	TV 	1.0
 
-was 	BED 	1.0
-been 	BED 	1.0
+was 	WAS 	1.0
+been 	BEN 	1.0
 
 
 who 	WPV	1.0
