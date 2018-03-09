@@ -696,7 +696,7 @@ talk    VWI 1.0
 work    VWI 1.0
 visit   VWI 1.0
 
-report  VFO     1.0
+report  VFO 1.0
 test    VFO 1.0
 push    VFO 1.0
 scan    VFO 1.0
@@ -742,6 +742,16 @@ p5.gram
     - the verbs paired with "of" could be turned into a complete sentence by prepending a determiner to the phrase.
         - e.g. [the] oil rushed
     - some of the verbs paired with "with" and "for" sounded strange when used in the active voice, so I prepended "there was" to turn them into the passive voice. This also applied to the "of" verbs, so I just used this one rule to simplify the grammar.
+
+![p5 tree](https://github.com/ey92/notes/blob/master/4744/hw3/5.1tree.png) <br>
+![p5 tree](https://github.com/ey92/notes/blob/master/4744/hw3/5.2tree.png) <br>
+![p5 tree](https://github.com/ey92/notes/blob/master/4744/hw3/5.3tree.png) <br>
+![p5 tree](https://github.com/ey92/notes/blob/master/4744/hw3/5.4tree.png) <br>
+![p5 tree](https://github.com/ey92/notes/blob/master/4744/hw3/5.5tree.png) <br>
+![p5 tree](https://github.com/ey92/notes/blob/master/4744/hw3/5.6tree.png) <br>
+![p5 tree](https://github.com/ey92/notes/blob/master/4744/hw3/5.7tree.png) <br>
+![p5 tree](https://github.com/ey92/notes/blob/master/4744/hw3/5.8tree.png) <br>
+![p5 tree](https://github.com/ey92/notes/blob/master/4744/hw3/5.9tree.png)
 
 #### Part C
 ??? what to write
