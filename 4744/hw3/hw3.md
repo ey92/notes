@@ -250,32 +250,20 @@ S/SBAR complement classes
 
 
 <sub>
-<sup>1</sup> question verbs: <br>
-asked, inquired, questioned <br>
-wondered, speculated <br>
-decided <br>
-<br>
-<sup>2</sup> says verbs: <br>
-said, stated, declared, conveyed, claimed, announced, asserted <br>
-believed, acknowledged, revealed <br>
-answered, responded, replied <br>
-read <br>
-<br>
-<sup>3</sup> order verbs: <br>
-told <br>
-persuaded <br>
-ordered <br>
-<br>
-<sup>4</sup> try verbs: <br>
-tried, attempted, endeavored <br>
-aimed, aspired <br>
-<br>
-<sup>5</sup> WDT wh-determiner:  <br>
-who, what, when, where, why <br>
-<br>
-<sup>6</sup> IN: <br>
-that <br>
-whether <br>
+<sup>1</sup> question verbs:
+asked, inquired, questioned
+wondered, speculated
+decided
+
+<sup>2</sup> says verbs: said, stated, declared, conveyed, claimed, announced, asserted, believed, acknowledged, revealed, answered, responded, replied, read
+
+<sup>3</sup> order verbs: told, persuaded, ordered
+
+<sup>4</sup> try verbs: tried, attempted, endeavored, aimed, aspired
+
+<sup>5</sup> WDT wh-determiner: who, what, when, where, why
+
+<sup>6</sup> IN: that, whether
 </sub>
 
 #### Part C
