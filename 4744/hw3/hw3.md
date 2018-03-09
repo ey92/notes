@@ -238,20 +238,36 @@ queries: <br>
 #### Part B
 S/SBAR complement classes
 
-1. _question_<sup>1</sup> + [WDT]<sup>5</sup> +  SBAR
-	1. he _questioned_ **who could do such a a thing**
-	2. he _asked_ **why he deserved this**
-	3. he _inquired_ **where the restaurant was**
-	4. he _wondered_ **what was in the box**
-	5. he _speculated_ **how things worked**
+1. _question_<sup>1</sup> + [WP]<sup>5</sup> +  SBAR <br> _question_<sup>1</sup> + [WRB]<sup>5</sup> + SBAR
+	1. he _questioned_ **who** _could do such a a thing_
+	2. he _asked_ **why** _he deserved this_
+	3. he _inquired_ **where** _the restaurant was_
+	4. he _wondered_ **what** _was in the box_
+	5. he _speculated_ **how** _things worked_
+	6. he _decided_ **when** _the race would happen_
 
-2. _question_<sup>1</sup> + [IN]<sup>6</sup> + S <br> _says_<sup>2</sup> + [IN]<sup>6</sup> + S
+2. _question_<sup>1</sup> + [whether] + S
+	1. he _questioned_ **whether** _he could do such a a thing_
+	2. he _asked_ **whether** _he deserved this_
+	3. he _inquired_ **whether** _the restaurant would be good_
+	4. he _wondered_ **whether** _the prize was in the box_
+	5. he _speculated_ **whether** _things worked out_
+	6. he _decided_ **whether** _the race would happen_
 
-3. _order_<sup>3</sup> + [direct object] + [objective infinitive] VP (SBAR)
+3.  _says_<sup>2</sup> + [that] + S	
+	1. he _said_ **that** _he could do such a a thing_
+	2. he _stated_ **that** _he deserved this_
+	3. he _declared_ **that** _the restaurant would be good_
+	4. he _claimed_ **that** _the prize was in the box_
+	5. he _announced_ **that** _things worked out_
+	6. he _believed_ **that** _the race would happen_
+	7. he _acknowledged_ **that**
 
-4. _says_<sup>2</sup> + [complementary infinitive] VP (SBAR) <br> _try_<sup>4</sup> + [complementary infinitive] VP (SBAR)
+4. _order_<sup>3</sup> + [direct object] + [objective infinitive] VP (SBAR)
 
-5. is _says_<sup>2</sup> + [to have] + VP (SBAR)
+5. _says_<sup>2</sup> + [complementary infinitive] VP (SBAR) <br> _try_<sup>4</sup> + [complementary infinitive] VP (SBAR)
+
+6. is _says_<sup>2</sup> + [to have] + VP (SBAR)
 
 
 <sub>
@@ -264,9 +280,7 @@ S/SBAR complement classes
 
 <sup>4</sup> **try verbs**:         tried, attempted, endeavored, aimed, aspired
 
-<sup>5</sup> **WDT wh-determiner**: who, what, when, where, why
-
-<sup>6</sup> **IN**:                that, whether
+<sup>5</sup> **WRB who-adverb/WP wh-pronoun**: who, what, when, where, why
 
 </sub>
 
