@@ -526,7 +526,7 @@ S basic
 he was happy 
 ```
 - very general classification of test sentences
-- sample parse:
+- sample parse: <br>
 ![Sentence Parse](https://github.com/ey92/notes/blob/master/4744/hw3/p3sentparse.png)
 
 
@@ -534,6 +534,8 @@ he was happy
 ---
 
 ### P4
+For the test cases in these grammars, I wrote the good test cases individually and mixed the good test cases for the other 3 languages to form bad test cases, since the formal languages defined in each part should be mutually exclusive.
+
 #### Part A
 `a^{m} b^{m}     m > 0` <br>
 p4a.gram
@@ -592,20 +594,25 @@ p4d.gram
 
 I initially used ANV.fsb to find words that could be a noun or a verb to get a verb to start with.
 ```
-load ANV.fsb
-regex A & V;
+load defined ANV.fsb
+regex N & V;
 print random-words
 ```
 
+![NV Intersection](https://github.com/ey92/notes/blob/master/4744/hw3/NVintersect.png)
+
 I found the 3rd form [R p X] to be the hardest to come up with, so I queried the NYT2006 corpus with that, with the format of VB+IN+NN: <br>
 `cwb-scan-corpus NYT2006 ?word+0="/rush/" word+0 ?pos+1="/IN/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less` <br>
-This gave me a list of prepositions to work with, so I replaced the initial verb with _pos_ as VB or VBD and replaced the preposition IN with some of the ones that I found in the query. Eventually, I ran these queries on NYT200x to get as much coverage as possible.
+![rush+IN+NN 2006 query](https://github.com/ey92/notes/blob/master/4744/hw3/rushINNN2006.png) <br>
+This gave me a list of prepositions to work with, so I replaced the initial verb with _pos_ as VB or VBD and replaced the preposition IN with some of the ones that I found in the query. Eventually, I ran these queries on NYT200x to get as much coverage as possible. <br>
+![VB+of+NN 200x query](https://github.com/ey92/notes/blob/master/4744/hw3/VBofNN200x.png) <br>
 
 Somehow all 45 verb-preposition pairs formed nominal complements. A few also formed verbal complements, but I chose to use their nominal complements since they were more popular in the corpora.
 
 ---
 ##### of
-`cwb-scan-corpus NYT2006 ?pos+0="/VB/" word+0 ?word+1="/of/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less`
+`cwb-scan-corpus NYT200x ?pos+0="/VB/" word+0 ?word+1="/of/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less` <br>
+![rush+of+NN 200x query](https://github.com/ey92/notes/blob/master/4744/hw3/rushINNN.png) <br>
 
 | | rush | smoke | taste | layer | change |
 | - | - | - | - | - | - |
@@ -615,7 +622,8 @@ Somehow all 45 verb-preposition pairs formed nominal complements. A few also for
 
 ---
 ##### with
-`cwb-scan-corpus NYT2006 ?pos+0="/VB/" word+0 ?word+1="/with/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less`
+`cwb-scan-corpus NYT200x ?pos+0="/milk/" word+0 ?word+1="/with/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less` <br>
+![mix+with+NN 200x query](https://github.com/ey92/notes/blob/master/4744/hw3/mixwithNN.png) <br>
 
 | | mix | cover | talk | work | visit |
 | - | - | - | - | - | - |
@@ -625,7 +633,8 @@ Somehow all 45 verb-preposition pairs formed nominal complements. A few also for
 
 ---
 ##### for
-`cwb-scan-corpus NYT2006 ?pos+0="/VB/" word+0 ?word+1="/for/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less`
+`cwb-scan-corpus NYT200x ?pos+0="/VB/" word+0 ?word+1="/for/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less` <br>
+![test+for+NN 200x query](https://github.com/ey92/notes/blob/master/4744/hw3/testforNN.png) <br>
 
 | | report | test | push | scan | check |
 | - | - | - | - | - | - |

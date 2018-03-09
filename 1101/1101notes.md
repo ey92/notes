@@ -506,12 +506,16 @@ _lexical ambiguity_ arises when two word sound alike (homophony)
 	- movement test
 
 - finding complete phrases:
-	- questions/separability
+	- questions
 	- clefting (incl topic fronting)/movement
 	- substitution
+	- separability: syntactic trees can't cross
 
 - if word can replace phrase, it is also a phrase/if can't replace a phrase, not a phrase
 - proverb - can substitute verb phrase
+
+- negated phrase
+- "not" can become part of verb phrase or merely precede it
 
 ---
 ##### Prelim 1 content
