@@ -541,8 +541,10 @@ he was happy
 - sample parse: <br>
 ![Sentence Parse](https://github.com/ey92/notes/blob/master/4744/hw3/p3sentparse.png)
 
-- sample parse tree: <br>
-![Sentence Parse Tree](https://github.com/ey92/notes/blob/master/4744/hw3/p3sentparsetree.png)
+- sample parse trees: <br>
+![Sentence Parse Tree](https://github.com/ey92/notes/blob/master/4744/hw3/3.1tree.png)
+![Sentence Parse Tree](https://github.com/ey92/notes/blob/master/4744/hw3/3.2tree.png)
+![Sentence Parse Tree](https://github.com/ey92/notes/blob/master/4744/hw3/3.3tree.png)
 
 
 ---
@@ -560,7 +562,7 @@ p4a.gram
 ```
 - make sure every iteration inserts one A and one B before and after the recursive component respectively
 
-![4a Sentence Parse Tree](https://github.com/ey92/notes/blob/master/4744/hw3/p4asentparsetree.png)
+![4a Sentence Parse Tree](https://github.com/ey92/notes/blob/master/4744/hw3/4atree.png)
 
 #### Part B
 `a^{m} b^{n}     n > m` <br>
@@ -575,7 +577,7 @@ p4b.gram
 - allow recursive element to only produce A if there is also a B
 - allow recursive element to allow addition of only B within iteration
 
-![4b Sentence Parse Tree](https://github.com/ey92/notes/blob/master/4744/hw3/p4bsentparsetree.png)
+![4b Sentence Parse Tree](https://github.com/ey92/notes/blob/master/4744/hw3/4btree.png)
 
 #### Part C
 `[a b]^{n}      n > 0` <br>
@@ -588,7 +590,7 @@ p4c.gram
 - allow recursive element to repeat after A B
 - force recursive element to end on A B so string has at least one instance of "ab"
 
-![4c Sentence Parse Tree](https://github.com/ey92/notes/blob/master/4744/hw3/p4csentparsetree.png)
+![4c Sentence Parse Tree](https://github.com/ey92/notes/blob/master/4744/hw3/4ctree.png)
 
 #### Part D
 `a b+` <br>
@@ -602,7 +604,7 @@ p4d.gram
 - recursive element only goes to adding any number of B
 - recursive element must end with B to force at lease one B
 
-![4d Sentence Parse Tree](https://github.com/ey92/notes/blob/master/4744/hw3/p4dsentparsetree.png)
+![4d Sentence Parse Tree](https://github.com/ey92/notes/blob/master/4744/hw3/4dtree.png)
 
 ---
 
