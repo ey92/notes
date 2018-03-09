@@ -261,9 +261,17 @@ S/SBAR complement classes
 	4. he _claimed_ **that** _the prize was in the box_
 	5. he _announced_ **that** _things worked out_
 	6. he _believed_ **that** _the race would happen_
-	7. he _acknowledged_ **that**
+	7. he _acknowledged_ **that** _it was possible to finish early_
+	8. he _revealed_ **that** _he had lived there before_
+	9. he _answered_ **that** _he had chosen the location for its weather_
+	10. he _responded_ **that** _snow days rarely happen_
+	11. he _replied_ **that** _it was the only choice_
+	12. he _read_ **that** _it was happiest place in the world_
+	13. he _conveyed_ **that** _he preferred to live frugally_
+	14. he _asserted_ **that** _the bot would respond to all messages_
 
 4. _order_<sup>3</sup> + [direct object] + [objective infinitive] VP (SBAR)
+	1. he _ordered_ **the army** _to pitch camp at the base of the mountain_
 
 5. _says_<sup>2</sup> + [complementary infinitive] VP (SBAR) <br> _try_<sup>4</sup> + [complementary infinitive] VP (SBAR)
 
