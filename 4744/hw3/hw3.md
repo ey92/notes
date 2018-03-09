@@ -487,6 +487,45 @@ p3.gram
 1.0     S SUB' OV NP        // "
 1.0     S SUB' TV NP        // "
 ```
+
+p3.good
+```
+class 1
+he wondered who was happy 
+he asked where the dog was 
+he asked who declared that he was happy 
+he wondered who believed that he was happy 
+he wondered who said he tried to be happy 
+
+class 2
+he wondered whether he was happy 
+he asked whether he believed that he was happy 
+he asked whether he wondered whether he wanted to be happy 
+
+class 3
+he thought that he was happy 
+he declared that he was happy 
+he believed that he wanted to be happy 
+he thought he believed that he was happy 
+
+class 4
+he told the dog to be happy 
+he told the dog to sit 
+he told the dog to send the bot 
+
+class 5
+he tried to be happy 
+he wanted to be happy 
+he wanted to have a dog 
+
+class 6
+he is said to be happy 
+he is said to have been happy 
+
+S basic
+he was happy 
+```
+- very general classification of test sentences
 ---
 
 ### P4
