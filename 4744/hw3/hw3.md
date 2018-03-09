@@ -264,7 +264,9 @@ S/SBAR complement classes
 <sup>5</sup> **WDT wh-determiner**: who, what, when, where, why
 
 <sup>6</sup> **IN**:                that, whether
+
 </sub>
+
 
 #### Part C
 CNF grammar
