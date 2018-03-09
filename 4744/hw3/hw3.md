@@ -1,5 +1,4 @@
 need to include good/bad samples & screenshots for all <br>
-`cat $input | lopar -in $grammar`
 
 Elizabeth Yam ey92
 CS 4744 HW3
@@ -9,9 +8,11 @@ CS 4744 HW3
 | ------- | ----------- | 
 | #1 | p1-bad.sent p1-good.sent <br> p1.lex p1.gram p1.start    p1.oc   p1.OC |
 | #2 | p2.bad <br> p2.good <br> p2.lex    p2.gram p2.start    p2.oc   p2.OC |
-| #3 | p3.lex   p3.gram p3.start    p3.oc   p3.OC |
+| #3 | p3.good <br> p3.lex   p3.gram p3.start    p3.oc   p3.OC |
 | #4 | p4a.bad p4b.bad p4c.bad p4d.bad <br> p4a.good p4b.good p4c.good p4d.good <br> p4a.lex p4a.gram    p4a.start   p4a.oc  p4a.OC <br> p4b.lex p4b.gram    p4b.start   p4b.oc  p4b.OC <br> p4c.lex p4c.gram    p4c.start   p4c.oc  p4c.OC <br> p4d.lex p4d.gram    p4d.start   p4d.oc  p4d.OC |
 | #5 | p5.lex   p5.gram p5.start    p5.oc   p5.OC |
+
+- NOTE: when using test files, need to translate spaces into newline characters <br> for example, `cat p3.good | tr ' ' '\n' | lopar -in p3`
 
 ### P1
 #### Part A
