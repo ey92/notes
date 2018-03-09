@@ -239,8 +239,11 @@ queries: <br>
 S/SBAR complement classes
 
 1. _question_<sup>1</sup> + [WDT]<sup>5</sup> +  SBAR
-	1. he questioned who could do such a a thing
-	2. he asked why  
+	1. he _questioned_ **who could do such a a thing**
+	2. he _asked_ **why he deserved this**
+	3. he _inquired_ **where the restaurant was**
+	4. he _wondered_ **what was in the box**
+	5. he _speculated_ **how things worked**
 
 2. _question_<sup>1</sup> + [IN]<sup>6</sup> + S <br> _says_<sup>2</sup> + [IN]<sup>6</sup> + S
 
