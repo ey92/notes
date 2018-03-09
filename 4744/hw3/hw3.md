@@ -182,7 +182,8 @@ p2.gram
 #### Part A
 queries: <br>
 `tgrep -c 2010.crp 'VBD $. S' | sort -nr | uniq -c | sort -nr | head -50 > ~/VBDS50.txt` <br>
-`tgrep -c 2010.crp 'VBD $. SBAR' | sort -nr | uniq -c | sort -nr | head -50 > ~/VBDSBAR50.txt`
+`tgrep -c 2010.crp 'VBD $. SBAR' | sort -nr | uniq -c | sort -nr | head -50 > ~/VBDSBAR50.txt` <br>
+the two results in table form: 
 
 | freq | VBD preceding S | freq | VBD preceding SBAR |
 | ---- | --------------- | ---- | ------------------ |
@@ -529,6 +530,8 @@ he was happy
 - sample parse: <br>
 ![Sentence Parse](https://github.com/ey92/notes/blob/master/4744/hw3/p3sentparse.png)
 
+- sample parse tree: <br>
+![Sentence Parse Tree](https://github.com/ey92/notes/blob/master/4744/hw3/p3sentparsetree.png)
 
 
 ---
@@ -546,6 +549,8 @@ p4a.gram
 ```
 - make sure every iteration inserts one A and one B before and after the recursive component respectively
 
+![4a Sentence Parse Tree](https://github.com/ey92/notes/blob/master/4744/hw3/p4asentparsetree.png)
+
 #### Part B
 `a^{m} b^{n}     n > m` <br>
 p4b.gram
@@ -559,6 +564,8 @@ p4b.gram
 - allow recursive element to only produce A if there is also a B
 - allow recursive element to allow addition of only B within iteration
 
+![4b Sentence Parse Tree](https://github.com/ey92/notes/blob/master/4744/hw3/p4bsentparsetree.png)
+
 #### Part C
 `[a b]^{n}      n > 0` <br>
 p4c.gram
@@ -569,6 +576,8 @@ p4c.gram
 ```
 - allow recursive element to repeat after A B
 - force recursive element to end on A B so string has at least one instance of "ab"
+
+![4c Sentence Parse Tree](https://github.com/ey92/notes/blob/master/4744/hw3/p4csentparsetree.png)
 
 #### Part D
 `a b+` <br>
@@ -581,6 +590,8 @@ p4d.gram
 - force first production to start with A and never add A again
 - recursive element only goes to adding any number of B
 - recursive element must end with B to force at lease one B
+
+![4d Sentence Parse Tree](https://github.com/ey92/notes/blob/master/4744/hw3/p4dsentparsetree.png)
 
 ---
 
@@ -612,7 +623,7 @@ Somehow all 45 verb-preposition pairs formed nominal complements. A few also for
 ---
 ##### of
 `cwb-scan-corpus NYT200x ?pos+0="/VB/" word+0 ?word+1="/of/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less` <br>
-![rush+of+NN 200x query](https://github.com/ey92/notes/blob/master/4744/hw3/rushINNN.png) <br>
+![rush+of+NN 200x query](https://github.com/ey92/notes/blob/master/4744/hw3/rushofNN.png) <br>
 
 | | rush | smoke | taste | layer | change |
 | - | - | - | - | - | - |

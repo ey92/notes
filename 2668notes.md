@@ -809,6 +809,7 @@ Demotic
     - 10m walls, heb-sed court, fake entrances
 - walls and serekh copy palace facade that hasn't survived
 - entrance colonnade - reed-bundle columns translated into stone
+- pyramid as place of transformation and perfection
 - "perfecting the king"
     - make him perfect
     - make everything permanent
@@ -828,10 +829,18 @@ Demotic
 -facilitate pharaoh's placement as Akh among gods to act on Egypt's behalf, maintaining ma'at forever
 
 3 parts of royal spirit
-- ka - hungry spirit in statue
-- akh - live in afterlife
-- ba - resides in body but can travel around
+- ka - hungry spirit in statue (hungry)
+- akh - live in afterlife (effective)
+- ba - resides in body but can travel around (mobile)
 
+## Old Kingdom Pyramid Era
+- pyramid functions in pyramid names
+- references to rising, perfecting, provisioning - help pharaoh do his job
+
+## Huni D3
+- collapsing pyramid at Meidum, edge of Faiyum
+- pyramid finished by Sneferu
+- first to write name in cartouche rather than serekh
 
 ---
 #### quiz up to 2/16 lecture
