@@ -250,6 +250,7 @@ S/SBAR complement classes
 
 
 <sub>
+
 <sup>1</sup> **question verbs**:    asked, inquired, questioned, wondered, speculated, decided
 
 <sup>2</sup> **says verbs**:        said, stated, declared, conveyed, claimed, announced, asserted, believed, acknowledged, revealed, answered, responded, replied, read
