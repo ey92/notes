@@ -9,8 +9,8 @@ cat 	NN 	1.0
 sit 	OBI 	1.0
 come 	OBI 	1.0
 
-do 	CPI 	1.0
-become 	CPI 	1.0
+take 	CPI 	1.0
+steal 	CPI 	1.0
 
 
 asked 	QV 	1.0
@@ -31,6 +31,9 @@ wanted 	TV 	1.0
 
 was 	WAS 	1.0
 been 	BEN 	1.0
+
+ran 	WV 	1.0
+sat 	WV 	1.0
 
 
 who 	WPV	1.0
