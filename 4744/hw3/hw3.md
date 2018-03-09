@@ -77,6 +77,8 @@ p1.start
 S       1.0
 ```
 
+![Sentence Parse Tree](https://github.com/ey92/notes/blob/master/4744/hw3/p1sentparsetree.png)
+
 #### Part D
 ```
 people [who need people]* [who people need]* need people [who need people]* [who people need]*
@@ -92,6 +94,9 @@ No, it isn't licensed by my grammar, and no, it is intuitively possible.
     - `[people who [monkeys] need] people`
     - `[monkeys] people`
 - the sentence is missing a verb
+
+![Sentence Parse Tree](https://github.com/ey92/notes/blob/master/4744/hw3/p1esentparsetree.png)
+
 
 #### Part F
 (optional)
@@ -175,6 +180,8 @@ p2.gram
 ```
 - since we are required to use Chomsky Normal Form with binary branching production rules, I separated "discussed"(VBD) from MDB predicates and just duplicated every MDB predicate rule, replacing with VBD.
     - for example `BP BES' MDB` and `BP BES' VBD`
+
+![Sentence Parse Tree](https://github.com/ey92/notes/blob/master/4744/hw3/p2sentparsetree.png)
 
 ---
 

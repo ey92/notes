@@ -841,6 +841,52 @@ Demotic
 - collapsing pyramid at Meidum, edge of Faiyum
 - pyramid finished by Sneferu
 - first to write name in cartouche rather than serekh
+- officials left decorated mastaba tombs at Meidum
+    - rigid life-sized statues
+    - elite emulation of royal funerary practices, bureaucrats buying into system of divine kingship
+    - critical mass of noble class supporting kingship
+- official positions passed down through families
+
+## Dynasty 4
+- Sneferu     2613-2589
+- Khufu       2589-2566
+- Djedefra    2566-2558
+- Khafra      2558-2532
+- Menkaura    2532-2503
+- Shepseskaf  2503-2498
+- Sneferu perfects pyramid form
+- changing cultic practice (rise of Ra) in names and architecture
+
+## Sneferu
+- credited with 3 pyramids -  greatest king by pyramid mass
+- transition from stepped to smooth pyramid
+- finished Huni's pyramid at Meidum
+- bent pyramid
+    - stele shows 4 of Sneferu's 5 great names between horus and palace facade
+    - dual crown etching
+- red pyramid
+- pyramids cased in white limestone
+- later pharaohs may have stolen limestone for their own projects
+- Djoser pyramid was N/S -> solar axis, eastern chapel
+- tomb chambers inside or at base of pyramid
+    - need to relieve stress of ceiling to protect burial chamber
+    - corbelled (stepped) ceiling
+- son Nefer-Ma'at at mastaba by Meidum pyramid of Sneferu
+    - earliest painted masterpiece
+    - naturalism/ attention to natural detail of water foul, in contrast with rigid human forms
+    - Mariette questioned legitimacy, Italian amateur archaeologist/artist took paintings off walls to be preserved in museum
+        - couldn't see paintings when still on wall
+        - conspiracy theories for doubters
+
+## the 5 great names
+- used by end of Old Kingdom
+- all titles refer to divinity and unity of two lands
+1. Horus name
+2. Two Ladies name
+3. Golden Horus name
+4. prenomen (throne name) in cartouche
+5. nomen (birth name)
+
 
 ---
 #### quiz up to 2/16 lecture
