@@ -239,61 +239,61 @@ queries: <br>
 S/SBAR complement classes
 
 1. _question_<sup>1</sup> + [WP]<sup>6</sup> +  SBAR <br> _question_<sup>1</sup> + [WRB]<sup>6</sup> + SBAR
-	1. he _questioned_ **who** _could do such a a thing_
-	2. he _asked_ **why** _he deserved this_
-	3. he _inquired_ **where** _the restaurant was_
-	4. he _wondered_ **what** _was in the box_
-	5. he _speculated_ **how** _things worked_
-	6. he _decided_ **when** _the race would happen_
+	1. he _questioned_ **who** could do such a a thing
+	2. he _asked_ **why** he deserved this
+	3. he _inquired_ **where** the restaurant was
+	4. he _wondered_ **what** was in the box
+	5. he _speculated_ **how** things worked
+	6. he _decided_ **when** the race would happen
 
 2. _question_<sup>1</sup> + [whether] + S
-	1. he _questioned_ **whether** _he could do such a a thing_
-	2. he _asked_ **whether** _he deserved this_
-	3. he _inquired_ **whether** _the restaurant would be good_
-	4. he _wondered_ **whether** _the prize was in the box_
-	5. he _speculated_ **whether** _things worked out_
-	6. he _decided_ **whether** _the race would happen_
+	1. he _questioned_ **whether** he could do such a a thing
+	2. he _asked_ **whether** he deserved this
+	3. he _inquired_ **whether** the restaurant would be good
+	4. he _wondered_ **whether** the prize was in the box
+	5. he _speculated_ **whether** things worked out
+	6. he _decided_ **whether** the race would happen
 
 3.  _says_<sup>2</sup> + [that] + S	<br> _says (passive)_<sup>3</sup> + [that] + S	
-	1. he _said_ **that** _he could do such a a thing_
-	2. he _stated_ **that** _he deserved this_
-	3. he _declared_ **that** _the restaurant would be good_
-	4. he _claimed_ **that** _the prize was in the box_
-	5. he _announced_ **that** _things worked out_
-	6. he _believed_ **that** _the race would happen_
-	7. he _acknowledged_ **that** _it was possible to finish early_
-	8. he _revealed_ **that** _he had lived there before_
-	9. he _answered_ **that** _he had chosen the location for its weather_
-	10. he _responded_ **that** _snow days rarely happen_
-	11. he _replied_ **that** _it was the only choice_
-	12. he _read_ **that** _it was happiest place in the world_
-	13. he _conveyed_ **that** _he preferred to live frugally_
-	14. he _asserted_ **that** _the bot would respond to all messages_
+	1. he _said_ **that** he could do such a a thing
+	2. he _stated_ **that** he deserved this
+	3. he _declared_ **that** the restaurant would be good
+	4. he _claimed_ **that** the prize was in the box
+	5. he _announced_ **that** things worked out
+	6. he _believed_ **that** the race would happen
+	7. he _acknowledged_ **that** it was possible to finish early
+	8. he _revealed_ **that** he had lived there before
+	9. he _answered_ **that** he had chosen the location for its weather
+	10. he _responded_ **that** snow days rarely happen
+	11. he _replied_ **that** it was the only choice
+	12. he _read_ **that** it was happiest place in the world
+	13. he _conveyed_ **that** he preferred to live frugally
+	14. he _asserted_ **that** the bot would respond to all messages
 
 4. _order_<sup>3</sup> + [direct object] + [objective infinitive] (VP SBAR)
-	1. he _ordered_ the army **to pitch** camp at the base of the mountain_
+	1. he _ordered_ the army **to pitch** camp at the base of the mountain
 	2. he _told_ the dog **to sit**
 	3. he _persuaded_ her **to come** home
 
 5. _try_<sup>4</sup> + [complementary infinitive] (VP SBAR)
-	1. he _said_ **to do** _such a a thing_
-	2. he _claimed_ **to have put** _the prize in the box_
-	3. he _read_ **to learn** _where happiest place in the world was_
-	4. he _tried_ **to answer** _as many questions as possible_
-	5. he _attempted_ **to climb** _higher than last time_
-	6. he _endeavored_ **to complete** _the fastest runtime_
-	7. he _aimed_ **to surpass** _his teacher_
-	8. he _aspired_ **to become** _the best_
+	1. he _said_ **to do** such a a thing
+	2. he _claimed_ **to have put** the prize in the box
+	3. he _read_ **to learn** where happiest place in the world was
+	4. he _tried_ **to answer** as many questions as possible
+	5. he _attempted_ **to climb** higher than last time
+	6. he _endeavored_ **to complete** the fastest runtime
+	7. he _aimed_ **to surpass** his teacher
+	8. he _aspired_ **to become** the best
 	
 6. [subject] is _says_<sup>2</sup> + [to have] + (VP SBAR)
-	1. he is _said_ **to have** _done such a a thing_
-	2. he is _stated_ **to have** _deserved this_
-	3. he is _declared_ **to have** _been good_
-	4. he is _claimed_ **to have** _placed the prize in the box_
-	5. he is _announced_ **to have** _worked things out_
-	6. he is _believed_ **to have** _planned the race_
-	7. he is _acknowledged_ **to have** _finish early_
-	8. he is _revealed_ **to have** _lived there before_
+	1. he is _said_ **to have** done such a a thing
+	2. he is _stated_ **to have** deserved this
+	3. he is _declared_ **to have** been good
+	4. he is _claimed_ **to have** placed the prize in the box
+	5. he is _announced_ **to have** worked things out
+	6. he is _believed_ **to have** planned the race
+	7. he is _acknowledged_ **to have** finish early
+	8. he is _revealed_ **to have** lived there before
 
 
 <sub>
@@ -302,7 +302,7 @@ S/SBAR complement classes
 
 <sup>2</sup> **says verbs**:        said, stated, declared, claimed, announced, believed, acknowledged, revealed, 
 
-<sup>3</sup> **says passive verbs**:answered, responded, replied, read, conveyed, asserted
+<sup>3</sup> **says passive verbs**: answered, responded, replied, read, conveyed, asserted
 
 <sup>4</sup> **order verbs**:       told, persuaded, ordered
 
