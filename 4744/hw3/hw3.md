@@ -530,6 +530,7 @@ he was happy
 ![Sentence Parse](https://github.com/ey92/notes/blob/master/4744/hw3/p3sentparse.png)
 
 
+
 ---
 
 ### P4
