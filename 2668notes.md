@@ -861,22 +861,32 @@ Demotic
 - credited with 3 pyramids -  greatest king by pyramid mass
 - transition from stepped to smooth pyramid
 - finished Huni's pyramid at Meidum
-- bent pyramid
-    - stele shows 4 of Sneferu's 5 great names between horus and palace facade
-    - dual crown etching
-- red pyramid
-- pyramids cased in white limestone
-- later pharaohs may have stolen limestone for their own projects
-- Djoser pyramid was N/S -> solar axis, eastern chapel
-- tomb chambers inside or at base of pyramid
-    - need to relieve stress of ceiling to protect burial chamber
-    - corbelled (stepped) ceiling
 - son Nefer-Ma'at at mastaba by Meidum pyramid of Sneferu
     - earliest painted masterpiece
     - naturalism/ attention to natural detail of water foul, in contrast with rigid human forms
     - Mariette questioned legitimacy, Italian amateur archaeologist/artist took paintings off walls to be preserved in museum
         - couldn't see paintings when still on wall
         - conspiracy theories for doubters
+- bent pyramid
+    - stele shows 4 of Sneferu's 5 great names between horus and palace facade
+    - dual crown etching
+    - 52 degree slope to 43 degree slope
+    - smaller "satellite" pyramid for wife
+    - entrance down to valley temple near Nile
+    - 2 burial chambers
+        - 1st from North (probably robbed or discovered), view towards circumpolar stars
+        - 2nd from west, view towards west
+        - portcullis blocking systems
+- red pyramid
+- pyramids cased in white limestone
+- later pharaohs may have stolen limestone for their own projects
+- Djoser pyramid was N/S -> solar axis, eastern chapel
+- tomb chambers now inside or at base of pyramid instead of underground
+    - need to relieve stress of ceiling to protect burial chamber
+    - corbelled (stepped) ceiling
+- Queen Hetepheres, mother of Khufu, buried in extremely deep unmarked shaft
+    - first canopic container
+
 
 ## the 5 great names
 - used by end of Old Kingdom

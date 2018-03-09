@@ -45,7 +45,7 @@ people who people need need people who need people
 people who people need need people who people need
 people need people who need people who people need
 ```
-- I left in the bad sentence (from piazza discussion), so the sentence marked with a '#' should fail
+- I removed the bad sentence (from piazza discussion), so the sentence marked with a '#' is no longer in the test cases
 
 #### Part C
 p1.lex
@@ -77,7 +77,9 @@ p1.start
 S       1.0
 ```
 
-![Sentence Parse Tree](https://github.com/ey92/notes/blob/master/4744/hw3/p1sentparsetree.png)
+![Sentence Parse Tree](https://github.com/ey92/notes/blob/master/4744/hw3/1.1tree.png)
+![Sentence Parse Tree](https://github.com/ey92/notes/blob/master/4744/hw3/1.2tree.png)
+![Sentence Parse Tree](https://github.com/ey92/notes/blob/master/4744/hw3/1.3tree.png)
 
 #### Part D
 ```
@@ -181,7 +183,9 @@ p2.gram
 - since we are required to use Chomsky Normal Form with binary branching production rules, I separated "discussed"(VBD) from MDB predicates and just duplicated every MDB predicate rule, replacing with VBD.
     - for example `BP BES' MDB` and `BP BES' VBD`
 
-![Sentence Parse Tree](https://github.com/ey92/notes/blob/master/4744/hw3/p2sentparsetree.png)
+![Sentence Parse Tree](https://github.com/ey92/notes/blob/master/4744/hw3/2.1tree.png)
+![Sentence Parse Tree](https://github.com/ey92/notes/blob/master/4744/hw3/2.2tree.png)
+![Sentence Parse Tree](https://github.com/ey92/notes/blob/master/4744/hw3/2.3tree.png)
 
 ---
 
@@ -741,3 +745,5 @@ p5.gram
 
 #### Part C
 ??? what to write
+- describe how lexical properties of the roots are
+- Include a snapshot of three trees for a root of each class.
