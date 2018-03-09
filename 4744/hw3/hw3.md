@@ -7,8 +7,8 @@ CS 4744 HW3
 | problem | filename(s) |
 | ------- | ----------- | 
 | #1 | p1-bad.sent p1-good.sent <br> p1.lex p1.gram p1.start    p1.oc   p1.OC |
-| #2 | p2.bad <br> p2.good <br> p2.lex    p2.gram p2.start    p2.oc   p2.OC |
-| #3 | p3.good <br> p3.lex   p3.gram p3.start    p3.oc   p3.OC |
+| #2 | p2.bad p2.good <br> p2.lex   p2.gram p2.start    p2.oc   p2.OC |
+| #3 | p3.bad p3.good <br> p3.lex   p3.gram p3.start    p3.oc   p3.OC |
 | #4 | p4a.bad p4b.bad p4c.bad p4d.bad <br> p4a.good p4b.good p4c.good p4d.good <br> p4a.lex p4a.gram    p4a.start   p4a.oc  p4a.OC <br> p4b.lex p4b.gram    p4b.start   p4b.oc  p4b.OC <br> p4c.lex p4c.gram    p4c.start   p4c.oc  p4c.OC <br> p4d.lex p4d.gram    p4d.start   p4d.oc  p4d.OC |
 | #5 | p5.lex   p5.gram p5.start    p5.oc   p5.OC |
 
@@ -312,7 +312,7 @@ S/SBAR complement classes
 
 <sup>5</sup> **try verbs**:         tried, attempted, endeavored, aimed, aspired, wanted
 
-<sup>6</sup> **WRB who-adverb/WP wh-pronoun**: who, what, when, where, why
+<sup>6</sup> **WRB wh-adverb/WP wh-pronoun**: who, what, when, where, why
 
 </sub>
 
@@ -321,7 +321,172 @@ S/SBAR complement classes
 CNF grammar
 
 For this part, I only used a few verbs per category and reconstructed simple versions of sentences, but combined many of the constructions #1-6 from Part B via recursion to test.
+p3.lex
+```
+restaurant 	NN 	1.0 	// nouns used for subjects or objects
+box 	NN 	1.0
+place 	NN 	1.0
+bot 	NN 	1.0
+dog 	NN 	1.0
+cat 	NN 	1.0
+it 		IT	1.0
 
+sit 	OBI 	1.0 	// objective infinitives
+send 	OBI 	1.0
+
+take 	CPI 	1.0 	// complementary infinitives
+steal 	CPI 	1.0
+
+
+asked 		QV 	1.0 	// question verbs
+wondered 	QV 	1.0
+
+said 		SV 	1.0 	// say verbs
+believed 	SV 	1.0
+declared 	SV 	1.0
+
+asserted 	SPV	1.0 	// say passive verbs
+thought 	SPV	1.0
+
+told 	OV 	1.0 		// order verbs
+ordered	OV 	1.0
+
+tried 	TV 	1.0 		// try verbs
+wanted 	TV 	1.0
+
+was 	WAS	1.0
+been 	BEN	1.0
+
+ran 	WV 	1.0 		// normal verb for creating normal sentence
+sat 	WV 	1.0
+
+
+who 	WPV	1.0 		// wh-pronoun leading to verb predicates (SBARV)
+what 	WPV	1.0
+which 	WPV	1.0
+when 	WPN	1.0 		// wh-adverb leading to sentence recursion 
+where 	WPN	1.0
+why 	WPN	1.0
+
+in 		P 	1.0 		// prepositions
+before	P 	1.0
+out 	P 	1.0
+into 	P 	1.0
+about 	P 	1.0
+
+to 		TO 	1.0
+is 		IS 	1.0
+be 		BE 	1.0
+have 	HV 	1.0
+
+he 		SUB	1.0
+
+a 		DET	1.0
+the 	DET	1.0
+
+whether	WHE	1.0
+that 	THT	1.0
+
+happy 	ADJ	1.0
+```
+
+p3.gram
+```
+1.0 	PP P' NP 		// create prepositional phrase
+
+1.0 	NP DET' NN 		// the noun
+1.0 	NP DET ADJ' NP 	// the adjective noun
+
+1.0 	SUB NP'			// nouns can be subjects in addition to he/it
+
+1.0 	DO NP'  		// construct direct objects from nouns
+1.0 	DO IT' 			// it is a DO
+1.0 	DO NP'
+1.0 	DO NP' PP 		// append prepositional phrase to DO
+
+1.0 	THV TO' HV 		// to have
+1.0 	TBE TO' BE 		// to be
+
+1.0 	OI TO' OBI 		// objective infinitive "to sit"
+1.0 	CI TO' CPI 		// complementary infinitive "to take"
+
+// to be predicates
+1.0 	BEP TBE' ADJ 	// to be adj
+1.0 	BEP TBE' DO 	// to be NP (+PP)
+1.0 	HVP THV' BEN ADJ 	// to have been adj
+
+1.0 	SBARV WV' NP 	// SBARV is Verb Predicate of sentence
+1.0 	SBARV WV' PP 	// (replace "S SUB" in all S productions with "SBARV")
+1.0 	SBARV QVP'
+1.0 	SBARV SVP'
+1.0 	SBARV SPVP'
+1.0 	SBARV OVP'
+1.0 	SBARV TVP'
+
+1.0 	SBARV IS' SV HVP
+1.0 	SBARV IS' SV BEP
+1.0 	SBARV IS' SV SBARV
+
+1.0 	SBARV WAS'
+1.0 	SBARV WAS' ADJ
+1.0 	SBARV WAS' NP
+1.0 	SBARV QV' NP
+1.0 	SBARV SV' NP
+1.0 	SBARV SPV' NP
+1.0 	SBARV OV' NP
+1.0 	SBARV TV' NP
+
+// class #1 from Part B
+1.0 	QVP QV' WPV SBARV 	// questionverb who/what/which verb predicate
+1.0 	QVP QV' WPN WAS DO 	// questionverb when/where/why was NP (+PP)
+1.0 	QVP QV' WPN S 		// questionverb when/where/why + S (recurse)
+
+// class #2 from Part B
+1.0 	QVP QV' WHE S 		// questionverb whether + S (recurse)
+
+// class #3 from Part B
+1.0 	SVP SV' THT S 		// sayverb that + S (recurse)
+1.0 	SVP SV' S 			// "that" unnecessary
+1.0 	SPVP  SPV' THT S 	// sayverbpassive that + S (recurse)
+1.0 	SPVP  SPV' S 		// "that" unnecessary
+
+// class #4 from Part B
+1.0 	OVP OV' NP OI DO 	// orderverb + DO (being ordered) + obj inf + DO of inf
+1.0 	OVP OV' NP OI 		// orderverb + DO (being ordered) + obj inf
+1.0 	OVP OV' DO BEP 		// orderverb + DO (being ordered) + tobe predicate
+
+// class #5 from Part B
+1.0 	TVP TV' TBE NP 		// tryverb + tobe a noun
+1.0 	TVP TV' BEP 		// tryverb + tobe predicate
+1.0 	TVP TV' CI DO 		// tryverb + compl inf + DO of inf
+1.0 	TVP TV' OI PP 		// tryverb + obj inf + PP
+1.0 	TVP TV' TO SBARV 	// tryverb + to SBAR beginning with verb (recurse)
+1.0 	TVP TV' THV NP 		// tryverb + to have something
+
+
+1.0 	S SUB' WV NP  		// normal verb with NP DO
+1.0 	S SUB' WV PP 		// normal verb with PP
+1.0 	S SUB' QVP 			// applying classes from Part B
+1.0 	S SUB' SVP 			// "
+1.0 	S SUB' SPVP 		// "
+1.0 	S SUB' OVP 			// "
+1.0 	S SUB' TVP 			// "
+
+// class #6 from Part B
+1.0 	S SUB' IS SV HVP 	// subj is said to have been ___
+1.0 	S SUB' IS SV BEP 	// subj is said to be ___
+1.0 	S SUB' IS SV SBARV 	// subj is said to SBAR beginning with verb (recurse)
+
+// basic sentences
+1.0 	S SUB' WAS 			// subj was
+1.0 	S SUB' WAS ADJ 		// subj was adj
+1.0 	S SUB' WAS NP 		// subj was NP
+1.0 	S SUB' QV NP 		// subj verbed NP
+1.0 	S SUB' SV NP 		// "
+1.0 	S SUB' SPV NP 		// "
+1.0 	S SUB' OV NP 		// "
+1.0 	S SUB' TV NP 		// "
+```
 ---
 
 ### P4

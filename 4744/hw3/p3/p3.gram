@@ -1,7 +1,7 @@
 1.0 	PP P' NP
 
 1.0 	NP DET' NN
-1.0 	NP ADJ' NP
+1.0 	NP DET ADJ' NP
 
 1.0 	SUB NP'
 
