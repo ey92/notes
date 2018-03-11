@@ -672,7 +672,13 @@ Once I got enough phrases, I picked the ones I believed to be common enough and 
 ---
 ##### for
 `cwb-scan-corpus NYT200x ?pos+0="/VB/" word+0 ?word+1="/for/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less` <br>
+![VB+for+NN 200x query](https://github.com/ey92/notes/blob/master/4744/hw3/VBforNN.png) <br>
+`cwb-scan-corpus NYT200x ?word+0="/test/" word+0 ?word+1="/for/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less` <br>
 ![test+for+NN 200x query](https://github.com/ey92/notes/blob/master/4744/hw3/testforNN.png) <br>
+`cwb-scan-corpus NYT200x ?word+0="/drug/" word+0 ?word+1="/test/" word+1 | uniq -c | sort -nr | less` <br>
+![drug+test 200x query](https://github.com/ey92/notes/blob/master/4744/hw3/drugtest.png) <br>
+`cwb-scan-corpus NYT200x ?word+0="/drug/" word+0 ?word+1="/tested/" word+1 | uniq -c | sort -nr | less` <br>
+![drug+tested 200x query](https://github.com/ey92/notes/blob/master/4744/hw3/drugtested.png) <br>
 
 | | report | test | push | scan | check |
 | - | - | - | - | - | - |
