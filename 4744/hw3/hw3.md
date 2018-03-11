@@ -86,7 +86,7 @@ people [who people]^{n} [need]^{n} need people [ who people need]*
 ```
 
 #### Part E
-No, it isn't licensed by my grammar, and no, it is intuitively possible.
+No, it isn't licensed by my grammar, and no, it isn't intuitively possible.
 - with square brackets grouping valid noun phrases: <br> `[people who [people who [people who people need] need] need] people`
 - it is intuitively easy to understand the meaning in the smallest set of square brackets <br> `people who people need` <br> as a noun phrase
 - replace that smallest noun phrase with another noun to continue simplifying: <br> `[people who [people who [monkeys] need] need] people`
@@ -249,7 +249,7 @@ the two results in table form:
 
 #### Part B
 S/SBAR complement classes
-- I mostly came up with example sentences using the verbs found in Part A and similar words and tried to generalize some patterns from them.
+- I mostly came up with example sentences using the verbs from and similar to those found in Part A and tried to generalize some patterns from them.
 
 1. _question_<sup>1</sup> + [WP]<sup>6</sup> +  SBAR <br> _question_<sup>1</sup> + [WRB]<sup>6</sup> + SBAR
     1. he _questioned_ **who** could do such a thing
@@ -627,15 +627,24 @@ print random-words
 I found the 3rd form [R p X] to be the hardest to come up with, so I queried the NYT2006 corpus with that, with the format of VB+IN+NN: <br>
 `cwb-scan-corpus NYT2006 ?word+0="/rush/" word+0 ?pos+1="/IN/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less` <br>
 ![rush+IN+NN query](https://github.com/ey92/notes/blob/master/4744/hw3/rushofNN.png) <br>
-This gave me a list of prepositions to work with, so I replaced the initial verb with _pos_ as VB or VBD and replaced the preposition IN with some of the ones that I found in the query. Eventually, I ran these queries on NYT200x to get as much coverage as possible. <br>
-![VB+of+NN 200x query](https://github.com/ey92/notes/blob/master/4744/hw3/VBofNN200x.png) <br>
+This gave me a list of prepositions to work with, so I replaced the initial verb with _part of speech (pos)_ as VB or VBD and replaced the _part of speech (pos)_ IN with some of the ones that I found in the query. Eventually, I ran these queries on NYT200x to get as much coverage as possible. <br>
 
 Somehow all 45 verb-preposition pairs formed nominal complements. A few also formed verbal complements, but I chose to use their nominal complements since they were more popular in the corpora.
 
 ---
 ##### of
 `cwb-scan-corpus NYT200x ?pos+0="/VB/" word+0 ?word+1="/of/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less` <br>
+![VB+of+NN 200x query](https://github.com/ey92/notes/blob/master/4744/hw3/VBofNN200x.png) <br>
+From here, I pick an [R p X] phrase that I feel could be used commonly enough.
+`cwb-scan-corpus NYT2006 ?word+0="/rush/" word+0 ?word+1="/of/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less` <br>
 ![rush+of+NN 200x query](https://github.com/ey92/notes/blob/master/4744/hw3/rushofNN.png) <br>
+Once I got enough phrases, I picked the ones I believed to be common enough and just searched for the other two required forms manually. <br>
+`cwb-scan-corpus NYT2006 ?word+0="/oil/" word+0 ?word+1="/rush/" word+1 | uniq -c | sort -nr | less` <br>
+![rush+of+NN 200x query](https://github.com/ey92/notes/blob/master/4744/hw3/oilrush.png) <br>
+`cwb-scan-corpus NYT2006 ?word+0="/oil/" word+0 ?word+1="/rushed/" word+1 | uniq -c | sort -nr | less` <br>
+![rush+of+NN 200x query](https://github.com/ey92/notes/blob/master/4744/hw3/oilrushed.png) <br>
+
+
 
 | | rush | smoke | taste | layer | change |
 | - | - | - | - | - | - |
@@ -645,7 +654,7 @@ Somehow all 45 verb-preposition pairs formed nominal complements. A few also for
 
 ---
 ##### with
-`cwb-scan-corpus NYT200x ?pos+0="/milk/" word+0 ?word+1="/with/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less` <br>
+`cwb-scan-corpus NYT200x ?pos+0="/mix/" word+0 ?word+1="/with/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less` <br>
 ![mix+with+NN 200x query](https://github.com/ey92/notes/blob/master/4744/hw3/mixwithNN.png) <br>
 
 | | mix | cover | talk | work | visit |
@@ -743,6 +752,10 @@ p5.gram
         - e.g. [the] oil rushed
     - some of the verbs paired with "with" and "for" sounded strange when used in the active voice, so I prepended "there was" to turn them into the passive voice. This also applied to the "of" verbs, so I just used this one rule to simplify the grammar.
 
+#### Part C
+??? what to write
+- describe how lexical properties of the roots are
+
 ![p5 tree](https://github.com/ey92/notes/blob/master/4744/hw3/5.1tree.png) 
 ![p5 tree](https://github.com/ey92/notes/blob/master/4744/hw3/5.2tree.png) 
 ![p5 tree](https://github.com/ey92/notes/blob/master/4744/hw3/5.3tree.png) <br>
@@ -752,8 +765,3 @@ p5.gram
 ![p5 tree](https://github.com/ey92/notes/blob/master/4744/hw3/5.7tree.png) 
 ![p5 tree](https://github.com/ey92/notes/blob/master/4744/hw3/5.8tree.png) 
 ![p5 tree](https://github.com/ey92/notes/blob/master/4744/hw3/5.9tree.png)
-
-#### Part C
-??? what to write
-- describe how lexical properties of the roots are
-- Include a snapshot of three trees for a root of each class.
