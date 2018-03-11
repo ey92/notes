@@ -640,9 +640,9 @@ From here, I pick an [R p X] phrase that I feel could be used commonly enough.
 ![rush+of+NN 200x query](https://github.com/ey92/notes/blob/master/4744/hw3/rushofNN.png) <br>
 Once I got enough phrases, I picked the ones I believed to be common enough and just searched for the other two required forms manually. <br>
 `cwb-scan-corpus NYT2006 ?word+0="/oil/" word+0 ?word+1="/rush/" word+1 | uniq -c | sort -nr | less` <br>
-![rush+of+NN 200x query](https://github.com/ey92/notes/blob/master/4744/hw3/oilrush.png) <br>
+![oil+rush 200x query](https://github.com/ey92/notes/blob/master/4744/hw3/oilrush.png) <br>
 `cwb-scan-corpus NYT2006 ?word+0="/oil/" word+0 ?word+1="/rushed/" word+1 | uniq -c | sort -nr | less` <br>
-![rush+of+NN 200x query](https://github.com/ey92/notes/blob/master/4744/hw3/oilrushed.png) <br>
+![oil+rushed 200x query](https://github.com/ey92/notes/blob/master/4744/hw3/oilrushed.png) <br>
 
 
 
@@ -654,8 +654,14 @@ Once I got enough phrases, I picked the ones I believed to be common enough and 
 
 ---
 ##### with
-`cwb-scan-corpus NYT200x ?pos+0="/mix/" word+0 ?word+1="/with/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less` <br>
+`cwb-scan-corpus NYT200x ?pos+0="/VB/" word+0 ?word+1="/with/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less` <br>
+![VB+with+NN 200x query](https://github.com/ey92/notes/blob/master/4744/hw3/VBwithNN.png) <br>
+`cwb-scan-corpus NYT200x ?word+0="/mix/" word+0 ?word+1="/with/" word+1 ?pos+2="/NN/" word+2 | uniq -c | sort -nr | less` <br>
 ![mix+with+NN 200x query](https://github.com/ey92/notes/blob/master/4744/hw3/mixwithNN.png) <br>
+`cwb-scan-corpus NYT200x ?word+0="/milk/" word+0 ?word+1="/mix/" word+1 | uniq -c | sort -nr | less` <br>
+![milk+mix 200x query](https://github.com/ey92/notes/blob/master/4744/hw3/milkmix.png) <br>
+`cwb-scan-corpus NYT200x ?word+0="/milk/" word+0 ?word+1="/mixed/" word+1 | uniq -c | sort -nr | less` <br>
+![milk+mixed 200x query](https://github.com/ey92/notes/blob/master/4744/hw3/milkmixed.png) <br>
 
 | | mix | cover | talk | work | visit |
 | - | - | - | - | - | - |
