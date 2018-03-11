@@ -43,7 +43,7 @@ people who people need need people who need people
 people who people need need people who people need
 people need people who need people who people need
 ```
-- I removed the bad sentence (from piazza discussion), so the sentence marked with a '#' is no longer in the test cases
+- I removed the bad sentence (from Piazza discussion), so the sentence marked with a '#' is no longer in the test cases
 
 #### Part C
 p1.lex
