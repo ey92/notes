@@ -2,8 +2,8 @@ Elizabeth Yam ey92 <br>
 CS 4744 HW3
 
 ## Files
-| problem | filename(s) |
-| ------- | ----------- | 
+| problem | filenames |
+| ------- | --------- | 
 | #1 | p1-bad.sent p1-good.sent <br> p1.lex p1.gram p1.start    p1.oc   p1.OC |
 | #2 | p2.bad p2.good <br> p2.lex   p2.gram p2.start    p2.oc   p2.OC |
 | #3 | p3.bad p3.good <br> p3.lex   p3.gram p3.start    p3.oc   p3.OC |
