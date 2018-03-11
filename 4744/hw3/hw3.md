@@ -1,4 +1,4 @@
-Elizabeth Yam ey92
+Elizabeth Yam ey92 <br>
 CS 4744 HW3
 
 ## Files
@@ -724,9 +724,9 @@ scan    VFO 1.0
 check   VFO 1.0
 
 
-of  POF 1.0
+of      POF 1.0
 with    PWI 1.0
-for PFO 1.0
+for     PFO 1.0
 
 -ed     ED  1.0
 the     DT  1.0
@@ -765,8 +765,7 @@ p5.gram
     - some of the verbs paired with "with" and "for" sounded strange when used in the active voice, so I prepended "there was" to turn them into the passive voice. This also applied to the "of" verbs, so I just used this one rule to simplify the grammar.
 
 #### Part C
-??? what to write
-- describe how lexical properties of the roots are
+To help simplify the grammar for this problem, I made sure none of the verbs were paired with multiple prepositions.  This way, I didn't have to worry about whether or not the verb agreed with the preposition - instead, the verbs were classified into 3 groups, depending on which preposition they were paired with in the example.  Each preposition was also given its own tag. From there, I realized that the [X R Tns] phrase could be used as a predicate, only missing a noun phrase to be the subject of the verb.  The other two forms, [X R]  and [R p X], could be treated as noun phrases when a determiner was prepended. Afterwards, I just needed a simple predicate to turn them into sentences, so I just added "was good" to complete it. The remaining word components were just labeled as they would be in a normal lexicon (NN for noun, JJ for adjective, DT for determiner).
 
 ![p5 tree](https://github.com/ey92/notes/blob/master/4744/hw3/5.1tree.png) 
 ![p5 tree](https://github.com/ey92/notes/blob/master/4744/hw3/5.2tree.png) 
