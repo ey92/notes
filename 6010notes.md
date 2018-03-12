@@ -713,6 +713,8 @@ Interactive Data Page
 - text links (hyperlinks) to text, images, A/V, programs, links to other pages
 - video on demand
 - YouTube, Esquire, Amazon
+- big data with video
+	- index video segments to make them searchable, SPORTVU
 
 ---
 ### A0 CTB

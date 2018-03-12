@@ -929,7 +929,7 @@ Sneferu's successors chose and ambitious plateau to build future pyramids
 ## Earliest Didactic Literature (composed D5-6, some set in D4)
 Instruction of Hardjedef, from D5
 - prince giving advice for long term thinking (for sons and afterlife)
-- "Make worthy your station in the West" 
+    - "Make worthy your station in the West" 
 - tomb is extremely important: permanent status & home for individual and family
 - take care of the funerary priest
 
@@ -940,9 +940,9 @@ Instruction to Kagemni, set in D3-4 transition
 - moderation, modesty
 - manners (esp at the table)
 - malleability - listen well and obedient
-- "he who is blameless in matters of food, no word can prevail against him"
-- "let your name go forth while your mouth is silent"
-- "don't boast of strength, lest you be opposed"
+    - "he who is blameless in matters of food, no word can prevail against him"
+    - "let your name go forth while your mouth is silent"
+    - "don't boast of strength, lest you be opposed"
 - teachings from a father to a son
 
 Instruction of Ptahhotep ('classic'), from D5-6
@@ -952,16 +952,16 @@ Instruction of Ptahhotep ('classic'), from D5-6
 - many copies of text found
 - 37 maxims, with prologue and epilogue
 - on moderation, restraint, generosity, justice, honesty
-- instill "excellent discourse"
-- "no one is born wise" - undermine dynastic or elite claims?
-- "good speech is more hidden than greenstone [copper ore], but it can be found among maids at the grindstone"
-- #17 "a good hearing soothes the heart"
-- #18 "be aware of approaching the women" reveals patriarchy
-- #21 "she's a fertile field for her lord"
-- #26 "don't oppose a great man's action"
-- #28 biased judges create a judgement against themselves (retribution)
-- #29 be inclined to gorgive a just man one misdeed
-- #31 "wretched is he who opposes a superior"
+    - instill "excellent discourse"
+    - "no one is born wise" - undermine dynastic or elite claims?
+    - "good speech is more hidden than greenstone [copper ore], but it can be found among maids at the grindstone"
+    - #17 "a good hearing soothes the heart"
+    - #18 "be aware of approaching the women" reveals patriarchy
+    - #21 "she's a fertile field for her lord"
+    - #26 "don't oppose a great man's action"
+    - #28 biased judges create a judgement against themselves (retribution)
+    - #29 be inclined to gorgive a just man one misdeed
+    - #31 "wretched is he who opposes a superior"
 - subliminal & explicit messages of obedience - "sedjem" listen/obey same word
 
 ---
