@@ -789,14 +789,14 @@ Demotic
     - all Old Kingdom rules descend from her (matrilineality)
     - enormous mastaba, seal has title "mother of king of Upper and Lower Egypt"
 
-## Rulers
+#### Rulers
 - Sanakhte = Nebka 19 yrs
 - Djoser = Netjerikhet 19 yrs
 - Sekhemkhet
 - Khaba
 - Huni
 
-## Djoser-Netjerikhet (divine of body)
+### Djoser-Netjerikhet (divine of body)
 - Imhotep "master of works"/architect
     - deified by Late Period (Greeks), as son of Ptah
     - designed Djoser's funerary complex, ideologically loaded
@@ -821,14 +821,15 @@ Demotic
 - chambers, galleries, storage areas
 - South Tomb chamber, carving of ruler running in Heb-Sed
 - inner burial vault - granite vault, engraved with stars
+- only found a mummified foot
 
-3 key functions of pyramid complex
+3 key functions of pyramid complex*
 - protect the mummy, permanent body
     - where ba (mobile spirit) resides
 - place to sustain pharaoh's Ka - eternal provisioning
 -facilitate pharaoh's placement as Akh among gods to act on Egypt's behalf, maintaining ma'at forever
 
-3 parts of royal spirit
+3 parts of royal spirit*
 - ka - hungry spirit in statue (hungry)
 - akh - live in afterlife (effective)
 - ba - resides in body but can travel around (mobile)
@@ -837,7 +838,7 @@ Demotic
 - pyramid functions in pyramid names
 - references to rising, perfecting, provisioning - help pharaoh do his job
 
-## Huni D3
+### Huni D3
 - collapsing pyramid at Meidum, edge of Faiyum
 - pyramid finished by Sneferu
 - first to write name in cartouche rather than serekh
@@ -857,7 +858,7 @@ Demotic
 - Sneferu perfects pyramid form
 - changing cultic practice (rise of Ra) in names and architecture
 
-## Sneferu
+### Sneferu
 - credited with 3 pyramids -  greatest king by pyramid mass
 - transition from stepped to smooth pyramid
 - finished Huni's pyramid at Meidum
@@ -878,6 +879,8 @@ Demotic
         - 2nd from west, view towards west
         - portcullis blocking systems
 - red pyramid
+    - 43 degree slope, 220m side, 105m height
+    - mortuary temple in the East, where stele and small chapel
 - pyramids cased in white limestone
 - later pharaohs may have stolen limestone for their own projects
 - Djoser pyramid was N/S -> solar axis, eastern chapel
@@ -887,16 +890,79 @@ Demotic
 - Queen Hetepheres, mother of Khufu, buried in extremely deep unmarked shaft
     - first canopic container
 
-
-## the 5 great names
+### the 5 great names
 - used by end of Old Kingdom
 - all titles refer to divinity and unity of two lands
 1. Horus name
 2. Two Ladies name
 3. Golden Horus name
-4. prenomen (throne name) in cartouche
-5. nomen (birth name)
+4. Prenomen (throne name) in cartouche
+5. Nomen (birth name)
 
+Sneferu's successors chose and ambitious plateau to build future pyramids
+- Giza pyramids aligned to face East
+
+### Khufu
+- 23yr reign 2589-2566
+- little known about him other than pyramid
+- Great Pyramid
+- 52 degree slope, 230m side, 146.5m high
+- ~2.3M blocks @ 2.5 tons per block
+- Herodotus: 20 yrs and 100,000 men
+    - 2 teams of 25,000 men in 3 month shifts?
+    - population ~1M total
+    - much later than the pyramids, known for exaggeration
+- Napoleon: enough stone to fortify France
+- found tools in plateau
+- sled(ge) for carrying blocks,
+- lots of work with mallet and chisel, wood wedges
+- saws with abrasive minerals and oils also helpful
+
+
+# Old Kingdom Didactic Literature
+- teachings, instructions, wisdom literature
+- evolved from offering lists, prayers for offerings, autobiographical texts in tombs demonstrating idealized individual
+- perfecting the mind of the citizen by instilling virtue via palace-run schools
+- interest in perfecting mind/personality as well as body
+- ostracon/ostraca - clay pottery shards for practicing
+
+## Earliest Didactic Literature (composed D5-6, some set in D4)
+Instruction of Hardjedef, from D5
+- prince giving advice for long term thinking (for sons and afterlife)
+- "Make worthy your station in the West" 
+- tomb is extremely important: permanent status & home for individual and family
+- take care of the funerary priest
+
+Instruction to Kagemni, set in D3-4 transition
+- mayor D3, vizier D4
+- from Middle Kingdom papyrus "Papyrus Prisse"
+- how to move up in Egyptian bureaucracy
+- moderation, modesty
+- manners (esp at the table)
+- malleability - listen well and obedient
+- "he who is blameless in matters of food, no word can prevail against him"
+- "let your name go forth while your mouth is silent"
+- "don't boast of strength, lest you be opposed"
+- teachings from a father to a son
+
+Instruction of Ptahhotep ('classic'), from D5-6
+- mayor, vizier at end of D5/early D6
+- to son as final parting words
+- copied on Middle Kingdom papyrus
+- many copies of text found
+- 37 maxims, with prologue and epilogue
+- on moderation, restraint, generosity, justice, honesty
+- instill "excellent discourse"
+- "no one is born wise" - undermine dynastic or elite claims?
+- "good speech is more hidden than greenstone [copper ore], but it can be found among maids at the grindstone"
+- #17 "a good hearing soothes the heart"
+- #18 "be aware of approaching the women" reveals patriarchy
+- #21 "she's a fertile field for her lord"
+- #26 "don't oppose a great man's action"
+- #28 biased judges create a judgement against themselves (retribution)
+- #29 be inclined to gorgive a just man one misdeed
+- #31 "wretched is he who opposes a superior"
+- subliminal & explicit messages of obedience - "sedjem" listen/obey same word
 
 ---
 #### quiz up to 2/16 lecture
@@ -904,3 +970,5 @@ up to D0/D1
 orwell quote - propaganda
 egyptomania
 superposition/stratification
+
+#### midterm*
