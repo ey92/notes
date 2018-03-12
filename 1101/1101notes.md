@@ -496,14 +496,14 @@ _lexical ambiguity_ arises when two word sound alike (homophony)
 - nouns are contained in noun phrases
 - principle of projection
 
-- constituents:
-- phrases, build clauses, build sentences
+- constituents: phrase elements
+	- smaller phrases, build clauses, build sentences
 
-- identify phrases:
-	- they can behave as a single unit
-	- can substitute them with something else
-	- can't insert elements in the middle
-	- movement test
+- identify phrases: they can behave as a single unit
+	- can substitute them with something else (e.g. pronouns)
+	- intervention test/separability: can't insert elements in the middle
+	- movement test, clefts/topic-fronting
+	- meaning: deletion test/sentence fragment tests
 
 - finding complete phrases:
 	- questions
@@ -516,6 +516,25 @@ _lexical ambiguity_ arises when two word sound alike (homophony)
 
 - negated phrase
 - "not" can become part of verb phrase or merely precede it
+
+- _merge_ components to build sentence tree
+	- driven by semantics
+	- things that semantically belong together likely in the same phrase in syntax
+
+- arguments (required by other phrases) vs. adjuncts (optional phrases)
+	- adjuncts attached at higher level in syntactic tree - less related to meaning
+	- arguments tend to be objects
+	- adjectives - adjuncts
+- recursive phrasing -> no maximal length
+
+- auxiliary verb believed to be the head of the sentence (inflection)
+- verb phrase is complement to auxiliary verb to form inflection'
+- combine inflection with noun phrase complement to form inflection phrase = sentence
+
+- every phrase must have head
+- noun phrase - noun; verb phrase - verb
+- no auxiliary verb, but head (inflection) is there
+
 
 ---
 ##### Prelim 1 content
