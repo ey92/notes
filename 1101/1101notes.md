@@ -477,7 +477,7 @@ _lexical ambiguity_ arises when two word sound alike (homophony)
 		- fast is an adverb describing action of creating food, not the food itself
 	- some nouns use singular form to refer to quantities (air, water) "mass nouns"
 
-**phonesthemes**
+### **phonesthemes**
 - a sound that tends to show up in words that have similar meaning
 - e.g. glow, glimmer, glitter
 - used to be a morpheme in English ancestor: "ghel-" - to shine
@@ -496,6 +496,7 @@ _lexical ambiguity_ arises when two word sound alike (homophony)
 - nouns are contained in noun phrases
 - principle of projection
 
+### Phrase Constituents
 - constituents: phrase elements
 	- smaller phrases, build clauses, build sentences
 
@@ -521,12 +522,15 @@ _lexical ambiguity_ arises when two word sound alike (homophony)
 	- driven by semantics
 	- things that semantically belong together likely in the same phrase in syntax
 
-- arguments (required by other phrases) vs. adjuncts (optional phrases)
+### Arguments vs. Adjuncts
+- arguments required by other phrases
+- adjuncts optional phrases
 	- adjuncts attached at higher level in syntactic tree - less related to meaning
 	- arguments tend to be objects
 	- adjectives - adjuncts
 - recursive phrasing -> no maximal length
 
+### Sentence Heads
 - auxiliary verb believed to be the head of the sentence (inflection)
 - verb phrase is complement to auxiliary verb to form inflection'
 - combine inflection with noun phrase complement to form inflection phrase = sentence

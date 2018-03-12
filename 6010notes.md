@@ -702,12 +702,17 @@ Dynamic Data Page
 update ---> db <---run query--- server (flightd.aspx/query) <---request--- browser <--- request
 			    --create page-->							 ---deliver--- 
 
-
 Interactive Data Page
 - necessarily dynamic data page + parametric queries
 	- can't run query until received parameters from user
 - flighti.aspx
 - use forms to collect parameter values from users
+
+## Multimedia
+1. text links
+- text links (hyperlinks) to text, images, A/V, programs, links to other pages
+- video on demand
+- YouTube, Esquire, Amazon
 
 ---
 ### A0 CTB
