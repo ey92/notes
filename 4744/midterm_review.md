@@ -85,10 +85,10 @@ S A B B
 [trees]
 
 ### encoding lexical information
-speak to him
-converse with him
-converse to him
-speak with him
+- speak to him
+- converse with him
+- converse to him
+- speak with him
 
 lex
 ```
