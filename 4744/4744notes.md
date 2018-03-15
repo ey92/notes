@@ -356,6 +356,7 @@ on      P   1.0
     - n->n is < n, n >
 - successor function?
 - definition - identity functional
+    LP.P
 - referents?
 - truths
 
@@ -427,12 +428,65 @@ then
 [N green]       et      {\lambda}x.yeti(x)
 [NP green yeti] et      [[{\lambda}x.green(x)] (z) AND [{\lambda}x.yeti(x)] (z)]
 
+tree shapes -> logical formulas
 
+go back: logical formulas -> tree shapes
+
+resources lecture folder:
+`java -jar ./Lambdap.jar`
+    basic: 3/6
+    quantifiers: 3/13
+    - lambda calculator GUI
+"try running this on the server, but i really don't recommend it"
+
+predicate modification: intersection
+lambda abstraction
 
 
 ---
 prelim 3/20
 prelim review 3/15 (Shohini will be out)
+
+#### Phonology Problem
+surface form
+| D AW G | dog sg |  
+| D AW G Z | dog pl |
+| K AE T | cat sg |
+| K AE T S | cat pl |
+1. underlying morphemes and morpheme sequences
+```
+define NSTEM [dog | cat];
+define NUM [SG | PL];
+define PHRASE  NSTEM "+" NUM;
+```
+2. underlying spelling of each morpheme
+```
+define M [[dog .x. {D AW G}] | [cat .x. {K AE T}] | [PL .x. {S}] | [SG .x. {0}]];
+def MOR [NSTEM "+" NUM] .o. M+;
+```
+3. phonological rules
+```
+def voices S -> Z || [B|D|G] "+" _.#.
+def boundary "+" -> 0;
+# def Phone <phonological rule> .o. voices;
+def Phone voices .o. boundary;
+```
+4. how to compose to give a finite state lexicon
+```
+define EngN MOR .o. Phone;
+> apply up EngN
+> D AW G Z
+dog + PL
+> apply down EngN
+> dog + PL
+D AW G Z
+
+```
+
+#### Parsing and shared forests
+#### fst and CMU
+#### Strategy formating CFG
+#### encoding lexical information
 
 ---
 questions:

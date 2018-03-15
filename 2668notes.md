@@ -809,7 +809,7 @@ Demotic
     - 10m walls, heb-sed court, fake entrances
 - walls and serekh copy palace facade that hasn't survived
 - entrance colonnade - reed-bundle columns translated into stone
-- pyramid as place of transformation and perfection
+- **pyramid as place of transformation and perfection**
 - "perfecting the king"
     - make him perfect
     - make everything permanent
@@ -889,6 +889,7 @@ Demotic
     - corbelled (stepped) ceiling
 - Queen Hetepheres, mother of Khufu, buried in extremely deep unmarked shaft
     - first canopic container
+    - no mummy
 
 ### the 5 great names
 - used by end of Old Kingdom
@@ -906,17 +907,60 @@ Sneferu's successors chose and ambitious plateau to build future pyramids
 - 23yr reign 2589-2566
 - little known about him other than pyramid
 - Great Pyramid
-- 52 degree slope, 230m side, 146.5m high
-- ~2.3M blocks @ 2.5 tons per block
+    - 52 degree slope, 230m side, 146.5m high
+    - ~2.3M blocks @ 2.5 tons per block
+    - 3 empty chambers - 2 inside, 1 underground, no burial goods found
+    - air shafts to king's and queen's chambers, reasons unknown & not tried again
+        - point towards Orion in South and Polar stars in North
+    - multiple boat pits
+        - 43m long Lebanese cedar barge
+        - reassembled by Ahmed Youssef Moustafa
+        - meant to be rowed
+        - probably a funerary barge
+        - sealed well in stone enclosing
 - Herodotus: 20 yrs and 100,000 men
     - 2 teams of 25,000 men in 3 month shifts?
     - population ~1M total
     - much later than the pyramids, known for exaggeration
 - Napoleon: enough stone to fortify France
+
+#### Prince Hemiunu
+- Khufu's vizier & master of works, Ptah headdress
+- son of Sneferu's vizier/Sneferu's grandson
+- a stone mastaba west of Great Pyramid
+- "reserve heads" from private mastabas
+- originally thought to be architect behind Great Pyramid
+
+#### Wadi al-Jarf
+- oldest port in the world on Red Sea
+- transport mined stones and goods
+- world's oldest papyri/oldest hieroglyphics found between stones
+    - "horizon of Khufu" still being built during year 27 (?)
+    - only reigned 24 yrs -> either reigned longer than thought or kept tracking years after Khufu's death
+    - only writing contemporary with construction of Great Pyramid
+- names Ankh-haf as Khufu's & Khafra's overseer/architect
+- Khufu's brother, with huge mastaba east of pyramid
+
+
+## Old Kingdom Construction
 - found tools in plateau
-- sled(ge) for carrying blocks,
+- sled(ge) for carrying blocks
 - lots of work with mallet and chisel, wood wedges
+    - insert dry, shrunken wooden wedge into crack & expand with water
 - saws with abrasive minerals and oils also helpful
+- time and cheap labor
+- motivation: dual kingship title/royal lineage
+- worker's village on Nile bank
+- causeways to Nile, eastern Chapel, satellite pyramids for wives (hyp)
+- royal bakery
+    - large dough vats for bread production
+    - _bedja_ bowls
+    - feed Giza workers
+- ramps or scaffolding
+    - Diodorus Siculus (1st c. bc) first mentions using ramps
+    - not from Herodotus or Egyptians
+    - ramp types advanced by Petrie and Lehner - straight ramp vs spiraled ramp
+
 
 
 # Old Kingdom Didactic Literature
@@ -964,6 +1008,7 @@ Instruction of Ptahhotep ('classic'), from D5-6
     - #31 "wretched is he who opposes a superior"
 - subliminal & explicit messages of obedience - "sedjem" listen/obey same word
 
+
 ---
 #### quiz up to 2/16 lecture
 up to D0/D1
@@ -971,4 +1016,4 @@ orwell quote - propaganda
 egyptomania
 superposition/stratification
 
-#### midterm*
+#### midterm

@@ -799,6 +799,9 @@ Interactive Data Page
 - main applications product design, architecture, gaming, increasingly finance
 - Oculus, Sony
 
+
+missed class 3/14
+
 ---
 ### A0 CTB
 - products: bagel-based meals, fresh desserts, drinks
