@@ -104,3 +104,12 @@ PP+with P+with NP
 ```
 
 ### Parsing and shared forests
+- span grammar
+
+lex
+```
+N'          P
+<VP 7 9>    <VP 7 9> -> <V 7 8> <N 8 9>
+<V 7 8>
+<N 8 9>
+```
