@@ -12,16 +12,3 @@ done
 
 mv ./1101/vocab.md ./1101/1101vocab.md
 mv ./1101/notes.md ./1101/1101notes.md
-
-cp ../4744/hw3/*.txt ./4744/hw3/
-cp ../4744/hw3/*.sent ./4744/hw3/
-cp ../4744/hw3/*.good ./4744/hw3/test/
-cp ../4744/hw3/*.bad ./4744/hw3/test/
-cp ../4744/hw3/p1/*.* ./4744/hw3/p1/
-cp ../4744/hw3/p2/*.* ./4744/hw3/p2/
-cp ../4744/hw3/p3/*.* ./4744/hw3/p3/
-cp ../4744/hw3/p4/*.* ./4744/hw3/p4/
-cp ../4744/hw3/p5/*.* ./4744/hw3/p5/
-cp ../4744/hw3/data/* ./4744/hw3/data/
-
-mv ./4744/hw3/hw3.txt ./4744/hw3/hw3.md
