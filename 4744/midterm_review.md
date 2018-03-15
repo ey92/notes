@@ -84,7 +84,7 @@ S A B B
 
 [trees]
 
-### Parsing and shared forests
+### encoding lexical information
 speak to him
 converse with him
 converse to him
@@ -103,4 +103,4 @@ PP+to P+to VP
 PP+with P+with NP
 ```
 
-### encoding lexical information
+### Parsing and shared forests
