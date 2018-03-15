@@ -54,6 +54,7 @@ sets: Noun, Adjective, Verb
     - N+ positive natural numbers
 
 {a<sup>m</sup>}b<sup>n</sup> | n ε N+, n >= m } string in formal language
+
 p5.lex
 
 ```
