@@ -28,6 +28,7 @@ def Phone voices .o. boundary;
 4. how to compose to give a finite state lexicon
 ```
 define EngN MOR .o. Phone;
+
 foma > apply up EngN
 apply up > D AW G Z
 dog + PL
@@ -49,15 +50,15 @@ sets: Noun, Adjective, Verb
 
 ### Strategy formatting CFG
 - spines that require meddling
-- {a<sup>n</sup>}b<sup>n</sup> | n ε N+ } string in formal language
-	- N+ positive natural numbers
+- {a<sup>n</sup>b<sup>n</sup> | n ε N+ } string in formal language
+    - N+ positive natural numbers
 
 {a<sup>m</sup>}b<sup>n</sup> | n ε N+, n >= m } string in formal language
 p5.lex
 
 ```
-a 	A
-b 	B
+a   A
+b   B
 ```
 
 p5.gram
@@ -90,10 +91,10 @@ speak with him
 
 lex
 ```
-speak 		V+to 	V+with
-converse 	V+with
-with 		P+with
-to 			P+to
+speak       V+to    V+with
+converse    V+with
+with        P+with
+to          P+to
 
 VP V+to PP+to
 VP V+with PP+with
