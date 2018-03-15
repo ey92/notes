@@ -12,3 +12,4 @@ done
 
 mv ./1101/vocab.md ./1101/1101vocab.md
 mv ./1101/notes.md ./1101/1101notes.md
+cp ../4744/midterm_review.md ./4744/midterm_review.md

@@ -83,5 +83,22 @@ S A B B
 [trees]
 
 ### Parsing and shared forests
+speak to him
+converse with him
+converse to him
+speak with him
+
+lex
+```
+speak 		V+to 	V+with
+converse 	V+with
+with 		P+with
+to 			P+to
+
+VP V+to PP+to
+VP V+with PP+with
+PP+to P+to VP
+PP+with P+with NP
+```
 
 ### encoding lexical information
