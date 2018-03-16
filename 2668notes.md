@@ -848,7 +848,7 @@ Demotic
     - critical mass of noble class supporting kingship
 - official positions passed down through families
 
-## Dynasty 4
+## Dynasty 4 "Pyramid Age"
 - Sneferu     2613-2589
 - Khufu       2589-2566
 - Djedefra    2566-2558
@@ -923,6 +923,7 @@ Sneferu's successors chose and ambitious plateau to build future pyramids
     - population ~1M total
     - much later than the pyramids, known for exaggeration
 - Napoleon: enough stone to fortify France
+- son Djedefra, 1st to emphasize role of Ra
 
 #### Prince Hemiunu
 - Khufu's vizier & master of works, Ptah headdress
@@ -941,6 +942,46 @@ Sneferu's successors chose and ambitious plateau to build future pyramids
 - names Ankh-haf as Khufu's & Khafra's overseer/architect
 - Khufu's brother, with huge mastaba east of pyramid
 
+### Khafra, "appearing like Ra"
+- son of Khufu, brother of Djedefra
+- ~26 yrs reign
+- pyramid has preserved limestone cap on top, unlike the other pyramids
+    - looks bigger than Khufu's due to higher slope
+    - 143m tall
+- built Sphinx, temple on E/W axis of pyramid
+    - probably from "shesep-ankh" guardian spirit
+    - guard houses of life
+    - next to Khafra's valley temple
+- one of 23 statues survived
+    - Horus protecting divine king in green diorite, wearing nemes headdress
+    - idealistic and naturalistic, eternal youth
+    - papyrus & lotus on throne
+- red granite pillars, alabaster floor
+
+### Menkaura
+- smaller, 3rd pyramid of Giza
+- 28-29 yrs
+- known for granite-faced pyramid and statues from valley temple honoring Hathor (wife)
+- eastern mortuary temple, 2 entrances, 3 queen's pyramids
+- lack of air shafts in pyramid
+
+### Shepseskaf "noble is his ka"
+- last king of D4
+- no pyramid
+- large mastaba tomb nearly 100m long
+    - wall, mortuary temple, causeway
+- absence of Ra in his name
+    - potential cultic shift
+
+### changing pyramids
+- post-Djoser pyramids
+    - axis changed from N-S to E-W
+    - new division of functions between Eastern mortuary temple and valley temple, with connecting causeway
+    - satellite pyramids for queens inconsistent after D4
+- cultic changes: Ra replacing older manifestations of chief god
+    - sun is becoming more important than stars
+    - priesthood of Ra at Heliopolis becoming influential
+    - can be traced in names of rulers after Khufu
 
 ## Old Kingdom Construction
 - found tools in plateau
@@ -961,16 +1002,14 @@ Sneferu's successors chose and ambitious plateau to build future pyramids
     - not from Herodotus or Egyptians
     - ramp types advanced by Petrie and Lehner - straight ramp vs spiraled ramp
 
-
-
-# Old Kingdom Didactic Literature
+## Old Kingdom Didactic Literature
 - teachings, instructions, wisdom literature
 - evolved from offering lists, prayers for offerings, autobiographical texts in tombs demonstrating idealized individual
 - perfecting the mind of the citizen by instilling virtue via palace-run schools
 - interest in perfecting mind/personality as well as body
 - ostracon/ostraca - clay pottery shards for practicing
 
-## Earliest Didactic Literature (composed D5-6, some set in D4)
+### Earliest Didactic Literature (composed D5-6, some set in D4)
 Instruction of Hardjedef, from D5
 - prince giving advice for long term thinking (for sons and afterlife)
     - "Make worthy your station in the West" 
@@ -1003,11 +1042,32 @@ Instruction of Ptahhotep ('classic'), from D5-6
     - #18 "be aware of approaching the women" reveals patriarchy
     - #21 "she's a fertile field for her lord"
     - #26 "don't oppose a great man's action"
-    - #28 biased judges create a judgement against themselves (retribution)
-    - #29 be inclined to gorgive a just man one misdeed
+    - #28 biased judges create a judgment against themselves (retribution)
+    - #29 be inclined to forgive a just man one misdeed
     - #31 "wretched is he who opposes a superior"
 - subliminal & explicit messages of obedience - "sedjem" listen/obey same word
 
+## Egyptian Economy
+- organized as big patrimonial household
+    - king's family fill up top officals ranks
+    - skilled dependents not necessarily related
+
+- king/cult
+- officials
+- skilled dependents
+- unskilled peasantry
+
+- private and communal land disappears quickly
+- taken by king and priests
+- king distributes estates to nobles
+- pay tax on estates in produce, which is distributed to the population
+    - other taxes for salaries and rations
+- salaried jobs passed father to son
+- scribes and bureaucrats better paid, royal relatives getting best jobs
+- economy centralized, state-run and redistributive
+- "trickle-down" wealth goes to top and redistributed
+- feudal system
+- no money yet
 
 ---
 #### quiz up to 2/16 lecture

@@ -556,6 +556,7 @@ in auxiliary position
 	- questions have a head
 	- complementizers precede subject
 - complementizers are heads, similarly replaced by other auxiliary verbs
+- not on prelim
 
 
 ---
