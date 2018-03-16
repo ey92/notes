@@ -539,6 +539,24 @@ _lexical ambiguity_ arises when two word sound alike (homophony)
 - noun phrase - noun; verb phrase - verb
 - no auxiliary verb, but head (inflection) is there
 
+### Assumptions
+1.
+2.
+3. 
+4. syntactic trees are binary branching
+5. most phrases are endocentric, not exocentric (have heads)
+- inflection phrases/auxiliary verbs
+- forms of "to be" can't follow negation, put in auxiliary position
+
+### Modals
+in auxiliary position
+- modal -> have -> be -> do (semantically meaningless, but gives tense)
+- **transformation** movement operation -> _transformational grammar_
+- tense, number marker, 'do-support', move to front for question
+	- questions have a head
+	- complementizers precede subject
+- complementizers are heads, similarly replaced by other auxiliary verbs
+
 
 ---
 ##### Prelim 1 content

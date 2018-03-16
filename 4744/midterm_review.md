@@ -102,7 +102,7 @@ VP V+with PP+with
 PP+to P+to VP
 PP+with P+with NP
 ```
-<br><br><br><br>
+<br><br><br>
 ### Parsing and shared forests
 - span grammar
 
