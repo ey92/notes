@@ -401,9 +401,7 @@ logical language
 | - | - | - |
 | F    |   ab    |  f |
 | X    |   a     |  x |
-
-then
-
+| then | | |
 | tree     |  type  |  logical term |
 | - | - | - |
 | [X Y]    |  a     |  f(x) |
@@ -423,17 +421,15 @@ b substitutes for x in the body of the lambda term
 | X | at | f |  
 | - | - | - |
 | Y | at | g |
-
-// at is set of a's
-
-then
-
+| then | | |
 | [X Y] | at | {\lambda}z[f(z) AND g(z)] |
 | - | - | - |
 | [Y X] | at | {\lambda}z[f(z) AND g(z)] |
 | [A green]    |   et   |   {\lambda}x.green(x) |
 | [N green]    |   et   |   {\lambda}x.yeti(x) |
 | [NP green yeti] | et  |    [[{\lambda}x.green(x)] (z) AND [{\lambda}x.yeti(x)] (z)] |
+
+// at is set of a's
 
 tree shapes -> logical formulas
 
