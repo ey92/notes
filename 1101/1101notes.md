@@ -540,11 +540,10 @@ _lexical ambiguity_ arises when two word sound alike (homophony)
 - no auxiliary verb, but head (inflection) is there
 
 ### Assumptions
-1.
-2.
-3. 
-4. syntactic trees are binary branching
-5. most phrases are endocentric, not exocentric (have heads)
+1. Phrases have unique heads, determining their category and grammatical properties
+2. words project phrases (N -> NP)
+3. phrase structure trees are binary branching
+4. most phrases are endocentric, not exocentric (have heads)
 - inflection phrases/auxiliary verbs
 - forms of "to be" can't follow negation, put in auxiliary position
 
@@ -558,6 +557,55 @@ in auxiliary position
 - complementizers are heads, similarly replaced by other auxiliary verbs
 - not on prelim
 
+# Semantics
+- meaning expressed by linguistic utterance by virtue of its form alone
+- _semiotics_/_semiology_ - general study of signs, in technical sense of something having meaning
+	- Ferdinand de Saussure, Charles Sanders Peirce
+	- every sign is pairing of shape (_signans_) and meaning (_signatum_)
+- index: sign has characteristics associated in nature with its meaning (m/f)
+- symbols: conventional characteristics (radiation, stop)
+- iconic: includes onomatopoeia
+- extensional definition of word: things it refers to (_referents_)
+	- _tautology_
+- intensional meaning: meaning of word in its inherent sense; refers to mental image of the world
+- **Use Theory of Meaning** (Ludwig Wittgenstein): determined by its use in language community 
+	- relation to other linguistic expressions
+	- not entity-oriented
+	- having meaning means words are used in a particular sense
+
+## Word Relationships
+- native speakers make judgments about meaning relationships
+- can play with _ambiguity_
+	- lexical ambiguity: he dusted the plants
+	- scope (structural) ambiguity: good cigars and whiskey
+	- zeugma
+- _entailment_: A entails B if when A is true, B is true and information B conveys is also contained in information A conveys
+	- John killed Bill - Bill died
+	- Jumbo is an elephant - Jumbo is mammal
+- _equivalence_/_synonymy_: bilateral statement
+	- X is on Y/Y is under X
+- _contradiction_: negation of entailment
+	- if every X's Y is true, no X's Y is not true
+- _redundancy_: entailed proposition is explicitly uttered
+- _anomaly_: utterance contains contradictory entailments
+	- Colorless green ideas sleep furiously
+
+- words
+- _synonymy_: synonyms
+- _hyponymy_: relation of element to containing category
+	- transitive relation
+
+| hypernym | hyponym |
+| - | - |
+| flower | daffodil |
+| color | red |
+
+- _metonymy_: external relation between expressions
+	- thing or concept referred to by name of something closely related
+	- comments from the floor
+- _synecdoche_: internal relation
+	- part of a whole
+	- "strings", a pint
 
 ---
 ##### Prelim 1 content

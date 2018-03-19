@@ -1069,6 +1069,61 @@ Instruction of Ptahhotep ('classic'), from D5-6
 - feudal system
 - no money yet
 
+# Dynasty 5: Rise of Ra 2498-2345
+- 1st king Userkaf first to build temples to Ra
+- 1st Queen Mother: Neferhetep, from D4
+- 2nd Queen Mother: Userkaf's wife Khentkawes
+    - "mother of two kings of Upper and Lower Egypt" at mastaba at Giza
+    - pyramid at Abusir
+    - depicted with nemes, uraeus, on a throne
+
+## Papyrus Westcar: middle kingdom text on succession, myth, meditation
+- set in Khufu's court as "tale of wonder"
+- prophetic about birth of first three D5 kings
+    - father is Ra, mother is wife of high priest of Ra
+    - Isis, Nephthys as midwives
+    - 'perfect' triplets born with limbs of gold and lapis lazuli headdress
+    - 1 cubit long (half meter)
+    - Isis gives punny names: Mighty, Tread of Ra, Dark; refers to 1st 3 D5 kings
+    - kings as son of Ra
+
+## Built pyramids and sun temples - only 2 of 6 survived
+- took shortcuts in building -> big piles of rubble, poor longevity
+- similar in plan to pyramid complex
+    - valley temple, causeway, upper (eastern) temple, worker's village
+    - pseudo-obelisk on top instead of pyramid (representation of sun's rays)
+    - Ra-hotep sculpted altar
+- 9 basins for offerings/drinking
+- sculpted stone solar barge
+- Niuserra's temple best preserve at Abu Ghurab
+
+### 2nd king Sahura
+- causeway for pyramid complex: earliest relief of seafaring sailing ships
+- most likely Canaanite trade
+- Palermo stone mentions he brought 40 ships full of cedar from Lebanon
+
+### 3rd king Neferirkara 2477-67
+**Abusir Papyri**: most important administrative documents of Old Kingdom
+- 2nd oldest papyrus
+    - concerns functioning of pyramid at Southern Saqqara
+    - offerings, sacrifices, guard duties, structure of workforce
+    - inventories of temple furnishing and equipment
+    - architectural records
+- hieratic script
+- earliest "spreadsheets"
+- headers: key jobs
+- each row represents day, with name of worker
+- furniture, repairs, royal estates
+
+### Unas last king 2375-45
+first to have spells written inside of burial chamber
+- first of Pyramid Texts
+- 228 spells for successful journeys in afterlife
+- others from D6 increases total to > 400 spells
+- spell must be spoken aloud by priest to make magic effective
+- Spell 270: 1st mention of untrustworthy ferryman who brings souls across holy waters, negative confession
+- Spell 273-274: describes ka as a god who feds on fathers and mothers, eats their magic and swallows their spirits
+
 ---
 #### quiz up to 2/16 lecture
 up to D0/D1
@@ -1077,3 +1132,4 @@ egyptomania
 superposition/stratification
 
 #### midterm
+Wadi al-Jarf papyrus from Khufu's era oldest papyrus
