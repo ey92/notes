@@ -179,6 +179,7 @@ Gorn trees to define derivation trees
 2. for all u ϵ N*+, for every i ϵ N+, if ui ϵ D, then uj ϵ D for every j, 1 <= j <= i
 ```
 domain of tree t is dom(t), tree address or node
+N* means pos natural numbers?
 
 syntax trees
 
@@ -395,38 +396,44 @@ logical language
 | {\lambda}x.admire(x,k)              | et |
 | {\lambda}x.admire(j,k)              | t |
 
-function application
-tree    type    logical term
-F       ab      f
-X       a       x
+#### function application
+| tree |   type  |  logical term |
+| - | - | - |
+| F    |   ab    |  f |
+| X    |   a     |  x |
 
 then
-tree            type    logical term
-[X Y]           a       f(x)
-[Y X]           b       f(x)
 
-[VP is]          et      {\lambda}.green(x) AND yeti(x)
-[NP beelzebub]   e       b
-[S beelzebub]    t       [{\lambda}.green(x) AND yeti(x)](b)
-simplification           [green(b) AND yeti(b)]
+| tree     |  type  |  logical term |
+| - | - | - |
+| [X Y]    |  a     |  f(x) |
+| [Y X]    |  b     |  f(x) |
+| [VP is]         | et   |   {\lambda}.green(x) AND yeti(x) |
+| [NP beelzebub]  | e    |   b |
+| [S beelzebub]   | t    |   [{\lambda}.green(x) AND yeti(x)](b) <br> simplification: [green(b) AND yeti(b)] |
 
-lambda conversion
+#### lambda conversion
 [{\lambda}x.green(x) AND yet(x)](b)   -> [green(b) AND yeti(b)]
 
 b substitutes for x in the body of the lambda term
 - only substitute for free (unbound) variables
 - avoid variables becoming bound when substituting
 
-intersection
-X               at      f       // at is set of a's
-Y               at      g
-then
-[X Y]           at      {\lambda}z[f(z) AND g(z)]
-[Y X]           at      {\lambda}z[f(z) AND g(z)]
+#### intersection
+| X | at | f |  
+| - | - | - |
+| Y | at | g |
 
-[A green]       et      {\lambda}x.green(x)
-[N green]       et      {\lambda}x.yeti(x)
-[NP green yeti] et      [[{\lambda}x.green(x)] (z) AND [{\lambda}x.yeti(x)] (z)]
+// at is set of a's
+
+then
+
+| [X Y] | at | {\lambda}z[f(z) AND g(z)] |
+| - | - | - |
+| [Y X] | at | {\lambda}z[f(z) AND g(z)] |
+| [A green]    |   et   |   {\lambda}x.green(x) |
+| [N green]    |   et   |   {\lambda}x.yeti(x) |
+| [NP green yeti] | et  |    [[{\lambda}x.green(x)] (z) AND [{\lambda}x.yeti(x)] (z)] |
 
 tree shapes -> logical formulas
 
