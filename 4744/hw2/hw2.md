@@ -43,7 +43,8 @@ def Word [Phrase .o. Morph].l;                      # words in spelling form
 ```
 
 ### Karok Verb Phonology
-```def glottalPrepend [..] -> {ʔ} || .#. _ V ;      # prepend a glottal stop if starts with vowel
+```
+def glottalPrepend [..] -> {ʔ} || .#. _ V ;      # prepend a glottal stop if starts with vowel
 def delV [V -> 0 || [.#. ni | .#. ʔu] _];           # delete the second of two consecutive vowels
 def palatalize  s -> š || .#. [ ʔi | ni ] k* _;     # palatalize s if preceeding vowel is i
 def depalatalize š -> s || .#. [ʔu k*]* _;          # depalatalize s if preceeding vowel is not i
