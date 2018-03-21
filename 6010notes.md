@@ -875,6 +875,8 @@ missed class 3/14, 3/19
     - 1850s railroads mistreated 3rd class passengers
         - encourage anyone with money to buy 2nd class passengers
     - difficult in physical stores but easier in virtual stores to show different prices for each customer
+        - WaPo 2016 experiment: clearing cookies gave lower average price
+    - caveat: legal issues basis of race, gender, age, handicap
 
 ---
 ### A0 CTB
@@ -908,3 +910,11 @@ market share vs market size
 
 ** how does outsourcing cause increase in market size? (bc lower prices?)
 Drill Down reports/EIS - how to deliver information to executives
+
+### A3
+multimedia
+audio/video clips
+interactive video
+clickable images
+drill down images
+ebooks
