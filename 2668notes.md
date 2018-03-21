@@ -1124,6 +1124,121 @@ first to have spells written inside of burial chamber
 - Spell 270: 1st mention of untrustworthy ferryman who brings souls across holy waters, negative confession
 - Spell 273-274: describes ka as a god who feds on fathers and mothers, eats their magic and swallows their spirits
 
+# Decentralization & Decline of the Old Kingdom
+- surest path to become a wealthy official is to be a scribe
+- command of language
+    - magically powerful
+    - useful for social advancement
+- (Mastaba) Tomb of Ti, Saqqara
+    - false door where offerings left for Ka to consume
+    - Ka-statue in _serdab_ chamber
+    - officials emulating royal mortuary cultic practices but no Pyramid texts
+    - "overseer of pyramids" boatbuilding scenes
+    - unavailable in other sources
+    - most craftsmen held low-status jobs, despite their skill
+    - typically dynamic everyday life scenes not shown in royal art
+- Tomb of Nykheftka
+    - ideal afterlife
+    - harpist and performers
+- Unas left no heir, causing brief dynastic crisis
+
+## Dynasty 6 2345-2181
+- Manetho and Turin Canon suggest break from Memphis and return to control later
+- rubble pyramids like D5
+- assassination of Teti
+- stronger nomarchs
+
+### Teti
+- marry Unas' daughter, Iput, to legitimize claim to throne
+- absence of name of Ra - break from Heliopolitan priesthood
+- killed in palace revolt/harem conspiracy
+- rubble core pyramid "The Places of Teti Endure"
+
+#### Mereruka
+- Teti's vizier and son-in-law
+- largest non-royal mastaba in Saqqara
+- ka statue in false door
+- scribes, sailing, dancers, fishing and drinking
+- craftspeople working with scales, bellows, casting, making tomb furnishing
+
+### Pepi I
+- throne name Meryra "beloved of Ra"
+- return to Heliopolitan cult
+- pious worshiper
+- known for innovative statues in copper, alabaster
+    - uncommon beaten copper statues, found in Hierakonpolis main deposit
+- 50 yr reign
+    - may indicate political instability
+    - come to throne before mature and keep reigning while no longer fit to rule
+- pharaoh kneeling (before Hathor), smaller statues
+    - shrinking power of pharaoh
+- rubble-core pyramid complex "Perfection fo Pepi is Established"
+- open courtyard in Eastern courtyard (also in Teti's)
+- some Pyramid Texts
+
+#### Autobiography of Weni
+- "memoir" of important official from Abydos mastaba
+- judge, close advisor to Pepi I
+- long career spanning Teti, Pepi I, Merenra
+- judged case of palace/harem conspiracy
+- supported by Manetho's statement that Teti was assassinated
+- becomes head of large army and led first recorded Egyptian attack on Palestine (1st of many)
+- brought granite and acacia from Upper Egypt for Merenra's pyramid
+
+### Pepi II
+- aka Neferkara 2278-2184
+- 94 yr reign (longest rule in near-eastern area)
+- small statue on queen mother's lap
+    - depicted as if shrunken adult
+- small alabaster statues
+- collapse followed reign
+- ambitious provincial governors: seditious crimes of Sabni the nomarch
+    - tried to rule independently
+- Queen Nitiqret rules upon Pepi II's death, signaling end of dynasty and Old Kingdom (Manetho and Turin Papyrus)
+
+#### Harkhuf
+- Pepi II's governor of Upper Egypt
+- tomb at Aswan with biographic text
+- also mayor, warden, seal-bearer, confidante, lector-priest, chief of scouts
+- worked his way up under Merenra and Pepi II
+- virtues and threats:
+    - lector-priest magician
+    - expert in spells
+    - "I'm an excellent equipped akh, a lector priest who knows his speech"
+- officials becoming too powerful?
+    - beginning independence from divine pharaoh
+
+## Dynasty 7
+- ephemeral kings
+- Manetho: 70 kings reigned 70 days (hyperbole)
+
+## Dynasty 8
+- ~17 kings with authority limited to Memphis
+- lasted only 20 years, with little monumental remains
+- royal myth not convincing elite, work not getting done
+- Qakara-Ibi's pyramid on par with queen's pyramids
+
+## Collapse
+- architecture as acceptance of central governing power
+
+##### 1. environmental factors (low Niles)
+- insufficient flood 2900, 2200
+- highs 2150-1900 (Middle Kingdom?)
+- K. Butzer geoarchaeological approach to _Third Millennium BC Climate Change and Old World Collapse_ 1997
+- not everything lines up
+- Delta paleoclimate study (observes cores)
+    - droughts 4000-3500 (emergence of chiefs), 3000(establish kingdom/palace), 2200 (end of D6), 1000 (E Mediterranean collapse in 1200)
+    - catastrophe as collapse or opportunity?
+
+##### 2. Foreign/border troubles
+- Nubian mercenaries from D6 onwards
+- discredited: 
+    - trouble in palace
+    - decentralization of power and wealth
+    - more internal trouble, not external trouble
+
+##### 3. internal politics
+
 ---
 #### quiz up to 2/16 lecture
 up to D0/D1

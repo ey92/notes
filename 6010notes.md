@@ -719,7 +719,7 @@ Interactive Data Page
 - feature films on demand: Netflix, Amazon, etc.
 - DVD business - historical inertia: watching movie on big screen, poor network connection
 - economics of online video:
-    - broadcast TV: 0 marginal cost
+    - broadcast TV: 0 marginal cost for digital products
     - on-demand online video: constant
 - 5 Mbs x 10M watchers = 50Tbs = entire internet capacity
 - _multicasting_: send one copy to a locality and distributing to all from there, but requests not synchronized
@@ -800,7 +800,80 @@ Interactive Data Page
 - Oculus, Sony
 
 
-missed class 3/14
+missed class 3/14, 3/19
+
+3/21
+### Analysis of Digital Products
+#### 1. Customization
+- growing importance in marketing
+- digital products
+    - initial development cost high
+    - marginal cost is 0
+    - price goes down to 0 -> market disappears
+    - leads to customization (monopolistic competition)
+- customization is not easy
+    - require information
+    - maintain a large and varied inventory (resolved with databases)
+        - became a competitive advantage
+    - match products to individual customer needs and informing of the match
+        - a few popular products tend to dominate the market
+        - musicians, blogs, dominate market, resulting in winner-take-all markets
+        - technology to fix problem is _recommendation system_
+            - simple recommendation systems make matters worse
+            - creates winner-take-all environments
+- customization can expand the market
+
+##### Customized Recommendations
+- identify different types of customers
+- create many niche markets, no single product should dominate market
+- **long tail phenomenon** many niche markets can collectively add up to a larger market than the few popular products
+- most popular products are not a good match for everyone
+- statistical analysis focuses too much on the average and expected, not enough emphasis on the unusual and unexpected
+- if new or rare event, statistics are useless
+- requires and orderly world where the past can predict the future
+- rare events now dominate our lives due to technology
+- high-tech, fast-changing world
+
+## Web Communities
+- web communities: ongoing relationships among group of people with common interest to exchange information, experiences, advice
+- mass advertising by sellers, as it is typically done, is claimed to be a fundamentally faulty model
+- commercial communities of interest provide alternative
+- community of enthusiasts and owners is the best place to get advice for purchasing something
+- future of advertising where communities of buyers and sellers interact as equals, rather than information asymmetry
+    - **information symmetry** - sellers with superior knowledge dominating the buyers with limited knowledge
+
+## Price Discrimination
+- buyers pay maximum reservation price
+- _who_ values products differently
+    - _differential value_: personal characteristics (preferences)
+    - _conditional value_: ownership characteristics (depends on what you already own)
+    - pricing strategy: upgrade fees less than new purchases
+    - use **freemium model**
+        - addictive goods
+        - experience goods - learn more about the product, becomes more valuable
+    - American Airlines vs People Express (discount airline)
+        - Saber reservation system
+        - customer buying habits -> price discrimination
+        - overprice schedule-based plans and underprice customers with looser schedule
+    - **incompatibility and lock in**
+        - loyalty programs
+        - GM credit card - lock in to GM products & gain customer information
+        - give discount to people with lower reservation prices
+    - **lock in program**
+        - avoid direct competition by locking in customers
+        - loyalty programs rarely benefit customers; collect points -> locked in
+        - once you're locked in, raise the price
+- determine _what_ value is
+    - approximate substitutes
+    - **artificially change prices** & observe reaction to price changes
+        - shopping cards allow observing customer's reaction to price changes
+    - **follow path of customer** through website
+    - **set up an auction**
+        - when do customers stop bidding? know their reservation prices
+- _how_ to charge buyer that determined value
+    - charge reservation prices
+    - 1850s railroads mistreated 3rd class passengers
+        - encourage anyone with money to buy 2nd class passengers
 
 ---
 ### A0 CTB

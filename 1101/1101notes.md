@@ -558,6 +558,7 @@ in auxiliary position
 - not on prelim
 
 # Semantics
+- study of meanng of linguistic expressions
 - meaning expressed by linguistic utterance by virtue of its form alone
 - _semiotics_/_semiology_ - general study of signs, in technical sense of something having meaning
 	- Ferdinand de Saussure, Charles Sanders Peirce
@@ -565,13 +566,27 @@ in auxiliary position
 - index: sign has characteristics associated in nature with its meaning (m/f)
 - symbols: conventional characteristics (radiation, stop)
 - iconic: includes onomatopoeia
+<br><br>
+- iconicity & indexing partially arbitrary
+
+## Theories of Meaning
+- know shortcomings of each theory
+1. Meaning as Reference
 - extensional definition of word: things it refers to (_referents_)
 	- _tautology_
+2. Meaning as Reference in Some Possible World
+3. Meaning as Mental Image
 - intensional meaning: meaning of word in its inherent sense; refers to mental image of the world
+4. Meaning as Use
 - **Use Theory of Meaning** (Ludwig Wittgenstein): determined by its use in language community 
 	- relation to other linguistic expressions
 	- not entity-oriented
 	- having meaning means words are used in a particular sense
+<br><br>
+- dichotomies
+	- sense and reference
+	- intension and extension
+	- connotation and denotation
 
 ## Word Relationships
 - native speakers make judgments about meaning relationships
@@ -582,16 +597,19 @@ in auxiliary position
 - _entailment_: A entails B if when A is true, B is true and information B conveys is also contained in information A conveys
 	- John killed Bill - Bill died
 	- Jumbo is an elephant - Jumbo is mammal
-- _equivalence_/_synonymy_: bilateral statement
-	- X is on Y/Y is under X
 - _contradiction_: negation of entailment
 	- if every X's Y is true, no X's Y is not true
+	- can occur with conflicting entailments
 - _redundancy_: entailed proposition is explicitly uttered
+- _equivalence_/_synonymy_: bilateral statement
+	- X is on Y/Y is under X
 - _anomaly_: utterance contains contradictory entailments
 	- Colorless green ideas sleep furiously
-
+<br><br>
 - words
-- _synonymy_: synonyms
+- _synonymy_: synonyms - words that have the same meaning
+- _antonymy_: antonyms - words that have opposite/reverse/converse meaning
+	- gradeable/scalar adjectives differ by degrees
 - _hyponymy_: relation of element to containing category
 	- transitive relation
 
@@ -606,7 +624,29 @@ in auxiliary position
 - _synecdoche_: internal relation
 	- part of a whole
 	- "strings", a pint
+- meronym - part of whole
+- holonym - wholes to which meronyms belong
+| meronym | holonym |
+| - | - |
+| nose | face |
 
+<br><br>
+- semantic features/lexical decomposition
+	- relations between words suggests they contain 'atoms' of meaning, which can be compared
+	- creates semantic natural classes, parallel to phonological natural classes
+	- used in entailment
+- _intersective adjectives_: overlapping set of description
+	- e.g. old
+- _nonintersective_: not overlapping sets of descriptions
+	- e.g. fake, small, heavy, good
+	- _anti-intersective adjectives_: indicates complement of set being described
+	- e.g. fake, counterfeit
+- _subsective adjectives_
+	- relative to category
+	- e.g. loud whisper, big virus
+<br><br>
+- definite & indefinite articles
+- definiteness vs specificity
 ---
 ##### Prelim 1 content
 1. Phonetics
