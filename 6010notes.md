@@ -874,6 +874,7 @@ missed class 3/14, 3/19
     - charge reservation prices
     - 1850s railroads mistreated 3rd class passengers
         - encourage anyone with money to buy 2nd class passengers
+    - difficult in physical stores but easier in virtual stores to show different prices for each customer
 
 ---
 ### A0 CTB
