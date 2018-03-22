@@ -367,3 +367,4 @@
 - **complementary antonyms** - pair of antonyms such that everything must be described by the first word, the second word, or neither; saying something is not a member of the set denoted by the first word implicates it is in the set denoted by the second word
 - **gradeable antonyms**/**gradeable pairs**/**scalar antonyms** - words that are antonyms and denote opposite ends of a scale
 - **reverses** - antonyms in which one word in the pair suggests movement that “undoes” the movement suggested by the other
+- **converses** - antonyms in which the first word of the pair suggests a point of view opposite to that of the second word
