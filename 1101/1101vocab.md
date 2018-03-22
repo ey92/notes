@@ -368,3 +368,28 @@
 - **gradeable antonyms**/**gradeable pairs**/**scalar antonyms** - words that are antonyms and denote opposite ends of a scale
 - **reverses** - antonyms in which one word in the pair suggests movement that “undoes” the movement suggested by the other
 - **converses** - antonyms in which the first word of the pair suggests a point of view opposite to that of the second word
+
+**proposition** - sense expressed by a sentence; characteristically have truth values (T/F)
+
+**truth conditions** - conditions that must hold true in order for proposition to be true
+
+**entailment** - relationship between propositions where proposition p is said to entail another proposition q if p is true, q has to be true as well
+- **mutual entailment** - relationship between two propositions where they entail one another
+
+**incompatibility** - relationship between two propositions where it is impossible for both of them to be true simultaneously
+
+**Principle of Compositionality** - the meaning of a phrasal expression is predictable from the meanings of the expressions it contains and how they were syntactically combined
+- **compositional** - predictable from meaning of words and syntactic combination
+- **idiom** - multi-word lexical expression whose meaning is not compositional
+
+**pure intersection** - relationship between the reference of an adjective and a noun it modifies such that each picks out a particular group of things, and the reference of the resulting phrase is all of the things that are in both the reference set of the adjective and the reference set of the noun
+
+**intersective adjective** - adjective whose reference is determined independently from the reference of the noun that it modifies, creates pure intersection
+
+**relative intersection** - reference of the adjective has to be determined relative to the reference of the noun (e.g. big mouse vs big whale)
+
+**subsective adjective** - adjective whose reference is included in the set of things that the noun it modifies refers to
+
+**anti-intersection adjective** - adjective whose referents are not in the set referred to by the noun that it modifies
+
+**non-intersection adjective** - adjective whose reference is a subset of the set that the noun it modifies refers to, but that does not, in and of itself, refer to any particular set of things
