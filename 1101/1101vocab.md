@@ -393,3 +393,32 @@
 **anti-intersection adjective** - adjective whose referents are not in the set referred to by the noun that it modifies
 
 **non-intersection adjective** - adjective whose reference is a subset of the set that the noun it modifies refers to, but that does not, in and of itself, refer to any particular set of things
+
+---
+
+## Ch. 7 Pragmatics
+**utterance** - a speech event; a particular occurrence of a person speaking or signing. Also, the content—words, phrases, or sentences—of what is said. Utterances are represented by the use of quotation marks
+
+**context** - set of circumstances in which an utterance is uttered
+
+**diectic expression** - word or expression that takes its meaning relative to the time, place, and speaker of the utterance
+
+**linguistic context** - linguistic environment in which an utterance is uttered: specifically, the discourse that has immediately preceded the utterance in question
+
+**situational context** - aspect of an utterance’s context that includes such information as where the speakers are, who is speaking, what is going on around them, and what is going on in the world that all speakers can reasonably be expected to be aware of
+
+**social context** - aspect of an utterance’s context that includes information about the social relationships between participants in the discourse, what their status is relative to each other, and so on
+
+**felicitous** - utterance is appropriate for the context in which it is uttered
+
+**infelicitous** - utterance is not appropriate for the context in which it is uttered. Infelicity can result from a violation of one of the Gricean maxims, from the lack of fulfillment of some felicity condition, from an unsatisfied presupposition, or from some other source; marked with pound sign
+
+**Cooperative Principle** - principle formulated by philosopher HP Grice, stating that underlying a conversation is the understanding that what one says is intended to contribute to the purposes of the conversation
+
+**Gricean Maxims** - a set of principles guiding the conversational interactions of both speakers and hearers in accordance with the cooperative principle
+
+**inference** - conclusion that is drawn from an implication or an implicature
+
+**jargon** - terms restricted primarily to specialized areas of knowledge
+
+**flout** - to say something that in its most literal meaning appears to violate one of the Gricean maxims, but with the specific intention of conveying a different meaning based on a shared understanding of the maxims and the cooperative principle
