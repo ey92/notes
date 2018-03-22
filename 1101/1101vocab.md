@@ -345,3 +345,25 @@
 **lexical ambiguity**/**homophony** - phenomenon where a single word is the form of two or more distinct linguistic expressions that differ in meaning or syntactic properties
 
 **structural ambiguity** - phenomenon where a single string of words (or morphemes) is the form of more than one distinct phrasal expression (or word); arises because the same expressions can combine differently syntactically, resulting in distinct phrases that happen to have the same form
+
+---
+
+## Ch. 6 Semantics
+**lexical semantics** - meanings of words and lexical expressions
+
+**compositional semantics** - phrasal meanings and how they are assembled
+
+**referent** - entities in the world to which some expressions point
+
+**prototype** - for any given set, a member that exhibits the typical qualities of the members of that set
+
+**hyponymy**/**hyponym**/**hypernym** - meaning relationship between words where the reference of some word X is included in the reference of some other word Y. X is then said to be a hyponym of Y, and conversely, Y is said to be a hypernym of X
+
+**sister terms** - words that, in terms of their reference, are at the same level in the hierarchy; have exactly the same hypernyms
+
+**synonymy** - meaning relationship between words where their reference is exactly the same
+
+**antonymy** - meaning relationship between words where their meanings are in some sense opposite
+- **complementary antonyms** - pair of antonyms such that everything must be described by the first word, the second word, or neither; saying something is not a member of the set denoted by the first word implicates it is in the set denoted by the second word
+- **gradeable antonyms**/**gradeable pairs**/**scalar antonyms** - words that are antonyms and denote opposite ends of a scale
+- **reverses** - antonyms in which one word in the pair suggests movement that “undoes” the movement suggested by the other

@@ -626,11 +626,11 @@ in auxiliary position
 	- "strings", a pint
 - meronym - part of whole
 - holonym - wholes to which meronyms belong
+
 | meronym | holonym |
 | - | - |
 | nose | face |
 
-<br><br>
 - semantic features/lexical decomposition
 	- relations between words suggests they contain 'atoms' of meaning, which can be compared
 	- creates semantic natural classes, parallel to phonological natural classes
@@ -647,6 +647,7 @@ in auxiliary position
 <br><br>
 - definite & indefinite articles
 - definiteness vs specificity
+
 ---
 ##### Prelim 1 content
 1. Phonetics
