@@ -459,9 +459,15 @@ lambda abstraction
 
 plop.jar = truth checker (has a manual)
 
-Makefile
+create ```e0.txt``` with semantically interpreted grammar and tree for target sentence at end
 
-make e0.tex on lambda calculator
+```java -jar ../java/lambda.jar > e0.tex```
+
+make ```e0.tex``` on lambda calculator
+
+compile TeX file ```pdflatex e0```
+
+use Makefile (on server) to compile e0 ```make e0.fml```
 
 e0.fml
 ```
@@ -491,7 +497,6 @@ function C = = {<1>=e,<2>=m,<3>,<u>=0,<a>=0,<e>=0,<i>=0,<o>=0,<u>=0,<A>=0,<E>=0,
 - required to define all inputs
 
 ```
-java -jar ../java/lambda.jar > e0.tex
 make dog.e0.out
 ```
 
