@@ -45,11 +45,11 @@
 	- people can differ in what they think is good evidence
 2. Relevance: maintain organization of conversation by preventing random topic shifts
 	1. Be relevant
-	- allows _inferences_ - conclusion that is drawn from an implication or an implicature
+		- allows _inferences_ - conclusion that is drawn from an implication or an implicature
 3. Quantity: how much information is appropriate for speaker to give
 	1. Make your contribution as informative as required
 	2. Do not make your contribution more informative than is required
-4. Manner
+4. Manner: how information is given and is to be interpreted
 	1. Avoid obscurity of expression
 		- avoid _jargon_: terms restricted primarily to specialized areas of knowledge
 	2. Avoid ambiguity
@@ -66,5 +66,63 @@ Grice's Maxims can be exploited or flouted to communicate indirectly
 - in competition with social rules
 
 ## Drawing Conclusions
+### Entailment
+- commitment for speaker
+- confident conclusions
+	- can often conclude more than what was entailed
+
+### Inference, Implication, Implicature
+- draw inferences based on assumption that speaker is following Cooperative Principle
+- _implication_, _inference_
+- speaker implying something -> utterance contains _implicature_
+
+#### Implicature Based on Maxim of Relevance
+- (X) "I'd like a cup of coffee. "
+- (Y) "There's a place around the corner called Joe's."
+	- (Z) Joe's sells coffee (not entailed)
+	- Y _implicates_ Z
+
+#### Implicature Based on Maxim of Quantity
+- (X) "Have you finished all your homework?"
+- (Y) "I finished my history homework."
+	- (Z) I did not finish my other homework
+	- possible that all other hw also done, but because information provided is less than requested, Z will likely be inferred
+
+#### Implicature Based on Maxim of Manner
+- (X) "Rebecca took the medication and had an allergic reaction."
+	- infer that medication caused allergic reaction
+- (Y) "Rebecca had an allergic reaction and took the medication."
+	- infer that medication taken to remedy allergic reaction
+- assume speaker is telling story in order
+- (X) "The man who lives with me is an electrician."
+	- infer that speaker unrelated to electrician
+- assume speaker would have used shorter phrase (e.g. brother, husband) if true
+- lengthier phrase implies that a more concisely stated relation is not true
+
+#### Implicature Based on Maxim of Quality
+- (X) "We need someone to make a cake for the picnic."
+- (Y) "I can make my family's favorite chocolate cake."
+	- (Z) I have succeeded in making this cake before.
+- infer that evidence for being able to make the cake is previous experience
+
+#### Significance of Implicature in Communication
+- implicature as side effect of Grice's maxims
+- allow speaker to introduce ideas with less commitment than if use entailment
+- easier communication - don't have to spell out everything in a conversation
+
 ## Speech Acts
+- describes speaker's use of speech to emphasize goal or intention of utterance
+
+#### Common Speech Acts
+| Speech Act | Function |
+| assertion | convey information |
+| question | elicit information |
+| request | (more or less politely) elicit action or information |
+| order | demand action |
+| promise | commit speaker to an action |
+| threat | commit speaker to an action that hearer doesn't want |
+
+#### Felicity Conditions
+- set of conditions that must hold for a speech act to be felicitous
+
 ## Presupposition

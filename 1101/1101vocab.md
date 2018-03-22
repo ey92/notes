@@ -422,3 +422,13 @@
 **jargon** - terms restricted primarily to specialized areas of knowledge
 
 **flout** - to say something that in its most literal meaning appears to violate one of the Gricean maxims, but with the specific intention of conveying a different meaning based on a shared understanding of the maxims and the cooperative principle
+
+**implication** - idea that is communicated indirectly (either through language or otherwise) but that is not entailed
+
+**inference** -  conclusion that is drawn from an implication or an implicature
+
+**implicature** - idea that is communicated based on the way that language is used and on what speakers know about language use rather than on what is directly entailed
+
+**speech act** - actions that are performed only through using language; describes use of speech emphasizing speaker’s intention or goal in producing an utterance
+
+**felicity conditions** - set of conditions that must hold for a speech act to be felicitous
