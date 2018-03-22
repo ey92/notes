@@ -31,7 +31,7 @@
 
 **pragmatics** - study of how context affects language use, whether or not it is by chance in a context and how the context affects the utterance's meaning or interpretation
 
-**lexicon** - mental repository of linguistic information about words and other lexical expressions, including their form and meaning and their morphological and syntactic properties;part of mental lexicon, including entries that capture relevant properties of lexical expressions
+**lexicon** - mental repository of linguistic information about words and other lexical expressions, including their form and meaning and their morphological and syntactic properties; part of mental lexicon, including entries that capture relevant properties of lexical expressions
 
 **language acquisition** - process by which children acquire lexicon and grammatical rules of language
 
@@ -324,10 +324,24 @@
 
 **morphosyntax** - refers to morphology and syntax as a single grammar component
 
-**syntactic constituent** - smaller expressions from which some larger phrasal expressions are constructed
+**syntactic constituent** - a group of linguistic expressions that function as a syntactic unit; smaller expressions from which some larger phrasal expressions are constructed
 
 **cleft** - type of sentence that has general form It is/was X that Y (e.g., It was Sally that I wanted to meet); can be used as a constituency test
 
 **substitution** - constituency test where constituent replaced with single word (or simple phrase), such as a pro-form
 
 **pro-form** - word (e.g. pronoun) that can replace a syntactic constituent
+
+**syntactic category** - a group of expressions that have very similar syntactic properties; all expressions of same syntactic category have more or less the same syntactic distribution
+
+**syntactic distribution** - set of syntactic environments in which an expression can occur; if syntactic expressions interchangeable in all syntactic environments, they have the same syntactic distribution and therefore same syntactic category
+
+**lexical entries** - representation of a lexical expression and its linguistic properties within a descriptive grammar of some language; collections constitutes a lexicon;  form f → X, where f = form of some particular lexical expression, X = its syntactic category
+
+**phrase structure rules** - recipe for syntactically combining expressions of certain syntactic categories; part of descriptive grammar along with lexicon; general form X → Y1 . . . Yn where X = syntactic category, Y1 . . .Yn = sequence of syntactic categories; categories to the right of the arrow Y1 . . .Yn correspond to the immediate syntactic constituents of the expression whose category is X
+
+**phrase structure tree** - visual representation of how phrases are constructed within a descriptive grammar, given the lexicon and the phrase structure rules
+
+**lexical ambiguity**/**homophony** - phenomenon where a single word is the form of two or more distinct linguistic expressions that differ in meaning or syntactic properties
+
+**structural ambiguity** - phenomenon where a single string of words (or morphemes) is the form of more than one distinct phrasal expression (or word); arises because the same expressions can combine differently syntactically, resulting in distinct phrases that happen to have the same form
