@@ -631,6 +631,11 @@ in auxiliary position
 | - | - |
 | nose | face |
 
+## Semantic Natural Classes
+- [animate] - anything alive
+- every feature not specified for every word
+	- redundancy rules (e.g. sonorant -> also voiced)
+
 - semantic features/lexical decomposition
 	- relations between words suggests they contain 'atoms' of meaning, which can be compared
 	- creates semantic natural classes, parallel to phonological natural classes
@@ -644,9 +649,57 @@ in auxiliary position
 - _subsective adjectives_
 	- relative to category
 	- e.g. loud whisper, big virus
-<br><br>
-- definite & indefinite articles
+
+#### Definite & Indefinite Articles
+(borderline pragmatics)
 - definiteness vs specificity
+	- specificity: speaker has particular referent of expression in mind
+	- definite: speaker can expect hearer to understand which reference speaker is thinking of
+	- plural of indefinite pronoun is "unpronounced"
+
+| | indefinite | definite |
+| - | - | - |
+| non-specific| He wants to buy a car | -- |
+| specific | I don't think you have enough information to identify it | The moon set early last night |
+
+#### Subject vs Predicate
+- sentence can be divided into subject (entity), and preidcate (aserts some property is true of subject)
+- forms proposition together -> have truth values
+	- true when subject has property specified by predicate
+
+#### Proposition
+- proposition presupposes existence of its arguments
+- presuppositions must be true for proposition to have meaning
+- if proposition doesn't hold true, sentence is neither true nor false
+
+#### Meaning is Composition of Parts
+##### Quantifiers
+- how many values of variable associated with subject to evaluate
+- universal ∀
+	- "the": only one member (exhaustiveness)
+		- only one element in the set
+	- predicates that describe permanent state or property -> most or typical example of behavior
+- existential Ǝ
+	- "a": Ǝx | cat(x) & in garden(x)
+	- predicates that describe temporary state or property
+	- \* at least one or exactly one
+- quantifiers can have scope over each other
+- different kinds of groups
+	- bare plurals not synonymous with "all", but can be exploited and interpreted as such
+
+##### Enumerability
+- count nouns vs mass nouns
+- mass noun plurals interpreted as groups/types
+
+##### Affected vs Effected
+- he painted the tree.
+
+##### Deixis
+- expressions whose reference depends on circumstances of utterance
+	- orientation of speaker and hearer
+	- personal pointers, I/me/my/you/we/they etc
+	- spacial pointers, here/there
+	- temporal pointers, yesterday/now
 
 ---
 ##### Prelim 1 content

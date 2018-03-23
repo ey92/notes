@@ -1237,7 +1237,119 @@ first to have spells written inside of burial chamber
     - decentralization of power and wealth
     - more internal trouble, not external trouble
 
-##### 3. internal politics
+# First Intermediate Period: Pessimism, Irony
+- national myth of Old Kingdom: divine king maintains order within patrimonial household
+    - if officials usurp his role, myth and household undermined
+- low Nile, possible large drought
+- elites lose faith, larger tombs -> decentralizing power
+- assassination and dwindling kings of D6 shows loss of confidence
+- lack of monumental architecture
+<br><br>
+- two centers of rule
+    - D9-10 at Herakleopolis 2160-2040
+        - few named kings (none from Seti I at Abydos)
+        - Khety, Merykare (Instructions), Akhtoy
+    - D11 at Thebes (upper egypt) 2134-1991
+        -Intef I-III, Mentuhotep I-IV
+- Middle Kingdom marked by re-unification by Mentuhotep (II)/Nebhepetra, 2040 (not Mentuhotep I in textbook)
+
+## Chaos or Autonomy?
+1. Classic View (Clayton)
+    - famine, economic distress, chaos, decline, misery, 'dark age'
+    - take "pessimistic literature" at face value
+        - _Prophecies of Neferti_
+        - _Admonitions of Ipuwer_
+        - _Dispute Between a Man and His Ba_
+2. Oxford History view (Seidlmayer)
+    - central government weakened, local culture thrived
+        - political and cultural decentralization
+    - pessimistic literature as political propaganda of central government
+        - people are helpless without rulers
+        - pessimistic literature written mostly later, in centralized D12
+    - some archaeological evidence for increased autonomy
+
+### Instructions for King Merikara (or of King Khety)
+- before "pessimistic literature", written during the First Intermediate Period
+- concern Herakleopolitan king of D9-10, with intentions near end
+- narrational style: instructional and performative
+- audience: bureaucrats learning the literature
+<br>
+- "Do not neglect my speech, which lays down all the laws of kingship..."<br>"Make yourself loved by everyone..."
+- "What was ruled by one is in the hands of ten"<br>"If your are skilled in speech, you will win, The tongue is a sword..."<br>"A blow is repaid by its like, To every action there is a response"
+    - decentralization & losing power
+    - avoid unnecessary force
+- "Do not prefer the wellborn to the commoner,"<br>"Choose a man on account of his skills..."
+    - attacking system as it is being practiced (state is set up to prefer wellborn to commoner)
+- "Granite comes to you unhindered."<br>"Do not despoil the monument of another,"<br>"But quarry stone in Tura"<br>"Do not build your tomb out of ruins,"<br>"(Using) what had been made for what is to be made."
+    - morality, architectural cannibalism
+- "Proffer libations, multiply the loaves, Make ample the daily offerings"<br>"It profits him who does it... Even one day gives to eternity, An hour contributes to the future, God recognizes him who works for him"
+    - piety, maintain temples
+- "Well-tended is mankind-god's cattle, He made sky and earth for their sake"<br>"He subdued the water monster, He gave the breath of life to their noses"<br>"They are his images, who came from his body, He shines in the sky for their sake..."<br>"He made for them rulers in the egg, Leaders to raise the back of the weak"
+    -justify divine kingship
+- "May you be called 'he who ended the time of trouble,' by those who come after in the House of Khety"
+    - acknowledge time of trouble
+
+### Prophecies of Neferti
+- "pessimistic literature"
+- various ironic reversals of natural, political order
+- fantastical tale of wonder, set in D4 Sneferu
+- written during D12 Middle Kingdom
+- many ironies, representing reversing of order, rise of chaos
+- concerned about foreigners in the South (Nubia) and in the Delta (Canaan)
+- land is shrunk, grain is low, measure is large, cross water by foot
+- "Ra will withdraw from mankind, Though he will rise at his hour, One will not know when noon has come"
+- "I show you the land in turmoil: The weak-armed is strong-armed, One salutes him who saluted. I show you the undermost uppermost"
+    - reversals of fortune
+- "Then a king will come from the South, Ameny, the justified, by name, He will join the Two Mighty Ones, Then ma'at will return to its seat, While isfet is driven away..."
+    - Amenemhat I "Amen is in charge" - 1st king of D12, beginning of Middle Kingdom
+    - agenda to support charisma of king in D12
+    - D12 ambitious projects to contain borders
+
+### Dispute Between a Man and His Ba
+- most pessimistic
+- issue/dilemma: to die without one's Ba
+- written in Hieratic
+- theme: national chaos expressed as personal angst
+- times are so bad, is it even worth living - main character is contemplating suicide
+- original theme on surface: personal psychic distress -> reflection of national chaos
+- D12 propaganda: lack of strong kingship caused turmoil
+- "To whom shall I speak today? Brothers are mean, The friends of today do not love. Kindness has perished, Insolence assaults everyone, One is content with evil, Goodness is cast to the ground everywhere."<br>"To whom shall I speak today? Wrong roams the earth and ends not."
+    - 16 variations on how society is broken (mostly due to lack of strong kingship)
+    - Man's argument: times are terrible and a nice tomb awaits
+    - wants Ba to sanction suicide
+- Ba's counter-argument: tombs glorify the architect, not the tomb owner
+    - Ba tells parable: better to have lived and lost than to have never lived at all (story of woman who lost her child)
+- "My name reeks, more than a king's town that utters sedition behind his back"
+    - his own reputation is so bad that it is already dead
+    - worst is last, emphasizing political - betraying the king is the worst
+- "Death is before me today, like the fragrance of myrrh, like sitting under the sail on a breezy day"
+    - death is relief, argued in 6 similes
+    - closer to the gods
+    - complex argument for death
+- "What my ba said to me: 'Now throw complaint on the wood-pile, you my comrade, my brother!...I shall alight after you have become weary, and then we shall dwell together!"
+    - Ba says I'll join you at the right time
+    - simple counter-argument, seemingly winning argument
+    - Ba appears to win by authority
+- less about personal anxiety, more about decrying lack of strong, central kingship
+
+### Admonitions of Ipuwer
+- much irony
+- all order is upset: natural, economic, political
+- late D12 composition, despite First Intermediate Period setting
+- "He who did not build a hut is an owner of the coffers" <br> "He who did not weave for himself owns fine linen"<br>"Who did not know a lyre owns a harp"<br>"See the poor of the land have become rich..."<br>"Crime is everywhere, there is no man of yesterday..."<br>"The shroud calls out before one comes near it..."
+    - many reversals, ironies
+    - scribes impressive literary ability
+- people not buried properly
+- people waiting for crocodile to eat them
+- "the river is blood"
+    - dramatic, striking
+- "the whole magical and political order looks upset,...magic spells are divulged, spells are worthless"
+- foreign trade being interrupted
+    - no cedar, resin
+- tomb robbing "what the pyramid hid is empty"
+- "it is however good when man's build tombs"
+    - end on a more positive note
+- "Egypt will not be give over to sand"
 
 ---
 #### quiz up to 2/16 lecture
@@ -1248,3 +1360,5 @@ superposition/stratification
 
 #### midterm
 Wadi al-Jarf papyrus from Khufu's era oldest papyrus
+know text excerpts
+Later recognized as "sages": Imhotep, King Khety, Neferty
