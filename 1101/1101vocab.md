@@ -276,11 +276,11 @@
 **analytic language**/**isolating language** - type of language in which most words consist of one morpheme and sentences are composed of sequences of free morphemes; grammatical relationships depend on word order; e.g. Chinese, Vietnamese
 
 **synthetic language** - language in which affixes attached to morphemes so word made of multiple meaningful elements
-- **agglutinating language** - synthetic language in which relationships between words in sentence indicated by bound morphemes; morphemes bound loosely
-	- **agglutinization** - putting morphemes together
-- **fusional language** - synthetic language in which relationships between words in sentence are indicated by bound morphemes that are difficult to separate from stem
-- **polysynthetic language** - synthetic language in which several affixes attached to stem to show grammatical relationships
-	- **incorporation** - morphological process in which several distinct semantic components combined into single word
+- _agglutinating language_ - synthetic language in which relationships between words in sentence indicated by bound morphemes; morphemes bound loosely
+	- _agglutinization_ - putting morphemes together
+- _fusional language_ - synthetic language in which relationships between words in sentence are indicated by bound morphemes that are difficult to separate from stem
+- _polysynthetic language_ - synthetic language in which several affixes attached to stem to show grammatical relationships
+	- _incorporation_ - morphological process in which several distinct semantic components combined into single word
 
 **input** - linguistic form before application of a rule or set of rules
 
@@ -316,7 +316,7 @@
 **topicalization** - syntactic process (in English) where syntactic constituent occurs at the beginning of sentence to highlight topic
 
  **argument** - linguistic expression that must occur in a sentence if some other expression occurs in that sentence as well
- - **complement** - non-subject argument of an expression
+ - _complement_ - non-subject argument of an expression
 
 **adjunct**/**modifier** - linguistic expression whose occurrence in a sentence is optional
 
@@ -364,23 +364,23 @@
 **synonymy** - meaning relationship between words where their reference is exactly the same
 
 **antonymy** - meaning relationship between words where their meanings are in some sense opposite
-- **complementary antonyms** - pair of antonyms such that everything must be described by the first word, the second word, or neither; saying something is not a member of the set denoted by the first word implicates it is in the set denoted by the second word
-- **gradeable antonyms**/**gradeable pairs**/**scalar antonyms** - words that are antonyms and denote opposite ends of a scale
-- **reverses** - antonyms in which one word in the pair suggests movement that “undoes” the movement suggested by the other
-- **converses** - antonyms in which the first word of the pair suggests a point of view opposite to that of the second word
+- _complementary antonyms_ - pair of antonyms such that everything must be described by the first word, the second word, or neither; saying something is not a member of the set denoted by the first word implicates it is in the set denoted by the second word
+- _gradeable antonyms_/_gradeable pairs_/_scalar antonyms_ - words that are antonyms and denote opposite ends of a scale
+- _reverses_ - antonyms in which one word in the pair suggests movement that “undoes” the movement suggested by the other
+- _converses_ - antonyms in which the first word of the pair suggests a point of view opposite to that of the second word
 
 **proposition** - sense expressed by a sentence; characteristically have truth values (T/F)
 
 **truth conditions** - conditions that must hold true in order for proposition to be true
 
 **entailment** - relationship between propositions where proposition p is said to entail another proposition q if p is true, q has to be true as well
-- **mutual entailment** - relationship between two propositions where they entail one another
+- _mutual entailment_ - relationship between two propositions where they entail one another
 
 **incompatibility** - relationship between two propositions where it is impossible for both of them to be true simultaneously
 
 **Principle of Compositionality** - the meaning of a phrasal expression is predictable from the meanings of the expressions it contains and how they were syntactically combined
-- **compositional** - predictable from meaning of words and syntactic combination
-- **idiom** - multi-word lexical expression whose meaning is not compositional
+- _compositional_ - predictable from meaning of words and syntactic combination
+- _idiom_ - multi-word lexical expression whose meaning is not compositional
 
 **pure intersection** - relationship between the reference of an adjective and a noun it modifies such that each picks out a particular group of things, and the reference of the resulting phrase is all of the things that are in both the reference set of the adjective and the reference set of the noun
 
@@ -432,3 +432,25 @@
 **speech act** - actions that are performed only through using language; describes use of speech emphasizing speaker’s intention or goal in producing an utterance
 
 **felicity conditions** - set of conditions that must hold for a speech act to be felicitous
+
+**performative speech act** - speech act in which verb is accomplished in performance of speech act itself
+
+**performative verbs** - verbs denoting purely linguistic actions; verb that is used to perform the act it names
+
+**direct speech act** - utterance that performs its function in a direct and literal manner
+
+**interrogative** - kind of sentence that expresses a question; in English, interrogative sentences have auxiliary verb preceding subject
+
+**imperative** - kind of sentence that expresses a command; in English, imperative sentences begin with bare verb stem and don't have explicitly named subject
+
+**presupposition** - an underlying assumption that a speaker believes (and that the speaker behaves as though other participants in the discourse believe) prior to making an utterance; in order for an utterance to make sense or for it to be debatable, any presuppositions must be either satisfied or accommodated
+- _existence presupposition_ - presupposition that item referred to in discourse exists
+- _presupposition triggers_ - words or phrases whose use in a sentence often indicates the presence of a presupposition
+
+**satisfy** (a precondition) - the participants in a discourse know and believe contents of the presupposition prior to the utterance of a sentence containing it
+
+**presupposition accommodation** - process by which participants in discourse decide to accept (and not question) information that is presupposed by a sentence uttered in the discourse, even though the presupposition was not satisfied prior to the utterance
+
+---
+
+## Ch. 13 Language Change

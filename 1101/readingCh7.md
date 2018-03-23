@@ -115,6 +115,7 @@ Grice's Maxims can be exploited or flouted to communicate indirectly
 
 #### Common Speech Acts
 | Speech Act | Function |
+| ---------- | -------- |
 | assertion | convey information |
 | question | elicit information |
 | request | (more or less politely) elicit action or information |
@@ -124,5 +125,55 @@ Grice's Maxims can be exploited or flouted to communicate indirectly
 
 #### Felicity Conditions
 - set of conditions that must hold for a speech act to be felicitous
+- felicity conditions for requests:
+	- speaker believes action hasn't been done yet
+	- speaker wants the action done or should be done for some reason
+	- speaker believes hearer is able to do action
+	- speaker believes hearer may be willing to do that kind of thing for the speaker
+- felicity conditions for questions:
+	- speaker doesn't know some piece of information about some state of affairs
+	- speaker wants to know information about state of affairs
+	- speaker believes hearer may be able to supply information about state of affairs that speaker wants
+
+#### Performative Verbs and Performative Speech Acts
+- _performative speech act_ - speech act in which verb is accomplished in performance of speech act itself
+- _performative verbs_ - purely linguistic actions
+	- promise, ask, assert, request, warn, threaten, bet, advise
+- 2 requirements to be performative
+	1. subject must be first person
+	2. verb must be present tense
+	- "hereby test": insert "hereby" before performative verb
+
+#### Direct & Indirect Speech Acts
+- _direct speech act_: utterance that performs its function in a direct and literal manner
+	- includes performative speech act
+	- often performed indirectly, especially when polite
+
+- _indirect speech act_: utterance that performs its function in an indirect and nonliteral manner
+	- speaker's meaning different from what is literally said
+	- test:
+		- felicity conditions broken for literal meaning but not intended meaning
+		- standard response different from what literal meaning would result in
+
+| Speech Act | Direct | Indirect |
+| - | - | - |
+| question | Did John marry Helen? | I don't know if John married Helen. <br> Do you know whether John married Helen? |
+| request | (Please) take out the garbage. | The garbage hasn't been taken out yet. <br> Could you take out the garbage? |
+
+- sentence types (interrogative, imperative) different from speech acts (assertion, question, request)
+
+![Types of Speech Acts](https://github.com/ey92/notes/blob/master/1101/types-of-speech-acts.png)
 
 ## Presupposition
+- underlying assumption that speaker and participants believe prior to making utterance
+- must be satisfied in order for utterance's truth value to be debatable
+- _existence presupposition_ - presupposition that item referred to in discourse exists
+- test:
+	- if sentence and its logical negation both seem equally untrue, sentence likely has unsatisfied presupposition
+	- _presupposition triggers_: words or phrases whose use in a sentence often indicates the presence of a presupposition (e.g. come back, too)
+	- prosody: changed pitch accents to force different information to be presupposed
+<br><br>
+- _presupposition accommodation_ - process by which participants in discourse decide to accept (and not question) information that is presupposed by a sentence uttered in the discourse, even though the presupposition was not satisfied prior to the utterance
+- requirements:
+	- plausibility - only tend to accommodate presuppositions that we find plausible
+	- accessibility - presupposition knowledge is inaccessible
