@@ -1347,9 +1347,9 @@ first to have spells written inside of burial chamber
 - foreign trade being interrupted
     - no cedar, resin
 - tomb robbing "what the pyramid hid is empty"
-- "it is however good when man's build tombs"
-    - end on a more positive note
-- "Egypt will not be give over to sand"
+- end on a more positive note
+    - "it is however good when man's build tombs"
+    - "Egypt will not be give over to sand"
 
 ---
 #### quiz up to 2/16 lecture

@@ -454,3 +454,52 @@
 ---
 
 ## Ch. 13 Language Change
+**language family** - group of related languages, in the sense that they come from common origins
+
+**synchronic analysis** - analysis of a language at a particular point in time
+
+**diachronic analysis** - analysis of language change through time
+
+**historical linguistics** - study of how languages change through time; the study of how languages are historically related to one another
+
+**Proto-Indo_European** (PIE) - single ancestor of most of today’s languages of Europe and India
+
+**relatedness hypothesis** - hypothesis that similarities among certain languages may be due to a genetic relationship among them, i.e. due to their coming from common origins
+
+**cognate** - one of two or more words that descend from the same source; usually similar in both form and meaning
+
+**protolanguage** - an earlier common ancestor of similar languages
+
+**family tree theory** - theory formulated by August Schleicher that says that languages change in regular, recognizable ways and that similarities among languages are due to a “genetic” relationship among them
+
+**regularity hypothesis** - assumption that speech sounds change in regular, recognizable ways
+
+**sound change** - alteration in the phonetics of a sound as a result of phonological processes
+
+**phonetic change** - change in pronunciation of an allophone that has no effect on the phonological system of the language
+
+**phonological change** - change in the phonological system, by the addition or loss of a phoneme or by a change in the distribution of allophones
+
+**regular change** - change or rule that applies in every possible word
+
+**unconditioned sound change** - sound change that occurs without influence from neighboring sounds
+
+**conditioned sound change** - sound change that occurs under the influence of nearby sounds
+
+**assimilation** - one sound becomes more like another sound
+
+**dissimilation** - two similar sounds become less alike
+
+**deletion** - sound no longer pronounced
+
+**insertion** - sound added to pronunciation of word
+
+**monophthongization** - change from diphthong to monophthong
+
+**diphthongization** - change from monophthong to diphthong
+
+**metathesis** - change in order of sounds
+
+**raising**/**lowering** - change in tongue height in vowel production
+
+**backing**/**fronting** - alternation in position of tongue in vowel production
