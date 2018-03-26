@@ -1255,20 +1255,28 @@ first to have spells written inside of burial chamber
 
 ## Chaos or Autonomy?
 1. Classic View (Clayton)
+    - 140 years of chaos and national distress
     - famine, economic distress, chaos, decline, misery, 'dark age'
     - take "pessimistic literature" at face value
         - _Prophecies of Neferti_
         - _Admonitions of Ipuwer_
         - _Dispute Between a Man and His Ba_
 2. Oxford History view (Seidlmayer)
+    - local autonomy and creativity as center crumbles
+    - pessimistic literature formulaic, untrustworthy
     - central government weakened, local culture thrived
         - political and cultural decentralization
     - pessimistic literature as political propaganda of central government
         - people are helpless without rulers
         - pessimistic literature written mostly later, in centralized D12
     - some archaeological evidence for increased autonomy
+- court literature supports classic view, archaeology supports both views
+- political fragmentation for sure
+- national distress in both Middle Kingdom, Ankhtifi, and First Intermediate Period literature
+- D12 rulers exaggerate past troubles to bolster legitimacy
 
-### Instructions for King Merikara (or of King Khety)
+### Pessimistic Literature
+#### Instructions for King Merikara (or of King Khety)
 - before "pessimistic literature", written during the First Intermediate Period
 - concern Herakleopolitan king of D9-10, with intentions near end
 - narrational style: instructional and performative
@@ -1289,7 +1297,7 @@ first to have spells written inside of burial chamber
 - "May you be called 'he who ended the time of trouble,' by those who come after in the House of Khety"
     - acknowledge time of trouble
 
-### Prophecies of Neferti
+#### Prophecies of Neferti
 - "pessimistic literature"
 - various ironic reversals of natural, political order
 - fantastical tale of wonder, set in D4 Sneferu
@@ -1305,8 +1313,9 @@ first to have spells written inside of burial chamber
     - agenda to support charisma of king in D12
     - D12 ambitious projects to contain borders
 
-### Dispute Between a Man and His Ba
+#### Dispute Between a Man and His Ba
 - most pessimistic
+- national disorder manifest as personal, psychic stress (D12 composition)
 - issue/dilemma: to die without one's Ba
 - written in Hieratic
 - theme: national chaos expressed as personal angst
@@ -1332,9 +1341,10 @@ first to have spells written inside of burial chamber
     - Ba appears to win by authority
 - less about personal anxiety, more about decrying lack of strong, central kingship
 
-### Admonitions of Ipuwer
+#### Admonitions of Ipuwer
 - much irony
 - all order is upset: natural, economic, political
+- misery, reversal, horror in absence of strong kingship
 - late D12 composition, despite First Intermediate Period setting
 - "He who did not build a hut is an owner of the coffers" <br> "He who did not weave for himself owns fine linen"<br>"Who did not know a lyre owns a harp"<br>"See the poor of the land have become rich..."<br>"Crime is everywhere, there is no man of yesterday..."<br>"The shroud calls out before one comes near it..."
     - many reversals, ironies
@@ -1349,16 +1359,105 @@ first to have spells written inside of burial chamber
 - tomb robbing "what the pyramid hid is empty"
 - end on a more positive note
     - "it is however good when man's build tombs"
-    - "Egypt will not be give over to sand"
+    - "Egypt will not be given over to sand"
+
+### Ankhtifi, nomarch from Edfu (S of Themes)
+- overseer of priests and nomarch
+    - typically combined secular and religious power
+- autobiography suggests widespread famine and economic distress, which he alleviated
+    - "I found the House of Khuu [Edfu] inundated like a marsh, abandoned by him who belonged to it, in the grip of a rebel...How happy was the day on which I found well-being in this nome!"
+    - "All of Upper Egypt was dying of hunger and people were eating their children, but I did not allow anyone to die of hunger in this nome."
+    - "The whole country has become like locusts going upstream and downstream...but never did I allow anybody in need to go from this nome to another. I am the hero without equal."
+    - people migrating to find better living conditions
+- tomb and pillars not perfectly shaped - not rectangular or round
+- crisis as opportunity
+- propaganda: people are helpless without rulers, the providers
+
+# Reconsolidation of Power and Beginning of Middle Kingdom
+- Theban Ascendancy in D11
+- capital moved from Memphis to Thebes
+    - new priesthood/cult
+    - Montu (war god) of Thebes
+    - Amun (hidden one) chief god of Thebes, eventually spreads to become dominant cult throughout country
+- Abydos temples to Osiris, association with Early Dynastic tombs
+- Heliopolitan influence remains: king still Horus, becomes Osiris at death
+
+## Dynasty 11
+- Theban ascendancy, seen at el-Tarif, the "Intefs necropolis"
+- Mentuhotep I poorly documented
+
+### Intef I (2134-2117) "the Great"
+- ancestor of kings who reunify 2 lands
+- Horus name in serekh: Sehertawy "He who brought peace to the two lands"
+- new architectural form _saff_ ('row') or terrace tomb, 300m x 54m
+    - named for pillars
+    - row of heavy, square pillars cut out of cliff face
+    - chapel and tomb both underground and behind
+- Mentuhotep II saff tomb ad Deir el-Bahri
+<br><br>
+- Intef II and Intef III fought Herakleopolitan D10 kings
+- Intef II's commander, Djary
+    - stele shows unusual, local "independent" style (local autonomy?)
+    - lower grade hieroglyph and image carving
+
+### Nebhepetra Mentuhotep II (2060-2010)
+- "Ra is the lord of the Rudder, Montu is satisfied"
+- use of _nesu-bity_, Son of Ra, Horus titles and overall return to royal form
+    - sedge plant
+    - son of the sun
+- reunified kingdom ~20 years into reign 2040
+- mortuary complex overshadowed by neighboring complex of Hatshepsut at Deir el-Bahri, Western Thebes
+    - first attempt to represent what Osiris means to the king in architecture
+    - rebirth and regeneration
+    - plant world - field of trees around ramp
+    - paint columns to represent trees and reeds
+    - sycamore and tamarisk trees in open courtyard (local trees)
+    - unique, influenced by saff tombs of Intefs
+    - King's tomb and statue niche
+    - Queens' tombs and niches inside
+    - earliest model coffin and bodies, _shabti_/_ushabti_ precursors in "Tombs of Royal Ladies"
+- secondary tomb
+    - "Horseman's Gate" found by Howard Carter
+    - Osiriform statues of Mentuhotep from Deir el-Bahari
+    - wearing red crown
+    - linen-wrapped to knees
+
+### Middle Kingdom begins with 2040 reunification
+- "tomb of warriors" at Deir el-Bahri
+    - found 60 bodies
+- well-preserved, linen wrapped without embalming
+- Egyptian spearmen and Nubian archers in D11 tomb of Mesehti
+
+### Meket-Ra Theban tombe
+- D11-12, 1920
+- saff tomb, similar to tombs of D11 kings - elite emulation
+- excavated by Metropolitan ad Cairo Museums
+- HE Winlock accidentally found hidden chamber with models
+- many models of daily life
+    - cattle census/display of wealth
+    - produce-bearing large _shabti_
+    - jars of beer
+    - 25 models of workshops
+    - carpentry shop, weaving on horizontal looms, granary, butchery, brewery/bakery
+    - fleet, canopy on boat, music & rowers
+    - technology
 
 ---
 #### quiz up to 2/16 lecture
-up to D0/D1
-orwell quote - propaganda
-egyptomania
-superposition/stratification
+- up to D0/D1
+- orwell quote - propaganda
+- egyptomania
+- superposition/stratification
+- designed for 20-25 min
 
 #### midterm
-Wadi al-Jarf papyrus from Khufu's era oldest papyrus
-know text excerpts
-Later recognized as "sages": Imhotep, King Khety, Neferty
+- post-midterm material: D1-12 beginning
+- Feb 21 through W 2/28, including writing systems
+- format like quiz, but longer
+- questions on literature
+- images on exam
+- designed for 50 min
+- --
+- Wadi al-Jarf papyrus from Khufu's era oldest papyrus
+- know text excerpts
+- Later recognized as "sages": Imhotep, King Khety, Neferty

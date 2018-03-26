@@ -656,10 +656,16 @@ in auxiliary position
 	- specificity: speaker has particular referent of expression in mind
 	- definite: speaker can expect hearer to understand which reference speaker is thinking of
 	- plural of indefinite pronoun is "unpronounced"
+- indefinites can be both specific and non-specific
+- noun phrases can be definite and non-specific
+	- when prediction
+		- If knight(x) & pulls sword from stone(x) -> will be king(x)
+	- generic
+		- If rat(x) -> mammal(x)
 
 | | indefinite | definite |
 | - | - | - |
-| non-specific| He wants to buy a car | -- |
+| non-specific| He wants to buy a car | The knight who pulls the sword from this stone will be king <br> The rat is a mammal |
 | specific | I don't think you have enough information to identify it | The moon set early last night |
 
 #### Subject vs Predicate
@@ -701,6 +707,104 @@ in auxiliary position
 	- spacial pointers, here/there
 	- temporal pointers, yesterday/now
 
+## Presupposition
+- if A presupposes B, A suggests B is true and also the truth of B is uncontroversial
+
+### Factive verbs
+- presuppose the truth of their complements
+- e.g. realize, regret, know (unlike claim, say)
+- He believes the water is polluted (but it's not)
+- He realizes the water is polluted (must be true)
+
+## Presupposition vs Entailment
+- presuppositions are invariant under negation
+- entailments disappear under negation
+
+#### Entailment
+- "This is a yellow pen" entails "This is yellow"
+- negation: "This is not a yellow pen" doesn't entail "This is yellow"
+	- entailment is gone
+
+#### Presupposition
+- "The man who left was his father" presupposes "A man left"
+- negation: "The man who left wasn't his father" still presupposes "A man left"
+
+#### Both
+- can't be canceled unless both are negated
+- "Joan regrets getting her PhD"
+- !"Joan regrets getting her PhD, but she didn't get it"
+	- can't cancel entailed assumption that she got her PhD
+- "Joan doesn't regret getting her PhD because in fact she didn't get it"
+	- negate assertion -> entailment disappears, only have a presupposition
+
+## Exceptions
+- we often don't speak literally
+- much of the time, utterances not intended to be interpreted literally
+- somehow able to 
+	- convey/receive messages ___
+	- ____ 
+- due to our ability to ___
+
+# Pragmatics
+- study of how language is used in particular contexts, to convey meanings and intentions
+- study of situational contributions to interpretations
+- guess what conversation partners know and what is reasonable to expect them to know
+
+## Conversation as a Contract
+#### Quality Assumptions
+- conversation partners not
+	- deliberately being deceitful
+	- ___
+	- ___
+- give them benefit of the doubt
+- search for interpretations that are consistent with implicit contract
+- willingness to look beyond the literal that allows us to express things figuratively
+- conversation partners as invested in success of the conversation as we are
+
+- necessary because
+	1. ___
+	2. ___
+	3. ___
+- allow us to contextually disambiguate ambiguities
+
+## Implicature
+- inferred additional meaning not literally from the sentence's meaning
+
+- utterances have locutionary force (meanings)
+- utterances also have illocutionary force (intent of the speaker)
+	- requests for information, promises, commands, etc...
+- e.g. "Can you pass the salt?" command as question
+- e.g. "It's hot in here" request to lower the thermostat
+- most commands in polite society disguised as other illocutionary types/acts (statements, questions)
+	- assertives: commit speaker to truth of expressed proposition
+	- directives: case hearer to take action (request, command, advice)
+	- commissives: commit speaker to future action (promise, oath)
+	- expressives: express speaker's attitudes/emotions towards proposition (congratulations, excuses, thanks)
+	- declarations: change reality in accord with proposition of declaration (baptism, pronouncing guilty, marriage)
+- don't take them at face value because principles of inference allow us to understand intended meaning
+- _implicature_ is part of meaning of sentence which goes beyond its truth values
+- __
+
+## Conversational Principles
+- conversations we participate in are governed by __________________
+- trust interlocuters to contribute meaning
+- existence of implicit social contract that allows us to understand nonliteral meanings
+- taken advantage of by advertisers
+- governed by Grice's Conversational Maxims
+
+### Grice's Conversational Maxims
+1. Maxims of Quantity
+- say as much as is required
+- don't say more than is required
+- e.g. "I speak three languages" interpreted to mean "exactly three"
+	- implicature, not entailment
+2. Maxims of Quality
+- say what's true and what you have evidence for
+- often broken for figurative speech
+3. Maxim of Relevance
+- be relevant
+4. Maxim of Quantity
+
 ---
 ##### Prelim 1 content
 1. Phonetics
@@ -719,3 +823,18 @@ in auxiliary position
 - clicks, ingressive/uvular/pharyngeal/consonants, feet, stress
 
 3/14 guest lecture
+
+---
+##### Prelim 2 content
+1. Syntax
+- applying syntactic tests to argue for the constituent structure of an English sentence
+	- He rolled the ball into the room
+- Draw a simple syntactic tree (of a language that may not be English)
+2. Semantics and Pragmatics
+- entailments, presuppositions, how to tell the difference
+- explaining non-literal use of utterances in terms of Grice's Conversational Principles
+- word relationships
+3. Historical Linguistics
+- types of sound change
+- comparative reconstruction
+	- reversing effects of sound change by comparing related languages, in order to reconstruct the parent language
