@@ -1,3 +1,5 @@
+![Chapter 1](https://github.com/ey92/notes/blob/master/1101/readingCh1.md) ![Chapter 2](https://github.com/ey92/notes/blob/master/1101/readingCh2.md) ![Chapter 3](https://github.com/ey92/notes/blob/master/1101/readingCh3.md) ![Chapter 4](https://github.com/ey92/notes/blob/master/1101/readingCh4.md) ![Chapter 5](https://github.com/ey92/notes/blob/master/1101/readingCh5.md) ![Chapter 6](https://github.com/ey92/notes/blob/master/1101/readingCh6.md) ![Chapter 7](https://github.com/ey92/notes/blob/master/1101/readingCh7.md) ![Chapter 13](https://github.com/ey92/notes/blob/master/1101/readingCh13.md)
+
 # Chapter 6: Semantics
 - linguistic meaning and how expressions convey meanings
 - what are linguistic meanings and their relationship to language user and external world
