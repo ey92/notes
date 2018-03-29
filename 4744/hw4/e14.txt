@@ -22,13 +22,13 @@ define vowel: Lx[Pos(x) & Vow(C(x))]
 define consonant: Lx[Pos(x) & Cns(C(x))]
 define cap: Lx[Pos(x) & Cap(C(x))]
 define glide: Lx[Pos(x) & Gli(C(x))]
-define adjacent: LyLx[D(x,y)]
+define precedes: LyLx[D(x,y)]
+define follows: LyLx[D(y,x)]
 # Used in NPs such as "letter three".
 define letter: Lx.x
 # The preposition "to" is the constant function on 
 # individuals.
 define to: Lx.x
-define double: LPLyLx.Ey[P(x) & P(y) & D(x,y)]
 # "is" and "a" are constant function on sets of individuals.
 define is: LP.P
 define a: LP.P
@@ -38,8 +38,8 @@ define if: LpLq[p -> q]
 define and-et: LPLQLx[Q(x) & P(x)]
 
 define not: LPLQ.Ax.[P(x) -> ~Q(x)]
-define no: LP.Ax.[~P(x)]
-
+#define no: LP.Ax.[~P(x)]
+define no : LPLR.Lx.Ay[P(y) -> ~[R(y)(x)]]
 # Words naming string positions.
 define one: N1 
 define two: N2
@@ -49,7 +49,7 @@ define four: N4
 # Quantificational determiners.
 define some : LPLQ.Ex.[P(x) & Q(x)]
 #define every : LPLQ.Ax.[P(x) -> Q(x)]
-define every: LP.P
+define every : LPLR.Lx.Ay[P(y) -> R(x)(y)]
 
 # Dummy function that lets the Plop code find the
 # result.
@@ -59,4 +59,4 @@ exercise tree
 title Example 1
 directions letter three is a vowel
 
-[result [.S  [letter is not double vowel]]]
+[result [.S  [letter four] [.VP [.V precedes] [.A [no consonant]]]]]
