@@ -1,0 +1,126 @@
+\documentclass{article}
+\usepackage[a3paper,left=0in,landscape]{geometry}
+\usepackage{qtree}
+\def\qtreepadding{3pt}
+\begin{document}
+
+\Tree
+[.{\\
+$t$
+\\
+$\mbox{result}(\exists x [\mbox{Pos}(x) \land \mbox{Vow}(C(x)) \land \mbox{Pos}(x) \land \mbox{Cap}(C(x))])$
+}  
+{result\\$tt$\\
+$\lambda p.\mbox{result}(p)$
+ } 
+[.{S\\
+$t$
+\\
+$\exists x [\mbox{Pos}(x) \land \mbox{Vow}(C(x)) \land \mbox{Pos}(x) \land \mbox{Cap}(C(x))]$
+}  
+[.{\\
+$\langle et,t\rangle $
+\\
+$\lambda Q.\exists x [\mbox{Pos}(x) \land \mbox{Vow}(C(x)) \land Q(x)]$
+}  
+{some\\$\langle et,\langle et,t\rangle \rangle $\\
+$\lambda P.\lambda Q.\exists x [P(x) \land Q(x)]$
+ } 
+{vowel\\$et$\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Vow}(C(x))]$
+ } ]  
+[.{VP\\
+$et$
+\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Cap}(C(x))]$
+}  
+[.{V\\
+$\langle et,et\rangle $
+\\
+$\lambda P.P$
+}  
+{is\\$\langle et,et\rangle $\\
+$\lambda P.P$
+ } ]  
+[.{A\\
+$et$
+\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Cap}(C(x))]$
+}  
+[.{\\
+$et$
+\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Cap}(C(x))]$
+}  
+{a\\$\langle et,et\rangle $\\
+$\lambda P.P$
+ } 
+{cap\\$et$\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Cap}(C(x))]$
+ } ]  ]  ]  ]  ] 
+
+\end{document}
+
+\documentclass{article}
+\usepackage[a3paper,left=0in,landscape]{geometry}
+\usepackage{qtree}
+\def\qtreepadding{3pt}
+\begin{document}
+
+\Tree
+[.{\\
+$t$
+\\
+$\mbox{result}(\exists x [\mbox{Pos}(x) \land \mbox{Vow}(C(x)) \land \mbox{Pos}(x) \land \mbox{Cap}(C(x))])$
+}  
+{result\\$tt$\\
+$\lambda p.\mbox{result}(p)$
+ } 
+[.{S\\
+$t$
+\\
+$\exists x [\mbox{Pos}(x) \land \mbox{Vow}(C(x)) \land \mbox{Pos}(x) \land \mbox{Cap}(C(x))]$
+}  
+[.{\\
+$\langle et,t\rangle $
+\\
+$\lambda Q.\exists x [\mbox{Pos}(x) \land \mbox{Vow}(C(x)) \land Q(x)]$
+}  
+{some\\$\langle et,\langle et,t\rangle \rangle $\\
+$\lambda P.\lambda Q.\exists x [P(x) \land Q(x)]$
+ } 
+{vowel\\$et$\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Vow}(C(x))]$
+ } ]  
+[.{VP\\
+$et$
+\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Cap}(C(x))]$
+}  
+[.{V\\
+$\langle et,et\rangle $
+\\
+$\lambda P.P$
+}  
+{is\\$\langle et,et\rangle $\\
+$\lambda P.P$
+ } ]  
+[.{A\\
+$et$
+\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Cap}(C(x))]$
+}  
+[.{\\
+$et$
+\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Cap}(C(x))]$
+}  
+{a\\$\langle et,et\rangle $\\
+$\lambda P.P$
+ } 
+{cap\\$et$\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Cap}(C(x))]$
+ } ]  ]  ]  ]  ] 
+
+\end{document}
+

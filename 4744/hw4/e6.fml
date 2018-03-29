@@ -1,0 +1,2 @@
+true all y.(~D(y,N1)) & Pos(N1) & Cns(C(N1)).
+

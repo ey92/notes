@@ -791,6 +791,7 @@ in auxiliary position
 - existence of implicit social contract that allows us to understand nonliteral meanings
 - taken advantage of by advertisers
 - governed by Grice's Conversational Maxims
+- frees speakers from making purely literal utterances
 
 ### Grice's Conversational Maxims
 1. Maxims of Quantity
@@ -802,8 +803,36 @@ in auxiliary position
 - say what's true and what you have evidence for
 - often broken for figurative speech
 3. Maxim of Relevance
+- make calculations about what's going on in co-locqutor's head
+- don't ask for information you already have
 - be relevant
 4. Maxim of Quantity
+
+
+## Speech acts
+- saying something is a speech act
+- governed by 3 principles
+1. illocutionary force: speaker's intention is interpreted pragmatically by hearer
+	- assertion
+	- imperative
+	- interrogative
+2. conversational principles: hearer's expectations of the speaker
+3. presuppositions: assumptions both the speaker and the hearer have to make for the utterance to make sense
+4. performative: performing the speech act makes them true (declarations, promises, etc)
+5. metaphor: describing one thing in terms of something else
+
+### Metaphor
+- orientational metaphors: social hierarchies, mood, morality
+- much language is metaphorical
+- facilitate understanding of the world
+- cultural schemata
+- we tend to anthropomorphize the world and interpret it in terms of our bodies
+- synesthesia: mixing senses; get sensory input from one sense, but feel sensory output from other senses
+
+#### Structural Metaphors
+- the metaphor we choose shapes how we think about object being described (Lakoff)
+- if mind is a container, learning is the process of filling that container with knowledge
+- metaphors highlight certain aspects of things we understand in terms of them as well as hide other aspects
 
 ---
 ##### Prelim 1 content

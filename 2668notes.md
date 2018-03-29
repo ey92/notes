@@ -1442,6 +1442,117 @@ first to have spells written inside of burial chamber
     - fleet, canopy on boat, music & rowers
     - technology
 
+### Sankhkara Mentuhotep III 2010-1998
+- "who gives life to the ka of Ra"
+- starts 3 Theban royal traditions
+1. Maritime expeditions to Punt, via Wadi Hammamat and the Red Sea
+2. first rock-cut tomb in Western Thebes (leads to Valley of the Kings, picked up in D18)
+    - minimal surface structure, compared to earlier royal tombs
+3. earliest temple pylons, overlooking Valley of the Kings
+    - later pylons were key temple components in New Kingdom and after
+
+### Nebtawyra Mentuhotep IV 1997-1991
+- quarrying in Wadi Hammamat (Eastern Desert)
+- vizier's omens in desert
+    - birth atop sarcophagus and full well (symbolic of rebirth)
+    - rainstorm uncovered well of water in Eastern desert
+    - Amenemhet I vizier (who became next pharaoh when Mentuhotep IV failed to produce heir)
+
+## Dynasty 12
+- capital at Itjtawy, near Lisht
+- "seizer of Two Lands"
+- Amenemhets I-IV backed by Amun priesthood "Amun at the Fore"
+- religious-cultural center remains at Thebes
+- stable & more accurate record-keeping, can pin events down to the year
+- Amun priesthood begins taking over & sharing power with king
+
+### Wehemmesu Amenemhet I
+- "repeater of births" or "renaissance"
+- gained throne via propaganda and marriage
+- hero of _Prophecies of Neferti_
+- assassinated
+- push border down past 1st cataract
+- establish fortified outposts
+    - self-sufficient community
+    - throughout lower Nubia
+- _Instruction of Amenemhet_ for Senusret I
+    - unique in that it mentions regicide
+    - "It was supper, night had come. As my heart began to follow sleep, weapons for my protection were turned against me."<br>"Thus bloodshed occurred while I was without you; before the courtiers had heard I would hand over to you; before I had sat with you so as to advise you."
+        - warns of harem of conspiracy
+        - don't trust anybody, cynicism, king's death causes isfet; 'behold much hatred is in the streets'
+    - contrasts from _Instruction of Merykara_
+        - "I gave to the beggar, I raised the orphan<br>
+        --<br>
+        --<br>
+        --"
+    - instead of being a loved benevolent ruler, he is lonely and must be feared
+
+# Middle Kingdom Renaissance
+- period of greater humanity, in literature, art
+- individual matters more
+- _Satire of the Trades_
+- _Tale of Sinuhe_
+- _Shipwrecked Sailor_
+- _Dispute between a Man and His Ba_
+- _Instructions of ..._
+- _Eloquent Peasant_
+- "careworn" kings in sculpture, esp Senusret III
+- how much is royal propaganda
+- recurring theme, terrible but just king
+
+## Tale of Sinuhe
+- protagonist: offical flees palace in aftermath of Amenemhet I's assasination
+- life is good in Asia, but Egyptians must be buried in Egypt & doesn't know how to return home
+- existential need to return, will he be allowed to come home?
+- Senusret secures Sinuhe's pardon in song:
+- "He made the flight in fear of you,<br>He left the land in dread of you!<br>A face that sees you shall not pale, Eyes that see you shall not fear!"
+- gets a pyramid
+- "Day of Mooring" - death
+- message: great to be an Egyptian citizen
+- king is fearsome, but just
+
+## Eloquent Peasant
+- everyone has a shot at making it up to the top of society
+- fearsome but just king theme
+- Khun-anup peasant wronged by Nemtynakht official
+- Rensi reports to magistrates who decide to protect Nemtynakht
+- metaphors, poetry and rhetoric: nautical lingo, flattery
+- Rensi is so impressed, he reports rhetoric to the king (likely Nubkaure Amenemhet II)
+    - secretly issues rations to peasant and his family
+- *nine* petitions spoken to Rensi, a nomarch
+    - 1st petition includes play on _mu'a_ and _ma'u_ (justice and fair wind)
+    - mixtures of flattery (compare with high gods) and accusations
+    - accuses magistrates, then Rensi of being corrupt (3rd petition) -> beaten
+    - following petitions accuse more corruption, compare Rensi to spear fisherman (5th petition)
+        - spear metaphor: spear to protect people, but used to protect corrupt official
+    - reversed principle of justice with inversions (6th petition)
+        - "You are learned, skilled, accomplished, But not in order to plunder! You should be the model for all men, But your affairs are crooked! The standard for all men cheats the whole land! The vinter of evil waters his plot with crimes, until his plot sprouts falsehood, his estate flows with crime"
+    - starting to wear out on 7th petition
+    - 8th and 9th petitions: begin lecturing Rensi about justice
+        - Khun-anup instructs Rensi ans asyas justice is product of individual's words, follows one into afterlife
+        - The tongue, not just scale is source of justice (how just people are come from the tongue - their judgments, utterances, etc)
+        - continue petitioning in afterlife to Anubis
+- Nemtynakht arraigned
+- rhetoric and justice are highly prized
+- society is just, peasant can win
+
+## Shipwrecked Sailor
+- pessimistic version of Sinuhe
+- against backdrop of Red Sea trade with Punt
+- poetics: adventure, tragedy, redemption
+- 2 stories within 3rd story: serpent's tale within 1st captain (now attendant)'s tail within 2nd captain's tale
+- hidden meanings
+- two captains, two shipwrecks
+    - 2nd captain must face pharaoh, 1st did in the past with success
+        - advice on apology to pharaoh: be humble and hear him out
+        - gold, lapis serpent also survived catastrophe, enriched 1st captain
+            - serpent also lost family (allegory for king, Senusret I)
+        - became attendant for king
+    - "don't make an effort my friend; who would give water at dawn to a goose that will be slaughtered in the morning?"
+        - missing the point and lost in despair
+- wisdom not always spoon-fed
+- infer that king will be just
+
 ---
 #### quiz up to 2/16 lecture
 - up to D0/D1

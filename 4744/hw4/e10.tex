@@ -1,0 +1,252 @@
+\documentclass{article}
+\usepackage[a3paper,left=0in,landscape]{geometry}
+\usepackage{qtree}
+\def\qtreepadding{3pt}
+\begin{document}
+
+\Tree
+[.{\\
+$t$
+\\
+$\mbox{result}(\exists x [\mbox{Pos}(x) \land \mbox{Vow}(C(x)) \land \forall y[(\mbox{Pos}(y) \land \mbox{Cns}(C(y))) \rightarrow D(y,x)] \land D(x,\mbox{N2})])$
+}  
+{result\\$tt$\\
+$\lambda p.\mbox{result}(p)$
+ } 
+[.{S\\
+$t$
+\\
+$\exists x [\mbox{Pos}(x) \land \mbox{Vow}(C(x)) \land \forall y[(\mbox{Pos}(y) \land \mbox{Cns}(C(y))) \rightarrow D(y,x)] \land D(x,\mbox{N2})]$
+}  
+[.{\\
+$\langle et,t\rangle $
+\\
+$\lambda Q.\exists x [\mbox{Pos}(x) \land \mbox{Vow}(C(x)) \land \forall y[(\mbox{Pos}(y) \land \mbox{Cns}(C(y))) \rightarrow D(y,x)] \land Q(x)]$
+}  
+{some\\$\langle et,\langle et,t\rangle \rangle $\\
+$\lambda P.\lambda Q.\exists x [P(x) \land Q(x)]$
+ } 
+[.{\\
+$et$
+\\
+$\lambda z.[\mbox{Pos}(z) \land \mbox{Vow}(C(z)) \land \forall y[(\mbox{Pos}(y) \land \mbox{Cns}(C(y))) \rightarrow D(y,z)]]$
+}  
+{vowel\\$et$\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Vow}(C(x))]$
+ } 
+[.{VP\\
+$et$
+\\
+$\lambda x.\forall y[(\mbox{Pos}(y) \land \mbox{Cns}(C(y))) \rightarrow D(y,x)]$
+}  
+[.{AP\\
+$et$
+\\
+$\lambda x.\forall y[(\mbox{Pos}(y) \land \mbox{Cns}(C(y))) \rightarrow D(y,x)]$
+}  
+[.{AP\\
+$et$
+\\
+$\lambda x.\forall y[(\mbox{Pos}(y) \land \mbox{Cns}(C(y))) \rightarrow D(y,x)]$
+}  
+[.{\\
+$\langle e,et\rangle $
+\\
+$\lambda y.\lambda x.[D(x,y)]$
+}  
+{adjacent\\$\langle e,et\rangle $\\
+$\lambda y.\lambda x.[D(x,y)]$
+ } 
+{to-q\\$\langle \langle e,et\rangle ,\langle e,et\rangle \rangle $\\
+$\lambda R.R$
+ } ]  
+[.{A\\
+$\langle \langle e,et\rangle ,et\rangle $
+\\
+$\lambda R.\lambda x.\forall y[(\mbox{Pos}(y) \land \mbox{Cns}(C(y))) \rightarrow (R(x) (y))]$
+}  
+[.{\\
+$\langle \langle e,et\rangle ,et\rangle $
+\\
+$\lambda R.\lambda x.\forall y[(\mbox{Pos}(y) \land \mbox{Cns}(C(y))) \rightarrow (R(x) (y))]$
+}  
+{every\\$\langle et,\langle \langle e,et\rangle ,et\rangle \rangle $\\
+$\lambda P.\lambda R.\lambda x.\forall y[P(y) \rightarrow (R(x) (y))]$
+ } 
+{consonant\\$et$\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Cns}(C(x))]$
+ } ]  ]  ]  ]  ]  ]  ]  
+[.{VP\\
+$et$
+\\
+$\lambda x.[D(x,\mbox{N2})]$
+}  
+[.{V\\
+$\langle et,et\rangle $
+\\
+$\lambda P.P$
+}  
+{is\\$\langle et,et\rangle $\\
+$\lambda P.P$
+ } ]  
+[.{AP\\
+$et$
+\\
+$\lambda x.[D(x,\mbox{N2})]$
+}  
+{adjacent\\$\langle e,et\rangle $\\
+$\lambda y.\lambda x.[D(x,y)]$
+ } 
+[.{AP\\
+$e$
+\\
+$\mbox{N2}$
+}  
+{to\\$ee$\\
+$\lambda x.x$
+ } 
+[.{A\\
+$e$
+\\
+$\mbox{N2}$
+}  
+[.{\\
+$e$
+\\
+$\mbox{N2}$
+}  
+{letter\\$ee$\\
+$\lambda x.x$
+ } 
+{two\\$e$\\
+$\mbox{N2}$
+ } ]  ]  ]  ]  ]  ]  ] 
+
+\end{document}
+
+\documentclass{article}
+\usepackage[a3paper,left=0in,landscape]{geometry}
+\usepackage{qtree}
+\def\qtreepadding{3pt}
+\begin{document}
+
+\Tree
+[.{\\
+$t$
+\\
+$\mbox{result}(\exists x [\mbox{Pos}(x) \land \mbox{Vow}(C(x)) \land \forall y[(\mbox{Pos}(y) \land \mbox{Cns}(C(y))) \rightarrow D(y,x)] \land D(x,\mbox{N2})])$
+}  
+{result\\$tt$\\
+$\lambda p.\mbox{result}(p)$
+ } 
+[.{S\\
+$t$
+\\
+$\exists x [\mbox{Pos}(x) \land \mbox{Vow}(C(x)) \land \forall y[(\mbox{Pos}(y) \land \mbox{Cns}(C(y))) \rightarrow D(y,x)] \land D(x,\mbox{N2})]$
+}  
+[.{\\
+$\langle et,t\rangle $
+\\
+$\lambda Q.\exists x [\mbox{Pos}(x) \land \mbox{Vow}(C(x)) \land \forall y[(\mbox{Pos}(y) \land \mbox{Cns}(C(y))) \rightarrow D(y,x)] \land Q(x)]$
+}  
+{some\\$\langle et,\langle et,t\rangle \rangle $\\
+$\lambda P.\lambda Q.\exists x [P(x) \land Q(x)]$
+ } 
+[.{\\
+$et$
+\\
+$\lambda z.[\mbox{Pos}(z) \land \mbox{Vow}(C(z)) \land \forall y[(\mbox{Pos}(y) \land \mbox{Cns}(C(y))) \rightarrow D(y,z)]]$
+}  
+{vowel\\$et$\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Vow}(C(x))]$
+ } 
+[.{VP\\
+$et$
+\\
+$\lambda x.\forall y[(\mbox{Pos}(y) \land \mbox{Cns}(C(y))) \rightarrow D(y,x)]$
+}  
+[.{AP\\
+$et$
+\\
+$\lambda x.\forall y[(\mbox{Pos}(y) \land \mbox{Cns}(C(y))) \rightarrow D(y,x)]$
+}  
+[.{AP\\
+$et$
+\\
+$\lambda x.\forall y[(\mbox{Pos}(y) \land \mbox{Cns}(C(y))) \rightarrow D(y,x)]$
+}  
+[.{\\
+$\langle e,et\rangle $
+\\
+$\lambda y.\lambda x.[D(x,y)]$
+}  
+{adjacent\\$\langle e,et\rangle $\\
+$\lambda y.\lambda x.[D(x,y)]$
+ } 
+{to-q\\$\langle \langle e,et\rangle ,\langle e,et\rangle \rangle $\\
+$\lambda R.R$
+ } ]  
+[.{A\\
+$\langle \langle e,et\rangle ,et\rangle $
+\\
+$\lambda R.\lambda x.\forall y[(\mbox{Pos}(y) \land \mbox{Cns}(C(y))) \rightarrow (R(x) (y))]$
+}  
+[.{\\
+$\langle \langle e,et\rangle ,et\rangle $
+\\
+$\lambda R.\lambda x.\forall y[(\mbox{Pos}(y) \land \mbox{Cns}(C(y))) \rightarrow (R(x) (y))]$
+}  
+{every\\$\langle et,\langle \langle e,et\rangle ,et\rangle \rangle $\\
+$\lambda P.\lambda R.\lambda x.\forall y[P(y) \rightarrow (R(x) (y))]$
+ } 
+{consonant\\$et$\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Cns}(C(x))]$
+ } ]  ]  ]  ]  ]  ]  ]  
+[.{VP\\
+$et$
+\\
+$\lambda x.[D(x,\mbox{N2})]$
+}  
+[.{V\\
+$\langle et,et\rangle $
+\\
+$\lambda P.P$
+}  
+{is\\$\langle et,et\rangle $\\
+$\lambda P.P$
+ } ]  
+[.{AP\\
+$et$
+\\
+$\lambda x.[D(x,\mbox{N2})]$
+}  
+{adjacent\\$\langle e,et\rangle $\\
+$\lambda y.\lambda x.[D(x,y)]$
+ } 
+[.{AP\\
+$e$
+\\
+$\mbox{N2}$
+}  
+{to\\$ee$\\
+$\lambda x.x$
+ } 
+[.{A\\
+$e$
+\\
+$\mbox{N2}$
+}  
+[.{\\
+$e$
+\\
+$\mbox{N2}$
+}  
+{letter\\$ee$\\
+$\lambda x.x$
+ } 
+{two\\$e$\\
+$\mbox{N2}$
+ } ]  ]  ]  ]  ]  ]  ] 
+
+\end{document}
+

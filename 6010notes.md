@@ -878,6 +878,92 @@ missed class 3/14, 3/19
         - WaPo 2016 experiment: clearing cookies gave lower average price
     - caveat: legal issues basis of race, gender, age, handicap
 
+missed class 3/26
+
+# Security Technologies
+## Site Security
+- critical as businesses open up their internal systems to external constituencies
+- EDI
+- avoid revealing to everyone
+- firewall technologies act as a gateway
+    - separates freely accessible from restricted
+    - monitors and controls access
+    - **packet filters**
+        - checks source and destination
+        - block DOS attacks
+    - **proxy servers**
+        - check message contents and track the resources utilized
+        - useful in maintaining security at resource level
+
+### Transit Security
+- travel over internet
+- every server on path is security threat because of sniffer programs
+- can be installed on any server with a court order or by employer with no court order
+- Verizon & AT&T sued for installing sniffers without court order to inspect all international communication at request of government
+    - Sprint refused
+- 3 issues: loss, privacy, integrity
+- loss
+    - not a privacy issue
+    - if lost, no one can read it
+- privacy
+    - message is only read by recipient and no one else
+    - tools: electronic envelopes
+- integrity
+    - message integrity: message arrived correctly
+    - sender integrity: sender identified correctly
+
+### 5 Tools for Privacy and Security
+- all based on encryption
+1. symmetric keys
+    - oldest encryption
+    - multiply by key to produce ciphertext
+    - divide by key to decode ciphertext
+    - provides privacy, integrity
+    - 2 problems
+        - **spontaneity** - prior exchange of keys required, but needs to be kept secret
+        - **scalability** - number of keys is a problem
+        - N people need N(N-1)/2 distinct keys to communicate
+        - effective solution for long-term trading partners
+2. symmetric keys with central authority
+    - symmetric keys exchanged with central authority
+    - securely communicate with central authority
+    - session key created by central authority and communicated to parties securely
+    - parties communicate using session key
+    - more spontaneous because you don't have to exchange keys with everyone but the central authority
+    - reduces number of keys to N
+    - central authority only good for local network
+3. asymmetric keys
+    - everyone has 2 keys
+    - public key is published in directly
+    - private key is secret
+        - message encoded by one can only be decoded by the other
+        - based on number theory, developed for internet
+        - two numbers related but not computable from each other(impossible), but too difficult to compute
+        - 437 = 19 x 23
+        - for very large numbers, very difficult to compute the prime constituents
+        - public key: 437; private key: 23,19
+        - currently use 1024-bit numbers
+        - US govt bans exporting encryption programs using keys > 128 bits
+    - encode with public key, decode with private key
+        - completely private, but anyone else can intercept message and replace it with public key
+    - encode with private key, decode with public key
+        - has integrity, but anyone can read the message
+    - encode with sender's private key and recipient's public key; decode with recipient's private key and sender's public key
+        - has both privacy and integrity
+    - need 2N keys
+4. asymmetric keys with digest(hash)
+    - digest = number computed from message, using public formula, much smaller than message
+    - if message changes, digest very likely to also change
+    - sender computes digest, then encode with private key
+    - still doesn't scale well
+5. symmetric keys + asymmetric keys + 3-way handshake
+    - only businesses have public/private key pairs
+    - consumers don't have individual pairs
+    - customer generates a random number, called session key, and communicates it to the business privately, encoded with the business's public key
+    - can use symmetric key for secure communication just for that transaction or session
+    - https protocol
+    - TCP 3-way handshake
+
 ---
 ### A0 CTB
 - products: bagel-based meals, fresh desserts, drinks

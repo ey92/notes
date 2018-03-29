@@ -1,0 +1,97 @@
+\documentclass{article}
+\usepackage[a3paper,left=0in,landscape]{geometry}
+\usepackage{qtree}
+\def\qtreepadding{3pt}
+\begin{document}
+
+\Tree
+[.{\\
+$t$
+\\
+$\mbox{result}(\forall x [(\mbox{Pos}(x) \land \mbox{Vow}(C(x)) \land D(x,\mbox{N2})) \rightarrow (\mbox{Pos}(x) \land \mbox{Cap}(C(x)))])$
+}  
+{result\\$tt$\\
+$\lambda p.\mbox{result}(p)$
+ } 
+[.{S\\
+$t$
+\\
+$\forall x [(\mbox{Pos}(x) \land \mbox{Vow}(C(x)) \land D(x,\mbox{N2})) \rightarrow (\mbox{Pos}(x) \land \mbox{Cap}(C(x)))]$
+}  
+[.{\\
+$\langle et,t\rangle $
+\\
+$\lambda Q.\forall x [(\mbox{Pos}(x) \land \mbox{Vow}(C(x)) \land D(x,\mbox{N2})) \rightarrow Q(x)]$
+}  
+{every\\$\langle et,\langle et,t\rangle \rangle $\\
+$\lambda P.\lambda Q.\forall x [P(x) \rightarrow Q(x)]$
+ } 
+[.{\\
+$et$
+\\
+$\lambda z.[\mbox{Pos}(z) \land \mbox{Vow}(C(z)) \land D(z,\mbox{N2})]$
+}  
+{vowel\\$et$\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Vow}(C(x))]$
+ } 
+[.{\\
+$et$
+\\
+$\lambda x.[D(x,\mbox{N2})]$
+}  
+[.{\\
+$et$
+\\
+$\lambda x.[D(x,\mbox{N2})]$
+}  
+{adjacent\\$\langle e,et\rangle $\\
+$\lambda y.\lambda x.[D(x,y)]$
+ } 
+[.{\\
+$e$
+\\
+$\mbox{N2}$
+}  
+{to\\$ee$\\
+$\lambda x.x$
+ } 
+[.{\\
+$e$
+\\
+$\mbox{N2}$
+}  
+{letter\\$ee$\\
+$\lambda x.x$
+ } 
+{two\\$e$\\
+$\mbox{N2}$
+ } ]  ]  ]  ]  ]  ]  
+[.{VP\\
+$et$
+\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Cap}(C(x))]$
+}  
+[.{V\\
+$\langle et,et\rangle $
+\\
+$\lambda P.P$
+}  
+{is\\$\langle et,et\rangle $\\
+$\lambda P.P$
+ } ]  
+[.{A\\
+$et$
+\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Cap}(C(x))]$
+}  
+[.{\\
+$et$
+\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Cap}(C(x))]$
+}  
+{cap\\$et$\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Cap}(C(x))]$
+ } ]  ]  ]  ]  ] 
+
+\end{document}
+

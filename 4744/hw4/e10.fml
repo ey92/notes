@@ -1,0 +1,2 @@
+true ex x. (Pos(x) & Vow(C(x)) & all y.((Pos(y) & Cns(C(y))) -> D(y,x)) & D(x,N2)).
+

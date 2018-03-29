@@ -1,0 +1,408 @@
+\documentclass{article}
+\usepackage[a3paper,left=0in,landscape]{geometry}
+\usepackage{qtree}
+\def\qtreepadding{3pt}
+\begin{document}
+
+\Tree
+[.{\\
+$t$
+\\
+$\mbox{result}(\forall y[\lnotD(y,\mbox{N1})] \land \mbox{Pos}(\mbox{N1}) \land \mbox{Cns}(C(\mbox{N1})))$
+}  
+{result\\$tt$\\
+$\lambda p.\mbox{result}(p)$
+ } 
+[.{S\\
+$t$
+\\
+$\forall y[\lnotD(y,\mbox{N1})] \land \mbox{Pos}(\mbox{N1}) \land \mbox{Cns}(C(\mbox{N1}))$
+}  
+[.{\\
+$e$
+\\
+$\mbox{N1}$
+}  
+{letter\\$ee$\\
+$\lambda x.x$
+ } 
+{one\\$e$\\
+$\mbox{N1}$
+ } ]  
+[.{\\
+$et$
+\\
+$\lambda x.[\forall y[\lnotD(y,x)] \land \mbox{Pos}(x) \land \mbox{Cns}(C(x))]$
+}  
+[.{VP\\
+$et$
+\\
+$\lambda x.\forall y[\lnotD(y,x)]$
+}  
+[.{\\
+$et$
+\\
+$\lambda x.\forall y[\lnotD(y,x)]$
+}  
+[.{V\\
+$\langle et,et\rangle $
+\\
+$\lambda P.P$
+}  
+{is\\$\langle et,et\rangle $\\
+$\lambda P.P$
+ } ]  
+[.{A\\
+$et$
+\\
+$\lambda x.\forall y[\lnotD(y,x)]$
+}  
+{initial\\$et$\\
+$\lambda x.\forall y[\lnotD(y,x)]$
+ } ]  ]  ]  
+[.{\\
+$\langle et,et\rangle $
+\\
+$\lambda Q.\lambda x.[Q(x) \land \mbox{Pos}(x) \land \mbox{Cns}(C(x))]$
+}  
+{and-et\\$\langle et,\langle et,et\rangle \rangle $\\
+$\lambda P.\lambda Q.\lambda x.[Q(x) \land P(x)]$
+ } 
+[.{VP\\
+$et$
+\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Cns}(C(x))]$
+}  
+[.{V\\
+$\langle et,et\rangle $
+\\
+$\lambda P.P$
+}  
+{is\\$\langle et,et\rangle $\\
+$\lambda P.P$
+ } ]  
+[.{A\\
+$et$
+\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Cns}(C(x))]$
+}  
+[.{\\
+$et$
+\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Cns}(C(x))]$
+}  
+{a\\$\langle et,et\rangle $\\
+$\lambda P.P$
+ } 
+{consonant\\$et$\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Cns}(C(x))]$
+ } ]  ]  ]  ]  ]  ]  ] 
+
+\end{document}
+
+\documentclass{article}
+\usepackage[a3paper,left=0in,landscape]{geometry}
+\usepackage{qtree}
+\def\qtreepadding{3pt}
+\begin{document}
+
+\Tree
+[.{\\
+$t$
+\\
+$\mbox{result}(\forall y[\lnotD(y,\mbox{N1})] \land \mbox{Pos}(\mbox{N1}) \land \mbox{Cns}(C(\mbox{N1})))$
+}  
+{result\\$tt$\\
+$\lambda p.\mbox{result}(p)$
+ } 
+[.{S\\
+$t$
+\\
+$\forall y[\lnotD(y,\mbox{N1})] \land \mbox{Pos}(\mbox{N1}) \land \mbox{Cns}(C(\mbox{N1}))$
+}  
+[.{\\
+$e$
+\\
+$\mbox{N1}$
+}  
+{letter\\$ee$\\
+$\lambda x.x$
+ } 
+{one\\$e$\\
+$\mbox{N1}$
+ } ]  
+[.{\\
+$et$
+\\
+$\lambda x.[\forall y[\lnotD(y,x)] \land \mbox{Pos}(x) \land \mbox{Cns}(C(x))]$
+}  
+[.{VP\\
+$et$
+\\
+$\lambda x.\forall y[\lnotD(y,x)]$
+}  
+[.{\\
+$et$
+\\
+$\lambda x.\forall y[\lnotD(y,x)]$
+}  
+[.{V\\
+$\langle et,et\rangle $
+\\
+$\lambda P.P$
+}  
+{is\\$\langle et,et\rangle $\\
+$\lambda P.P$
+ } ]  
+[.{A\\
+$et$
+\\
+$\lambda x.\forall y[\lnotD(y,x)]$
+}  
+{initial\\$et$\\
+$\lambda x.\forall y[\lnotD(y,x)]$
+ } ]  ]  ]  
+[.{\\
+$\langle et,et\rangle $
+\\
+$\lambda Q.\lambda x.[Q(x) \land \mbox{Pos}(x) \land \mbox{Cns}(C(x))]$
+}  
+{and-et\\$\langle et,\langle et,et\rangle \rangle $\\
+$\lambda P.\lambda Q.\lambda x.[Q(x) \land P(x)]$
+ } 
+[.{VP\\
+$et$
+\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Cns}(C(x))]$
+}  
+[.{V\\
+$\langle et,et\rangle $
+\\
+$\lambda P.P$
+}  
+{is\\$\langle et,et\rangle $\\
+$\lambda P.P$
+ } ]  
+[.{A\\
+$et$
+\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Cns}(C(x))]$
+}  
+[.{\\
+$et$
+\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Cns}(C(x))]$
+}  
+{a\\$\langle et,et\rangle $\\
+$\lambda P.P$
+ } 
+{consonant\\$et$\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Cns}(C(x))]$
+ } ]  ]  ]  ]  ]  ]  ] 
+
+\end{document}
+
+\documentclass{article}
+\usepackage[a3paper,left=0in,landscape]{geometry}
+\usepackage{qtree}
+\def\qtreepadding{3pt}
+\begin{document}
+
+\Tree
+[.{\\
+$t$
+\\
+$\mbox{result}(\forall y[\lnotD(y,\mbox{N1})] \land \mbox{Pos}(\mbox{N1}) \land \mbox{Cns}(C(\mbox{N1})))$
+}  
+{result\\$tt$\\
+$\lambda p.\mbox{result}(p)$
+ } 
+[.{S\\
+$t$
+\\
+$\forall y[\lnotD(y,\mbox{N1})] \land \mbox{Pos}(\mbox{N1}) \land \mbox{Cns}(C(\mbox{N1}))$
+}  
+[.{\\
+$e$
+\\
+$\mbox{N1}$
+}  
+{letter\\$ee$\\
+$\lambda x.x$
+ } 
+{one\\$e$\\
+$\mbox{N1}$
+ } ]  
+[.{\\
+$et$
+\\
+$\lambda x.[\forall y[\lnotD(y,x)] \land \mbox{Pos}(x) \land \mbox{Cns}(C(x))]$
+}  
+[.{VP\\
+$et$
+\\
+$\lambda x.\forall y[\lnotD(y,x)]$
+}  
+[.{\\
+$et$
+\\
+$\lambda x.\forall y[\lnotD(y,x)]$
+}  
+[.{V\\
+$\langle et,et\rangle $
+\\
+$\lambda P.P$
+}  
+{is\\$\langle et,et\rangle $\\
+$\lambda P.P$
+ } ]  
+[.{A\\
+$et$
+\\
+$\lambda x.\forall y[\lnotD(y,x)]$
+}  
+{initial\\$et$\\
+$\lambda x.\forall y[\lnotD(y,x)]$
+ } ]  ]  ]  
+[.{\\
+$\langle et,et\rangle $
+\\
+$\lambda Q.\lambda x.[Q(x) \land \mbox{Pos}(x) \land \mbox{Cns}(C(x))]$
+}  
+{and-et\\$\langle et,\langle et,et\rangle \rangle $\\
+$\lambda P.\lambda Q.\lambda x.[Q(x) \land P(x)]$
+ } 
+[.{VP\\
+$et$
+\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Cns}(C(x))]$
+}  
+[.{V\\
+$\langle et,et\rangle $
+\\
+$\lambda P.P$
+}  
+{is\\$\langle et,et\rangle $\\
+$\lambda P.P$
+ } ]  
+[.{A\\
+$et$
+\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Cns}(C(x))]$
+}  
+[.{\\
+$et$
+\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Cns}(C(x))]$
+}  
+{a\\$\langle et,et\rangle $\\
+$\lambda P.P$
+ } 
+{consonant\\$et$\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Cns}(C(x))]$
+ } ]  ]  ]  ]  ]  ]  ] 
+
+\end{document}
+
+\documentclass{article}
+\usepackage[a3paper,left=0in,landscape]{geometry}
+\usepackage{qtree}
+\def\qtreepadding{3pt}
+\begin{document}
+
+\Tree
+[.{\\
+$t$
+\\
+$\mbox{result}(\forall y[\lnotD(y,\mbox{N1})] \land \mbox{Pos}(\mbox{N1}) \land \mbox{Cns}(C(\mbox{N1})))$
+}  
+{result\\$tt$\\
+$\lambda p.\mbox{result}(p)$
+ } 
+[.{S\\
+$t$
+\\
+$\forall y[\lnotD(y,\mbox{N1})] \land \mbox{Pos}(\mbox{N1}) \land \mbox{Cns}(C(\mbox{N1}))$
+}  
+[.{\\
+$e$
+\\
+$\mbox{N1}$
+}  
+{letter\\$ee$\\
+$\lambda x.x$
+ } 
+{one\\$e$\\
+$\mbox{N1}$
+ } ]  
+[.{\\
+$et$
+\\
+$\lambda x.[\forall y[\lnotD(y,x)] \land \mbox{Pos}(x) \land \mbox{Cns}(C(x))]$
+}  
+[.{VP\\
+$et$
+\\
+$\lambda x.\forall y[\lnotD(y,x)]$
+}  
+[.{\\
+$et$
+\\
+$\lambda x.\forall y[\lnotD(y,x)]$
+}  
+[.{V\\
+$\langle et,et\rangle $
+\\
+$\lambda P.P$
+}  
+{is\\$\langle et,et\rangle $\\
+$\lambda P.P$
+ } ]  
+[.{A\\
+$et$
+\\
+$\lambda x.\forall y[\lnotD(y,x)]$
+}  
+{initial\\$et$\\
+$\lambda x.\forall y[\lnotD(y,x)]$
+ } ]  ]  ]  
+[.{\\
+$\langle et,et\rangle $
+\\
+$\lambda Q.\lambda x.[Q(x) \land \mbox{Pos}(x) \land \mbox{Cns}(C(x))]$
+}  
+{and-et\\$\langle et,\langle et,et\rangle \rangle $\\
+$\lambda P.\lambda Q.\lambda x.[Q(x) \land P(x)]$
+ } 
+[.{VP\\
+$et$
+\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Cns}(C(x))]$
+}  
+[.{V\\
+$\langle et,et\rangle $
+\\
+$\lambda P.P$
+}  
+{is\\$\langle et,et\rangle $\\
+$\lambda P.P$
+ } ]  
+[.{A\\
+$et$
+\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Cns}(C(x))]$
+}  
+[.{\\
+$et$
+\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Cns}(C(x))]$
+}  
+{a\\$\langle et,et\rangle $\\
+$\lambda P.P$
+ } 
+{consonant\\$et$\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Cns}(C(x))]$
+ } ]  ]  ]  ]  ]  ]  ] 
+
+\end{document}
+

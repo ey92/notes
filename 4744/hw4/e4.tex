@@ -1,0 +1,152 @@
+\documentclass{article}
+\usepackage[a3paper,left=0in,landscape]{geometry}
+\usepackage{qtree}
+\def\qtreepadding{3pt}
+\begin{document}
+
+\Tree
+[.{\\
+$t$
+\\
+$\mbox{result}(\forall x [([\mbox{Pos}(x) \land \mbox{Vow}(C(x))] \land \mbox{Cap}(C(x))) \rightarrow D(x,\mbox{N3})])$
+}  
+{result\\$tt$\\
+$\lambda p.\mbox{result}(p)$
+ } 
+[.{S\\
+$t$
+\\
+$\forall x [([\mbox{Pos}(x) \land \mbox{Vow}(C(x))] \land \mbox{Cap}(C(x))) \rightarrow D(x,\mbox{N3})]$
+}  
+[.{\\
+$\langle et,t\rangle $
+\\
+$\lambda Q.\forall x [([\mbox{Pos}(x) \land \mbox{Vow}(C(x))] \land \mbox{Cap}(C(x))) \rightarrow Q(x)]$
+}  
+{every\\$\langle et,\langle et,t\rangle \rangle $\\
+$\lambda P.\lambda Q.\forall x [P(x) \rightarrow Q(x)]$
+ } 
+{capV\\$et$\\
+$\lambda x.[[\mbox{Pos}(x) \land \mbox{Vow}(C(x))] \land \mbox{Cap}(C(x))]$
+ } ]  
+[.{VP\\
+$et$
+\\
+$\lambda x.[D(x,\mbox{N3})]$
+}  
+[.{V\\
+$\langle et,et\rangle $
+\\
+$\lambda P.P$
+}  
+{is\\$\langle et,et\rangle $\\
+$\lambda P.P$
+ } ]  
+[.{AP\\
+$et$
+\\
+$\lambda x.[D(x,\mbox{N3})]$
+}  
+{precedes\\$\langle e,et\rangle $\\
+$\lambda y.\lambda x.[D(x,y)]$
+ } 
+[.{\\
+$e$
+\\
+$\mbox{N3}$
+}  
+[.{A\\
+$e$
+\\
+$\mbox{N3}$
+}  
+[.{\\
+$e$
+\\
+$\mbox{N3}$
+}  
+{letter\\$ee$\\
+$\lambda x.x$
+ } 
+{three\\$e$\\
+$\mbox{N3}$
+ } ]  ]  ]  ]  ]  ]  ] 
+
+\end{document}
+
+\documentclass{article}
+\usepackage[a3paper,left=0in,landscape]{geometry}
+\usepackage{qtree}
+\def\qtreepadding{3pt}
+\begin{document}
+
+\Tree
+[.{\\
+$t$
+\\
+$\mbox{result}(\forall x [([\mbox{Pos}(x) \land \mbox{Vow}(C(x))] \land \mbox{Cap}(C(x))) \rightarrow D(x,\mbox{N3})])$
+}  
+{result\\$tt$\\
+$\lambda p.\mbox{result}(p)$
+ } 
+[.{S\\
+$t$
+\\
+$\forall x [([\mbox{Pos}(x) \land \mbox{Vow}(C(x))] \land \mbox{Cap}(C(x))) \rightarrow D(x,\mbox{N3})]$
+}  
+[.{\\
+$\langle et,t\rangle $
+\\
+$\lambda Q.\forall x [([\mbox{Pos}(x) \land \mbox{Vow}(C(x))] \land \mbox{Cap}(C(x))) \rightarrow Q(x)]$
+}  
+{every\\$\langle et,\langle et,t\rangle \rangle $\\
+$\lambda P.\lambda Q.\forall x [P(x) \rightarrow Q(x)]$
+ } 
+{capV\\$et$\\
+$\lambda x.[[\mbox{Pos}(x) \land \mbox{Vow}(C(x))] \land \mbox{Cap}(C(x))]$
+ } ]  
+[.{VP\\
+$et$
+\\
+$\lambda x.[D(x,\mbox{N3})]$
+}  
+[.{V\\
+$\langle et,et\rangle $
+\\
+$\lambda P.P$
+}  
+{is\\$\langle et,et\rangle $\\
+$\lambda P.P$
+ } ]  
+[.{AP\\
+$et$
+\\
+$\lambda x.[D(x,\mbox{N3})]$
+}  
+{precedes\\$\langle e,et\rangle $\\
+$\lambda y.\lambda x.[D(x,y)]$
+ } 
+[.{\\
+$e$
+\\
+$\mbox{N3}$
+}  
+[.{A\\
+$e$
+\\
+$\mbox{N3}$
+}  
+[.{\\
+$e$
+\\
+$\mbox{N3}$
+}  
+{letter\\$ee$\\
+$\lambda x.x$
+ } 
+{three\\$e$\\
+$\mbox{N3}$
+ } ]  ]  ]  ]  ]  ]  ] 
+
+\end{document}
+

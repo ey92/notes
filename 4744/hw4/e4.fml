@@ -1,0 +1,2 @@
+true all x. (((Pos(x) & Vow(C(x))) & Cap(C(x))) -> D(x,N3)).
+

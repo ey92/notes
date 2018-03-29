@@ -1,0 +1,2 @@
+true ex x. (Pos(x) & Vow(C(x)) & D(x,N3) & ~ex z. (~(~(D(N3,z) & D(z,x)) & ~(D(x,z) & D(z,N3))))).
+

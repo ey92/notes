@@ -1,0 +1,2 @@
+true all x. ((Pos(x) & Gli(C(x))) -> ~(Pos(x) & Cap(C(x)))).
+

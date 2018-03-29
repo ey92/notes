@@ -1,0 +1,189 @@
+\documentclass{article}
+\usepackage[a3paper,left=0in,landscape]{geometry}
+\usepackage{qtree}
+\def\qtreepadding{3pt}
+\begin{document}
+
+\Tree
+[.{\\
+$t$
+\\
+$\mbox{result}(\forall x [(\mbox{Pos}(x) \land \mbox{Gli}(C(x))) \rightarrow \lnot(\mbox{Pos}(x) \land \mbox{Cap}(C(x)))])$
+}  
+{result\\$tt$\\
+$\lambda p.\mbox{result}(p)$
+ } 
+[.{S\\
+$t$
+\\
+$\forall x [(\mbox{Pos}(x) \land \mbox{Gli}(C(x))) \rightarrow \lnot(\mbox{Pos}(x) \land \mbox{Cap}(C(x)))]$
+}  
+[.{S\\
+$t$
+\\
+$\forall x [(\mbox{Pos}(x) \land \mbox{Gli}(C(x))) \rightarrow \lnot(\mbox{Pos}(x) \land \mbox{Cap}(C(x)))]$
+}  
+[.{\\
+$\langle et,t\rangle $
+\\
+$\lambda Q.\forall x [(\mbox{Pos}(x) \land \mbox{Gli}(C(x))) \rightarrow \lnotQ(x)]$
+}  
+{not\\$\langle et,\langle et,t\rangle \rangle $\\
+$\lambda P.\lambda Q.\forall x [P(x) \rightarrow \lnotQ(x)]$
+ } 
+{glide\\$et$\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Gli}(C(x))]$
+ } ]  
+[.{VP\\
+$et$
+\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Cap}(C(x))]$
+}  
+[.{V\\
+$\langle et,et\rangle $
+\\
+$\lambda P.P$
+}  
+{is\\$\langle et,et\rangle $\\
+$\lambda P.P$
+ } ]  
+[.{A\\
+$et$
+\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Cap}(C(x))]$
+}  
+{a\\$\langle et,et\rangle $\\
+$\lambda P.P$
+ } 
+{cap\\$et$\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Cap}(C(x))]$
+ } ]  ]  ]  ]  ] 
+
+\end{document}
+
+\documentclass{article}
+\usepackage[a3paper,left=0in,landscape]{geometry}
+\usepackage{qtree}
+\def\qtreepadding{3pt}
+\begin{document}
+
+\Tree
+[.{\\
+$t$
+\\
+$\mbox{result}(\forall x [(\mbox{Pos}(x) \land \mbox{Gli}(C(x))) \rightarrow \lnot(\mbox{Pos}(x) \land \mbox{Cap}(C(x)))])$
+}  
+{result\\$tt$\\
+$\lambda p.\mbox{result}(p)$
+ } 
+[.{S\\
+$t$
+\\
+$\forall x [(\mbox{Pos}(x) \land \mbox{Gli}(C(x))) \rightarrow \lnot(\mbox{Pos}(x) \land \mbox{Cap}(C(x)))]$
+}  
+[.{S\\
+$t$
+\\
+$\forall x [(\mbox{Pos}(x) \land \mbox{Gli}(C(x))) \rightarrow \lnot(\mbox{Pos}(x) \land \mbox{Cap}(C(x)))]$
+}  
+[.{\\
+$\langle et,t\rangle $
+\\
+$\lambda Q.\forall x [(\mbox{Pos}(x) \land \mbox{Gli}(C(x))) \rightarrow \lnotQ(x)]$
+}  
+{not\\$\langle et,\langle et,t\rangle \rangle $\\
+$\lambda P.\lambda Q.\forall x [P(x) \rightarrow \lnotQ(x)]$
+ } 
+{glide\\$et$\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Gli}(C(x))]$
+ } ]  
+[.{VP\\
+$et$
+\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Cap}(C(x))]$
+}  
+[.{V\\
+$\langle et,et\rangle $
+\\
+$\lambda P.P$
+}  
+{is\\$\langle et,et\rangle $\\
+$\lambda P.P$
+ } ]  
+[.{A\\
+$et$
+\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Cap}(C(x))]$
+}  
+{a\\$\langle et,et\rangle $\\
+$\lambda P.P$
+ } 
+{cap\\$et$\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Cap}(C(x))]$
+ } ]  ]  ]  ]  ] 
+
+\end{document}
+
+\documentclass{article}
+\usepackage[a3paper,left=0in,landscape]{geometry}
+\usepackage{qtree}
+\def\qtreepadding{3pt}
+\begin{document}
+
+\Tree
+[.{\\
+$t$
+\\
+$\mbox{result}(\forall x [(\mbox{Pos}(x) \land \mbox{Gli}(C(x))) \rightarrow \lnot(\mbox{Pos}(x) \land \mbox{Cap}(C(x)))])$
+}  
+{result\\$tt$\\
+$\lambda p.\mbox{result}(p)$
+ } 
+[.{S\\
+$t$
+\\
+$\forall x [(\mbox{Pos}(x) \land \mbox{Gli}(C(x))) \rightarrow \lnot(\mbox{Pos}(x) \land \mbox{Cap}(C(x)))]$
+}  
+[.{S\\
+$t$
+\\
+$\forall x [(\mbox{Pos}(x) \land \mbox{Gli}(C(x))) \rightarrow \lnot(\mbox{Pos}(x) \land \mbox{Cap}(C(x)))]$
+}  
+[.{\\
+$\langle et,t\rangle $
+\\
+$\lambda Q.\forall x [(\mbox{Pos}(x) \land \mbox{Gli}(C(x))) \rightarrow \lnotQ(x)]$
+}  
+{not\\$\langle et,\langle et,t\rangle \rangle $\\
+$\lambda P.\lambda Q.\forall x [P(x) \rightarrow \lnotQ(x)]$
+ } 
+{glide\\$et$\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Gli}(C(x))]$
+ } ]  
+[.{VP\\
+$et$
+\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Cap}(C(x))]$
+}  
+[.{V\\
+$\langle et,et\rangle $
+\\
+$\lambda P.P$
+}  
+{is\\$\langle et,et\rangle $\\
+$\lambda P.P$
+ } ]  
+[.{A\\
+$et$
+\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Cap}(C(x))]$
+}  
+{a\\$\langle et,et\rangle $\\
+$\lambda P.P$
+ } 
+{cap\\$et$\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Cap}(C(x))]$
+ } ]  ]  ]  ]  ] 
+
+\end{document}
+

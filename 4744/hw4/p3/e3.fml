@@ -1,0 +1,2 @@
+true ex x. (Pos(x) & Vow(C(x)) & Pos(x) & Cap(C(x))).
+

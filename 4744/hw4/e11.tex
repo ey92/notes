@@ -1,0 +1,126 @@
+\documentclass{article}
+\usepackage[a3paper,left=0in,landscape]{geometry}
+\usepackage{qtree}
+\def\qtreepadding{3pt}
+\begin{document}
+
+\Tree
+[.{\\
+$t$
+\\
+$\mbox{result}(\forall x [(\mbox{Pos}(x) \land \mbox{Vow}(C(x))) \rightarrow \lnotD(\mbox{N2},x)])$
+}  
+{result\\$tt$\\
+$\lambda p.\mbox{result}(p)$
+ } 
+[.{S\\
+$t$
+\\
+$\forall x [(\mbox{Pos}(x) \land \mbox{Vow}(C(x))) \rightarrow \lnotD(\mbox{N2},x)]$
+}  
+[.{\\
+$\langle et,t\rangle $
+\\
+$\lambda Q.\forall x [(\mbox{Pos}(x) \land \mbox{Vow}(C(x))) \rightarrow \lnotQ(x)]$
+}  
+{not\\$\langle et,\langle et,t\rangle \rangle $\\
+$\lambda P.\lambda Q.\forall x [P(x) \rightarrow \lnotQ(x)]$
+ } 
+{vowel\\$et$\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Vow}(C(x))]$
+ } ]  
+[.{VP\\
+$et$
+\\
+$\lambda x.[D(\mbox{N2},x)]$
+}  
+[.{V\\
+$\langle e,et\rangle $
+\\
+$\lambda y.\lambda x.[D(y,x)]$
+}  
+{follows\\$\langle e,et\rangle $\\
+$\lambda y.\lambda x.[D(y,x)]$
+ } ]  
+[.{A\\
+$e$
+\\
+$\mbox{N2}$
+}  
+[.{\\
+$e$
+\\
+$\mbox{N2}$
+}  
+{letter\\$ee$\\
+$\lambda x.x$
+ } 
+{two\\$e$\\
+$\mbox{N2}$
+ } ]  ]  ]  ]  ] 
+
+\end{document}
+
+\documentclass{article}
+\usepackage[a3paper,left=0in,landscape]{geometry}
+\usepackage{qtree}
+\def\qtreepadding{3pt}
+\begin{document}
+
+\Tree
+[.{\\
+$t$
+\\
+$\mbox{result}(\forall x [(\mbox{Pos}(x) \land \mbox{Vow}(C(x))) \rightarrow \lnotD(\mbox{N2},x)])$
+}  
+{result\\$tt$\\
+$\lambda p.\mbox{result}(p)$
+ } 
+[.{S\\
+$t$
+\\
+$\forall x [(\mbox{Pos}(x) \land \mbox{Vow}(C(x))) \rightarrow \lnotD(\mbox{N2},x)]$
+}  
+[.{\\
+$\langle et,t\rangle $
+\\
+$\lambda Q.\forall x [(\mbox{Pos}(x) \land \mbox{Vow}(C(x))) \rightarrow \lnotQ(x)]$
+}  
+{not\\$\langle et,\langle et,t\rangle \rangle $\\
+$\lambda P.\lambda Q.\forall x [P(x) \rightarrow \lnotQ(x)]$
+ } 
+{vowel\\$et$\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Vow}(C(x))]$
+ } ]  
+[.{VP\\
+$et$
+\\
+$\lambda x.[D(\mbox{N2},x)]$
+}  
+[.{V\\
+$\langle e,et\rangle $
+\\
+$\lambda y.\lambda x.[D(y,x)]$
+}  
+{follows\\$\langle e,et\rangle $\\
+$\lambda y.\lambda x.[D(y,x)]$
+ } ]  
+[.{A\\
+$e$
+\\
+$\mbox{N2}$
+}  
+[.{\\
+$e$
+\\
+$\mbox{N2}$
+}  
+{letter\\$ee$\\
+$\lambda x.x$
+ } 
+{two\\$e$\\
+$\mbox{N2}$
+ } ]  ]  ]  ]  ] 
+
+\end{document}
+

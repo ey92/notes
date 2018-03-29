@@ -1,0 +1,258 @@
+\documentclass{article}
+\usepackage[a3paper,left=0in,landscape]{geometry}
+\usepackage{qtree}
+\def\qtreepadding{3pt}
+\begin{document}
+
+\Tree
+[.{\\
+$t$
+\\
+$\mbox{result}(\exists x [\mbox{Pos}(x) \land \mbox{Vow}(C(x)) \land D(\mbox{N3},x) \land \lnot\exists z [\lnot[\lnot[D(\mbox{N3},z) \land D(z,x)] \land \lnot[D(x,z) \land D(z,\mbox{N3})]]]])$
+}  
+{result\\$tt$\\
+$\lambda p.\mbox{result}(p)$
+ } 
+[.{S\\
+$t$
+\\
+$\exists x [\mbox{Pos}(x) \land \mbox{Vow}(C(x)) \land D(\mbox{N3},x) \land \lnot\exists z [\lnot[\lnot[D(\mbox{N3},z) \land D(z,x)] \land \lnot[D(x,z) \land D(z,\mbox{N3})]]]]$
+}  
+[.{VP\\
+$t$
+\\
+$\exists x [\mbox{Pos}(x) \land \mbox{Vow}(C(x)) \land D(\mbox{N3},x) \land \lnot\exists z [\lnot[\lnot[D(\mbox{N3},z) \land D(z,x)] \land \lnot[D(x,z) \land D(z,\mbox{N3})]]]]$
+}  
+[.{NP\\
+$\langle et,t\rangle $
+\\
+$\lambda Q.\exists x [\mbox{Pos}(x) \land \mbox{Vow}(C(x)) \land Q(x)]$
+}  
+[.{D\\
+$\langle et,\langle et,t\rangle \rangle $
+\\
+$\lambda P.\lambda Q.\exists x [P(x) \land Q(x)]$
+}  
+{some\\$\langle et,\langle et,t\rangle \rangle $\\
+$\lambda P.\lambda Q.\exists x [P(x) \land Q(x)]$
+ } ]  
+[.{N\\
+$et$
+\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Vow}(C(x))]$
+}  
+{vowel\\$et$\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Vow}(C(x))]$
+ } ]  ]  
+[.{VP\\
+$et$
+\\
+$\lambda y.[D(\mbox{N3},y) \land \lnot\exists z [\lnot[\lnot[D(\mbox{N3},z) \land D(z,y)] \land \lnot[D(y,z) \land D(z,\mbox{N3})]]]]$
+}  
+[.{VP\\
+$\langle e,et\rangle $
+\\
+$\lambda x.\lambda y.[D(x,y) \land \lnot\exists z [\lnot[\lnot[D(x,z) \land D(z,y)] \land \lnot[D(y,z) \land D(z,x)]]]]$
+}  
+[.{ADV\\
+$\langle \langle e,et\rangle ,\langle e,et\rangle \rangle $
+\\
+$\lambda R.\lambda x.\lambda y.[(R(x) (y)) \land \lnot\exists z [\lnot[\lnot[D(x,z) \land D(z,y)] \land \lnot[D(y,z) \land D(z,x)]]]]$
+}  
+{immediately\\$\langle \langle e,et\rangle ,\langle e,et\rangle \rangle $\\
+$\lambda R.\lambda x.\lambda y.[(R(x) (y)) \land \lnot\exists z [\lnot[\lnot[D(x,z) \land D(z,y)] \land \lnot[D(y,z) \land D(z,x)]]]]$
+ } ]  
+[.{V\\
+$\langle e,et\rangle $
+\\
+$\lambda y.\lambda x.[D(y,x)]$
+}  
+{follows\\$\langle e,et\rangle $\\
+$\lambda y.\lambda x.[D(y,x)]$
+ } ]  ]  
+[.{N\\
+$e$
+\\
+$\mbox{N3}$
+}  
+{letter\\$ee$\\
+$\lambda x.x$
+ } 
+{three\\$e$\\
+$\mbox{N3}$
+ } ]  ]  ]  ]  ] 
+
+\end{document}
+
+\documentclass{article}
+\usepackage[a3paper,left=0in,landscape]{geometry}
+\usepackage{qtree}
+\def\qtreepadding{3pt}
+\begin{document}
+
+\Tree
+[.{\\
+$t$
+\\
+$\mbox{result}(\exists x [\mbox{Pos}(x) \land \mbox{Vow}(C(x)) \land D(\mbox{N3},x) \land \lnot\exists z [\lnot[\lnot[D(\mbox{N3},z) \land D(z,x)] \land \lnot[D(x,z) \land D(z,\mbox{N3})]]]])$
+}  
+{result\\$tt$\\
+$\lambda p.\mbox{result}(p)$
+ } 
+[.{S\\
+$t$
+\\
+$\exists x [\mbox{Pos}(x) \land \mbox{Vow}(C(x)) \land D(\mbox{N3},x) \land \lnot\exists z [\lnot[\lnot[D(\mbox{N3},z) \land D(z,x)] \land \lnot[D(x,z) \land D(z,\mbox{N3})]]]]$
+}  
+[.{VP\\
+$t$
+\\
+$\exists x [\mbox{Pos}(x) \land \mbox{Vow}(C(x)) \land D(\mbox{N3},x) \land \lnot\exists z [\lnot[\lnot[D(\mbox{N3},z) \land D(z,x)] \land \lnot[D(x,z) \land D(z,\mbox{N3})]]]]$
+}  
+[.{NP\\
+$\langle et,t\rangle $
+\\
+$\lambda Q.\exists x [\mbox{Pos}(x) \land \mbox{Vow}(C(x)) \land Q(x)]$
+}  
+[.{D\\
+$\langle et,\langle et,t\rangle \rangle $
+\\
+$\lambda P.\lambda Q.\exists x [P(x) \land Q(x)]$
+}  
+{some\\$\langle et,\langle et,t\rangle \rangle $\\
+$\lambda P.\lambda Q.\exists x [P(x) \land Q(x)]$
+ } ]  
+[.{N\\
+$et$
+\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Vow}(C(x))]$
+}  
+{vowel\\$et$\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Vow}(C(x))]$
+ } ]  ]  
+[.{VP\\
+$et$
+\\
+$\lambda y.[D(\mbox{N3},y) \land \lnot\exists z [\lnot[\lnot[D(\mbox{N3},z) \land D(z,y)] \land \lnot[D(y,z) \land D(z,\mbox{N3})]]]]$
+}  
+[.{VP\\
+$\langle e,et\rangle $
+\\
+$\lambda x.\lambda y.[D(x,y) \land \lnot\exists z [\lnot[\lnot[D(x,z) \land D(z,y)] \land \lnot[D(y,z) \land D(z,x)]]]]$
+}  
+[.{ADV\\
+$\langle \langle e,et\rangle ,\langle e,et\rangle \rangle $
+\\
+$\lambda R.\lambda x.\lambda y.[(R(x) (y)) \land \lnot\exists z [\lnot[\lnot[D(x,z) \land D(z,y)] \land \lnot[D(y,z) \land D(z,x)]]]]$
+}  
+{immediately\\$\langle \langle e,et\rangle ,\langle e,et\rangle \rangle $\\
+$\lambda R.\lambda x.\lambda y.[(R(x) (y)) \land \lnot\exists z [\lnot[\lnot[D(x,z) \land D(z,y)] \land \lnot[D(y,z) \land D(z,x)]]]]$
+ } ]  
+[.{V\\
+$\langle e,et\rangle $
+\\
+$\lambda y.\lambda x.[D(y,x)]$
+}  
+{follows\\$\langle e,et\rangle $\\
+$\lambda y.\lambda x.[D(y,x)]$
+ } ]  ]  
+[.{N\\
+$e$
+\\
+$\mbox{N3}$
+}  
+{letter\\$ee$\\
+$\lambda x.x$
+ } 
+{three\\$e$\\
+$\mbox{N3}$
+ } ]  ]  ]  ]  ] 
+
+\end{document}
+
+\documentclass{article}
+\usepackage[a3paper,left=0in,landscape]{geometry}
+\usepackage{qtree}
+\def\qtreepadding{3pt}
+\begin{document}
+
+\Tree
+[.{\\
+$t$
+\\
+$\mbox{result}(\exists x [\mbox{Pos}(x) \land \mbox{Vow}(C(x)) \land D(\mbox{N3},x) \land \lnot\exists z [\lnot[\lnot[D(\mbox{N3},z) \land D(z,x)] \land \lnot[D(x,z) \land D(z,\mbox{N3})]]]])$
+}  
+{result\\$tt$\\
+$\lambda p.\mbox{result}(p)$
+ } 
+[.{S\\
+$t$
+\\
+$\exists x [\mbox{Pos}(x) \land \mbox{Vow}(C(x)) \land D(\mbox{N3},x) \land \lnot\exists z [\lnot[\lnot[D(\mbox{N3},z) \land D(z,x)] \land \lnot[D(x,z) \land D(z,\mbox{N3})]]]]$
+}  
+[.{VP\\
+$t$
+\\
+$\exists x [\mbox{Pos}(x) \land \mbox{Vow}(C(x)) \land D(\mbox{N3},x) \land \lnot\exists z [\lnot[\lnot[D(\mbox{N3},z) \land D(z,x)] \land \lnot[D(x,z) \land D(z,\mbox{N3})]]]]$
+}  
+[.{NP\\
+$\langle et,t\rangle $
+\\
+$\lambda Q.\exists x [\mbox{Pos}(x) \land \mbox{Vow}(C(x)) \land Q(x)]$
+}  
+[.{D\\
+$\langle et,\langle et,t\rangle \rangle $
+\\
+$\lambda P.\lambda Q.\exists x [P(x) \land Q(x)]$
+}  
+{some\\$\langle et,\langle et,t\rangle \rangle $\\
+$\lambda P.\lambda Q.\exists x [P(x) \land Q(x)]$
+ } ]  
+[.{N\\
+$et$
+\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Vow}(C(x))]$
+}  
+{vowel\\$et$\\
+$\lambda x.[\mbox{Pos}(x) \land \mbox{Vow}(C(x))]$
+ } ]  ]  
+[.{VP\\
+$et$
+\\
+$\lambda y.[D(\mbox{N3},y) \land \lnot\exists z [\lnot[\lnot[D(\mbox{N3},z) \land D(z,y)] \land \lnot[D(y,z) \land D(z,\mbox{N3})]]]]$
+}  
+[.{VP\\
+$\langle e,et\rangle $
+\\
+$\lambda x.\lambda y.[D(x,y) \land \lnot\exists z [\lnot[\lnot[D(x,z) \land D(z,y)] \land \lnot[D(y,z) \land D(z,x)]]]]$
+}  
+[.{ADV\\
+$\langle \langle e,et\rangle ,\langle e,et\rangle \rangle $
+\\
+$\lambda R.\lambda x.\lambda y.[(R(x) (y)) \land \lnot\exists z [\lnot[\lnot[D(x,z) \land D(z,y)] \land \lnot[D(y,z) \land D(z,x)]]]]$
+}  
+{immediately\\$\langle \langle e,et\rangle ,\langle e,et\rangle \rangle $\\
+$\lambda R.\lambda x.\lambda y.[(R(x) (y)) \land \lnot\exists z [\lnot[\lnot[D(x,z) \land D(z,y)] \land \lnot[D(y,z) \land D(z,x)]]]]$
+ } ]  
+[.{V\\
+$\langle e,et\rangle $
+\\
+$\lambda y.\lambda x.[D(y,x)]$
+}  
+{follows\\$\langle e,et\rangle $\\
+$\lambda y.\lambda x.[D(y,x)]$
+ } ]  ]  
+[.{N\\
+$e$
+\\
+$\mbox{N3}$
+}  
+{letter\\$ee$\\
+$\lambda x.x$
+ } 
+{three\\$e$\\
+$\mbox{N3}$
+ } ]  ]  ]  ]  ] 
+
+\end{document}
+

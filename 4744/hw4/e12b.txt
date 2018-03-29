@@ -1,0 +1,63 @@
+Words as models
+
+# Constants for positions.
+constants of type e : N1 N2 N3
+# The adjacency relation.
+constants of type <e*e,t> : D
+# C(N3) is the letter-type in position 3.
+constants of type <e,e> : C
+variables of type e : x-y
+variables of type <e,t> : P-Q
+variables of type t : p q
+variables of type <e,et> : R
+
+multiple letter identifiers
+
+use rule function application
+use rule non-branching nodes
+use rule predicate modification
+use rule lambda abstraction
+
+define vowel: Lx[Pos(x) & Vow(C(x))]
+define consonant: Lx[Pos(x) & Cns(C(x))]
+define cap: Lx[Pos(x) & Cap(C(x))]
+define glide: Lx[Pos(x) & Gli(C(x))]
+define precedes: LyLx[D(x,y)]
+define follows: LyLx[D(y,x)]
+# Used in NPs such as "letter three".
+define letter: Lx.x
+# The preposition "to" is the constant function on 
+# individuals.
+define to: Lx.x
+# "is" and "a" are constant function on sets of individuals.
+define is: LP.P
+define a: LP.P
+# Some boolean words.
+define and-t: LpLq[q & p]
+define if: LpLq[p -> q]
+define and-et: LPLQLx[Q(x) & P(x)]
+
+define not: LPLQ.Ax.[P(x) -> ~Q(x)]
+define no: LP.Ax.[~P(x)]
+
+define immediately: LRLxLy[R(x)(y) & ~Ez_e.[~[~[D(x,z) & D(z,y)] & ~[D(y,z) & D(z,x)]]]]
+ 
+
+# Words naming string positions.
+define one: N1 
+define two: N2
+define three: N3 
+
+# Quantificational determiners.
+define some : LPLQ.Ex.[P(x) & Q(x)]
+define every : LPLQ.Ax.[P(x) -> Q(x)]
+
+# Dummy function that lets the Plop code find the
+# result.
+define result : Lp.result(p)
+
+exercise tree
+title Example 1
+directions letter three is a vowel
+
+[result [.S [.VP [.NP [.D some] [.N vowel]] [.VP [.VP [.ADV immediately] [.V follows]] [.N letter three]]]]]
