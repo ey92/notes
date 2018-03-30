@@ -31,6 +31,9 @@
 ![e5 Tree](https://github.com/ey92/notes/blob/master/4744/hw4/e5tree.png)
 
 ### 6
+define 'follows': ```define follows: LyLx[D(y,x)]```<br>
+To define 'follows', I just reversed the inputs into the 'precedes' function, since they check for the opposite ordering. 
+
 ![e6 Tree](https://github.com/ey92/notes/blob/master/4744/hw4/e6tree.png)
 
 ### 7
@@ -42,8 +45,9 @@
 ### 9
 _letter four is adjacent to every consonant_<br>
 redefine 'to': ```define to-r: LP.P```<br>
-tree: ```[result [.S  [.S [[[letter four] [.VP [.V is] [.A adjacent]]] [.AP to-r ]] [every consonant]]]]```<br>
-Previously, 'to' was used to apply to a specific letter (of type _e_). However, now that its object is 'every consonant' (type _et_), the 'to' must be redefined to take in _et_ as its argument. This is done by taking in a function instead of a variable.<br><br>
+tree: ```[result [.S  [.S [[[letter four] [.VP [.V is] [.A adjacent]]] [.AP to-r ]] [every consonant]]]]```<br><br>
+Previously, 'to' was used to apply to a specific letter (of type _e_). However, now that its object is 'every consonant' (type _et_), the 'to' must be redefined to take in _et_ as its argument. This is done by taking in a function instead of a variable.<br>
+- It was hard to find positive test cases, since first two letters had to be a glide or vowel, followed by a consonant, and the word had to have at least 4 letters.<br>
 
 good test cases:
 - aura
@@ -58,14 +62,15 @@ bad test cases:
 - wean
 
 ![e9 Tree](https://github.com/ey92/notes/blob/master/4744/hw4/e9tree.png)
-- It was hard to find positive test cases, since first two letters had to be a glide or vowel, followed by a consonant, and the word had to have at least 4 letters.
 
 ### 10
 _some vowel adjacent to every consonant is adjacent to letter two_<br>
 redefine 'every': ```define every : LPLR.Lx.Ay[P(y) -> R(x)(y)]```<br>
 redefine 'to': ```define to-q: LR.R```<br>
-tree: ```[result [.S  [some [vowel  [.VP [.AP [.AP [adjacent to-q] [.A [every consonant]]]]]]] [.VP [.V is] [.AP adjacent [.AP to [.A [letter two]]]]] ]]```<br>
+tree: ```[result [.S  [some [vowel  [.VP [.AP [.AP [adjacent to-q] [.A [every consonant]]]]]]] [.VP [.V is] [.AP adjacent [.AP to [.A [letter two]]]]] ]]```<br><br>
 In this problem, we are adding a whole relative clause into the subject, further restricting it. However, it still needs to simplify to type _et,t_ to be able to combine with the predicate as the subject would for any other sentence. we had to partially apply the "adjacent" function, every had to be modified to use a function that takes two parameters, and "to" had to take in a 2-parameter function instead of a single-parameter function the way it did in the previous problem.<br><br>
+- It was hard to find positive examples for this problem as well. The word could only have 1 or 2 consonants, with either the vowel in position 1 and the consonant in position 2, or the vowel in position 3 and consonants in positions 2 and 3. By limiting the number of consonants and their positions respective of vowels, there were very few words I could come up with.
+- Since 'you' doesn't have any consonant ('y' is a glide), the word's spelling don't break this rule<br>
 
 good test cases:
 - an
@@ -79,14 +84,49 @@ bad test cases:
 - eat
 
 ![e10 Tree](https://github.com/ey92/notes/blob/master/4744/hw4/e10tree.png)
-- It was hard to find positive examples for this problem as well. The word could only have 1 or 2 consonants, with either the vowel in position 1 and the consonant in position 2, or the vowel in position 3 and consonants in positions 2 and 3. By limiting the number of consonants and their positions respective of vowels, there were very few words I could come up with.
-- Since 'you' doesn't have any consonant ('y' is a glide), the word's spelling don't break this rule
 
 ### 11
+_no vowel follows letter two_<br>
+define 'follows': ```define follows: LyLx[D(y,x)]``` (from #6)<br>
+define 'not': ```define not: LPLQ.Ax.[P(x) -> ~Q(x)]```<br>
+tree: ```[result [.S  [not vowel] [.VP [.V follows] [.A [letter two]]]]]```<br><br>
+For 'not', I just copied the definition of 'every' but manipulated it, just as I did in #10. Only this time, instead of adding an argument to the function, I negated it, since "none" is the complement of "every".<br><br>
+- Finding positive examples up to 3 letters long was fine, but it was difficult to find positive examples longer than that - must end in a consonant cluster.<br>
+
+good test cases:
+- eat
+- tin
+- sing
+- cysts
+
+bad test cases:
+- ate
+- tear
+- table
+
 ![e11 Tree](https://github.com/ey92/notes/blob/master/4744/hw4/e11tree.png)
-- hard to find positive examples longer than 3 letters - must end in a consonant cluster
 
 ### 12
+_some vowel immediately precedes letter three_ (designated as e12)<br>
+_some vowel immediately follows letter three_ (designated as e12b)<br>
+define 'follows': ```define follows: LyLx[D(y,x)]``` (from #6)<br>
+define 'immediately': ```define immediately: LRLxLy[R(x)(y) & ~Ez_e.[~[~[D(x,z) & D(z,y)] & ~[D(y,z) & D(z,x)]]]]```<br>
+12 tree: ```[result [.S [.VP [.NP [.D some] [.N vowel]] [.VP [.VP [.ADV immediately] [.V precedes]] [.N letter three]]]]]```<br>
+12b tree: ```[result [.S [.VP [.NP [.D some] [.N vowel]] [.VP [.VP [.ADV immediately] [.V follows]] [.N letter three]]]]]```<br><br>
+Defining immediately was one of the trickiest definitions for this homework. I had to use 3 variables as function parameters as well declare R as a 2-parameter function as another argument. When simplified, immediately is defined in terms of 3 terms x,y, and z such that x only _immediately_ precedes z if it does not precede anything else that also precedes z. Since there are 3 variables being handled, we must list the cases for either x or y immediately preceding z.<br>
+The only difference between _e12_ and _e12b_ is that 'precedes' was replaced with 'follows', a term defined in a previous problem.
+
+good test cases:
+- eats
+- meal
+- water
+
+bad test cases:
+- tree
+- ant
+- cheese
+
+
 ![e12 Tree](https://github.com/ey92/notes/blob/master/4744/hw4/e12tree.png)
 
 ![e12b Tree](https://github.com/ey92/notes/blob/master/4744/hw4/e12btree.png)
@@ -108,7 +148,7 @@ redefine 'no':<br>
 ```define no : LPLR.Lx.Ay[P(y) -> ~[R(y)(x)]]```<br>
 tree:<br>
 ```[result [.S  [letter four] [.VP [.V precedes] [.A [no consonant]]]]]```<br><br>
-I used a definition of ```no``` that was similar to what I had of ```every``` in #10, except I negated the result. Using this, I could just build the logical tree as if it were a sentence, grouping keywords by "phrases."<br><br>
+I used a definition of ```no``` that was similar to what I had of ```every``` in #10, except I negated the result. Using this, I could just build the logical tree as if it were a sentence, grouping keywords by "phrases."<br>
 
 good test cases:
 - cache
