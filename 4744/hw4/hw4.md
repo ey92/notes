@@ -1,17 +1,17 @@
 | # | rule | good test case | bad test case | .in/.out or .in3/.out3 |
 | - | ---- | -------------- | ------------- | ------ |
-| 1 | 2nd letter consonant | chip, school, the | water | 0 |
-| 2 | every vowel adj 3rd letter | cat, sake | tea | 0 |
-| 3 | some vowel is cap | cAt, Aim | cat, The | 0 |
-| 4 | every capV precedes 3rd letter | hAll, tAle, Shell | scAle, sevEr | 3 |
-| 5 | every vowel adj to 2nd letter | Cake, Ant | create | 0 |
-| 6 | 1st is initial and is a consonant | cat | eat | 3 |
-| 7 | no cap glide | why, eat | Why | 0 |
-| 8 | 3rd letter is final | eat | ship | 3 |
-| 9 | every consonant adj 4th letter | aura, wore | snack, went, sway | 0 |
-| 10 | some consonant adj to all cons is adj to 2nd letter | an, ire | ant, can, palm, eat | 0 |
-| 11 | no vowel follows 2nd letter | eat | ate | 3 |
-| 12 | some vowel immediately precedes 3rd letter | eats | tree, ant | 3 |
+| 1 | 2nd letter consonant | chip, school, the, askew | water, swear, sync, real | 0 |
+| 2 | every vowel adj 3rd letter | cat, sake, towed | tea, stark, teal | 0 |
+| 3 | some vowel is cap | cAt, Aim, sAmE | cat, The, SaMe | 0 |
+| 4 | every capV precedes 3rd letter | hAll, tAle, Shell, Art | scAle, sevEr, ArtisAn | 3 |
+| 5 | every vowel adj to 2nd letter is cap | Cake, Ant, tart, TATER | create, creAte, bEar | 0 |
+| 6 | 1st letter is initial and is a consonant | cat, rasp, fish | eat, apron, incite | 3 |
+| 7 | no cap glide | why, eat, wine | Why, tawnY, LAWN | 0 |
+| 8 | 3rd letter is final | eat, tin, oar | ship, slime, cabin | 3 |
+| 9 | every consonant adj to 4th letter | aura, wore, wine, yoyo | snack, went, sway, wean | 0 |
+| 10 | some vowel adj to all cons is adj to 2nd letter | an, ire, you | ant, can, palm, eat | 0 |
+| 11 | no vowel follows 2nd letter | eat, tin, sing, cysts | ate, tear, table | 3 |
+| 12 | some vowel immediately precedes 3rd letter | eats, meal, water | tree, ant, cheese | 3 |
 | 12b | some vowel immediately follows 3rd letter | care, tarot, almost | cache, ant, plate | 3 |
 | 14 | letter four precedes no consonant | cache, artsy, brace, cart | stack, trash, banana | 3 |
 
@@ -41,12 +41,16 @@
 
 ### 9
 ![e9 Tree](https://github.com/ey92/notes/blob/master/4744/hw4/e9tree.png)
+- It was  hard to find positive test cases, since first two letters had to be a glide or vowel, followed by a consonant, and the word had to have at least 4 letters.
 
 ### 10
 ![e10 Tree](https://github.com/ey92/notes/blob/master/4744/hw4/e10tree.png)
+- also hard to find positive examples
+- since "you" doesn't have any consonant, the word's letters don't break this rule
 
 ### 11
 ![e11 Tree](https://github.com/ey92/notes/blob/master/4744/hw4/e11tree.png)
+- hard to find positive examples longer than 3 letters - must end in a consonant cluster
 
 ### 12
 ![e12 Tree](https://github.com/ey92/notes/blob/master/4744/hw4/e12tree.png)
@@ -83,3 +87,5 @@ bad test cases:
 - stack
 - trash
 - banana
+
+![e12 Tree](https://github.com/ey92/notes/blob/master/4744/hw4/e12tree.png)
