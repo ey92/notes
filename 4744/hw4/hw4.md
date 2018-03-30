@@ -16,11 +16,39 @@
 | 14 | letter four precedes no consonant | cache, artsy, brace, cart | stack, trash, banana | 3 |
 
 ### 1
-_letter two is a consonant_
+_letter two is a consonant_<br>
+**tree:** ```[result [.S [letter two] [.VP [.V is] [.AP a [.A consonant]]]]]```<br><br>
+This one was an easy question as a starting point. After understanding the tree structure from class and the example _e0_, this taught me how to begin recognizing what types each expression would produce. 'letter two' is _e_, 'is' is _<et,et>_, 'a' is _ee_, and 'consonant' is _et_.<br>
+
+good test cases:
+- chip
+- school
+- the
+- askew
+
+bad test cases:
+- water
+- swear
+- sync
+- real
+
 ![e1 Tree](https://github.com/ey92/notes/blob/master/4744/hw4/e1tree.png)
 
 ### 2
-_every vowel is adjacent to letter three_
+_every vowel is adjacent to letter three_<br>
+**tree:** ```[result [.S [every vowel] [.VP [.V is] [.AP adjacent [.AP to [.A [letter three]]]]]]]```<br><br>
+Again, this was an introduction to playing with types, and learning to adapt trees between taking _et_ as an argument, as opposed to _e_.
+
+good test cases:
+- cat
+- sake
+- towed
+
+bad test cases:
+- tea
+- stark
+- teal
+
 ![e2 Tree](https://github.com/ey92/notes/blob/master/4744/hw4/e2tree.png)
 
 ### 3
