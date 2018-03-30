@@ -18,7 +18,7 @@
 ### 1
 _letter two is a consonant_<br>
 **tree:** ```[result [.S [letter two] [.VP [.V is] [.AP a [.A consonant]]]]]```<br><br>
-This one was an easy question as a starting point. After understanding the tree structure from class and the example _e0_, this taught me how to begin recognizing what types each expression would produce. 'letter two' is _e_, 'is' is _<et,et>_, 'a' is _ee_, and 'consonant' is _et_.<br>
+This one was an easy question as a starting point. After understanding the tree structure from class and the example _e0_, this taught me how to begin recognizing what types each expression would produce. 'letter' is _ee_, 'two' is _e_, 'is' is _<et,et>_, 'a' is _<et,et>_, and 'consonant' is _et_.<br>
 
 good test cases:
 - chip
@@ -37,7 +37,7 @@ bad test cases:
 ### 2
 _every vowel is adjacent to letter three_<br>
 **tree:** ```[result [.S [every vowel] [.VP [.V is] [.AP adjacent [.AP to [.A [letter three]]]]]]]```<br><br>
-Again, this was an introduction to playing with types, and learning to adapt trees between taking _et_ as an argument, as opposed to _e_.
+Again, this was an introduction to playing with types, and learning to adapt trees to take _et_ as an argument, as opposed to _e_.
 
 good test cases:
 - cat
