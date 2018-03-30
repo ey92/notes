@@ -15,6 +15,44 @@
 | 12b | some vowel immediately follows 3rd letter | care, tarot, almost | cache, ant, plate | 3 |
 | 14 | letter four precedes no consonant | cache, artsy, brace, cart | stack, trash, banana | 3 |
 
+### 1
+![e1 Tree](https://github.com/ey92/notes/blob/master/4744/hw4/e1tree.png)
+
+### 2
+![e2 Tree](https://github.com/ey92/notes/blob/master/4744/hw4/e2tree.png)
+
+### 3
+![e3 Tree](https://github.com/ey92/notes/blob/master/4744/hw4/e3tree.png)
+
+### 4
+![e4 Tree](https://github.com/ey92/notes/blob/master/4744/hw4/e4tree.png)
+
+### 5
+![e5 Tree](https://github.com/ey92/notes/blob/master/4744/hw4/e5tree.png)
+
+### 6
+![e6 Tree](https://github.com/ey92/notes/blob/master/4744/hw4/e6tree.png)
+
+### 7
+![e7 Tree](https://github.com/ey92/notes/blob/master/4744/hw4/e7tree.png)
+
+### 8
+![e8 Tree](https://github.com/ey92/notes/blob/master/4744/hw4/e8tree.png)
+
+### 9
+![e9 Tree](https://github.com/ey92/notes/blob/master/4744/hw4/e9tree.png)
+
+### 10
+![e10 Tree](https://github.com/ey92/notes/blob/master/4744/hw4/e10tree.png)
+
+### 11
+![e11 Tree](https://github.com/ey92/notes/blob/master/4744/hw4/e11tree.png)
+
+### 12
+![e12 Tree](https://github.com/ey92/notes/blob/master/4744/hw4/e12tree.png)
+
+![e12b Tree](https://github.com/ey92/notes/blob/master/4744/hw4/e12btree.png)
+
 ### 13
 Challenge Problems posed on Piazza
 post @202
@@ -30,10 +68,10 @@ post @208
 
 _letter four precedes no consonant_
 
-```define no : LPLR.Lx.Ay[P(y) -> ~[R(y)(x)]]```
+```define no : LPLR.Lx.Ay[P(y) -> ~[R(y)(x)]]```<br>
 ```[result [.S  [letter four] [.VP [.V precedes] [.A [no consonant]]]]]```
 
-I used a similar definition of ```no``` that I had of ```every``` from #10, except I negated the result to make it a negative. Using this, I could just build the logical tree as if it were a sentence, grouping keywords by "phrases."
+I used a definition of ```no``` that was similar to what I had of ```every``` in #10, except I negated the result. Using this, I could just build the logical tree as if it were a sentence, grouping keywords by "phrases."
 
 good test cases:
 - cache

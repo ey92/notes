@@ -1,0 +1,2 @@
+true all y.((Pos(y) & Cns(C(y))) -> ~(D(N4,y))).
+
