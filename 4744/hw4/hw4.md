@@ -28,23 +28,59 @@
 ![e4 Tree](https://github.com/ey92/notes/blob/master/4744/hw4/e4tree.png)
 
 ### 5
+_every vowel that is adjacent to letter two is capitalized_<br>
+define 'cap': ```define cap: Lx[Pos(x) & Cap(C(x))]```<br>
+tree: ```[result [.S [every [vowel [[adjacent [to [letter two]]]]]] [.VP [.V is] [.A [cap]]]]]```<br><br>
+To make this easier, I created a class 'cap' that uses the 'Cap' function in the program to define all of the capital letters. I avoided having to define the preposition 'that', since it doesn't provide extra meaning to the statement. It can easily be restated as _every vowel adjacent to letter two is capitalized_, which is what the tree represents.<br>
+
+good test cases:
+
 ![e5 Tree](https://github.com/ey92/notes/blob/master/4744/hw4/e5tree.png)
 
 ### 6
-define 'follows': ```define follows: LyLx[D(y,x)]```<br>
-To define 'follows', I just reversed the inputs into the 'precedes' function, since they check for the opposite ordering. 
+_letter one is initial and is a consonant_<br>
+define 'initial': ```define initial: Lx.Ay[~D(y,x)]```<br>
+tree: ```[result [.S [letter one] [[.VP [[.V is] [.A initial]]] [and-et [.VP [.V is] [.A [a consonant]]]]] ] ]```<br><br>
+We can define 'initial' by saying nothing 'precedes' _x_. Then, to complete the problem, the two predicates can be combined with an 'and-et' and then be passed 'letter one' of type _e_ to produce a truth value.<br>
+
+good test cases:
+- cat
+- rasp
+- fish
+
+bad test cases:
+- eat
+- apron
+- incite
 
 ![e6 Tree](https://github.com/ey92/notes/blob/master/4744/hw4/e6tree.png)
 
 ### 7
+_no glide is capitalized_<br>
+define 'cap': ```define cap: Lx[Pos(x) & Cap(C(x))]``` (from #5)<br>
+define 'not': ```define not: LPLQ.Ax.[P(x) -> ~Q(x)]```<br>
+tree: ```[result [.S  [.S [not glide] [.VP [.V is] [.A a cap]]]]]```<br><br>
+For 'not', I just copied the definition of 'every' but manipulated it. I negated result of the function it takes in, since "none" is the complement of "every". Combining this with the 'cap' class of letters from #5 creates a simple predicate that follows the same pattern as previous problems.<br>
+
+good test cases:
+- why
+- eat
+- wine
+
+bad test cases:
+- Why
+- tawnY
+- LAWN
+
+
 ![e7 Tree](https://github.com/ey92/notes/blob/master/4744/hw4/e7tree.png)
 
 ### 8
-_letter three is a final_<br>
+_letter three is final_<br>
 define 'final': ```define final: Lx.Ay[~D(x,y)]```<br>
 tree: ```[result [.S [letter three] [.VP [[.V is] [.A final]]] ] ]```<br><br>
-We can define a certain letter to be 'final' as meaning it does not precede anything else. This is accomplished by the negation of the 'precedes' function for all y.<br>
-- As a result of letter three being final, all of the positive examples had to be 3-letter words
+Similarly to how 'inital' was defined to mean nothing precedes _x_, we can define a certain letter to be 'final' as meaning _x_ does not precede anything else. This is accomplished by the negation of the 'precedes' function for all _y_.<br>
+- As a result of letter three being final, all of the positive examples had to be 3-letter words<br>
 
 good test cases:
 - eat
@@ -102,10 +138,11 @@ bad test cases:
 
 ### 11
 _no vowel follows letter two_<br>
-define 'follows': ```define follows: LyLx[D(y,x)]``` (from #6)<br>
-define 'not': ```define not: LPLQ.Ax.[P(x) -> ~Q(x)]```<br>
+define 'follows': ```define follows: LyLx[D(y,x)]```<br>
+define 'not': ```define not: LPLQ.Ax.[P(x) -> ~Q(x)]``` (from #7)<br>
 tree: ```[result [.S  [not vowel] [.VP [.V follows] [.A [letter two]]]]]```<br><br>
-For 'not', I just copied the definition of 'every' but manipulated it, just as I did in #10. Only this time, instead of adding an argument to the function, I negated it, since "none" is the complement of "every".<br><br>
+To define 'follows', I just reversed the inputs into the 'precedes' function, since they check for the opposite ordering. Combining the definition of 'not' from #7 makes a simple statement.
+<br>
 - Finding positive examples up to 3 letters long was fine, but it was difficult to find positive examples longer than that - must end in a consonant cluster.<br>
 
 good test cases:
@@ -124,7 +161,7 @@ bad test cases:
 ### 12
 _some vowel immediately precedes letter three_ (designated as e12)<br>
 _some vowel immediately follows letter three_ (designated as e12b)<br>
-define 'follows': ```define follows: LyLx[D(y,x)]``` (from #6)<br>
+define 'follows': ```define follows: LyLx[D(y,x)]``` (from #11)<br>
 define 'immediately': ```define immediately: LRLxLy[R(x)(y) & ~Ez_e.[~[~[D(x,z) & D(z,y)] & ~[D(y,z) & D(z,x)]]]]```<br>
 12 tree: ```[result [.S [.VP [.NP [.D some] [.N vowel]] [.VP [.VP [.ADV immediately] [.V precedes]] [.N letter three]]]]]```<br>
 12b tree: ```[result [.S [.VP [.NP [.D some] [.N vowel]] [.VP [.VP [.ADV immediately] [.V follows]] [.N letter three]]]]]```<br><br>
