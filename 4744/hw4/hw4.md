@@ -41,20 +41,46 @@
 
 ### 9
 _letter four is adjacent to every consonant_<br>
-redefine 'to':<br>
-```define to-r: LP.P```<br>
-tree: <br>
-```[result [.S  [.S [[[letter four] [.VP [.V is] [.A adjacent]]] [.AP to-r ]] [every consonant]]]]```<br>
-Previously, 'to' was used to apply to a specific letter (of type _e_). However, now that its object is 'every consonant' (type _et_), the 'to' must be redefined to take in _et_ as its argument. This is done by taking in a function instead of a variable.
+redefine 'to': ```define to-r: LP.P```<br>
+tree: ```[result [.S  [.S [[[letter four] [.VP [.V is] [.A adjacent]]] [.AP to-r ]] [every consonant]]]]```<br>
+Previously, 'to' was used to apply to a specific letter (of type _e_). However, now that its object is 'every consonant' (type _et_), the 'to' must be redefined to take in _et_ as its argument. This is done by taking in a function instead of a variable.<br><br>
 
+good test cases:
+- aura
+- wore
+- wine
+- yoyo
+
+bad test cases:
+- snack
+- went
+- sway
+- wean
 
 ![e9 Tree](https://github.com/ey92/notes/blob/master/4744/hw4/e9tree.png)
-- It was  hard to find positive test cases, since first two letters had to be a glide or vowel, followed by a consonant, and the word had to have at least 4 letters.
+- It was hard to find positive test cases, since first two letters had to be a glide or vowel, followed by a consonant, and the word had to have at least 4 letters.
 
 ### 10
+_some vowel adjacent to every consonant is adjacent to letter two_<br>
+redefine 'every': ```define every : LPLR.Lx.Ay[P(y) -> R(x)(y)]```<br>
+redefine 'to': ```define to-q: LR.R```<br>
+tree: ```[result [.S  [some [vowel  [.VP [.AP [.AP [adjacent to-q] [.A [every consonant]]]]]]] [.VP [.V is] [.AP adjacent [.AP to [.A [letter two]]]]] ]]```<br>
+In this problem, we are adding a whole relative clause into the subject, further restricting it. However, it still needs to simplify to type _et,t_ to be able to combine with the predicate as the subject would for any other sentence. we had to partially apply the "adjacent" function, every had to be modified to use a function that takes two parameters, and "to" had to take in a 2-parameter function instead of a single-parameter function the way it did in the previous problem.<br><br>
+
+good test cases:
+- an
+- ire
+- you
+
+bad test cases:
+- ant
+- can
+- palm
+- eat
+
 ![e10 Tree](https://github.com/ey92/notes/blob/master/4744/hw4/e10tree.png)
-- also hard to find positive examples
-- since "you" doesn't have any consonant, the word's spelling don't break this rule
+- It was hard to find positive examples for this problem as well. The word could only have 1 or 2 consonants, with either the vowel in position 1 and the consonant in position 2, or the vowel in position 3 and consonants in positions 2 and 3. By limiting the number of consonants and their positions respective of vowels, there were very few words I could come up with.
+- Since 'you' doesn't have any consonant ('y' is a glide), the word's spelling don't break this rule
 
 ### 11
 ![e11 Tree](https://github.com/ey92/notes/blob/master/4744/hw4/e11tree.png)
