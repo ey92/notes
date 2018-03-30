@@ -40,6 +40,21 @@ To define 'follows', I just reversed the inputs into the 'precedes' function, si
 ![e7 Tree](https://github.com/ey92/notes/blob/master/4744/hw4/e7tree.png)
 
 ### 8
+_letter three is a final_<br>
+define 'final': ```define final: Lx.Ay[~D(x,y)]```<br>
+tree: ```[result [.S [letter three] [.VP [[.V is] [.A final]]] ] ]```<br><br>
+We can define a certain letter to be 'final' as meaning it does not precede anything else. This is accomplished by the negation of the 'precedes' function for all y.<br>
+- As a result of letter three being final, all of the positive examples had to be 3-letter words
+
+good test cases:
+- eat
+- tin
+- oar
+bad test cases:
+- ship
+- slime
+- cabin
+
 ![e8 Tree](https://github.com/ey92/notes/blob/master/4744/hw4/e8tree.png)
 
 ### 9
