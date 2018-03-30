@@ -546,7 +546,7 @@ Contrast to Merimde
 
 ## Naqada III, Dynasty 0 3150-3050
 political unification of Egypt
-- historians Manetho, Herodotus say Menes, but name doesn't exist from contemporary evience
+- historians Manetho, Herodotus say Menes, but name doesn't exist from contemporary evidence
 - **Palermo Stone**, predynastic divine kings, maybe Naqada kings, missing 1st human king
 - *Abydos* - Osiris cult center
     - Tomb U-j at Umm el-Qa'ab: hundreds of imported Canaanite wine jars, earliest hieroglyphs on royal tags, trade, record-keeping (bureaucracy), _Scorpion_
@@ -684,7 +684,7 @@ political unification of Egypt
     - European scholars attempt deciphering by symbology
     - Pietro delle Valle collected Coptic manuscripts
 - 17th c. Athanasius Kircher
-    - Coptic related to earlier Egyptian scripts, containing phonetic elemets
+    - Coptic related to earlier Egyptian scripts, containing phonetic elements
     - lacked proof
 - 1799 Napoleon's soldiers find Rosetta Stone in Nile Delta
     - Jean-Francois Champollion (and Thomas Young) demonstrated phonetic nature of script
@@ -827,7 +827,7 @@ Demotic
 - protect the mummy, permanent body
     - where ba (mobile spirit) resides
 - place to sustain pharaoh's Ka - eternal provisioning
--facilitate pharaoh's placement as Akh among gods to act on Egypt's behalf, maintaining ma'at forever
+- facilitate pharaoh's placement as Akh among gods to act on Egypt's behalf, maintaining ma'at forever
 
 3 parts of royal spirit*
 - ka - hungry spirit in statue (hungry)
@@ -900,7 +900,7 @@ Demotic
 4. Prenomen (throne name) in cartouche
 5. Nomen (birth name)
 
-Sneferu's successors chose and ambitious plateau to build future pyramids
+Sneferu's successors chose an ambitious plateau to build future pyramids
 - Giza pyramids aligned to face East
 
 ### Khufu

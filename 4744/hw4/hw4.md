@@ -290,3 +290,8 @@ bad test cases:
 - banana
 
 ![e12 Tree](https://github.com/ey92/notes/blob/master/4744/hw4/e12tree.png)
+
+---
+Although it took me a while to understand what was going on, I found it interesting that we can come up with a formula to represent any valid statement of a language. Just as mathematical formulas must follow predefined rules and conventions, the sentences of a language must follow the definitions we wrote for each word and eventually evaluate to a truth value. This (lambda expressions for semantics) was the most difficult topic for me by far, but once I began to understand it, I could see why it is interesting and how much it contributes to the understanding of how languages work.<br><br>
+More closely related to the homework, I found the definition of "every" particularly interesting. In mathematical logic, the negation of "every"/"for all" is strictly "there exists" something of the opposite condition. However, since it was defined as a conditional _Ax[P(x)->Q(x)]_, there were multiple ways to negate its definition. We could create the conventional negation _Ex[P(x)->~Q(x)]_. But we can also just negate the implication _Ax[P(x)->~Q(x)]_, which became my definition for "no" (as a determinative).<br><br>
+Also, when I had to redefine some of the words, such as "every" or "to," I initially just made up expressions just to make the types match. However, I began to realize that the overall formula for each statement could actually be understood and connected to the linguistic statement I had started with. Once I understood what each argument for each lambda expression meant, it became much easier to produce what I needed and understand what was going on.
