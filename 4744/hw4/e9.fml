@@ -1,0 +1,2 @@
+true all x. ((Pos(x) & Cns(C(x))) -> D(x,N4)).
+

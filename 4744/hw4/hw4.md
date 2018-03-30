@@ -1,4 +1,4 @@
-| # | rule | good test case | bad test case | 0 or 3 |
+| # | rule | good test case | bad test case | .in/.out or .in3/.out3 |
 | - | ---- | -------------- | ------------- | ------ |
 | 1 | 2nd letter consonant | chip, school, the | water | 0 |
 | 2 | every vowel adj 3rd letter | cat, sake | tea | 0 |
@@ -8,7 +8,7 @@
 | 6 | 1st is initial and is a consonant | cat | eat | 3 |
 | 7 | no cap glide | why, eat | Why | 0 |
 | 8 | 3rd letter is final | eat | ship | 3 |
-| 9 | every consonant adj 4th letter  
+| 9 | every consonant adj 4th letter | aura, wore | snack, went, sway | 0 |
 | 10 | some consonant adj to all cons is adj to 2nd letter | an, ire | ant, can, palm, eat | 0 |
 | 11 | no vowel follows 2nd letter | eat | ate | 3 |
 | 12 | some vowel immediately precedes 3rd letter | eats | tree, ant | 3 |

@@ -29,8 +29,9 @@ define letter: Lx.x
 # individuals.
 define to: Lx.x
 define to-q: LPLQLxLy[Q(x) -> [P(x)&P(y)]]
+define to-r: LP.P
 # "is" and "a" are constant function on sets of individuals.
-define is: LP.P
+define is: LR.R
 define a: LP.P
 # Some boolean words.
 define and-t: LpLq[q & p]
@@ -48,8 +49,7 @@ define four: N4
 
 # Quantificational determiners.
 define some : LPLQ.Ex.[P(x) & Q(x)]
-#define every : LPLQ.Ax.[P(x) -> Q(x)]
-define every: LP.P
+define every : LPLQ.Ax.[P(x) -> Q(x)]
 
 # Dummy function that lets the Plop code find the
 # result.
@@ -59,4 +59,4 @@ exercise tree
 title Example 1
 directions letter three is a vowel
 
-[result [.S  [.S [letter four] [.VP [.V is] [.AP adjacent [.AP to-q [every consonant]]]]]]]
+[result [.S  [.S [[[letter four] [.VP [.V is] [.A adjacent]]] [.AP to-r ]] [every consonant]]]]
