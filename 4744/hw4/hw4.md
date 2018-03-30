@@ -1,3 +1,6 @@
+Elizabeth Yam ey92 <br>
+CS 4744 HW4
+
 | # | rule | good test case | bad test case | .in/.out or .in3/.out3 |
 | - | ---- | -------------- | ------------- | ------ |
 | 1 | 2nd letter consonant | chip, school, the, askew | water, swear, sync, real | 0 |
