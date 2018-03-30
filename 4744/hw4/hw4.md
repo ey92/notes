@@ -1,7 +1,7 @@
 | # | rule | good test case | bad test case | .in/.out or .in3/.out3 |
 | - | ---- | -------------- | ------------- | ------ |
 | 1 | 2nd letter consonant | chip, school, the, askew | water, swear, sync, real | 0 |
-| 2 | every vowel adj 3rd letter | cat, sake, towed | tea, stark, teal | 0 |
+| 2 | every vowel adj to 3rd letter | cat, sake, towed | tea, stark, teal | 0 |
 | 3 | some vowel is cap | cAt, Aim, sAmE | cat, The, SaMe | 0 |
 | 4 | every capV precedes 3rd letter | hAll, tAle, Shell, Art | scAle, sevEr, ArtisAn | 3 |
 | 5 | every vowel adj to 2nd letter is cap | Cake, Ant, tart, TATER | create, creAte, bEar | 0 |
@@ -40,13 +40,21 @@
 ![e8 Tree](https://github.com/ey92/notes/blob/master/4744/hw4/e8tree.png)
 
 ### 9
+_letter four is adjacent to every consonant_<br>
+redefine 'to':<br>
+```define to-r: LP.P```<br>
+tree: <br>
+```[result [.S  [.S [[[letter four] [.VP [.V is] [.A adjacent]]] [.AP to-r ]] [every consonant]]]]```<br>
+Previously, 'to' was used to apply to a specific letter (of type _e_). However, now that its object is 'every consonant' (type _et_), the 'to' must be redefined to take in _et_ as its argument. This is done by taking in a function instead of a variable.
+
+
 ![e9 Tree](https://github.com/ey92/notes/blob/master/4744/hw4/e9tree.png)
 - It was  hard to find positive test cases, since first two letters had to be a glide or vowel, followed by a consonant, and the word had to have at least 4 letters.
 
 ### 10
 ![e10 Tree](https://github.com/ey92/notes/blob/master/4744/hw4/e10tree.png)
 - also hard to find positive examples
-- since "you" doesn't have any consonant, the word's letters don't break this rule
+- since "you" doesn't have any consonant, the word's spelling don't break this rule
 
 ### 11
 ![e11 Tree](https://github.com/ey92/notes/blob/master/4744/hw4/e11tree.png)
@@ -67,15 +75,14 @@ post @202
 - There is no capital glide preceding letter two
 
 ### 14
-Answered Challenge Problem on Piazza
-post @208
-
-_letter four precedes no consonant_
-
+Answered Challenge Problem on Piazza<br>
+post @208<br>
+_letter four precedes no consonant_<br>
+redefine 'no':<br>
 ```define no : LPLR.Lx.Ay[P(y) -> ~[R(y)(x)]]```<br>
-```[result [.S  [letter four] [.VP [.V precedes] [.A [no consonant]]]]]```
-
-I used a definition of ```no``` that was similar to what I had of ```every``` in #10, except I negated the result. Using this, I could just build the logical tree as if it were a sentence, grouping keywords by "phrases."
+tree:<br>
+```[result [.S  [letter four] [.VP [.V precedes] [.A [no consonant]]]]]```<br><br>
+I used a definition of ```no``` that was similar to what I had of ```every``` in #10, except I negated the result. Using this, I could just build the logical tree as if it were a sentence, grouping keywords by "phrases."<br><br>
 
 good test cases:
 - cache
