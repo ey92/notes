@@ -773,7 +773,7 @@ Interactive Data Page
 - image maps from image to image repetitively
 - Charts and and Maps
 - Training
-- table top computing w/ touch-sensitive screens
+- table top computing w/ touch-sensitive screens (MS)
 - potential to change restaurant, bar, library experiences
 
 #### 6. Animation
@@ -798,13 +798,193 @@ Interactive Data Page
 - direct manipulation of visual models in 3D
 - main applications product design, architecture, gaming, increasingly finance
 - Oculus, Sony
+- goggles/gloves are inconvenient
 
+#### 10. Gesture Recognition (VR)
+- accomplish VR-like interaction without gloves
+- Leap motion device via sensors
+- might make touch sensitive screens obsolete
+    - advantage: more expressive than touch (3D vs 2D)
+- Thalmic Labs Myo Armband, wear sleeve around wrist & detect muscle movement, communicated with wireless receiver
+- Google Soli gesture recognition via Radar
 
-missed class 3/14, 3/19
+#### 11. Augmented Reality (VR superimposed on physical world)
+- add physical objects
+- see virtual images in a physical context
+- maintains relationship as you move around or manipulate the virtual image
+- MS virtual presence
 
-3/21
-### Analysis of Digital Products
-#### 1. Customization
+#### 12. Audio/Video Links
+- audio,video -> text, images
+- experimentation with sports events, interactive news
+- difficult to click on a running video
+- classic example sports
+- IBM China superimpose pop-up videos on top of a running video, called hot video or clickable video
+    - add data to video content, allow hyperlink to content
+- Walmart bought Vudu to insert ads into online video
+- Facebook made deal with Warner Brothers to make movies available for rent from within Facebook page; all Facebook functions will be integrated with the movie
+- Cornell Tech URU superimpose ads on surfaces within videos
+
+#### 13. Audio-Video DB Links
+- audio, video -> DB -> text, images
+- sports events, interactive news, with database access and statistical information
+- online polling with real time results during political events
+- audio input into Sears auto mechanic training system; easier, cheaper than AR
+    - audio input - voice command
+
+#### 14. Video control
+- video -> video
+- surround video: 350 degree video of 3D objects
+- Ipix combines 2D pictures into a 3D surround video
+    - 360 degree panoramic-lens camera directly produces surround video
+- 306fly camera
+- 360 degree pictures of roadways, create 3D maps, maybe may insides of buildings
+- add AR on top of maps or even physical world with directions and location information without headset via laser projection
+
+#### 15. Video Tours
+- collections of video clips with dynamic controls over the sequence of clips
+- interactive broadcasting of sports events
+- DVRs and tivo, replaytv, ultimatetv do some, but don't change angles and views
+- 2 ways to make interactive video watching
+    - make TV more like web with storage device
+    - make web more like TV with interactive video
+- interactivity can be useful in creating customized experience in all performances
+- interactive movies are feature films customized by real-time audience feedback
+
+## Digital Products
+- web is a medium to deliver information
+- web businesses maximize information delivery as opposed to physical products
+- information as product is ideal for the web: digital products
+    - education, business data, publishing (music, films), broadcasting (TV), software
+
+## 5 Organizational Issues (Analysis of) with Digital Products
+1. Quality and Electronic Distribution
+2. Copyright ans Sharing
+3. Customization and Interactivity
+4. Communities
+5. Price Discrimination
+
+### 1. Quality Problem and Multimedia Delivery
+- high quality products expensive to produce
+- likely to combine text, audio/video, animations, interactivity in one platform; blurs distinction between all types of media
+- e.g. Apple iBook (Alice in Wonderland)
+- Spritz designs ebooks by completely re-engineering the process of reading
+    - don't move eyes, but move the text
+    - "double" reading speed
+- electronic books vs physical books
+    - cheaper distribution for ebooks
+    - physical distribution very expensive
+- Ingram: electronic distribution is advantage, not online reading
+    - distribute physical books electronically
+        - electronic distribution by Lightningsource with Espresso Book Machine - print and bind 300-page book in 4 minutes
+        - place machines at bookstores
+        - download and print books in bookstore as you wait
+    - advantage to bookstore: no inventory (bookstore with no inventory)
+        - concern for bookstore: bookstore becomes a printing booth, not a bookstore (too much outsourcing)
+    - hesitant to proceed - possible retaliation by bookstores
+    - **channel conflict**: multiple channels of distribution undermining each other
+- channel conflict also reason why automobile companies do not sell cars online
+
+#### Electronic Distribution to Improve Quality
+- digital distribution applies to all digital products
+- deliver to consumer device other than an computer to improve quality of UX
+- interesting new business models (e.g. music/phones, movies/TVs)
+- Walmart embraced video downloading to DVDs instead of fighting it
+    - create synergies between physical stores and video downloading to DVDs
+    - in-store kiosks to download video and burn onto DVDs
+    - advantages vs on downloading on PC: having high-internet speed, computer, video quality
+    - creates foot traffic at Walmart with possible cross-selling
+
+### 2. Copyright Problem
+- once you give away an electronic copy of product, easy to duplicate or resell
+- dominated music industry for past 15 years
+- 3 types of solutions: legal, technical, economic
+
+#### Legal Solution
+- music industry vs file-sharing businesses such as Napster, Kazaa, Morpheus, Aimster, Pirate Bay, BitTorrent, Megaupload
+- **separability test**: Napster case established by the courts that the separability of legal and illegal uses requires sharing sites to block illegal uses
+    - original Napster satisfied separability test (central database of files, but didn't block illegal uses), but shut down
+    - modern sites use distributed strategy (peer-to-peer network)
+        - less efficient file-sharing and distribution
+        - less vulnerable legally
+        - creators don't know how filesharing site is used (_plausible deniability_)
+
+#### Technical Solution
+- watermarking and tracking
+- Playboy Corp: use watermarks and doing a web search/crawlers
+- heavy use of hyperlinks to discourage mass copying
+    - media is downloaded one chunk at a time - mass copying is difficult
+- streaming media - don't download media
+    - program displays media, but no local file to share
+- screen scraping programs can copy anything displayed on your monitor
+    - not effective with technically savvy users
+- historically, streaming audio reduced the need to own music (radio)
+    - internet radio for streaming music can be customized
+    - interactive radio - audio on demand - no need for file sharing
+
+#### Economic Solution
+- sharing of digital products does not necessarily harm the sellers for 3 reasons:
+1. savings from digital distribution
+    - when distribution and marketing costs are high, cost savings from digital distribution can compensate more than enough for losses from sharing
+    - readers, authors, publishers earn more from digital distribution
+    - comedian Louis CK - bypassing cable networks and distributing his own shows on the web; allow people to share them
+2. sharing leads to market expansion
+    - when untapped potential market is very large, and advertising and customer acquisition costs are high, sharing by consumers may expand the market and benefit everyone
+    - unknown new bands are supportive of music sharing
+    - revenue = market size x market share of paying customers
+        - _pays to have a smaller share of a larger market_
+    - 1980s movie producers vs VCR technology
+        - benefited movie producers by creating new market of home entertainment in 1990s
+    - 1800s public libraries vs book publishers
+        - public libraries made reading popular
+        - reading was previously an elite hobby
+        - massive growth of market size
+3. sharing may lead to monopolistic prices
+    - sharing can benefit sellers, if they can control prices and price better
+    - _monopolistic competition_: information sellers often have freedom to set prices because digital products are unique to each seller
+    - if you know the product will be shared, you price it higher
+        - **site license**: one price, multiple distribution
+        - e.g. MS Office sells to university for 50k
+            - save on advertising and distribution
+        - publishers through library rates: software companies though site sharing
+    - economic analysis of sharing is complex
+        - sharing does not always benefit sellers
+        - example assuming marginal production cost is 0:
+            - reservation price of 4 customers: 1   3   3   4
+            - revenues for price: 1,3,4:        4   9   9   4
+            - maximum revenue:                              9
+            - --
+            - 2 sites of customers:             1+4=5   3+3=6
+            - revenues at price 5,6:                10       6
+            - maximum revenue:                              10
+            - --
+            - 2 sites of customers:             1+3=4   3+4=7
+            - revenues at price 4,7:                8       7
+            - maximum revenue:                              8
+    - when do suppliers benefit from sharing?
+        - distribution of reservation prices: normal distribution
+        - when people share, distribution will have a smaller variance (from Central Limit Theorem)
+            - sharing ~ sampling: sharing may reduce variance in reservation prices (less market uncertainty)
+            - can price better and capture more of the market
+        - sharing doesn't always decrease variance; sometimes sharing increases variance
+            - if sample not always the same size, variance can go up
+            - if populations relatively uniform in size with similar reservation prices from CLT, variance will go down
+            - if populations are not uniform in size or reservation prices, variance may increase
+            - more importantly, can still benefit if can charge different prices for each population
+                - **price discrimination**
+- thought experiment: no copyright protection
+    - nobody would create anything, since they can't sell enough copies to overcome production costs
+        - assumes few sellers, fixed prices
+    - what if you set the price very high, knowing it would be shared?
+        - very few people would buy
+        - early buyers will be resellers to make the money back (no copyright protection); can also make money if they judge product's value correctly
+        - in a highly networked environment with peer-to-peer market places, where people can distribute and sell to each other via YouTube and Ebay, no copyright protection could lead to vibrant marketplace
+        - may be more efficient marketplace without a mass market or mass advertising
+    - alternative market environment may actually be a very successful marketplace, but not tried yet
+
+![Distribution of Reservation Prices](https://github.com/ey92/notes/blob/master/distribution-of-reservation-prices.png)
+
+### 3. Customization
 - growing importance in marketing
 - digital products
     - initial development cost high
@@ -823,7 +1003,7 @@ missed class 3/14, 3/19
             - creates winner-take-all environments
 - customization can expand the market
 
-##### Customized Recommendations
+#### Customized Recommendations
 - identify different types of customers
 - create many niche markets, no single product should dominate market
 - **long tail phenomenon** many niche markets can collectively add up to a larger market than the few popular products
@@ -834,7 +1014,7 @@ missed class 3/14, 3/19
 - rare events now dominate our lives due to technology
 - high-tech, fast-changing world
 
-## Web Communities
+### 4. Web Communities
 - web communities: ongoing relationships among group of people with common interest to exchange information, experiences, advice
 - mass advertising by sellers, as it is typically done, is claimed to be a fundamentally faulty model
 - commercial communities of interest provide alternative
@@ -842,7 +1022,7 @@ missed class 3/14, 3/19
 - future of advertising where communities of buyers and sellers interact as equals, rather than information asymmetry
     - **information symmetry** - sellers with superior knowledge dominating the buyers with limited knowledge
 
-## Price Discrimination
+### 5. Price Discrimination
 - buyers pay maximum reservation price
 - _who_ values products differently
     - _differential value_: personal characteristics (preferences)
