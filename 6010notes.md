@@ -956,11 +956,11 @@ Interactive Data Page
         - reservation price of 4 customers: 1   3   3   4
         - revenues for price: 1,3,4:        4   9   9   4
         - maximum revenue:                              9
-        - -
+        - \-
         - 2 sites of customers:             1+4=5   3+3=6
         - revenues at price 5,6:                10       6
         - maximum revenue:                              10
-        - -
+        - \-
         - 2 sites of customers:             1+3=4   3+4=7
         - revenues at price 4,7:                8       7
         - maximum revenue:                              8
