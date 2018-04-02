@@ -650,7 +650,7 @@ in auxiliary position
 	- relative to category
 	- e.g. loud whisper, big virus
 
-#### Definite & Indefinite Articles
+#### 1. Definite & Indefinite Articles
 (borderline pragmatics)
 - definiteness vs specificity
 	- specificity: speaker has particular referent of expression in mind
@@ -668,17 +668,18 @@ in auxiliary position
 | non-specific| He wants to buy a car | The knight who pulls the sword from this stone will be king <br> The rat is a mammal |
 | specific | I don't think you have enough information to identify it | The moon set early last night |
 
-#### Subject vs Predicate
-- sentence can be divided into subject (entity), and preidcate (aserts some property is true of subject)
+#### 2. Subject vs Predicate
+- sentence can be divided into subject (entity), and predicate (asserts some property is true of subject)
 - forms proposition together -> have truth values
 	- true when subject has property specified by predicate
+	- semantics is computing truth values
 
-#### Proposition
+##### Proposition
 - proposition presupposes existence of its arguments
 - presuppositions must be true for proposition to have meaning
 - if proposition doesn't hold true, sentence is neither true nor false
 
-#### Meaning is Composition of Parts
+#### 3. Meaning is Composition of Parts
 ##### Quantifiers
 - how many values of variable associated with subject to evaluate
 - universal ∀
@@ -692,6 +693,7 @@ in auxiliary position
 - quantifiers can have scope over each other
 - different kinds of groups
 	- bare plurals not synonymous with "all", but can be exploited and interpreted as such
+-**scope**
 
 ##### Enumerability
 - count nouns vs mass nouns
@@ -741,9 +743,9 @@ in auxiliary position
 - we often don't speak literally
 - much of the time, utterances not intended to be interpreted literally
 - somehow able to 
-	- convey/receive messages ___
-	- ____ 
-- due to our ability to ___
+	- convey/receive messages that aren't part of the utterance's literal meaning
+	- use sentences in what seems inappropriate context, and expect to be understood (e.g. question used as a request)
+- due to our ability to make assumptions based on context
 
 # Pragmatics
 - study of how language is used in particular contexts, to convey meanings and intentions
@@ -754,39 +756,39 @@ in auxiliary position
 #### Quality Assumptions
 - conversation partners not
 	- deliberately being deceitful
-	- ___
-	- ___
+	- habitually making irrelevant utterances
+	- crazy
 - give them benefit of the doubt
 - search for interpretations that are consistent with implicit contract
 - willingness to look beyond the literal that allows us to express things figuratively
 - conversation partners as invested in success of the conversation as we are
-
-- necessary because
-	1. ___
-	2. ___
-	3. ___
+<br>
+- pragmatics necessary because
+	1. not all linguistic utterances intended to convey meanings, narrowly construed
+	2. if they are, we don't always convey in a literal fashion that can be mechanically extracted from message
+	3. if we do, hearer needs to draw on sources other than message to identify intent behind meaning
 - allow us to contextually disambiguate ambiguities
 
 ## Implicature
 - inferred additional meaning not literally from the sentence's meaning
 
-- utterances have locutionary force (meanings)
-- utterances also have illocutionary force (intent of the speaker)
+- utterances have **locutionary force** (meanings)
+- utterances also have **illocutionary force** (intent of the speaker)
 	- requests for information, promises, commands, etc...
 - e.g. "Can you pass the salt?" command as question
 - e.g. "It's hot in here" request to lower the thermostat
 - most commands in polite society disguised as other illocutionary types/acts (statements, questions)
-	- assertives: commit speaker to truth of expressed proposition
-	- directives: case hearer to take action (request, command, advice)
-	- commissives: commit speaker to future action (promise, oath)
-	- expressives: express speaker's attitudes/emotions towards proposition (congratulations, excuses, thanks)
-	- declarations: change reality in accord with proposition of declaration (baptism, pronouncing guilty, marriage)
+	- _assertives_: commit speaker to truth of expressed proposition
+	- _directives_: case hearer to take action (request, command, advice)
+	- _commissives_: commit speaker to future action (promise, oath)
+	- _expressives_: express speaker's attitudes/emotions towards proposition (congratulations, excuses, thanks)
+	- _declarations_: change reality in accord with proposition of declaration (baptism, pronouncing guilty, marriage)
 - don't take them at face value because principles of inference allow us to understand intended meaning
 - _implicature_ is part of meaning of sentence which goes beyond its truth values
-- __
+- _conversational implicature_ are implicatures understood by apply maxims of conversation
 
 ## Conversational Principles
-- conversations we participate in are governed by __________________
+- conversations we participate in are governed by conversational maxims
 - trust interlocuters to contribute meaning
 - existence of implicit social contract that allows us to understand nonliteral meanings
 - taken advantage of by advertisers
@@ -806,33 +808,120 @@ in auxiliary position
 - make calculations about what's going on in co-locqutor's head
 - don't ask for information you already have
 - be relevant
-4. Maxim of Quantity
-
+4. Maxim of Manner
+- be orderly (say things in the right order)
+- be brief
 
 ## Speech acts
 - saying something is a speech act
-- governed by 3 principles
-1. illocutionary force: speaker's intention is interpreted pragmatically by hearer
+- governed by 3 principles:
+1. _illocutionary force_: speaker's intention is interpreted pragmatically by hearer
 	- assertion
 	- imperative
 	- interrogative
-2. conversational principles: hearer's expectations of the speaker
-3. presuppositions: assumptions both the speaker and the hearer have to make for the utterance to make sense
-4. performative: performing the speech act makes them true (declarations, promises, etc)
-5. metaphor: describing one thing in terms of something else
+2. _conversational principles_: hearer's expectations of the speaker
+3. _presuppositions_: assumptions both the speaker and the hearer have to make for the utterance to make sense
+- **performative**: performing the speech act makes them true (declarations, promises, etc)
 
 ### Metaphor
-- orientational metaphors: social hierarchies, mood, morality
+- describing one thing in terms of something else
 - much language is metaphorical
 - facilitate understanding of the world
 - cultural schemata
+- _synesthesia_: mixing senses; get sensory input from one sense, but feel sensory output from other senses
+
+#### Orientational Metaphors
+- social hierarchies, mood, morality
 - we tend to anthropomorphize the world and interpret it in terms of our bodies
-- synesthesia: mixing senses; get sensory input from one sense, but feel sensory output from other senses
+- not universal
 
 #### Structural Metaphors
 - the metaphor we choose shapes how we think about object being described (Lakoff)
 - if mind is a container, learning is the process of filling that container with knowledge
 - metaphors highlight certain aspects of things we understand in terms of them as well as hide other aspects
+
+# Historical Linguistics
+- everything about a language changes: sounds, words, inflections, syntax, meanings
+- English used to have declensions
+	- disappeared around 12th century
+1. Sound Change
+2. Comparative Reconstruction
+3. Changes in Vocabulary, Grammar, Meaning
+
+## Sound Change
+- most kinds of sound change tend to be regular and without exception over long time spans
+- **comparative method**
+	- run sound change in reverse by comparing remotely related languages, seeing how their sounds differ, and reversing these changes, layer by layer, until we arrive at what common ancestor sounded like and what its morphemes were
+	- Proto-Indo-European
+		- know more of PIE grammar than some living languages
+- historical and comparative linguistics study same process from opposite ends
+	- historical: how language changes over time
+	- comparative: how to reverse change to find system before change happened
+
+### Regularity Hypothesis
+- with certain exceptions, sound change is regular
+	- if a sound changes in one word in a phonetic environment X, it will change in all other words in the language in environment X, without exception
+	- sound change is regular, in the sense that the conditions under which it occurs are always exhaustively specifiable in phonological terms
+- words can be borrowed after sound change occurred, leaving words in language that had environment for sound change
+- sound changes tend to apply to natural classes of sounds, rather than individual sounds (e.g. fricatives, long vowels, voiceless stops)
+- most sound changes are conditioned: shape of a sound changes in only a particular environment
+
+### Changes in Quality
+- **assimilation**: changes to a sound which make it more like other sounds around it in some way
+	- _place assimilation_:
+		- _palatalization_: 
+			- drink/drench (drank-jan)
+		- _umlaut_: vowel/vowel assimilation:
+			- blod/bleed (blod-jan)
+	- _voicing assimilation_:
+		- _intervocalic assimilation of fricatives in pre-English_
+		- breath/breathe (bred-en), bath/bathe, heath/heathen
+		- wolf/wolves (wolf-as), staff/staves, house/houses
+
+### Changes in Quantity
+- **segment loss**
+	- pre-Old English n-loss before fricatives
+		- sanft/soft, Gans/goose, fünf/five
+	- Middle English loss of final vowels
+		- nama/name, bana/bane, baðian/bathe
+- **lengthening and shortening**
+	- _trisyllabic shortening_
+		- divine/divinity
+	- Old English _closed syllable shortening_
+		- cēpan/cēpte -> keep/kept
+		- wīse/wīsdom -> wise/wisdom
+	- Middle English _open syllable lengthening_
+		- nama -> nāmə -> name
+		- baðian -> bāðen -> bathe
+- **unconditioned changes** (almost)
+	- Old English /sk/ -> /ʃ/
+		- in initial position, after vowels, unless preceding vowel is back vowel
+		- fisks -> fish
+
+### Shifts
+- applies to whole family of sounds
+- **Great Vowel Shift** (early Modern English)
+	- all _long vowels_ of English _raised or turned into diphthongs_
+		- bītan/bite, fēt/feet, hūs/house, stān/stone, gōs/goose
+- **Grimm's Law** (Germanic)
+	- all stop consonants changed
+	- _voiceless stops -> voiceless fricatives_
+		- /p/ -> /f/, /t/ -> /θ/, /k/ -> /h, piscatorial/fish, tres/three, centum/hundred
+	- _voiced stops -> voiceless stops_
+		- /b/ -> /p/, /d/ -> /t/, /g/ -> /k/, decem/ten, fagus/book
+	- _voiced aspirated stops -> voiced stops_
+		- /bh/ -> /b/, /dh/ -> /d/, /gh/ -> /g/, frater/brother, foris/door, hort-/greedy
+
+### Irregular Sound Changes
+- don't follow regularity hypothesis
+1. **dissimilation**: rr -> rl or lr
+	- peregrinus -> pèlerin -> pilgrim
+	- arbore -> arbol
+2. metathesis: rearranging sounds or syllables (usually switching 2+ contiguous sounds _adjacent_/_local metathesis_)
+	- miraculum -> milagro
+	- parabola -> palabra
+3. haplology: elimination of syllable when two identical or similar syllables occur consecutively
+	- Engla-land -> England
 
 ---
 ##### Prelim 1 content
