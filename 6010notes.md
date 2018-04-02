@@ -924,54 +924,57 @@ Interactive Data Page
 
 #### Economic Solution
 - sharing of digital products does not necessarily harm the sellers for 3 reasons:
-1. savings from digital distribution
-    - when distribution and marketing costs are high, cost savings from digital distribution can compensate more than enough for losses from sharing
-    - readers, authors, publishers earn more from digital distribution
-    - comedian Louis CK - bypassing cable networks and distributing his own shows on the web; allow people to share them
-2. sharing leads to market expansion
-    - when untapped potential market is very large, and advertising and customer acquisition costs are high, sharing by consumers may expand the market and benefit everyone
-    - unknown new bands are supportive of music sharing
-    - revenue = market size x market share of paying customers
-        - _pays to have a smaller share of a larger market_
-    - 1980s movie producers vs VCR technology
-        - benefited movie producers by creating new market of home entertainment in 1990s
-    - 1800s public libraries vs book publishers
-        - public libraries made reading popular
-        - reading was previously an elite hobby
-        - massive growth of market size
-3. sharing may lead to monopolistic prices
-    - sharing can benefit sellers, if they can control prices and price better
-    - _monopolistic competition_: information sellers often have freedom to set prices because digital products are unique to each seller
-    - if you know the product will be shared, you price it higher
-        - **site license**: one price, multiple distribution
-        - e.g. MS Office sells to university for 50k
-            - save on advertising and distribution
-        - publishers through library rates: software companies though site sharing
-    - economic analysis of sharing is complex
-        - sharing does not always benefit sellers
-        - example assuming marginal production cost is 0:
-            - reservation price of 4 customers: 1   3   3   4
-            - revenues for price: 1,3,4:        4   9   9   4
-            - maximum revenue:                              9
-            - --
-            - 2 sites of customers:             1+4=5   3+3=6
-            - revenues at price 5,6:                10       6
-            - maximum revenue:                              10
-            - --
-            - 2 sites of customers:             1+3=4   3+4=7
-            - revenues at price 4,7:                8       7
-            - maximum revenue:                              8
-    - when do suppliers benefit from sharing?
-        - distribution of reservation prices: normal distribution
-        - when people share, distribution will have a smaller variance (from Central Limit Theorem)
-            - sharing ~ sampling: sharing may reduce variance in reservation prices (less market uncertainty)
-            - can price better and capture more of the market
-        - sharing doesn't always decrease variance; sometimes sharing increases variance
-            - if sample not always the same size, variance can go up
-            - if populations relatively uniform in size with similar reservation prices from CLT, variance will go down
-            - if populations are not uniform in size or reservation prices, variance may increase
-            - more importantly, can still benefit if can charge different prices for each population
-                - **price discrimination**
+
+##### 1. _savings from digital distribution_
+- when distribution and marketing costs are high, cost savings from digital distribution can compensate more than enough for losses from sharing
+- readers, authors, publishers earn more from digital distribution
+- comedian Louis CK - bypassing cable networks and distributing his own shows on the web; allow people to share them
+
+##### 2. _sharing leads to market expansion_
+- when untapped potential market is very large, and advertising and customer acquisition costs are high, sharing by consumers may expand the market and benefit everyone
+- unknown new bands are supportive of music sharing
+- revenue = market size x market share of paying customers
+    - _pays to have a smaller share of a larger market_
+- 1980s movie producers vs VCR technology
+    - benefited movie producers by creating new market of home entertainment in 1990s
+- 1800s public libraries vs book publishers
+    - public libraries made reading popular
+    - reading was previously an elite hobby
+    - massive growth of market size
+
+##### 3. _sharing may lead to monopolistic prices_
+- sharing can benefit sellers, if they can control prices and price better
+- _monopolistic competition_: information sellers often have freedom to set prices because digital products are unique to each seller
+- if you know the product will be shared, you price it higher
+    - **site license**: one price, multiple distribution
+    - e.g. MS Office sells to university for 50k
+        - save on advertising and distribution
+    - publishers through library rates: software companies though site sharing
+- economic analysis of sharing is complex
+    - sharing does not always benefit sellers
+    - example assuming marginal production cost is 0:
+        - reservation price of 4 customers: 1   3   3   4
+        - revenues for price: 1,3,4:        4   9   9   4
+        - maximum revenue:                              9
+        - -
+        - 2 sites of customers:             1+4=5   3+3=6
+        - revenues at price 5,6:                10       6
+        - maximum revenue:                              10
+        - -
+        - 2 sites of customers:             1+3=4   3+4=7
+        - revenues at price 4,7:                8       7
+        - maximum revenue:                              8
+- when do suppliers benefit from sharing?
+    - distribution of reservation prices: normal distribution
+    - when people share, distribution will have a smaller variance (from Central Limit Theorem)
+        - sharing ~ sampling: sharing may reduce variance in reservation prices (less market uncertainty)
+        - can price better and capture more of the market
+    - sharing doesn't always decrease variance; sometimes sharing increases variance
+        - if sample not always the same size, variance can go up
+        - if populations relatively uniform in size with similar reservation prices from CLT, variance will go down
+        - if populations are not uniform in size or reservation prices, variance may increase
+        - more importantly, can still benefit if can charge different prices for each population
+            - **price discrimination**
 - thought experiment: no copyright protection
     - nobody would create anything, since they can't sell enough copies to overcome production costs
         - assumes few sellers, fixed prices
