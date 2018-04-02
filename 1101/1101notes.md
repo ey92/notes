@@ -917,10 +917,10 @@ in auxiliary position
 1. **dissimilation**: rr -> rl or lr
 	- peregrinus -> pèlerin -> pilgrim
 	- arbore -> arbol
-2. metathesis: rearranging sounds or syllables (usually switching 2+ contiguous sounds _adjacent_/_local metathesis_)
+2. **metathesis**: rearranging sounds or syllables (usually _adjacent_/_local metathesis_ - switching 2+ contiguous sounds)
 	- miraculum -> milagro
 	- parabola -> palabra
-3. haplology: elimination of syllable when two identical or similar syllables occur consecutively
+3. **haplology**: elimination of syllable when two identical or similar syllables occur consecutively
 	- Engla-land -> England
 
 ---
