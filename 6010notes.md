@@ -1061,10 +1061,152 @@ Interactive Data Page
         - WaPo 2016 experiment: clearing cookies gave lower average price
     - caveat: legal issues basis of race, gender, age, handicap
 
-missed class 3/26
+# Security, Integrity, Privacy
+- **security**: preventing loss or destruction of resources
+- **integrity**: ensuring correctness of information
+- **privacy**: limiting access to information
 
-# Security Technologies
-## Site Security
+## Security
+#### 1. Destruction of Resources
+- viruses, worms, natural disasters
+- virus are attached to documents
+    - take advantage of the fact that people are constantly exchanging documents
+    - must click to be activated
+- worms travel on their own
+    - take advantage of the fact that servers are constantly talking to each other (protocols)
+    - travel from server to server
+    - travel on their own
+    - Stuxnet (2010) Iranian nuclear facilities
+    - hard to detect
+- cyber warfare is changing the nature of warfare
+    - infrastructure is based on computers
+    - wars will start with cyber warfare - knock out command/control center
+    - 1st Iraqi war
+- solution: virus protection software
+- backup of critical resources
+
+#### 2. Theft of Resources
+- unauthorized transfers of money, stealing credit card numbers, or bank account numbers with spyware, unauthorized use of computers to send spam mail or pop-up ads
+- credit card insurance company loses when this happens (customers not liable)
+    - don't always cover costs
+    - fraud rates are twice as high as physical commerce
+    - so high that many sellers don't accept international orders
+        - counters global reach advantage of ecommerce
+    - credit card companies and insurance companies only cover the loss when there is a paper receipt and signature
+        - if not, merchant stuck with loss
+    - online purchase - no receipt (card not present CNP)
+        - credit card company doesn't accept the loss
+        - business stuck with loss
+- solution: encryption, authentication, spyware protection
+
+#### 3. Overloading of Resources (DoS attacks)
+- aka denial of service attacks
+- overload server with fake transactions
+- so busy that server can't handle all the requests
+- very easy to do by using intelligent agents, but difficult to block
+    - fake transactions hard to detect
+    - identify source & block server
+    - DoS sender switches servers
+    - turns into an arms race
+- Russian-Georgian war of 2008, attacked Georgian Central Bank, shut down central bank, had to move servers to the US to operate their banking system
+- solution: filters, firewalls
+
+## Integrity
+
+## Privacy
+- limiting access to information
+- indirectly important because helps protect security and integrity
+- also directly important:
+    - privacy has psychological, strategic, and economic value
+
+#### Psychological Value of Privacy
+- personal information may be embarrassing to reveal
+- web may be more private than physical world
+- privacy-oriented businesses can be successful on the web
+    - gambling, pornography
+    - medical and legal advice
+- privacy is your defense against social control
+    - without privacy, no individual freedom for fear of embarrassment and social rejection
+- embarrassment is the threat of social rejection, an effective social control tool
+- institutions take away your privacy, which eliminates your individuality, and control your behavior
+    - if you can't be separate physically, you can't behave differently for fear of rejection
+    - orientation is when you change your high school identity to college identity
+    - you can't even think differently, as in Stockholm Syndrome
+
+#### Strategic Value of Privacy
+- competitive strategy, military strategy, political strategy, negotiation strategy from adversaries
+- actions
+    - CIA used wireless spying on foreign embassies
+        - keyboard strokes send EM waves
+- words
+    - authoritarian governments track your words and remove dangerous ideas from society
+        - preemptive action before words become actions
+        - 100 yrs ago Emma Goldman arrested in NYC for advocating birth control
+    - in marketing, people who create and disseminate new ideas are called **opinion leaders**
+        - influence other people
+        - adventurous and more likely to try new things
+        - removing opinion leaders is effective social control system because there are very few of them
+    - social and political change requires privacy for ideas to develop
+    - businesses can implement social control systems also
+    - employers constantly spy on employee email
+        - business secrets as excuse
+        - courts say employees don't have privacy at work
+    - interviewers check your Facebook page
+        - people are afraid to post controversial ideas
+        - they don't exist in the public domain anymore
+        - economic pressure
+        - businesses act as agent of government by enforcing the norms
+- what if you could track people's thoughts
+    - your readings and searches reveal your thoughts and plans
+    - Blackboard observes your reading behavior and can accurately predict your grade
+        - University of Illinois made readings stream-only and track how long students spend
+    - you can get an accurate profile of thoughts and tendencies
+    take preemptive action, build a thought control system
+    - US Patriot Act of 2006 controversial
+        - allow government access to library and web surfing records
+        - last year, Senate passed a law allowing ISPs to collect web browsing data and sell it
+
+#### Economic Value of Privacy
+1. your transactions reveal your price preferences
+    - if you can keep your information private, you can prevent price discrimination
+    - price discrimination by airline reservation systems and auctions
+2. your time and attention are valuable
+    - you can sell it if you claim ownership to it and protect it, but that requires privacy
+    - direct marketers attempting to grab your attention without payment
+    - TV and newspaper ads paying for your attention
+    - time and attention of consumers are often free public goods
+    - utilization skyrocketed with telephone and email technologies (used to be costly to take advantage)
+    - utilization of a resources is determined by its cost and benefit, but some costs are incurred by others than those who are benefited
+        - **negative externalities** are costs incurred by others, not those receiving the benefits
+        - physical goods with negative externalities
+        - any kind of pollution (air, water, water, noise)
+    - goods with negative externalities tend to be over-utilized, beyond what is optimal for society
+        - someone else is paying the cost, so people use as much as possible
+        - often leaves everyone worse off
+        - products where markets fail
+        - _retaliation_: everyone else will take advantage, resource becomes unusable
+        - widespread over-utilization by everyone
+        - government regulation or technology to prevent overuse is useful
+    - sensor technologies are promising to either block overuse as in spam filters or to charge over-users as in pollution control systems
+3. information about is valuable
+    - you can sell it if you claim ownership to it and protect it, but that requires privacy
+    - shopping cards paying for information about you
+    - on the web, you often reveal that information freely
+    - Google purchased ad company Double Click in 2008 and formed alliance with startup SilverPush in 2016
+        - 1. what you do on the web: Double Click collects click stream data, using cookies, from all affiliated sites
+            - **multisite tracking** through affiliates
+        - 2. who you are: Double Click collects demographic data from purchases, subscriptions, surveys, games, and community registrations, and link to your clickstream **identity tracking**
+        - 3. what you do in the physical world: Double Click acquired Abacus Direct, combining online data with Abacus' offline transaction data from department stores, airlines, hotels, car rental companies
+        - 4. what you do at home: SilverPush uses ultrasound messages, inaudible to human ears, to link devices in the same physical location and track them together **multichannel tracking**
+        - a website ad or tv ad can communicate by ultrasound with a nearby phone or tablet if phone or tablet has app affiliated with SilverPush
+        - link tells them if and how long the ad was watched, what other devices the watcher is using, what he was doing on them **cross device tracking**
+    - produces a complete economic profile from tracking consumer over many affiliated sites and stores
+    - allows customized ads, and information, even if the first time you visit a specific site, by using multisite, multichannel, and cross-device tracking through all affiliated sites, channels, and devices
+    - potential: customized ads - you only see relevant information perfectly tailored to you; no more irrelevant ads, new recs
+    - cons: only see information tailored to manipulate you; if you are exposed to only one consistent message, your behavior can be controlled, just like cult members
+
+## Security Technologies
+### Site Security
 - critical as businesses open up their internal systems to external constituencies
 - EDI
 - avoid revealing to everyone
@@ -1085,17 +1227,17 @@ missed class 3/26
 - Verizon & AT&T sued for installing sniffers without court order to inspect all international communication at request of government
     - Sprint refused
 - 3 issues: loss, privacy, integrity
-- loss
+- **loss**
     - not a privacy issue
     - if lost, no one can read it
-- privacy
+- **privacy**
     - message is only read by recipient and no one else
     - tools: electronic envelopes
-- integrity
+- **integrity**
     - message integrity: message arrived correctly
     - sender integrity: sender identified correctly
 
-### 5 Tools for Privacy and Security
+## 5 Tools for Privacy and Security
 - all based on encryption
 1. symmetric keys
     - oldest encryption
