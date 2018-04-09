@@ -1422,7 +1422,8 @@ first to have spells written inside of burial chamber
     - wearing red crown
     - linen-wrapped to knees
 
-### Middle Kingdom begins with 2040 reunification
+# Middle Kingdom begins
+- 2040 reunification
 - "tomb of warriors" at Deir el-Bahri
     - found 60 bodies
 - well-preserved, linen wrapped without embalming
@@ -1486,6 +1487,99 @@ first to have spells written inside of burial chamber
         --<br>
         --"
     - instead of being a loved benevolent ruler, he is lonely and must be feared
+    - window into palace life and organization
+    - Itjtawy palace undiscovered (new capital)
+
+### Senusret I 1971-1926
+- 45 yrs, pharaoh during _Sinuhe_
+- rise of Theban cult
+- _Ipet Sut_ "perfect place", aka White Chapel (alabaster) at Karnak
+    - beginning of Amun worship in Thebes and syncretism (belief fusion)
+    - Atum leads Senusret I to meet Amun, represented as Min, fertility god
+    - intimacy with gods
+    - carved in relief (background carved away, leaving images to stick out)
+    - Amun-Min
+    - associate himself with Amun-priesthood (as powerful as the royal family)
+- Buhen complex
+    - fortified, grid-planned colony as southern border near 2nd cataract
+    - inscriptions list amethyst, gold, turquoise, copper, gneiss
+- claims to build "walls of the Ruler" in the Delta to keep out the Asiatics
+    - wall not found, likely a series of 
+    - "throat-slitter of Asia"
+- pyramid at Lisht incorporated "limestone skeleton"
+    - most satellite pyramids
+    - inner wall - 1 inside for queen; 9 outside for a queen and princesses, within outer wall
+    - didn't last - rubble core
+    - eastern entrance
+    - mortuary temble, causeway
+    - evidence of ramps (construction)
+    - tomb underground: below water level
+        - possibly theme associated with Osiris and fertility
+
+### Amenemhet II 1929-1895
+- 34-yr reign
+- 1st pharaoh with annals, yearly record of kingly deeds
+    - 1. donations to temples, lists of statues and buildings, reports military and commercial, hunting
+    - 2. treaties between Levantine cities and Egypt
+        - first evidence of regular international relations
+        - 1st reference to treaty, but not the actual treaty
+- deposit of imported silver (~9kg), lapis, gold(~7kg) buried under Montu temple
+    - sources from Agean world, Anatolia, Afghanistan via Mesopotamia
+
+### Senusret II 1897-1878
+- 19 yrs
+- Lahun funerary complex mudbrick on rubble core
+    - dummy mastabas
+    - 1 queen's pyramid
+    - real tombs were hidden, unmarked shaft tombs
+        - Princess Sit-Hathor-Yunet's shaft tomb preserved exceptional jewelry
+        - gold, carnelian, lapis, turquoise, Hapy, Senusret II's cartouche
+        - symmetry, duality, conservative, old-fashioned art
+    - all within a wall
+- Faiyum Irrigation project
+    - connected Faiyum to Bahr Yusef (Joseph's Canal) (Nile), creating more arable and buildable land
+    - region became site for pyramid complexes
+- Lahun pre-planned town
+    - area made habitable by irrigation project
+    - ~5,000 people working on canal
+- believed to have been built by prophet Joseph
+- plausible inspiration for Joseph stories in Genesis 37-45, Qur'an surah 12
+
+#### Tomb of Khnumhotep
+- official buried at Beni Hasan
+- tomb paintings show peaceful trade with Canaanites/Asiatics
+    - opposite of image projected by the pharaoh
+
+## Humanistic Literature (D12)
+- cynical themes, pessimistic view of life
+- _Dispute between a Man and His Ba_
+    - low value of life w/o strong king 
+- _Instructions of Amenemhat I_
+    - machiavellian, trust nobody, cynical realpolitik
+- _Eloquent Peasant_
+    - universal justice, spken by society's lowest
+    - omnipotent king, ultimately respond w/ justice, bureaucracy
+    - deferred reward
+- _Tale of Sinuhe_
+    - no place like home (Egypt)
+    - king is terrifying and omnipoltent, but ultimately just
+- _Tale of the Shipwrecked Sailor_
+    - 3 layers of stories
+    - complex moral, fantastic scenario
+    - allegory: king is terrible (serpent), but just if you listen, are humble, wise
+- new political image, pharaoh sympathize with the common man's pain
+- organized along Old Kingdom lines, lessons learned, pyramid economics back
+
+## Cult Resurgence
+- Heliopolitan myth, especially Osiris
+- Theban creator, Amun
+- wealthy also buried with preparations for the afterlife
+    - shwabtis, with inscribed spell to awake the servant (e.g. Meket-Ra's tomb)
+- democratization of afterlife
+- **Coffin Texts**
+    - spells for a good afterlife, as much as Pyramid Texts
+    - added content and broader availability
+    - new: negative confession: list of sins not committed
 
 # Middle Kingdom Renaissance
 - period of greater humanity, in literature, art
@@ -1572,3 +1666,6 @@ first to have spells written inside of burial chamber
 - Wadi al-Jarf papyrus from Khufu's era oldest papyrus
 - know text excerpts
 - Later recognized as "sages": Imhotep, King Khety, Neferty
+- Meket-Ra's tomb: daily life 3D models
+- Tale of Sinuhe, Instr to Amenemhet, Merikara -> only sources for palace life
+- _Papyrus Bulaq 18_ (D13): 3 parts of palace interior: nursery/harem (private), audience, open/outer

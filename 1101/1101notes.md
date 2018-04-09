@@ -865,6 +865,7 @@ in auxiliary position
 - words can be borrowed after sound change occurred, leaving words in language that had environment for sound change
 - sound changes tend to apply to natural classes of sounds, rather than individual sounds (e.g. fricatives, long vowels, voiceless stops)
 - most sound changes are conditioned: shape of a sound changes in only a particular environment
+- 3 exceptions: dissimilation, metathesis, haplology
 
 ### Changes in Quality
 - **assimilation**: changes to a sound which make it more like other sounds around it in some way
@@ -877,13 +878,16 @@ in auxiliary position
 		- _intervocalic assimilation of fricatives in pre-English_
 		- breath/breathe (bred-en), bath/bathe, heath/heathen
 		- wolf/wolves (wolf-as), staff/staves, house/houses
+	- assmiliation is main source for allomorphs
 
 ### Changes in Quantity
 - **segment loss**
-	- pre-Old English n-loss before fricatives
+	- pre-Old English Compensatory Lengthening: n-loss before fricatives (makes vowel longer)
 		- sanft/soft, Gans/goose, fünf/five
-	- Middle English loss of final vowels
+	- Middle English Open Syllable Lengthening: loss of final vowels
 		- nama/name, bana/bane, baðian/bathe
+	- Old ENglish Closed Syllable Shortening
+		- /waiz/,/wisdom/
 - **lengthening and shortening**
 	- _trisyllabic shortening_
 		- divine/divinity
@@ -900,17 +904,25 @@ in auxiliary position
 
 ### Shifts
 - applies to whole family of sounds
-- **Great Vowel Shift** (early Modern English)
-	- all _long vowels_ of English _raised or turned into diphthongs_
-		- bītan/bite, fēt/feet, hūs/house, stān/stone, gōs/goose
-- **Grimm's Law** (Germanic)
+- sound change that applies not just to a single sound, but to a whole system of related sounds
+- why shifts happen:
+	- perceptually based pressures toward maintaining symmetry (distance between sounds)
+	- sound change as therapy
+- **Grimm's Law** (proto-Germanic)
 	- all stop consonants changed
 	- _voiceless stops -> voiceless fricatives_
 		- /p/ -> /f/, /t/ -> /θ/, /k/ -> /h, piscatorial/fish, tres/three, centum/hundred
 	- _voiced stops -> voiceless stops_
 		- /b/ -> /p/, /d/ -> /t/, /g/ -> /k/, decem/ten, fagus/book
+		- (almost no words beginning with b, most English p-words borrowed from Romance languages)
 	- _voiced aspirated stops -> voiced stops_
 		- /bh/ -> /b/, /dh/ -> /d/, /gh/ -> /g/, frater/brother, foris/door, hort-/greedy
+- **Great Vowel Shift** (early Modern English)
+	- all _long vowels_ -> _raised or turned into diphthongs_
+		- low vowel -> middle vowel
+		- middle vowel -> high vowel
+		- high vowel -> diphthong
+		- bītan/bite, fēt/feet, hūs/house, stān/stone, gōs/goose
 
 ### Irregular Sound Changes
 - don't follow regularity hypothesis
@@ -922,6 +934,14 @@ in auxiliary position
 	- parabola -> palabra
 3. **haplology**: elimination of syllable when two identical or similar syllables occur consecutively
 	- Engla-land -> England
+
+## Comparative Reconstruction
+- comparative method developed 19th century largely by reference to one language family
+- proposal of PIE, Sir William Jones, 1st paper 30 yrs later
+- first step is to decide that a group of languages are genetically related, by comparing them
+	- sometimes relation is obvious (Germanic languages)
+- systematic changes are important, not similar sounds
+	- w (PIE) -> f (Scottish Gaelic), g (Welsh)
 
 ---
 ##### Prelim 1 content
@@ -945,14 +965,21 @@ in auxiliary position
 ---
 ##### Prelim 2 content
 1. Syntax
-- applying syntactic tests to argue for the constituent structure of an English sentence
-	- He rolled the ball into the room
-- Draw a simple syntactic tree (of a language that may not be English)
+	- applying syntactic tests to argue for the constituent structure of an English sentence
+		- show superficially similar sentences have different structure
+		- They bribed the child with the cupcake
+		- He rolled the ball into the room
+	- Draw a simple syntactic tree (of a language typologically different from English)
 2. Semantics and Pragmatics
-- entailments, presuppositions, how to tell the difference
-- explaining non-literal use of utterances in terms of Grice's Conversational Principles
-- word relationships
+	- entailments, presuppositions, how to tell the difference
+	- explaining non-literal use of utterances in terms of Grice's Conversational Principles
+	- word relationships
 3. Historical Linguistics
-- types of sound change
-- comparative reconstruction
-	- reversing effects of sound change by comparing related languages, in order to reconstruct the parent language
+	- types of sound change
+		- why is it in one environment, but not another
+	- comparative reconstruction
+		- reversing effects of sound change by comparing related languages, in order to reconstruct the parent language
+4. Gricean Maxims
+	- conversations in which conversational implicature plays a role
+	- identify relevant conversational maxim
+5. give examples of terminology

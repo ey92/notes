@@ -1289,6 +1289,149 @@ Interactive Data Page
     - https protocol
     - TCP 3-way handshake
 
+# Payment Systems
+- transit security: has integrity and privacy
+- enough security for payment
+
+## Credit Cards
+- 1 ---cc#---> 2 ---cc#/verify--> ccc <---payment--- bank1 ---pay---> bank2<br>
+-                                     ----------------pay-----------------><br>
+1: customer<br>
+2: business<br>
+ccc: credit card company<br>
+- insecurities?
+    - transit is secure, but nodes are not secure (customer # falsified)
+        - credit card company takes the risk, may revoke your credit card, requiring ongoing relationship between customer and credit card company
+    - false business is a bigger problem
+        - try to steal credit card #
+        - **phishing**
+        - solution to phishing: **signature tool**
+            - signed with bank's private key (sender integrity)
+            - integrity enforcement verifies sender
+            - public keys are published, can be monitored by all
+        - public keys can be verified by third parties called _Certificate Authorities (CA)_
+            - e.g. Verisign.com, ICVerify.com, Authorize.net, Better Business Bureau
+- CAs publish valid web-address-public key pairs, encoded with their own private keys
+    - anyone can read them by using the public key of the CA
+    - **digital certificates**
+        - can be attached to any website to verify corresponding public key
+- _businesses never see credit card number_
+    - encode the credit card number with credit card company's public key
+    - business can't read, but can pass on for credit card company to read
+
+- 1 ---cc#---> 2 <---verify--> ccc <---payment--- bank1 ---pay---> bank2<br>
+-                                    --------------pay-----------------><br>
+
+## Electronic Checking
+- bypassing credit card company
+- possible due to databases + networks
+- advantage of credit cards over personal checks
+    - auto small loans
+    - insurance against fraud
+    - universal acceptance
+    - technology of universal acceptance
+    - lucrative fee of 2-3% on every transaction (retailers dislike)
+    - originally, cccs created their own network to provide universal connectivity (now provided by internet)
+- advantage of checks over credit cards
+    - peer to peer acceptance with no special merchant accounts or card readers
+    - transaction costs are high with credit cards and paper checks (~5 cents/transaction)
+    - medium costs with electronic checks (~2 cents/transaction)
+        - no loan and insurance services provided, no paper processed
+- bank1 ---form---> 1 ---check---> 2 ---deposit/confirm---> bank2 <---submit/transfer funds--- > bank1
+- most banks provide electronic checking
+- money is transferred between accounts using ACH interbank automated clearing house as in electronic billing by utility companies
+- for periodic payments, authorize automatic payments, bypassing the check writing
+- specialized checking
+    - transaction costs are low (~1 cent)
+        - no inter-bank clearing
+        - Paypal, Venmo, WeChat Pay, AliPay, Popmoney
+        - have an account; move money to bank account, but takes 1-2 days
+        - phone-based systems
+        - all require membership in the same organization
+
+## Electronic Cash
+- why do we still use cash?
+- parking meters, taxicabs, laundromats, buses, foodtrucks
+    - don't have infrastructure to process
+    - transaction cost (high for credit card)
+        - cheap services -> big cut
+- low transaction cost with physical cash because no bank clearing
+- cash is anonymous
+- electronic cash is signed by a bank rather than an individual
+    - **electronic coins** for small denominations
+    - no physical existence, leading to **double spending problem** if same person allowed to spend same coin repeatedly
+    - clearing and cancelling is necessary to avoid double spending
+        - same serial number can't be used again
+        - large database of spent coins, cost of clearance
+    - transaction cost is **medium**, because of inter-bank clearance, as opposed to **low** with physical cash
+    - **not completely anonymous**
+        - two banks can share info to figure out who spent the money and where
+- serial number and denomination, signed by bank
+- bank1 ---coins---> 1 ---coins---> 2 ---coins/new coins---> 2b ---spent coins---1b
+- still experimental, most businesses are in bankruptcy
+- not as useful as physical cash because it provides minimal anonymity, transaction cost higher than physical cash
+
+#### electronic cash vs electronic checks
+- your signature not on electronic cash
+    - lose it, it belongs to whoever finds it 
+    - anonymity provides no protection against loss
+
+#### electronic cash vs physical cash
+- physical cash circulates
+    - electronic cash doesnot circulate and has to be cleared and cancelled as a spent coin after spending
+
+## Anonymous Cash Technology
+- nonsequential double-encoding
+- encode a - encode b - decode b - decode a (sequential)
+- encode a - encode b - decode a - decode b (nonsequential)
+- envelope a - envelope b - open a - open b
+- envelope a - sign b - open a - verify b
+- 1 ---coins enveloped(key a)---> bank1 ---coins signed by bank(private key b) ---coins unenveloped(key a)---> 2 <---coins/new coins---> bank2 <---spent coins/funds---> bank1
+
+### Distributed Anonymous Cash: Bitcoin
+- bitcoin replaces bank with distributed effort ot print money
+- anybody can print bitcoins by investing computing resources **mining**
+- new coins and spent coins are recorded not in banks but in multiple databases on the network in the correct sequence **blockchain**
+- every person has a public-private key pair
+- anyone can send you money by encrypting it with your public key, only you can read it with private key
+- nobody can read it, sender can double spend, others can change it
+    - sign it and distribute to multiple places, including sender as confirmation, to preserve integrity
+- payment is recorded in multiple databases on the network simultaneously, so nobody can destroy it to prevent double spending
+- weaknesses are also its ability to bypass government control and taxation
+    - leaves money supply to the whims of ordinary people's ability to dedicate their computing power to mining
+
+## Smart Cards
+- much easier solution to anonymity
+- hardware solution wiht complete anonymity with **smart cards**
+- cards with money encoded in them **stored value cards**
+1. anonymous
+2. circulate
+    - no double spending problem since chips are programmed to deduct any money you spend
+    - no clearing
+    - no spent coin databases
+3. hardware devices more difficult to tamper with
+4. can be used in physical world
+5. **very low** transaction cost, since there is no clearing at all; lower than physical cost
+    - physical cash requires physical proximity
+    - card reader for smart cards
+- only feasible payment system for very small transactions, under 10 cents, called **micro-payments**
+- not feasible in physical world, due to transaction costs
+- disadvantages
+    - cards have to be printed and physically distributed
+    - card readers have to be purchased and physically installed on each computer
+    - long delays in adoption
+    - high startup cost and strong network effects
+- credit card companies excited
+    - MasterCard successful in HK, but not in Europe/US
+- Sony Suica and Edy (Japan), Octopus (HK), EZ-Link(Singapore)
+- SKT (Korea)
+- NTT Docomo Felicia (Japan)
+- RFID or NFC tags - 4" w/o swiping
+    - inserted into cell phones
+- military created Eagle Cash, Freedom Pay
+- AmEx Blue, Citibank/Chase smart card
+    - failures due to strong network effects
+
 ---
 ### A0 CTB
 - products: bagel-based meals, fresh desserts, drinks
@@ -1329,3 +1472,6 @@ interactive video
 clickable images
 drill down images
 ebooks
+
+
+double spending problem
