@@ -410,7 +410,7 @@ logical language
 | [S beelzebub]   | t    |   [{\lambda}.green(x) AND yeti(x)](b) <br> simplification: [green(b) AND yeti(b)] |
 
 #### lambda conversion
-[{\lambda}x.green(x) AND yet(x)](b)   -> [green(b) AND yeti(b)]
+```[{\lambda}x.green(x) AND yet(x)](b)   -> [green(b) AND yeti(b)]```
 
 b substitutes for x in the body of the lambda term
 - only substitute for free (unbound) variables
@@ -427,21 +427,21 @@ b substitutes for x in the body of the lambda term
 | [N green]    |   et   |   {\lambda}x.yeti(x) |
 | [NP green yeti] | et  |    [[{\lambda}x.green(x)] (z) AND [{\lambda}x.yeti(x)] (z)] |
 
-// at is set of a's
+- at is set of a's
 
-tree shapes -> logical formulas
+- tree shapes -> logical formulas
 
-go back: logical formulas -> tree shapes
+- go back: logical formulas -> tree shapes
 
-resources lecture folder:
-`java -jar ./Lambdap.jar`
-    basic: 3/6
-    quantifiers: 3/13
-    - lambda calculator GUI
+resources lecture folder: <br>
+`java -jar ./Lambdap.jar`<br>
+    basic: 3/6<br>
+    quantifiers: 3/13<br>
+    - lambda calculator GUI<br>
 "try running this on the server, but i really don't recommend it"
 
-predicate modification: intersection
-lambda abstraction
+- predicate modification: intersection
+- lambda abstraction
 
 
 ##### [lambda calculator symbols](https://github.com/ey92/notes/blob/master/4744/lambdacalcsteps.md)
@@ -464,15 +464,84 @@ proofnet: ((t . t) (keisha (2 . e)) (admires (((2 . e) \ 1.t) / (3 . e))) ( just
 ; ^ means lambda?
 ```
 
-justin admires someone t = (some x ((person x) & (admire j x)))
-D (1 / (1// (t \\t))) = (^ k (k ( ^ x x)))
-justin admires someone (t // (t \\ t)) = (^ c (some x ((person x) & (c(admire j x)))))
-    - c is variable
-    - apply lower meaning to identity function to get rid of the c
-    - continuation? variables over computations
-        - continuation in linguistics means variable over meaning of the rest of the tree
+```justin admires someone t = (some x ((person x) & (admire j x)))```
+```D (1 / (1// (t \\t))) = (^ k (k ( ^ x x)))```
+```justin admires someone (t // (t \\ t)) = (^ c (some x ((person x) & (c(admire j x)))))```
+- c is variable
+- apply lower meaning to identity function to get rid of the c
+- continuation? variables over computations
+    - continuation in linguistics means variable over meaning of the rest of the tree
 
 - invent multimodal types in grammar?
+
+# Phonetics
+- morpheme seq -> phone seq (underlying) -> phone seq (surface) -> speech signal
+- requires _weighted finite state machines_ and weighted transductions
+- _vector representation_ of speech signal:
+    - each 10ms snippet of sound is represented by a vector of floats
+- _multivariate gaussian distributions_ characterize the sounds (vectors) that can be emitted from a state
+
+```
+xfst[0]: regex a+;
+xfst[1]: print net
+Sigma: a
+Size: 1.
+Flags: deterministic, pruned, minimized, epsiolon_free
+Srity: 1
+s0: a-> fs1
+fs1: a-> fst.
+
+0 1 a 1.0
+1 1 a 0.5
+1 2 0 0.5
+2
+```
+- negative log weights instead of normal weights
+    - caveat: highest weight becomes lowest cost
+```
+0 1 a 0.0
+1 1 a 0.693147182
+1 2 0 0.693147182
+2
+```
+- P(a) = 0.5
+- P(aa) = 0.25
+- P(aaa) = 0.125
+
+- instead of multiplying probabilities, add negative log costs (adding is cheaper)
+
+### Openfst
+- toolkit from google research for weighted finite state transducers
+```
+$ fstcompile --acceptor --isymbols=a.sym b1.txm > b1.fsm
+$ fstprint --isymbols=a.sym b1.fsm          // fsm only has 2 strings: a or b
+0   1   a   1   0.693147182
+0   1   b   2   0.693147182
+$ fstconcat b1.fsm b1.fsm b1b.fsb           // concat fsm with itself to produce another fsm
+$ fstprint --isymbols=a.sym b1b.fsm
+0   1   a   1   0.693147182
+0   1   b   2   0.693147182
+1   2   -   0
+2   3   a   1   0.693147182
+2   3   b   2   0.693147182
+3
+```
+
+### Kaldi
+- toolkit from JHU for finite state speech recognition
+- ~ 30 rows x 39 cols corresponding to a word
+- phone alignments: frames for each phone
+- sub-phone alignments
+- each frame has 2 numbers
+- `HList t rain/y1.mfcc | head`
+- mel frequency cepstral coefficients
+- ark - archive
+- `ark:featw3.ark ark,t: - | cut -f1-10 -d' ' | less`'
+
+## Emiting Vectors
+- states come with a multivariate gaussian distribution
+- produces any vector with different probabilities
+- standard use 13-39 dim
 
 ---
 final project (can change your mind)

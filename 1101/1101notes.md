@@ -935,13 +935,54 @@ in auxiliary position
 3. **haplology**: elimination of syllable when two identical or similar syllables occur consecutively
 	- Engla-land -> England
 
-## Comparative Reconstruction
+## Reconstruction
+- some sound changes more likely
+	- /p/ -> /f/ more likely than /f/ -> /p/
+	- /p/ -> 0 more likely than 0 -> /p/
+	- voiceless consonants -> voiced consonants in intervocalic environments (assimilation)
+- some sound changes equally likely
+	- intervocalic voicing of voiceless fricative vs final devoicing of voiced fricative
+		- Gothic final devoicing of voiced fricatives (look for patterns with envirnoments)
+		- seθ ~ seð-ai (underlying ð); gulθ ~ gulθa (underlying θ)
+	- n -> 0 or 0 -> n preceding fricative
+		- German words correspond to English without n preceding fricative, so English dropped the n
+- sister languages have same sound, must have been the same sound in the parent language
+- differing corresponding sets
+- rule of thumb - the different sister language is the one that changed
+- result must be compatible with Regularity Hypothesis
+
+### Comparative Reconstruction
 - comparative method developed 19th century largely by reference to one language family
 - proposal of PIE, Sir William Jones, 1st paper 30 yrs later
 - first step is to decide that a group of languages are genetically related, by comparing them
 	- sometimes relation is obvious (Germanic languages)
 - systematic changes are important, not similar sounds
 	- w (PIE) -> f (Scottish Gaelic), g (Welsh)
+- most telling is shared irregularity
+1. determine languages are genetically related
+2. list of cognates in related languages
+3. determine sound change
+
+### Internal Reconstruction
+- form a hypothesis from comparing related forms within same language
+- was/were, wise/wisdom, bathe/bath
+
+---
+# Language Typology
+## Changing Morphology
+- lose inflectional morphemes
+	- English lost grammatical gender, adjective agreement, case endings
+	- early Middle English ~ 12th c
+- can also add inflectional morphemes
+	- strong verbs: past tense change by changing vowel (Indo-European)
+	- weak verbs: past tense formed by appending -ed (newer, added by Germanic languages)
+		- probably from Indo-European _dho_ ('did') (_univerbation_)
+- analogical leveling: simplify paradigm of word
+	- pick one consonant for word's entire paradigm
+	- freeze, froze, frozen/freeze, frore, froren
+	- was/were z/r alternation kept (most frequently used verbs tend to resist change)
+	- paradigm change applies acroos common patterns
+	- strong verbs tend to become weak verbs (Germanic)
 
 ---
 ##### Prelim 1 content
