@@ -1466,6 +1466,36 @@ first to have spells written inside of burial chamber
 - religious-cultural center remains at Thebes
 - stable & more accurate record-keeping, can pin events down to the year
 - Amun priesthood begins taking over & sharing power with king
+- Senusret II-III begin teaching eldest son of elites in palace to be scribes
+    - keeps nomarchs loyal
+    - son ~ hostage
+    - prevents decentralization
+    - _Satire of the Trades_
+        - text taught in scribal education
+        - father to a son (instruction/didactic), Duakhety to Pepi
+        - hyperbole, irony, or metaphor
+        - humanistic literature: 
+            - no mention kings, priests, gods, state
+            - focus is on the worker & menial tasks
+        - "I have seen many beatings<br>Set your heart on books!..."
+        - love the job more than your mother
+        - misogyny: weaver is "worse off than a woman"
+        - "See, there's no profession without a boss,<br>Except for the scribe; he is the boss"
+        - tomb paintings celebrate activities mocked by the text
+- no evidence of foreign policy
+- Crete and Kamares Ware
+    - Egyptian finds in Crete fro msame period
+    - Kamares ware at Lahun, possibly from Cretan workers
+- increased trade with Syria-Palestine
+    - painting in mastaba tomb of Khnumhotep at Beni Hasan
+- 'Montet Jar' from Byblos
+    - packed with Egyptian scarabs (pharaoh's names), jewelry
+    - credence for _Tale of Sinuhe_
+- Red Sea, Punt expeditions for incense & other exotic goods
+    - Mera Gawasis on Red Sea coast
+    - cave with boat parts, anchors, rope, box 'wonders of Punt', foreign pottery, Senusret II stela, "Osiris of the Sea" dedication
+    - Osiris' domain expanding to cover some of the Red Sea
+- collapses after Amenemhet IV
 
 ### Wehemmesu Amenemhet I
 - "repeater of births" or "renaissance"
@@ -1550,6 +1580,46 @@ first to have spells written inside of burial chamber
 - tomb paintings show peaceful trade with Canaanites/Asiatics
     - opposite of image projected by the pharaoh
 
+### Senusret III 1878-41
+- 37 yrs
+- "pathetic statuary"
+    - sad, tired expression, large ears
+- poster king for humanistic Middle Kingdom
+- terror tactics used in Nubia, documented by stelae set up at fortresses, including one on Uronarti island
+- _Stele at Uronarti_
+    - "I have made my boundary further south than my fathers..."
+    - "They are not people one respects..."
+    - Nubians are not people, are lesser beings
+    - at odds with tomb impressions of officials
+- Execration Texts
+    - lists of enemies inscribed on ceramics, intended for ritual destruction
+    - includes Nubians, Libyans, Asiatics, even hostile Egyptians
+
+### Amenemhet III
+- 46 yrs peaceful reign
+- last great king of D12/MK
+- striking and original statuary
+    - sphinx statue reused by several kings
+    - more youthful
+- final burial at Hawara pyramid, known as Labyrinth for maze of galleries, courts
+    - may have inspired similar buildings in Greece
+    - first description from Herodotus
+        - "I have seen this building ,and it is beyond my power to describe; it must have cost more in labour ad money than all the walls and public works of the Greeks put together...The pyramids, too, are astonishing structures...but the labyrinth surpasses them. It has twelve covered courts...Inside the building is of two storeys and contains three thousand rooms."
+        - outer temple courtyard is enormous
+    - Diodorus Siculus (1st c. BCE)
+        - saw inspiration for legendary Minoan labyrinth at Crete
+    - remains: mudbrick core and stone chips remain
+    - surface still dimpled by courts
+    - Lepsius 19th c. drawing: canal built through complex, some walls still remain
+
+### Amenemhet IV 1796-1786
+- few monuments, no heir
+- married sister, Sobekneferu, who succeeded him
+
+### Sobekneferu 1785-1782
+- own cylinder seal, with cartouches, in faience (cheap substitute for stone)
+- no tomb found, like Amenemhet IV
+
 ## Humanistic Literature (D12)
 - cynical themes, pessimistic view of life
 - _Dispute between a Man and His Ba_
@@ -1580,6 +1650,13 @@ first to have spells written inside of burial chamber
     - spells for a good afterlife, as much as Pyramid Texts
     - added content and broader availability
     - new: negative confession: list of sins not committed
+
+## Dynasty 13 1773-1650
+- "dark age", not well understood
+- little known of individual rulers at Itjtawy
+- local rulers governing at Xois and Avaris in Delta by 1730
+- Itjtawy rulers retreat to Thebes around this time
+- Hor Auibra's wooden ka statue
 
 # Middle Kingdom Renaissance
 - period of greater humanity, in literature, art
@@ -1647,6 +1724,22 @@ first to have spells written inside of burial chamber
 - wisdom not always spoon-fed
 - infer that king will be just
 
+# Second Intermediate Period
+- 3 centers of power:
+    - Thebes (D16,17)
+    - Kerma in Kush, south of colonized Lower Nubia
+        - take back territory up to 2nd cataract
+- contrast with FIP:
+    - FIP caused by internal collapse, decentralizing power
+    - SIP caused by external responses to dynastic failure
+- Hyksos period
+    - D14-15 in Eastern Delta at Avaris 1650-1550
+    - Asiatic _Aamu_
+    - Manetho called Asiatics Hyksos
+    - _hekau khasut_ 'rulers of foreign lands' controlle Egupt up to Cusae and Hermopolis
+    - Hyksos rulers adopt Seth as patron deity, god of _isfet_ to Egyptian royalty
+    - 'great humiliation': foreigners control half of Egyptian territory
+
 ---
 #### quiz up to 2/16 lecture
 - up to D0/D1
@@ -1669,3 +1762,8 @@ first to have spells written inside of burial chamber
 - Meket-Ra's tomb: daily life 3D models
 - Tale of Sinuhe, Instr to Amenemhet, Merikara -> only sources for palace life
 - _Papyrus Bulaq 18_ (D13): 3 parts of palace interior: nursery/harem (private), audience, open/outer
+
+#### final
+- Amenemhet III
+    - sphinx reused by later rulers
+    - largest MK pyramid complex "Labyrinth"

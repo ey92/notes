@@ -1293,7 +1293,7 @@ Interactive Data Page
 - transit security: has integrity and privacy
 - enough security for payment
 
-## Credit Cards
+### Credit Cards
 - 1 ---cc#---> 2 ---cc#/verify--> ccc <---payment--- bank1 ---pay---> bank2<br>
 -                                     ----------------pay-----------------><br>
 1: customer<br>
@@ -1322,7 +1322,7 @@ ccc: credit card company<br>
 - 1 ---cc#---> 2 <---verify--> ccc <---payment--- bank1 ---pay---> bank2<br>
 -                                    --------------pay-----------------><br>
 
-## Electronic Checking
+### Electronic Checking
 - bypassing credit card company
 - possible due to databases + networks
 - advantage of credit cards over personal checks
@@ -1349,7 +1349,7 @@ ccc: credit card company<br>
         - phone-based systems
         - all require membership in the same organization
 
-## Electronic Cash
+### Electronic Cash
 - why do we still use cash?
 - parking meters, taxicabs, laundromats, buses, foodtrucks
     - don't have infrastructure to process
@@ -1380,7 +1380,7 @@ ccc: credit card company<br>
 - physical cash circulates
     - electronic cash doesnot circulate and has to be cleared and cancelled as a spent coin after spending
 
-## Anonymous Cash Technology
+### Anonymous Cash Technology
 - nonsequential double-encoding
 - encode a - encode b - decode b - decode a (sequential)
 - encode a - encode b - decode a - decode b (nonsequential)
@@ -1388,7 +1388,7 @@ ccc: credit card company<br>
 - envelope a - sign b - open a - verify b
 - 1 ---coins enveloped(key a)---> bank1 ---coins signed by bank(private key b) ---coins unenveloped(key a)---> 2 <---coins/new coins---> bank2 <---spent coins/funds---> bank1
 
-### Distributed Anonymous Cash: Bitcoin
+#### Distributed Anonymous Cash: Bitcoin
 - bitcoin replaces bank with distributed effort ot print money
 - anybody can print bitcoins by investing computing resources **mining**
 - new coins and spent coins are recorded not in banks but in multiple databases on the network in the correct sequence **blockchain**
@@ -1400,7 +1400,7 @@ ccc: credit card company<br>
 - weaknesses are also its ability to bypass government control and taxation
     - leaves money supply to the whims of ordinary people's ability to dedicate their computing power to mining
 
-## Smart Cards
+### Smart Cards
 - much easier solution to anonymity
 - hardware solution wiht complete anonymity with **smart cards**
 - cards with money encoded in them **stored value cards**
@@ -1432,6 +1432,142 @@ ccc: credit card company<br>
 - AmEx Blue, Citibank/Chase smart card
     - failures due to strong network effects
 
+## Significance of Payment Systems
+1. impact all sectors
+2. strong network effects
+    - switching costs becuase of payment software, wallets, cards, and card readers have to be acquired by users and incorporated into business practices
+    - network effects + switching costs = first mover advantages
+    - difficult to replace credit cards in the US as primary payment system
+3. create opportunities to reward your customers, and **punish the competitors' customers**
+    - credit card companies charge retailers 2% to pay for rebate
+    - retailers raise prices for taking credit cards
+    - cash payers lose (no rebate)
+4. **undermine government controls** of money supply
+    - Federal Reserve: "electronic payment systems have the potential to disrupt money supply in the long run, but not currently"
+    - critical arguments:
+        - do not circulate: cleared every time they are spent
+        - backed by the national currency; buy them with real dollars
+    - Federal Reserve should regulate them if argumets do not hold
+    - **no regulation of electronic money**
+        - important factor of all technologies
+    - when new technology emerges, there is a short time period (~6mo-1yr) to make lots of money due to lack of regulation
+5. impact on money supply
+    - Ithaca Hours privately printed currency
+        - circulates, not backed by dollar, is legal
+        - printing private currencies by private parties could create alternative currencies and disrupt the money supply
+        - no regulation because the Fed thinks their impact is minimal, don't have national reach
+    - it is difficult to regulate private IOUs
+    - if person has trust, can print their own IOUS aka currency
+    - on the internet, national reach
+    - internet money
+        - Beans
+        - Ripple, not anonymous/purely transparent
+            - private currency, also called dollars
+            - everyone is creating money (extending credit)
+            - low transaction costs
+            - as long as there is a chain of connections, you can exchange credit with anyone
+            - motivation to be an intermediary: can charge low transaction fees (only extending credit to trusted friends)
+            - matches well with a social network platform
+            - peer-to-peer banking system
+
+## Component Systems
+- payment systems have 3 components:
+1. UI 
+    - electronic checks, wallets, 
+2. network and database connections 
+    - post transactions to bank's database
+3. computations
+    - adjust balances and pay interest
+
+### Computations
+- objective is to minimize load on server
+- server scripts (A2)
+    - stored on the server, run on the server
+    - I/O are transported to the client
+    - large, complex, shared resource with small I/O
+    - e.g. DB queries with ASPX docs
+- client scripts (A3)
+    - must be lightweight to be transported over the internet
+    - interpreters have to be lightweight to be incorporated into browsers
+    - small resource with much interaction/large I/O
+    - e.g. animations, graphics, A/V
+    - e.g. JS, VBS, AJAX (GMaps)
+- mixed scripts
+    - complex software, large scripts, extensive I/O require either complex software on the client or heavy traffic on the network
+    - optimum solution is to split processing between the server and the client
+
+## Application Service Providers (ASPs) and Cloud Services
+- ASP/Cloud Services - business of running programs fully or partially on a remote server
+- Cloud Services may not inclue just a specific application to use, but also a complete computing environment you can program and customize
+- most execution is done on the server
+- display and UI on the client
+- useful business model
+    - outsource complexity of IT to a specialized service
+    - Amazon, Google, Oracle, Microsoft
+
+### Software Rental
+- ASP model allows you to rent software, charge for usage, instead of selling it
+- running it on the ASP's server and the usage is easily trackable
+1. **protects copyright** by running the software on the server
+2. eliminates need to sell **new versions**
+3. allows **price  discrimination** by separating heavy users from light users
+    - optimal pricing system involves a fixed fee + an hourly usage fee
+    - **two-part tariff**
+    - reservation price of 4 customers: 4   6   8   9
+        - revenues for price: 6        
+        - maximum revenue:    18
+        - \--
+        - usage in hours:               2   3   5   6
+        - price 2 + 1/hr
+        - maximum revenue:              4   5   7   8 = 24
+        - \--
+        - prices for heavy/light users: provide pricing options
+        - price options: by picking an option, users reveal their usage preferences
+            - 1 + 1.5/hr
+            - 5 + 0.6/hr
+            - calculating optimal prices requires knowing reservation prices
+            - irl, segment the market and estimate the reservation prices for groups of customers
+        - revenue:                      4  5.5  8  8.6 = 26.1
+        - can get very close to charging every user their exact reservation price
+        - it become overwhelming to offer too many options
+- insurance plans, phone/cable plans
+
+### B2B communities
+- extend ASP to proide compatible systems for B2B connections
+- if you rely on ASP to maintin internal systems, you automatically have compatible systems with all customers of the same ASP
+- allow member businesses to have ad hoc b2b transactions without prearrangements and long term commitments
+- supply chain becomes integrated and flexible
+- supply chain becomes a supply web, with multiple potential suppliers at any point
+- some ASPs extending complete ecommerce environments
+    - "plug and play" systems
+    - new businesses have access to all the systems they need to run the business
+    - standardized, ready to use, compatible with others in the community from day 1
+    - Oracle inter-enterprise systems, HP Web Services, AWS, SAP
+- difficult for single ASP to provide all systems necessary for interacting businesses
+- centralized model creates monopoly and bottleneck
+- decentralized model allows many ASPs to cooperate and provide compatible components
+
+### **Web services**
+- create marketplace of compatible and standardized software components that you search and combine to build your business systems
+- easily switch between vendors for each component, eliminating high switching costs nad lock in
+    - new concept & interesting economic consequences
+- counter to _first mover advantages_
+    - standardized systems & components - eliminates switching costs/lock-in
+    - network effects - access to the whole market
+    - easy entry
+- Second Mover Advantages
+    - no first mover advantages
+    - wait for someone else to take risks and fall
+    - move in, imitate successful model
+    - build similar business and standard components, without the risk of experimentation and failure
+    - **second mover advantage**, created by easy entry and compatibility provided by web services
+    - Samsung & Apple
+    - stifles creativity, lead to economic stagnation; everyone waits for someone else to innovate
+- solution to second mover advantage
+    - business should not rely completely on sandardized components from Web Services
+    - some components, core competitive advantages should be internal to prevent imitation and second mover advantages
+    - same issue with outsourcing
+
 ---
 ### A0 CTB
 - products: bagel-based meals, fresh desserts, drinks
@@ -1458,13 +1594,6 @@ DBMS: MS ACCESS (personal)
 
 fill out submission form: which questions were answered, what were the answers
 
-market share vs market size
-    when to outsource complexity
-
-
-** how does outsourcing cause increase in market size? (bc lower prices?)
-Drill Down reports/EIS - how to deliver information to executives
-
 ### A3
 multimedia
 audio/video clips
@@ -1473,5 +1602,16 @@ clickable images
 drill down images
 ebooks
 
+### A4
+security: public/private keys; encrypted email, cookies; privacy & security
+payment systems: create and process electronic checks; acquire and spend Bitcoin/Ripple; payment system concepts
+scripts, ASPs, Web Services: simple computations, ASPs, computational software
 
-double spending problem
+---
+- market share vs market size
+    - when to outsource complexity
+- ** how does outsourcing cause increase in market size? (bc lower prices?)
+- Drill Down reports/EIS - how to deliver information to executives
+- double spending problem
+- network effects (5 times)
+- network effects + switching costs -> monopoly and 1st-mover advantages
