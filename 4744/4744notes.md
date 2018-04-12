@@ -526,6 +526,7 @@ $ fstprint --isymbols=a.sym b1b.fsm
 2   3   b   2   0.693147182
 3
 ```
+- parse possible utterances & select the shortest path
 
 ### Kaldi
 - toolkit from JHU for finite state speech recognition
@@ -537,11 +538,116 @@ $ fstprint --isymbols=a.sym b1b.fsm
 - mel frequency cepstral coefficients
 - ark - archive
 - `ark:featw3.ark ark,t: - | cut -f1-10 -d' ' | less`'
+- can dl from github
+- type program name for man 
 
 ## Emiting Vectors
 - states come with a multivariate gaussian distribution
 - produces any vector with different probabilities
 - standard use 13-39 dim
+
+### using kaldi for spech recognition
+```
+> pwd
+/projects/speech/sys/kaldi-master/egs/yesno
+> cp -R s5 s5b
+> cd s5b
+> ls
+conf input local path.sh run.sh steps utils
+> source run.sh         // runs the whole demo
+[gather data online]
+[%WER = error]
+```
+
+#### data files
+- data training and testing sets
+- `wav.scp`
+- key: utterance ID
+- value: file location
+
+- encoding of the signal
+- `feats.scp`
+- signal features
+- key: utterance ID
+- value: feature file with offset
+
+`copy-feats scp:feats.scp ark,t:-`
+- textual tabular representation
+- convert archive file to text file
+- key: ID
+- value: matrix of utterance features
+    - rows = 13-val feature vectors for each timeframe
+
+`copy-feats scp:feats.scp ark,t:-:feat.ark`
+- copy into binary archive file
+`copy-feats scp:feats.scp ark,t:-`
+- binary tabular representation
+
+`utt2spk`
+- key = utterance ID
+- value = speaker ID
+- useful to have multiple speakers useful to setup the model & normalize
+
+`cmvn`
+- means and standard deviations of features for a speaker
+- used for normalizing features across speakers
+
+`text`
+- actual labels for what each utterance is
+
+- many test directories with different utterances, short/long, gender, etc
+- include `spk2gender` if multiple speakers
+
+### Composition of Language
+`lexicon.txt`
+- phonetic lexicon similar to CMU
+- lexicon from Librispeech demo, based on audiobooks
+- trivial for the yesno demo, since each word is spelt with a single phone
+- <SIL> "silence phone"
+- `.../data/local/dict`
+
+- `.../data/lang`
+- `phones.txt`
+- map from phone name to integers
+- `#0`,`#1` empty string, marking beginning/end of word or phone
+- `<s>`,`</s>` sentence start/end
+- openfst always uses integers
+- `L.fst`
+
+`fstprint L.fst`
+- prints fsm 
+- `startstate nextstate input output weight`
+- combines a lexicon and a grammar
+
+`topo`
+- topology
+- prototype for how individual phones are modeled as fsms
+
+### Results from Training system
+`exp` directory
+- training and testing separated
+- `mono0a` train directory
+- `final.mdl` training data - system learns acoustic model for what each phone is
+- `gmm-copy --binary=false final.mdl final.mdl.txt`
+    - gaussian mixture model
+    - copy trained model into text format
+    - has more info than prototype
+    - learned theory of what beginning of each word sounds like
+    - phones form quasi-steady-states
+    - look for mean vector for a sound & std dev on vector -> characterizeds probability distribution
+- 13 dims -> 39 by taking differences at adjacencies
+    - called "feature transform"
+        - velocity and acceleration (delta transform) of changes
+        - adjacent features (sliding window)
+    - 11 probability dimesion
+- `ali.l.gz`
+    - alignment
+    - `ali.1` alignment between utterance and phone
+- `ali-to-phones final.mdl ark:ali.1 ark,t:- | head -4`
+    - pretty prints results, corresponding to assigned integer
+- `ali-to-phones --write-lengths final.mdl ark:ali.1 ark,t:- | head -4`
+    - includes lengths of each phone
+
 
 ---
 final project (can change your mind)
@@ -553,8 +659,8 @@ final project (can change your mind)
 - groups up to 3, no bigger
 - final writeup ~ 8 pages
 
-check ldc and scholar
 
+check ldc and scholar
 ---
 questions:
 how to read parse tree/chart on slides? (clicker Q A: 5)
