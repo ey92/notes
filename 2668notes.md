@@ -1725,10 +1725,14 @@ first to have spells written inside of burial chamber
 - infer that king will be just
 
 # Second Intermediate Period
-- 3 centers of power:
-    - Thebes (D16,17)
-    - Kerma in Kush, south of colonized Lower Nubia
-        - take back territory up to 2nd cataract
+- Hyksos, Thebes, Kush D14-17
+- following weak D13 1782-1650,
+    - Egypt divided into 2 parts:
+        - Avars NE Delta D14-15 (Asiatic/Canaanite)
+            - adopt Seth as their patron deity
+        - Thebes Upper Egypt D16-17
+        - Kerma in Kush, south of colonized Lower Nubia
+            - take back territory up to 2nd cataract
 - contrast with FIP:
     - FIP caused by internal collapse, decentralizing power
     - SIP caused by external responses to dynastic failure
@@ -1739,6 +1743,125 @@ first to have spells written inside of burial chamber
     - _hekau khasut_ 'rulers of foreign lands' controlle Egupt up to Cusae and Hermopolis
     - Hyksos rulers adopt Seth as patron deity, god of _isfet_ to Egyptian royalty
     - 'great humiliation': foreigners control half of Egyptian territory
+
+## Hyksos
+### Textual Sources
+- Manetho: fragmentary, secondary, 3rd c BC
+- Turin Canon
+- other inscriptions for royal names
+- Kamose Stelae and Carnarvon Tablet
+    - heroic accounts of Hyksos defeat
+    - import chariots and horses
+
+### Impact on New Kingdom
+- chariot warfare, recurved bow
+- permanent, professional army
+- new fortifications, more effective against chariots and bartering rams
+
+### Archaeological Source: Avaris (Tell ed-Dab'a) "Venice on the Nile"
+- identified as Hyksos capital in 1940s by SCA (Supreme Council of Antiquities)
+    - strongest city in near east by D16, very cosmopolitan
+    - contains everything - city, temples, funerary complexes
+- initially settled by Egyptians during FIP as defense against Canaanites
+    - intercultural
+        - expanded D12-13 with increasingly Canaanite material
+        - lookes Canaanite by D14: intramural burial, donkey burial, cylinder seal impressions, Canaanite pottery, imitations and actual Egyptian material
+        - Aegean presence, including Minoan frescoes
+        - wealthy
+        - elite have scarab seals, in imitation of Egyptian practice
+    - D15, 250 hectares ~ 4 sq km, 3x bigger than biggest Canaanite site (Hazor, Israel)
+    - mass exodus rather than mass destruction at the end, consistent with Josephus' history 1st c. CE
+- has a city wall, potentially part of "Walls of the Ruler"
+- full of canals, situated near major branch of Nile
+
+### Other Hyksos sites
+- Tell el-Habua, NE Delta
+    - complete horse skeleton
+    - foritications similar to t hose of cataract forts
+
+#### Tomb of Deputy Treasurer Aamu
+- elite Egyptian-Canaaite hybrid material culture
+- scarab on fingur - Egyptian style bureaucracy
+- wealthy burial with lots of non-Egyptian features: contracted position, Canaanite pots and weapons (sickle sword), 5-6 donkeys
+    - no mummification, buried on his side, Canaanite pottery around his head
+    - mud-brick structure around body, attached to his house
+        - very non-Egyptian & very Canaanite to attach adult burial to house
+- war trophies found in 2011 nearby
+    - cut-off right hands in pits (14,2)
+    - pits closed & oriented towards throne room of D15 Hyksos palace, ~King Khayan
+    - presented by warrior to palace as proof of kill
+    - rewarded with Gold of Valour
+
+## Thebes D16-17
+- D16 enigmatic, anonymous Thebes
+- D17 1663-1570, 9 known kings
+    - several Intefs (related to D11)
+    - ends with Kamose and campaign vs. Delta
+- D18, ca. 1550 Ahmose defeats Avaris, expels Asiatics
+
+#### Papyrus Sallier I
+- claims to record correspondence between Thebes and Avaris
+- Seqenra Tao II, father of Kamose, ca 1574
+- provocative letter from Hyksos (re: noisy hippos)
+- Tao II's head wounds show battle trauma, hasty mummification
+- may be written after the fact or a record of correspondence
+- King Apep wnated to send a complaint, but unable to compose it himself
+    - imply king is illiterate and Hyksos inferior
+    - ask "Prince of the Southern City" to silence the hippopotamuses
+    - don't believe in Egyptian religion
+    - King should be able to hippopotamuses if he is the living Horus
+
+#### Stelae
+- Kamose tells story of his campaigns on two stelae at Karnak
+- refers to both king of Avaris and king of Kush as "Prince" or "Great Man"
+- **Carnarvon Tablet**: heroic narrative of Kamose' Kyksos expulsion
+    -reply to advisors' appeasement strategy
+    - Egypt is being taxed by the Hyksos
+    - "Elephantine is strong" (southern border is secure)
+    - magistrates say to leave temporary peace with Hyksos
+        - "only when comes one who acts against us should we act against him"
+    - "he who partitions the land will never respect me"
+        - goes on to successfully expel Asiatics in vivid description
+    - took Medjay troops against Avaris
+    - gruesome comparison to a falcon picking its meal
+    - take everything from the Asiatics
+- brother Ahmose has to fight the Hyksos again 20 yrs later
+
+#### Ahmose, son of Ebana
+- marine who got the "golden fly" 7 times - highest Egyptian military honor
+- fought on numerous fronts (Kush, Hyksos, Syrian) for 4 kings (Tao II, Kamose, Ahmose, Tuthmose I) against the Hyksos and into Syria
+    - Tuthmose I "war of revenge" against Hyksos, go into Canaan and punish them in their own land
+
+## Kerma, Kush, in Lower Nubia
+- Kerma "city"
+- chiefdom around 3rd cataract, lack of central government
+- tribal organization, rather than town
+- home to Kamose's Medjay warriors
+    - took Buhen, Semna forts in SIP (surrounding 2nd cataract)
+- Kamose retook MK forts for the gold before Delta campaign
+- "Kerman" = name for wealthier Nubian culture, especially black-top pottery called _Kerma Ware_
+- to the Theban kings:
+    - semi-nomadic cattle breeders
+    - employed as scouts, archers, ship lookouts
+    - knew oases routes up the western desert better than the Egyptians
+        - Bahariya Oasis, waypoint between Avaris and Ksh
+    - alliances not dictated by state
+- found Medjay arrows from Nubian grave at Abydos, feathers still intact
+- "Gold brought Kermans and Thebans together"
+    - Theban tomb of Nubian woman and child
+    - gold of honor from rpyalty
+- Cusae cemetaries
+    - pan-grave culture: Nubian/Kerman burials in shallow graves, identified with Medjay (scouts, archers) of Kamose texts
+    - also at Abydos
+
+## Deir el-Ballas
+- found by 1980-86, Boston MFA
+- frontier for Thebes against Kush
+    - maintain access to gold
+- royal fort, built on rectilinear plan
+    - massive fortification wall
+    - similar to MK forts in Lower Nubia, but with casemate walls (Canaanite design to withstand shocks)
+- probabily built by Kamose as a Theban defense
 
 ---
 #### quiz up to 2/16 lecture

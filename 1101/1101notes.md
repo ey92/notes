@@ -481,8 +481,8 @@ _lexical ambiguity_ arises when two word sound alike (homophony)
 - a sound that tends to show up in words that have similar meaning
 - e.g. glow, glimmer, glitter
 - used to be a morpheme in English ancestor: "ghel-" - to shine
-- _frequentive morpheme _
-	- "-er", "-le" - t do x repeatedly
+- _frequentive morpheme_
+	- "-er", "-le" - to do x repeatedly
 	- gleam+er = glimmer, float+er = flutter, waddle, dribble
 - _sound symbolism_
 	- "small" words tend to have front vowels
