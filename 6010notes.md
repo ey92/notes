@@ -1615,3 +1615,4 @@ scripts, ASPs, Web Services: simple computations, ASPs, computational software
 - double spending problem
 - network effects (5 times)
 - network effects + switching costs -> monopoly and 1st-mover advantages
+- price discrimination between light and heavy users, (software rental)

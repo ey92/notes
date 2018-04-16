@@ -1858,10 +1858,127 @@ first to have spells written inside of burial chamber
 - found by 1980-86, Boston MFA
 - frontier for Thebes against Kush
     - maintain access to gold
+    - needed gold for war against Hyksos
 - royal fort, built on rectilinear plan
     - massive fortification wall
     - similar to MK forts in Lower Nubia, but with casemate walls (Canaanite design to withstand shocks)
-- probabily built by Kamose as a Theban defense
+- probably built by Kamose as a Theban defense
+
+# New Kingdom 1570-1070
+- 20 yrs after Kamose, brother Ahmose defeats Avaris
+- expel Hyksos by 1550, founds D18
+- many mummies moved around and put into different coffins due to tomb robbing
+- pricing in barley, grain, copper, silver, gold
+
+## NK patterns
+- longest period of unified land
+    - ~ 500 yrs of relative stability 
+- maintaining ma'at in expanded egypt (massive territory expansion)
+    - southern border goes deep into Kush, 6th cataract
+    - northern border expands well into Syria-Palestine, to the Euphrates
+- divine, matrilineal-royal descent demonstrated to claim throne
+    - pharaoh at head of a chariot army becomes common motif
+    - many temples built within Egypt
+- Amun/Amun-Ra of Thebes takes over land, wealth (grain and gold)
+    - priesthood controls the most land -> grain, treasuries
+- pharaoh as agent/son of Amun-Ra
+    - yet still Horus when alive and becomes Osiris upon death
+- democratization of the afterlife (even more than MK)
+    - ~ >1000 spells in MK Coffin texts to a few hundred in Book of the Dead
+    - mass-produced papyri with _Book of the Dead_ - just fill inthe name (aka _Going Forth by Day_)
+    - 1. opening of the mouth Ch. 23
+        - many tombs include an adze for ceremony
+        - opened by Ptah
+    - 2. negative confession (didn't commit transgressions)
+        - if not true, will show when heart weighed against feather of truth
+    - 3. heart as witness (needs suppression) Ch. 30
+        - specific spells in Book of the Dead to stop heart from spilling information
+    - 4. personal piety (not concerning kings)
+         - absence of royal persence
+         - how the individual conducted themselves, concerning basic principles of justice and order
+- rock-cut tombs in Western Thebes
+    - daily life of Egyptians found illustrated
+    - Tombs of the Nobles
+    - many more shaft t ombs
+    - over 300 known
+    - _Topographical Bibliography of Ancient Egyptian Hieroglyphic Texts, Reliefs, and Paintings_ Porter & Moss
+    - chief source on daily life
+    - potters, bricklayers, carpenters, metal workers in tomb of Rekhmire, 15th c.
+
+### Stele of Ahmose
+- Queen Ahhotep (Ahmose's mother) had an active military role
+    - "she had pacified Upper Egypt, and expelled her rebels"
+    - tomb full of gold
+        - ceremonial axe of Ahmose and Golden Flies found in burial
+    - indicative of "Golden Age"
+
+### Eastern Bank of Thebes
+- focusing on the living
+- Karnak complex (earlier)
+    - Amun temple
+    - Mut (consort) temple
+- Luxor complex (later)
+    - much building by Amunhotep III
+
+### Theban Festivals
+- public exposure
+- priesthood of Amun-Ra a growing, powerful force
+- outgrowing the royals
+
+#### Opet Festival
+- bringing pharaoh to Amun-Ra (meet his father)
+    - public processions in & around Karnak temple
+- from Karnak to Luxor via model boat powers of Horus, living king
+- commoners can see association made between king and primary deity
+
+#### Festival of the Valley
+- Amun-Ra, king ferried to the West
+- powers of Osiris, dead king
+
+### Funerary Monuments
+- tombs and temples on west bank
+- Valley of Kings
+    - unmarked shaft tombs
+- Valley of Queens
+- Deir el-Bahri
+- Seti I, Ramesses II, Mentuhotep II, Hatshepsut
+- various funerary temples (apart from tombs)
+- many noble tombs
+- separation between funerary temples and tomb for royals, except Hatshepsut
+
+#### 63 royal tombs from KV
+- Tutankhamun at KV-62 found in 1922
+- latest KV-63 found in 2005, by University of Memphis, Otto Schaden with jar, conffinete
+    - coffins piled in tomb re-used for mummification
+
+#### 56 royal mummies
+- 2 caches/tombs
+- Theban Tomb 320 (aka DB 320, 1881, W Thebes)
+    - home to 40 royal mummies, including Queen Ahhotep (II)
+- priests kept a record of moving mummies in "_dockets_"
+    - sometimes written directly on coffen
+    - e.g. moved Ramesses I to Seti I's tomb, and again to Amenhotep II's (KV 35, where 16 other royal mummies found)
+- only Amenhotep II and Tutankhamun found in their own tombs
+- much movement beginning at end of D18
+
+## Ahmose 1570-1546
+- direcly related to D17
+- expelled Hyksos ~ 1550 from Avaris
+- founded D18 and re-consolidated the state
+- mother Ahhotep also led troops
+- pyramid found in Abydos in 1997
+    - probably cenotaph
+    - mummy in TT 320 cache
+    - associate death with Osiries
+- 2 steles how kingdom put back together
+- **Donation Stele**
+    - "buys" 2nd priesthood of AMun for wife
+    - gain favor with Amun-Re priesthood
+- **Tempest Stele** (Karnak)
+    - "great storm in the West"
+    - weather report or pretext for rebuilding temples? (allegory for problems during SIP)
+    - UChicago wants to tie to THera eruption, ~1615 BC & redate NK earlier with more literal reading of Tempest Stele
+
 
 ---
 #### quiz up to 2/16 lecture

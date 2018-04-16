@@ -984,6 +984,26 @@ in auxiliary position
 	- paradigm change applies acroos common patterns
 	- strong verbs tend to become weak verbs (Germanic)
 
+## Languages of the World and how to classify
+- fossil words - origin of word no longer relevant
+	- folk etymology
+- new words
+- English borrows many words
+	- easiest way influence other languages
+	- sometimes we fail to recognize morpheme/word boundaries
+- back formation
+	- use word root morphemes as words again by removing inflectional affixes
+- words can change meanings by way of connotations becoming denotations
+- melioration - better in meaning
+- pejoration - worse in meaning
+- verbicide - bleaching
+- opacification - disguised compounds
+- languages can resemble each other
+- features that all languages share, simply because they are human languages?
+- typology vs universals
+- no boundary between language and dialect
+	- "a language is a dialect with an army"
+
 ---
 ##### Prelim 1 content
 1. Phonetics
