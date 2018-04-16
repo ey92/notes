@@ -1549,7 +1549,7 @@ ccc: credit card company<br>
 
 ### **Web services**
 - create marketplace of compatible and standardized software components that you search and combine to build your business systems
-- easily switch between vendors for each component, eliminating high switching costs nad lock in
+- easily switch between vendors for each component, eliminating high switching costs and lock in
     - new concept & interesting economic consequences
 - counter to _first mover advantages_
     - standardized systems & components - eliminates switching costs/lock-in
@@ -1564,9 +1564,84 @@ ccc: credit card company<br>
     - Samsung & Apple
     - stifles creativity, lead to economic stagnation; everyone waits for someone else to innovate
 - solution to second mover advantage
-    - business should not rely completely on sandardized components from Web Services
+    - business should not rely completely on standardized components from Web Services
     - some components, core competitive advantages should be internal to prevent imitation and second mover advantages
     - same issue with outsourcing
+
+# Artificial Intelligence
+- science of simulating human behavior in performing complex tasks
+    - complex for humans  vs complex for machines
+- 4 areas of study:
+    - vision
+    - language and speech
+    - movement and robotics
+    - reasoning and learning
+- many business applications
+
+## Vision
+- recognizing physical objects
+- automated security (FBI, airports)
+    - facial recognition
+    - handwriting recognition (USPS zipcode)
+- assembly-line applications
+    - MS research egg packaging system (cracked eggs)
+    - consumer applications use cell phone cameras to recognize products and retrieve information
+    - useful with shopping and museum applications
+- driverless cars
+- eye-movement tracking/detection
+    - where you're looking
+    - USAF, Eye Tribe
+
+## Speech
+- understanding (STT) and synthesizing speech (TTS)
+- synthesizing speech is easier (machine already understands)
+    - phone companies
+    - MS bought Tell Me speech technologies for MS office
+    - news anchors -> Ananova: speech synthesizing combined wiht animation as automated news anchor
+    - customer representative at a web site
+    - speech and animation useful for grabbing attention, directing and guiding customers
+    - advantage over videos:
+        - animations lighter load over the network
+        - cheaper & less bandwidth
+    - Pulse 3D
+- understanding speech
+    - difficult to hear
+    - need to be able to convert sound to text (later)
+    - dictation/typing automatically
+        - Dragon Dictation Systems, MacSpeech by Nuance; require training
+    - car hands-free applications: Ford Synch, Apple's Car Play, Navdy
+
+## Robotics
+- automated physical movement
+- manufacturing: assembly lines and warehouses
+    - assembling cars, tvs, computers, robot arms lifting, welding, painting and packing
+    - Amazon's Kiva Robots in warehouse management
+- automating hazardous work
+    - space, underwater, at war, Japanese fire fighting robots
+- aerial delivery and surveillance with drones
+    - military, Amazon
+- automating housework
+
+## Reasoning and Learning Systems
+- simulate decision making behavior of professionals
+- perform specialized tasks
+- diagnosing diseases in medicine
+    - MYCIN Stanford - 30 yrs
+    - PUFF UColorado - 20 yrs
+    - EYE-CARE Rutgers (used in Egypt)
+    - Isabel Healthcare - online diagnoser
+- mortgage based securities analysis
+    - GS
+- fraud detection
+    - credit card companies detecting stolen cards
+    - customer profile to reason about
+- computer design - HP
+- exploring oil - ExxonMobil
+- customer profiling and recommendation systems
+- QA Systems
+    - Siri, Cortana, Echo/Alexa, Watson, Google Home
+
+## Machine Learning
 
 ---
 ### A0 CTB
@@ -1616,3 +1691,4 @@ scripts, ASPs, Web Services: simple computations, ASPs, computational software
 - network effects (5 times)
 - network effects + switching costs -> monopoly and 1st-mover advantages
 - price discrimination between light and heavy users, (software rental)
+- animation over videos: animations are client scripts/videos are run on the server -> lighter load on network
