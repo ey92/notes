@@ -1577,6 +1577,12 @@ ccc: credit card company<br>
     - movement and robotics
     - reasoning and learning
 - many business applications
+- "complex tasks"
+    - these tasks don't lend themselves to procedural, step-by-step solutions
+    - _humans do not seem to know the complete procedure_
+        - procedural description of walking is not obvious to humans
+    - _developing machine procedures prove difficult_
+        - vision, abstract analogies
 
 ## Vision
 - recognizing physical objects
@@ -1641,7 +1647,138 @@ ccc: credit card company<br>
 - QA Systems
     - Siri, Cortana, Echo/Alexa, Watson, Google Home
 
-## Machine Learning
+## Tool
+- **Artificial Intelligence Systems**
+- **Rule-Based Reasoning** infers new rules
+- **Case-based Reasoning** infers new cases
+- **Machine Learning** infers relationships and rules from data
+
+### Rule-Based Reasoning
+- rule-based systems oldest and considered legacy systems
+- huge collections of rules, where each rule s a condition-action pair
+- if conditions are satisfied, actions are taken
+- rules are relatively independent of each other, often entered by different people independently, with no explicit looping or sequencing
+- system organizes rules, decides which ones to use when, and infers new rules
+- many software products that provide these tools
+    - e.g. P&G has a rule-based system to allocate advertising resources
+        - CLIPS has 20k rules: economic conditions, forecasts, nature of product, past sales record, past advertising rules
+        - no single formula or procedure; decision requires judgment
+        - many rules of thumb can guide the decision
+- **Bayesian Networks**: systems provide mechanism to compute confidence levels consistently using large scale application of Bayesian statistics
+    - difficult to do calculate consistently when multiple paths and confidence levels
+
+#### Bayesian Networks
+- multiple paths that generate the same output at different confidence levels
+- combine confidence levels as supporting evidence for hypothesis by using conditional probabilities
+
+#### Rules
+- when a rule's conditions are satisfied, it executes its actions "fire" (neurons)
+- process of rules triggering each other generates new information, resulting in inferences
+- difficulty to combine rules to draw reasonable conclusions, since rules are not all conclusive or consistent each other (merely guidelines)
+- rules have confidence levels attached to them
+    - add confidence levels using Bayesian analysis of conditional probabilities
+
+### Case-Based Reasoning
+- collect samples, and try to match new problems to existing cases by matching some of its attributes, and infer the missing attributes
+- e.g. diagnosing human diseases from symptoms
+- educate human professionals by using the same techniques
+- similar to case-based education with examples, and we match new cases to existing examples
+    - similar to teaching rules and formulas, and the conditions under which they apply
+
+### Machine Learning
+- creating and maintaining rules and cases are difficult
+- systems derive rules directly from the data
+- many different types
+    - as simple as assuming a linear relationship among data and computing the most likely parameters **linear regression**
+    - as complex as discovering all possible correlations among a set of variables, with no starting hypothesis **unsupervised learning**/**data mining**
+        - statisticians dislike data mining because they assume correlations have a cause
+
+#### Unsupervised Machine Learning
+- computationally demanding because of huge number of correlations to test
+- sheer computing power is growing and we can take advantages of correlations without hypotheses or understanding why
+- typical example: retail data & basket goods
+    - e.g. fraudulent transactions
+- IBM Watson & QA system reads documents and computes co-occurrence frequency
+    - now join with Apple and Johnson&Johnson and Medtronic to diagnose medical treatments and outcomes
+
+#### Supervised Machine Learning
+- create complex but incomplete model with many parameters, and then training it by providing feedback every time it fails, so it can update its parameters until it finds the right values
+- when generic or nonlinear model, **neural networks**
+- robots learning to walk
+    - many iterations & trial and error
+
+#### Caution
+- when to use reasoning and learning systems
+1. task should be complex, involving reasoning, judgment, and advice-giving, not straightforward procedure
+    - not billing and payroll
+    - tax advice to corporate clients, such as Expertax by PWC
+2. task should not be too complex with little or no identifiable structure
+    - should be some structure with recognizable experts who can partially explain them
+    - can't predict new events -> statistics is useless
+        - art: painting, music, poetry, raising a child
+    - detecting credit card fraud, diagnosing diseases, designing computers
+    - _semi-structured tasks_ are not appropriate for reasoning systems
+3. task should be narrow
+    - not involving broad human experience or common sense
+    - not what we experience through our biological makeup
+    - not paint, anxiety, fear, common sense, beauty
+4. task should not be mission-critical, or the system should be supervised
+    - they fail once in a while (rare failure creates false sense of security)
+
+#### Failures are Common
+- reasoning systems are _brittle at the edges_
+    - works well for common cases, but unusual cases, fail dramatically (humans fail "gradually")
+- humans compensate for lack of knowledge with common sense
+- flower-recognition at Georgia Tech
+    - 1. round bright colored center
+    - 2.  long thin dull colored stem
+    - 3. pointy protrusions of leaves
+    - fails with puppy
+- ping-pong playing robot at MIT's AI lab requires vision, robotics, reasoning
+
+## Intelligent Agents
+- AI systems on the internet
+- 4 types:
+    - search
+    - notify and alert
+    - advise and recommend
+    - languages and speech
+
+### Search Agents and Semantic Web
+- "find me a digital camera under $300"
+- database query vs search
+    - database query is structured keywords and structured database
+    - search engine for keywords to lookup in databases
+- active research in building new Intelligent Web to accommodate intelligent agents, called **Semantic Web**
+    - 1. utilize hash tags attached to text
+        - similar to attribute names in databases or hash tags in Twitter
+        - hierarchy of tags
+    - 2. utilize functions attached to text to link them to other text
+        - e.g. basketball players to their teams or player statistics
+    - very different from hyperlinks
+        - link to specific values, rather than complete documents, and they are labeled
+- intelligent agents can follow links to discover information and respond to specific questions, rather than finding documents from keywords **QA Systems**
+    - e.g. find digital camera under $300; basketball players who assisted in more than 10 pts in every game
+    - follow tags and links
+- shopping agents: roboshopercom, mysimon.com, bizrate.com, shopppin.com, streetprices.com, storerunner.com
+- MS Pivot clusters information on multiple dimensions depending on their tags and functions
+    - present clusters of information, rather than single web pages
+    - introduce concept of similarity and distance to the Web, based on their tags and links
+
+### Notify and Alert Agents
+- "notify me when there is a digital camera under #300"; "let me know when the stock price of IBM goes below 80"
+- repetitive/ongoing search
+- generates a lot of network traffic and burdens seller servers
+    - can easily mount a DoS attack
+    - can set parameters on queries, including ask rate
+- some businesses block out intelligent agents
+    - unusual products/long tail customers
+    - price-competitive sellers have advantage
+        - price comparisons for ordinary items, but can't compare quality
+- buyers may not benefit from Notify Agents at all, if sellers use them strategically
+    - gives out information (e.g. price discrimination, price manipulation)
+    - sellers can watch their competitors and match prices/discounts immediately
+        - price-fixing collusion with competitors
 
 ---
 ### A0 CTB
