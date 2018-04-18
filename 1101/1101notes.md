@@ -981,7 +981,7 @@ in auxiliary position
 	- pick one consonant for word's entire paradigm
 	- freeze, froze, frozen/freeze, frore, froren
 	- was/were z/r alternation kept (most frequently used verbs tend to resist change)
-	- paradigm change applies acroos common patterns
+	- paradigm change applies across common patterns
 	- strong verbs tend to become weak verbs (Germanic)
 
 ## Languages of the World and how to classify
@@ -1003,6 +1003,58 @@ in auxiliary position
 - typology vs universals
 - no boundary between language and dialect
 	- "a language is a dialect with an army"
+
+## Linguistic Demographics
+- estimate ~ 6000 languages
+- popular languages
+	- Mandarin ~854M, Spanish 329M, English 328M, Hindi/Urdu 182M+60M, Arabic
+- median language has ~9k native speakers
+	- many languages with smaller populations in USA, Australia
+
+### Vanishing Language Crisis
+- many speakers switching from their language to a more dominant language (e.g. English, Spanish)
+	- accelerating rate
+	- in Brazil 19th c, more than 1k languages, today < 200 languages
+	- in Aus, 500 to 250 languages
+	- Native American languages dying out
+	- estimates: 50-90% spoken languages of the world will disappear by the end of the current century
+- raises questions:
+	- is loss of small languages important
+	- how is multilingualism beneficial to society? how does it pose challenges/obstacles
+	- should multilingualism be supported? should education be through native language or dominant language
+	- can/should language shift from minority to majority languages be stopped or reversed?
+- many disappearing languages are understudied/lack documentation
+
+### Language Universals
+- things every language has
+- vowels and consonants (except sign language)
+- lexical categories (NVA)
+	- Hausa lacks adjectives
+	- Tongan makes no distinction
+	- SE Asian lexical items pre-categorical, usable in any category
+- recursion: embedding phrases
+		- Piraha no recursion? embedding limited to one level
+- **statistical universals**: most languages have X
+	- e.g. word order SOV, SVO, VSO
+- **implicational universals**: if a language has X, then it has Y
+	- if it has voiced stops, it has voiceless stops
+- methodological problems
+	- e.g. word order
+	- German SVO -> SOV in subordinate clauses
+	- OSV seems to be missing among human languages
+	- most of the world's languages show S precedes O
+
+#### Word Order Correlations
+Greenberg found:
+
+| word order | pp | AN | NG | rcl |
+| ---------- | -- | -- | -- | --- |
+| VSO | preposition | N adj | N Gen | N rcl |
+| SVO | preposition | N adj | N Gen | N rcl |
+| SOV | postposition | adj N | Gen N | rcl N |
+
+- 2 approaches for variation in order:
+	- 1. parameter fixing: head-first/head-last
 
 ---
 ##### Prelim 1 content
@@ -1044,3 +1096,10 @@ in auxiliary position
 	- conversations in which conversational implicature plays a role
 	- identify relevant conversational maxim
 5. give examples of terminology
+
+---
+CULC12 Cornell Undergraduate Linguistics Colloquium Apr 27-29
+jaf377
+conf.ling.cornell.edu/culc12
+wals.info World Atlas of Language Structures
+---

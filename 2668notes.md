@@ -1869,6 +1869,7 @@ first to have spells written inside of burial chamber
 - expel Hyksos by 1550, founds D18
 - many mummies moved around and put into different coffins due to tomb robbing
 - pricing in barley, grain, copper, silver, gold
+- few surviving towns (Deir el-Medina well-preserved in the desert)
 
 ## NK patterns
 - longest period of unified land
@@ -1956,20 +1957,20 @@ first to have spells written inside of burial chamber
 - Theban Tomb 320 (aka DB 320, 1881, W Thebes)
     - home to 40 royal mummies, including Queen Ahhotep (II)
 - priests kept a record of moving mummies in "_dockets_"
-    - sometimes written directly on coffen
+    - sometimes written directly on coffin
     - e.g. moved Ramesses I to Seti I's tomb, and again to Amenhotep II's (KV 35, where 16 other royal mummies found)
 - only Amenhotep II and Tutankhamun found in their own tombs
 - much movement beginning at end of D18
 
 ## Ahmose 1570-1546
-- direcly related to D17
+- directly related to D17
 - expelled Hyksos ~ 1550 from Avaris
 - founded D18 and re-consolidated the state
 - mother Ahhotep also led troops
 - pyramid found in Abydos in 1997
     - probably cenotaph
     - mummy in TT 320 cache
-    - associate death with Osiries
+    - associate death with Osiris
 - 2 steles how kingdom put back together
 - **Donation Stele**
     - "buys" 2nd priesthood of AMun for wife
@@ -1977,7 +1978,97 @@ first to have spells written inside of burial chamber
 - **Tempest Stele** (Karnak)
     - "great storm in the West"
     - weather report or pretext for rebuilding temples? (allegory for problems during SIP)
-    - UChicago wants to tie to THera eruption, ~1615 BC & redate NK earlier with more literal reading of Tempest Stele
+    - UChicago wants to tie to THera eruption, ~1615 BC & re-date NK earlier with more literal reading of Tempest Stele
+
+## Amenhotep I 1551-1524
+- popular name for D18 "Amun is satisfied"
+- ascends to throne young, co-reigns with and continues father's works
+- worshiped with mother Ahmose-Nefertari at Deir el-Medina (established city)
+    - Deir el-Medina one of few NK town sites, established on west bank to build and decorate royal tombs in Valley ofthe Kings
+- alabaster bark shrine at Karnak, in the style of Senusret I's 'White Chapel'
+
+### Deir el-Medina
+- just off the floodplain & in the shadow of Western Desert cliffs
+- across the river from Luxor
+- 50 x 130 m (relatively small)
+- planned, wall city
+    - over 100 homes, single story, mud brick, 4-room homes
+    - average house was 4 x 20 m
+    - part of payment for work in tombs
+    - leased, not owned
+    - open kitchen, with grinding, baking
+- comparable to worker's village at Giza in OK, __ in MK
+- primary archaeological and textual source for daily life
+- exceptionally _high literacy rate_ for Egyptian community
+    - tales (Sinuhe, Contentions of Horus and Seth), book of dreams
+- 'servants of the place of ma'at'
+    - important job, to stay in city, must have someone working in the tombs
+    - nautical organization of workers
+- Medjay employed as police
+- town lasts & inherited by generations of same families of tomb workers until about 1070 D20, end of NK
+    - tomb robbery papyri from D20
+
+## Thutmose I 1524-1518
+- popular name for D18 "born of Thoth"
+    - magic, intellect, wisdom
+- married into royal family
+- short reign, large impact, militant
+    - Syrian campaign
+        - incorporates much of Canaan as vassals (North)
+        - Ahmose, son of Ebana serving, records campaigns
+            - all done out of vengeance, to punish rulers of foreign lands for taking over the Delta
+            - also resources: tin, cedar in the north; gold in the south
+    - puts Egyptian governors in Kerma, Kush (South)
+    - strong Egyptian influence in Punt
+    - encountered superior Mittannian power & stops (Euphrates, Northern Syria)
+- added to Amun precinct at Karnak
+    - two pylon gateways
+    - columned hall
+    - obelisks, Aswan granite
+        - thought to be Ra's rays (appeared around same time in Phonecia)
+        - perhaps from D5 sun temples, but those reconstructions based on obelisks
+    - orientation is to West Thebes (no Luxor Temple, circuit wall yet)
+- 1st rock-cut tomb, KV 20 - paintings and mummies are gone
+    - sarcophagus for Thutmose I originally there
+    - Hatshepsut sarcophagus also here, probably buried in the same tomb, but sarcophagi empty
+    - Thutmose I mummy moved to KV 38
+        - burial chamber carved in the shape of a cartouche (seems intentional)
+        - moved here by Thutmose III, who didn't want Hatshepsut next to his grandfather
+        - mummy eventually found in 1881 cache of 40 TT320 (moved again 11th c.)
+
+## Thutmose II 1518-1504
+- short reign
+- married half-sister Hatshepsut for legitimacy
+- explicitly names son Thutmose III as successor early in reign
+- premature death -> Thutmose III very young when he succeeds the throne
+    - step-mother Hatshepsut effectively ruling "co-reigning" with Thutmose III
+    - Thutmose III kept in the background for 20 yrs
+- actively suppress Thutmose III & takes royal titles (usurper/co-regent?)
+    - witnessed rule & wars of Thutmose I as young girl
+    - Hatshepsut builds many monuments to legitimize her [heretical] status
+        - claims to have taken what Amun-Ra put before her - pious opportunist
+    - Thutmose III is recognized by many people as the legitimate king
+
+## Hatshepsut 1504/1498-1483
+- life-size granite statues (Metropolitan) from Deir el-Bahri as a male
+    - devotional poses
+    - nemes headdress, crowns
+    - initially portrayed in feminine form but male robes
+    - did not hide identity as a woman in initial rule
+        - inscription on seated statue has feminized titles "goddess" and "lady"
+        - portrayed masculine and femininized titles "daughter of Ra"
+    - many statues smashed into pieces, likely by Thutmose III
+
+### Nubian campaigns to 4th cataract
+- ended Kush kingdom, established souther border at Kerma, with Egyptian governors
+- tomb inscription, near Kerma
+    - "there is not a single one of them left. the Nubian bowmen have fallen to the slaughter"
+    - "their entrails drench their valleys; gore from their mouths pours down in torrents"
+    - "carrion eaters swarm down upon the \__, and the birds carry their trophies away to another place"
+- Abydos Style
+    - "I made Egypt the chief, and the whole earth her servants"
+    - took Kerman chief strapped to bow of his boat
+        - brought young daughter Hatshepsut along journey
 
 
 ---
