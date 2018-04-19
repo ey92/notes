@@ -474,6 +474,41 @@ proofnet: ((t . t) (keisha (2 . e)) (admires (((2 . e) \ 1.t) / (3 . e))) ( just
 
 - invent multimodal types in grammar?
 
+## Movement Grammar/Minimalist Grammar
+- like categorical grammar, but components are allowed to move
+- e.g. "wh" movement
+- usually move to the left
+- "Minimalist Grammar"
+- don't have direction of combination
+
+```
+['grammars/cat1.pl'].
+showParse([she,in,it]).
+```
+
+cat1.pl
+```
+% Combinatory mechanics without movement.
+% [inside,it] takes argument on right
+% [she,in,it] takes first argument on right, second one on the left.
+
+[it]::[e].
+[she]::[d].
+
+% L (Location) with D argument.
+
+[inside]::[=e,t].
+[in]::[=e,=d,t].
+[f2]::[=d,=d,t].
+[f3]::[=d,=d,=d,t].
+
+startCategory(t)        // specify start category
+```
+- [=d,t] means takes argument of type d, returns t
+- a = abort
+- x = display
+- if it doesn't parse, returns false
+
 # Phonetics
 - morpheme seq -> phone seq (underlying) -> phone seq (surface) -> speech signal
 - requires _weighted finite state machines_ and weighted transductions
@@ -634,7 +669,7 @@ conf input local path.sh run.sh steps utils
     - has more info than prototype
     - learned theory of what beginning of each word sounds like
     - phones form quasi-steady-states
-    - look for mean vector for a sound & std dev on vector -> characterizeds probability distribution
+    - look for mean vector for a sound & std dev on vector -> characterized probability distribution
 - 13 dims -> 39 by taking differences at adjacencies
     - called "feature transform"
         - velocity and acceleration (delta transform) of changes
