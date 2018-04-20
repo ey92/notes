@@ -1025,7 +1025,7 @@ in auxiliary position
 	- can/should language shift from minority to majority languages be stopped or reversed?
 - many disappearing languages are understudied/lack documentation
 
-### Language Universals
+## Language Universals
 - things every language has
 - vowels and consonants (except sign language)
 - lexical categories (NVA)
@@ -1044,7 +1044,7 @@ in auxiliary position
 	- OSV seems to be missing among human languages
 	- most of the world's languages show S precedes O
 
-#### Word Order Correlations
+### Word Order Correlations
 Greenberg found:
 
 | word order | pp | AN | NG | rcl |
@@ -1053,8 +1053,49 @@ Greenberg found:
 | SVO | preposition | N adj | N Gen | N rcl |
 | SOV | postposition | adj N | Gen N | rcl N |
 
-- 2 approaches for variation in order:
-	- 1. parameter fixing: head-first/head-last
+- English is typologically inconsistent
+	- VO: (PP head is P, AdjN head is N)
+
+- 2 ways to account for variation in order:
+
+#### 1. parameter fixing: head-first/head-final
+- child generalizes observation to hypotheses about head positioning
+- typologically inconsistent languages: child has to add corrective hypothesis
+- adjective order?
+	- big green cup vs green big cup
+
+# Language Acquisition
+- wug
+	- wug test
+- 2 hypothesis:
+	- 1) born with blank slate, form habits from observations
+	- 2) language is an innate ability like walking
+	- 1st hyp can't be completely correct - learning language from scratch is too difficult
+	- 2nd hyp too extreme inccorrect, or else everyone would speak the same language
+- research suggests that there is a lot of built-in knowledge in process of language learning
+	- controversy over how much is built-in
+	- how much innate knowledge is specific to language (as opposed to acceptation of other systems)
+- learning meanings of new words
+	- babies learning meanings of words entirely from context
+		- understand what the concept of a word is
+- innateness hypothesis
+	-
+	-
+- built-in notions to constrain what the child can imagine
+	- known to exist for vision
+- other biases/predetermined expectations
+	- whole object bias
+		- words taken to refer to whole objects, not just parts or properties
+	- type bias
+		- new word refers to a type of thing, not just to the particular thing
+	- mind-reading bias
+		- following eye-gaze shows that children have developed a theory of mind, that allows them to pick out other people's intentions
+	- taxonymic and meronymic biases
+		- if only one salient object in scene, and mutual exclusiveness preculdes existence of _____
+- most child-directed speech are used when event referred to is NOT happening
+	- e.g. "go to sleep"
+- learn function words early
+- count vs mass nouns
 
 ---
 ##### Prelim 1 content

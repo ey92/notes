@@ -2036,6 +2036,17 @@ first to have spells written inside of burial chamber
         - moved here by Thutmose III, who didn't want Hatshepsut next to his grandfather
         - mummy eventually found in 1881 cache of 40 TT320 (moved again 11th c.)
 
+### Nubian campaigns to 4th cataract
+- ended Kush kingdom, established souther border at Kerma, with Egyptian governors
+- tomb inscription, near Kerma
+    - "there is not a single one of them left. the Nubian bowmen have fallen to the slaughter"
+    - "their entrails drench their valleys; gore from their mouths pours down in torrents"
+    - "carrion eaters swarm down upon the \__, and the birds carry their trophies away to another place"
+- Abydos Style
+    - "I made Egypt the chief, and the whole earth her servants"
+    - took Kerman chief strapped to bow of his boat
+        - brought young daughter Hatshepsut along journey
+
 ## Thutmose II 1518-1504
 - short reign
 - married half-sister Hatshepsut for legitimacy
@@ -2050,26 +2061,88 @@ first to have spells written inside of burial chamber
     - Thutmose III is recognized by many people as the legitimate king
 
 ## Hatshepsut 1504/1498-1483
-- life-size granite statues (Metropolitan) from Deir el-Bahri as a male
+- co-reigned with stepson Thutmose III for 20 yrs
+- develop image via monuments within country
+- peaceful resource extraction/trade as opposed to conquest
+- Senenmut her chief steward
+    - overseer with her daughter as tutor
+    - most trusted, key influence
+- initially portrays herself as a woman during her rule
+- statuary:
     - devotional poses
     - nemes headdress, crowns
-    - initially portrayed in feminine form but male robes
-    - did not hide identity as a woman in initial rule
+    - did not hide identity as a woman in initial rule (but in male robes)
         - inscription on seated statue has feminized titles "goddess" and "lady"
         - portrayed masculine and femininized titles "daughter of Ra"
+    - life-size granite statues (Metropolitan) from Deir el-Bahri as a male
     - many statues smashed into pieces, likely by Thutmose III
+- contribution to Karnak temple
+    - pylon gateway to the south
+        - reorient Karnak Amun precinct with "Eighth Pylon" toward temple of Mut, mother goddess of Themes
+        - sphinx-lined processional way joins temples
+    - 4 obelisks, c. 97' high, 300+ tons
+        - receiving kingship from Amun-Ra, as a man, atop Karnak obelisk
+            - physically male, but grammatically female in inscriptions
+        - at bottom of obelisk: text explaining her action
+            - (unusual for a ruler to do
+            - anticipating & pre-empting skepticism of her rule
+            - "I have done this with a loving heart for my father Amun..."
+            - "Now my mind turned to this way and that, anticipating the words of the people who shall see my monument in future years and speak of what I have done..."
+            - "He shall not declare what I've said to be an exaggeration. Rather he will say, 'How like her it is, loyal to her father!""
+            - "For I am his very bother in very truth, who glorifies him and who knows what he has ordained."
+        - wearing blue/_khepresh_ headdress for battle
+        - focuses on 2 fathers - Thutmose I and Amun-Ra
+            - doesn't acknowledge Thutmose II or Thutmose III
+    - Red Chapel, a bark station inside the temple
+        - red Aswan granite
+        - now part of open-air museum in Karnak
+        - block is self-referencing
+        - includes image of her (as male) and Bull of Horus in Sed festival
+        - on other side, depict carrying bark of Amun-Re in Open Festival with Hatshepsut and stepson Thutmose III in war crowns
+            - looks like Hatshepsut is leading Thutmose III (seems grown up)
+- defying patriarchal conventions, making her own rules
+- unlike Thutmose I and her successor Thutmose III, she monumentalized peaceful activities (trade, transport)
+- burial?
+    - no burial or mummy in sarcophagus left in KV20
+    - Thutmose III moved Thutmose I, but unknown what he did to Hatshepsut's mummy
+    - 2007 Zahi Hawass allowed CT scan of mummy (of 2) found by Carter in KV 60
+        - one is royal nurse (of Hatshepsut)
+        - other is unidentified & missing tooth
+            - claim missing tooth was in a box with her name on it; questionable
 
-### Nubian campaigns to 4th cataract
-- ended Kush kingdom, established souther border at Kerma, with Egyptian governors
-- tomb inscription, near Kerma
-    - "there is not a single one of them left. the Nubian bowmen have fallen to the slaughter"
-    - "their entrails drench their valleys; gore from their mouths pours down in torrents"
-    - "carrion eaters swarm down upon the \__, and the birds carry their trophies away to another place"
-- Abydos Style
-    - "I made Egypt the chief, and the whole earth her servants"
-    - took Kerman chief strapped to bow of his boat
-        - brought young daughter Hatshepsut along journey
-
+### Deir el-Bahri
+- funerary complex _djeser-djeseru_ "holy of holies"
+- influenced by Mentuhotep II's complex just south, based on _saff_ tombs begun in D11
+- 3-level saff tomb with 2 courts
+- no tomb
+- row of statues of Hatshepsut as Osiris at entrance
+- many oversized statues Hatshepsut as sphinx, lining entrance to temple
+    - later smashed by Thutmose III
+- architecture stressing her relationship with gods, especially Amun-Ra and Hathor
+- Hathor-cow nursing Hatshepsut in _khepresh_ helmet (as Horus)
+- inscription has her appointed by Thutmose I (bypassing T2, T3)
+- obelisks shipped downstream to Karnak from Aswan, shown on lower terrace behind colonnade
+    - inscriptions focused on maritime activities
+    - explains how granite obelisks were transported
+        - biggest boat built prior to Greek world
+        - at least 60m, carrying at least 600 tons, built to carry cargo
+        - only question obelisks being loaded end-to-end
+- lower and middle terraces depict accomplishments of reign
+    - trade and building projects rather than military gains
+    - Punt voyage: trade with incense-producing area, illustrated sailing on Red Sea
+        - show off exotic fish and animals
+        - most detailed ship depictions until Roman period
+            - ~20m long, row or sail
+        - Queen of Punt, Puntians, and flora + fauna from Punt for Hatshepsut's gardens
+- Punt voyage from Mersa Gawasis
+    - Punt expeditions for incense, other exotica
+    - Mersa Gawasis on Red Sea cost
+    - K Bard (BU)
+    - cave with D12 seafaring ship parts
+    - votive steal to "Osiris of the Sea"
+    - validated Hatshepsut's claims of how maritime voyages were accomplished
+    - port of departure, ship storage facility
+    - Cheryl Ward nautical archaeologis 2008 built working full-size replica
 
 ---
 #### quiz up to 2/16 lecture
