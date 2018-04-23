@@ -2144,6 +2144,108 @@ first to have spells written inside of burial chamber
     - port of departure, ship storage facility
     - Cheryl Ward nautical archaeologis 2008 built working full-size replica
 
+## Thutmose III 1504/1483-1450
+- 20 years on sidelines as Hatshepsut's stepson
+- 17+ years of campaigns in Syria-Palestine
+    - maintaining, expanding empire
+    - Amun temple at Gebel Barkal, Sudan near 4th Cataract
+        - has stela claiming he crossed the Euphrates
+    - claimes repeated on Karnak obelisk, stelae
+- "Napoleon of Egypt" JH Breasted
+- Karnak Pylon 7
+    - controlling the cosmos, maintaining ma'at and suppressing isfet
+
+### Karnak Amun-Ra temple
+- _Annals_ yearly records at core of temple
+- lists of booty, defeated foes, on Asian campaigns (pic)
+    - images of Asiatics with names of defeated towns
+- campaigns enriching Amun priesthood and temples as much as the palace
+
+### Siege of Megiddo (Israel) in Annals, yr 23
+- Thutmose as Horus goes against advisors' caution and takes bolder action for Amun-Ra, his father
+    - becomes a common NK motif: surrounded by inferior men
+- site remembered in New Testament for huge conflict and stage (H)Armageddon (end of the world)
+    - Hebrew for Mount Megiddo
+- claim coalition of rebels
+- 2 wide, clear paths better for chariots vs narrow, direct path
+    - Canaanites defend the wide paths
+    - ofc Thutmose III takes harder path (Aruna pass)
+    - soldiers blamed for delayed victory - begin plundering before fight is over
+- governor is appointed
+
+### Economics
+- 900 chariots and 2000 horses taken at Megiddo (_Annals_)
+- yearly tribute from vassals even more lucrative: all production is taxed
+- Mitannian overlordship threatened access to imports - tin routes and cedar
+- children of vanquished taken to Egypt for re-education
+- Tomb of Menkheperreseneb: Syrians bring gifts to Thutmose III
+
+### Syro-Canaanite influence
+- Canaanites goods, ideas, genes entering Egypt
+- Thutmose III took 3 foreign wives, 2 with Canaanite names (soldiers took foreign wives too)
+    - had some benefits of Egyptian royal wife
+- Canaanite gods Reshef (war god) and Astarte (fertility goddess) assimilated into Lower Egyptian cult
+- Mitannian glass, core-formed, becomes Egyptian industry
+    - earliest in history
+
+### Tomb
+- KV 34
+- earliest tomb in Valley of Kings with preserved wall decorations
+- cartouche-shaped chamber similar to Thutmose I's
+- netherworld texts:
+    - _Litany of Re_: call on names of sun god to help king in afterlife
+    - _Book of What Is in the Netherworld (Amduat)_: map and spells for eternal justification
+- unusual art
+    - not sculpted reliefs
+    - painted with stylus-stroke
+    - text in Hieratic script - not hieroglyphs
+    - _Book of What Is in the Netherworld (Amduat)_
+        - Thutmose III suckled by Queen Iset(Isis) as Sycamore
+        - 12th hour scene
+
+## Amenhotep II 1453-1419
+- brief co-regency with Thutmose III
+- continues defacing Hatshepsut monuments
+- brutal campaigns in Canaan and Nubia
+    - hanging foreign rulers upside-down on mast
+    - 54 tons of silver (international currency), horses, chariots, 90,000 POWs, including 21,000 families
+- lasting image: shooting copper targets from chariot
+    - bow recovered from KV 35
+    - ox-hide shaped copper ingots, ca. 28 kg
+- copper and glass ingots from Uluburun shipwreck, c 1310 BC
+    - glass technology borrowed from Mitannians - earliest glass, since Thutmose III's Syrian campaigns
+    - painted blue glass busts
+    - cobalt blue glass used all over eastern Mediterranean by 14th c
+
+### Memphis Stele
+- message for Egyptians: Syrian, Hittite, Babylonians bearing gifts, asking for "breath of life"
+- reality: parity treaties more likely, in language of brotherhood rather than domination
+- Ma'at maintenance demands dominance messaging
+- 14th c. Armana Letters show diplomatic, brotherly relations
+
+### Tomb
+- KV 35
+- site of 14-mummy cache 1898
+    - bow in sarcophagus (but soon lost)
+- similar stylized images as in Thutmose III's tomb
+    - hieratic
+    - light background wall, so black ink stands out
+    - important names and concepts in red ink
+    - writing not many colors
+- mummy found in his own tomb
+    - red granite sarcophagus
+- tomb passageway: trap for tomb robbers - fall and can't get out
+
+## Thutmose IV 1419-1386
+- lots of monuments, active reign
+- Dream/Sphinx Stele
+    - placed between paws of the sphinx
+    - sphinx to Thutmose IV "I am your father...I shall give you kingship"
+    - made pilgrimage to sphinx, and sphinx spoke to Thutmose IV in dream
+    - sphinx gives him kingship for clearing the sand
+    - sphinx is already important monument during NK
+        - various offerings
+
 ---
 #### quiz up to 2/16 lecture
 - up to D0/D1

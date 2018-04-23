@@ -1065,6 +1065,14 @@ Greenberg found:
 	- big green cup vs green big cup
 
 # Language Acquisition
+- questions:
+	- how early does language acquisition start?
+	- how much is "prewired" in the brain
+	- is language acquisition fundamentally different from other kinds of learning
+	- are there universal milestones in language acquisition; what accounts for them
+	- are children born with feature detectors?
+		- mother's voice: left-hemisphere (language processing, motor skills); other woman's voice: right-hemisphere (voice recognition)
+		- as young as 3 months, can predict what language they will speak -> phonology is in place as early as 3 months
 - wug
 	- wug test
 - 2 hypothesis:
@@ -1081,6 +1089,7 @@ Greenberg found:
 - innateness hypothesis
 	-
 	-
+
 - built-in notions to constrain what the child can imagine
 	- known to exist for vision
 - other biases/predetermined expectations
@@ -1096,6 +1105,59 @@ Greenberg found:
 	- e.g. "go to sleep"
 - learn function words early
 - count vs mass nouns
+
+## Language is Innate Hypothesis
+1. parents make mistakes (data is not consistent)
+2. data is unsystematic (parents don't teach part by part)
+	- e.g. vowels, then consonants, the morphemes, then phonology
+3. data is incomplete (can't observe everything)
+4. ungrammatical sentences are not normally corrected; correction seems to have little effect on the output
+	- parents are focused on meaning; don't focus on grammaticality
+	- correct pronunciation or word formation, but not grammar
+	- children seem to ignore/resist grammatical correction
+
+## Language is Learned Hypothesis
+- mothers and caretakers go out of their way to simplify language and shorten sentences for easier understanding
+- simplified vocabulary
+- systematic simplification of phonology, higher pitch
+- exaggerated intonation, short, simple sentences
+- Newport, Gleitman, Gleitman in 1977 published study saying that "mother talk" is not simpler than actual language
+	- progress towards fluency doesn't seem to be determined by mothering environment
+- normal acquisition passes through stages
+	- similar across languages
+1. basic biological noises (0-8 wks)
+2. social noises: cooing, laughing (8-20 wks)
+3. vocal play: considerable range, different ones on different days, as if practicing (20-30 wks)
+4. babbling: reduplication, variegated (25-50 wks)
+	- can tell questions from statements, 
+5. intonation, fixed melody, speech-like (9-18 mo)
+	- begin to form words (12-18 mo)
+	- recognize words more words, but only able to produce a few consonants
+
+#### acquisition of phonology
+1. initial consonants develop first
+	- [p b k n f] d g m h
+2. vowels initially by end of the 2nd year
+3. consonants most problematic at age 4
+	- [ th, del, dzh, zh]
+
+#### errors in child language
+1. fricative consonants replaced by stops
+2. velar consonants replaced by alveolar consonants
+	k -> t
+3. clusters avoided; difficult until 4 or 5
+4. dropping final consonants
+5. dropping unstressed syllables
+5. 'harmonizing' consonants:
+	- dog -> gog; water -> wawa
+
+- function listemes' meanings are the most abstract kind of meanings there are
+	- e.g. 'a', '-ing', 'some'
+- acquiring lexicon
+	- underextension is more unusual
+		- e.g. apple only for red apples
+	- over extension is more common
+		- e.g. usurp -> take
 
 ---
 ##### Prelim 1 content

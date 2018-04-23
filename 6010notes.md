@@ -34,7 +34,7 @@ evidence: productivity shot up in 1990-1998, internet 2003-2016
         - firm-level data
             * bimodal distribution of productivity
         - failures
-            * 20% coporate IT projects fail within a year
+            * 20% corporate IT projects fail within a year
             * more for startups and ecommerce
             * high variance suggests averages don't reflect productivity (self-reported is lower than actual failure)
 
@@ -47,7 +47,7 @@ Many techologies, and many tools for each
 3 steps of fitting:
 1. pick the right tool for the task
 2. customize the tool for the task
-3. reengineer the task for the tool
+3. re-engineer the task for the tool
 same reasons for delay in productivity
 
 ## Ecommerce is complex
@@ -1779,6 +1779,138 @@ ccc: credit card company<br>
     - gives out information (e.g. price discrimination, price manipulation)
     - sellers can watch their competitors and match prices/discounts immediately
         - price-fixing collusion with competitors
+
+### Recommend and Advise Agents
+- "what is a good brand of tablets?"; "which tablet should i buy?"
+- vary greatly in sophistication and complexity
+- 3 types: 
+    - popularity-based
+    - attribute-based: product or consumer attributes
+    - transaction based
+- 3 questions for each:
+    - are they customized
+    - what information do they need from you and from others
+    - can they explain their recommendations
+
+#### Popularity-Based
+- leads to winner-take-all markets, because everyone wants the most popular
+- require no information from user, before making a recommendation
+    - doesn't require information: _cold start_
+- require many product ratings from people to rank them, which are easy to collect
+- cannot explain popularity
+
+#### Attribute-Based
+- cluster _products_ by their _common attributes_
+    - purchase one -> recommend similar ones
+    - e.g. books by same author, restaurants of same cuisine, hotels in same area
+    - Pandora music recommendation, using hundreds of attributes and dozens of music experts
+- characteristics:
+    - limited customization, based on product attributes, but difficult to determine what product attributes are relevant to which consumers
+    - not cold start - require _approximate cold start_ (1 purchase for similar products and recommendations)
+    - can intelligently explain their recommendations by listing the relevant attributes of products
+- cluster _consumers_ using _consumer attributes_
+    - if one makes a purchase, it recommends to others in the same community
+    - Facebook recommendations
+- characteristics:
+    - some customization based on customer attributes
+    - difficult to determine what consumer attributes are relevant to what products
+    - need a lot of information from customers
+        - _no cold start_
+        - need information about you to determine who is similar to you
+        - Facebook doest a lot of social network analysis of the links and demographics to determine who is similar to you
+    - can intelligently explain recommendations by listing relevant attributes of consumers
+
+#### Transaction-Based: Collaborative Filtering
+- cluster products together
+    - "those who bought this also bought that"
+    - e.g. Amazon, Netflix
+- characteristics
+    - most customized based on past transactions
+    - can customize well, and create many niche markets for slow selling items, leading to "long tail phenomenon"
+        - cheaper to provide
+    - Netflix reports that 90% of all their movies are rented at least once every month
+    - _approximate cold start_ (need just one purchase before providing recommendation)
+    - don't need a lot of information about products or consumers either
+    - need lots of transactions, which are easier to collect
+    - can't intelligently explain their recommendations by listing the relevant attributes of consumers or products
+
+#### Recommendation Systems as Advertising
+- all recommendation systems have difficulty dealing with the unusual cases
+- if we can devise perfectly customized recommendation systems, and can explain their recommendations, they may replace advertising
+- traditional advertising is a faulty model
+    - seller pays for advertising: biased information
+    - consumers avoid ads, sellers try to overload with more ads
+- **advice-giving systems** attempt to replace advertising
+    - collect a lot of consumer and product information & try to match them
+    - discover why people buy various products, not just what they buy
+    - customize well, can explain recommendations about attributes and why they match (complex reasoning)
+    - requires much information and much analysis
+- "should I buy a tablet"; "do I need one"
+    - mostly experimental, but have great potential
+    - typically give professional advice and many advice-giving sites are experimenting with them
+    - legal, financial, medical
+    - isabelhealthcare: completely automated advice-giving software
+        - Melinda Brown: freeze liver cancer cells
+    - BusinessWeek editorialized that there is a power shift from physicians to patients because online resources and medical advice systems are guiding people through their symptoms, possible diagnoses, and treatments
+    - TV ads for prescription medicine
+
+#### online medicine
+- vision of online automated doctor
+- problems:
+    - 1. mistakes can be fatal
+        - disclaimers may not be enforceable due to implied warranties, leading to legal liability
+        - **implied warranty**: when you sell a product, the product has to be minimally compatible with the objective it is supposed to serve
+            - if completely incapable, you are liable, even if you are honest
+            - e.g. car with no brakes "not minimally fit for the intended purpose"
+    - 2. certification is necessary to practice medicine
+        - no incentive for professionals to license a system that will compete with the same job
+    - 3. medical advice is not a purely information good
+        - coupled with physical processes, and the equipment necessary is not readily available to individuals
+- solutions:
+    - 1. avoid legal liability: information vs diagnosis
+        - where to draw the line when it is customized?
+    - 2. avoid certification: physician's aid vs practicing medicine
+        - claims to aid doctors, not patients
+    - 3. avoid physical examination: 
+        - new infrastructure of self-service medicine is emerging
+            - based on wearable sensors and phone-based diagnostic equipment
+        - secondary technologies necessary for online medicine
+- self-service medicine with _Kardia Mobile_ by _Alivecor_
+    - sold to physicians
+
+### Language and Speech Agents
+- two types:
+    - intelligent agents for written language
+    - intelligent agents for spoken language
+
+#### Agents for Written Language
+- read, understand, and respond in written language, where understanding requires reasoning
+    - chat bots
+    - Julia at CMU attempts Turing test
+        - pretends to be a college student fools Barry, a real college student
+        - after 13 days, suspicious
+        - forced typing mistakes and slow down typing speed
+    - Loebner Contest
+        - self-awareness is hard
+        - Alice, HAL, Joe Cleverbot
+
+#### Agents for Spoken Language
+- they hear, understand, and respond in spoken language
+- 3 skills: 
+    - hearing: converting speech to text, speech understanding
+    - speaking: converting text to speech, speech synthesis
+    - reasoning: making sense of sentences
+- **speech synthesis** is easier
+    - speaking and reasoning is good, but does not hear well
+- Alaska Airlines customer service using Hal
+- beyond speech: music synthesis
+    - singing and instrument playing robots take music and lyrics and perform it with animation and orchestra, all synthesized
+    - Hatsune Miku based on Yamaha's intelligent music agent Vocaloid
+- speech understanding typically requires training, but on the web, they need function without training
+- on the web:
+    HAL web assistant, MS Genie incorporated into websites: hear, reason, speak
+- on the phone: Siri, Google Now, MS Cortana: hear, reason, speak
+- Call Wave converts voicemails to email and summarizes the message
 
 ---
 ### A0 CTB
