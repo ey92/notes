@@ -683,6 +683,12 @@ conf input local path.sh run.sh steps utils
 - `ali-to-phones --write-lengths final.mdl ark:ali.1 ark,t:- | head -4`
     - includes lengths of each phone
 
+`awk -f script/xn.awk -v N=5`
+- generate all sentences of length N
+
+1. bounding recursion
+    - push-down transducer
+
 
 ---
 final project (can change your mind)

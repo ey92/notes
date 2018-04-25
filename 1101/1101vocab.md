@@ -503,3 +503,11 @@
 **raising**/**lowering** - change in tongue height in vowel production
 
 **backing**/**fronting** - alternation in position of tongue in vowel production
+
+---
+
+## Ch. 8 Language Acquisition
+
+**First-Language (L1) Acquisition** - process by which children acquire lexicon and grammatical rules of native language. (In native bilinguals, both languages are acquired as first languages.)
+
+**Second-Language (L2) Acquisition** - acquisition of second language as teenager or adult (after critical period)

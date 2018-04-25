@@ -1125,6 +1125,7 @@ Greenberg found:
 	- progress towards fluency doesn't seem to be determined by mothering environment
 - normal acquisition passes through stages
 	- similar across languages
+
 1. basic biological noises (0-8 wks)
 2. social noises: cooing, laughing (8-20 wks)
 3. vocal play: considerable range, different ones on different days, as if practicing (20-30 wks)
@@ -1158,6 +1159,87 @@ Greenberg found:
 		- e.g. apple only for red apples
 	- over extension is more common
 		- e.g. usurp -> take
+
+#### Acquisition Stages
+1. Holophrastic stage
+	- one-word sentences
+	- gone; more; all-fall-down
+2. Two-word Stage (18 mo - 2 yrs)
+	- two word length constraint
+	- allgone sock; hi mommy; byebye boat; it ball
+	- different intended relationships
+	- can understand conversations, but can't articulate more complex thoughts
+	- 'vertical' sentences: Tape corder. Use it. Use it.; Talk. Corder talk. Brenda talk.
+3. Telegraphic speech stage
+	- 'telegraphic' utterances of variable length (leave out unnecessary words, name from telegraphs)
+	- him got car; put on that there
+	- missing function words, but they understand the meanings of functions words
+	- characterized by creative mistakes
+		- working out morphology
+		- it got brokened
+4. __
+
+- no three-word stage
+	- possibly due to recursion and branching
+	- following two-word stage, children go directly to utterances of indeterminate length
+
+### 'Language Acquisition Device'
+- **autonomy hypothesis**
+	- grammar forms structural system whose primitive terms are NOT part of a bigger system that encompasses both human language and other human facilities or abilities
+	- structures and operations in grammars do not find counterparts in other cognitive capacities, but
+	- not widely held view
+- most people believe "blank slate" idea doesn't work
+	- there must be some similar functionality within brain between language and other human functions
+	- is it modular?
+		- is there a part of the brain specifically working on syntax/semantics/pragmatics/etc
+		- or are functions shared
+- arguments for specific language faculty in the brain:
+	- lack of correlation between language acquisition and other cognitive capacities
+		- no strong correlation between language learning ability and general intelligence
+	- acquisition deficits specific to language
+		- Specific Language Impairment - difficulty in acquiring languages, but nothing to do with intelligence
+	- **critical age hypothesis**
+		- language (but not other cognitive systems) must be acquired during a critical period
+		- up to puberty, children have little trouble with language learning; afterwards, very difficult to achieve fluency
+		- "Genie" raised in isolation & developed much slower
+			- vocabulary acquisition same rate, but unable to put words together (syntax)
+		- experience of second language learners
+			- some people fluent in native language can't achieve foreign language fluency
+			- language learning seems to be easier the younger you are
+			- few other complex systems of knowledge that are easier to acquire at age 2 than at age 20
+		- if true, suggests that we use different mechanisms to learn language
+			- seems to be true in other species
+			- some birds have 'general template' for songs; other birds require learning as well as innate instructions to develop song repertoire
+			- if innate 'template', develop abnormally if no exposure to adults (10-50 day period is crucial)
+			- exposure to alien bird song doesn't trigger alien song: interaction of experience and heredity
+
+# Summary of Language
+- regularities of language
+	- hierarchical
+		- features combine for phonemes -> syllables -> feet, etc
+	- compositional
+	- modular
+		- syntax, semantics, phonology
+	- productive
+		- build indeterminately large sentences by combining words & meanings in process (recursion)
+- explain rules, modules, categories, features
+	- are they only artifacts of linguists' analyses?
+	- where are they stored?
+		- mind exists, mind is in the brain somehow -> knowledge of language is also in the brain
+		- brain must be involved in learning, knowledge, perception, production, and understanding of language
+	- language-mind-brain connection poorly understood -> spinoff many other fields
+		- psychologists use experiments to study the mind; psycholinguists rely on introspective judgments
+		- psycholinguists rely on measurable, quantifiable, recordable linguistic behavior
+			- speech errors, lexical decision tests (response latency, response accuracy), priming effects (change response or lag via stimulants), timed reading experiments, eye-movement tracking
+- "slip of the tongue" really slip of the mind
+	- sheds light on process of speech production
+	- e.g. trading consonant features, syllable onsets
+	- also "slips of the hand" in ASL
+	- explicable by reference to certain basic constraints
+- linguists interested in determining what speakers know about their language, based on input/output, what is possible
+- psycholinguists focus on dynamic aspects of language in the mind
+	- what processes involved in retrieving, learning, using words
+- neurolinguists study direct connections between language and the brain; new non-invasive experimental methods
 
 ---
 ##### Prelim 1 content

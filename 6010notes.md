@@ -1910,7 +1910,120 @@ ccc: credit card company<br>
 - on the web:
     HAL web assistant, MS Genie incorporated into websites: hear, reason, speak
 - on the phone: Siri, Google Now, MS Cortana: hear, reason, speak
-- Call Wave converts voicemails to email and summarizes the message
+- Call Wave converts voicemail to email and summarizes the message
+
+# Technology and Society
+- technology aims to change society
+- science aims to explain it
+- technology designers are invariably short-term oriented
+    - trying to solve immediate problem
+    - unintended long-term consequences
+- agriculture led to population explosion because of abundance of food
+    - led to settlement and land ownership, and consequently separation of labor and capital
+- printing press destroyed the power of the church in Europe as an intermediary between god and people
+    - print Bible, people no longer reliant on ministers and church, bypassed intermediary
+- electricity destroyed women's specialization as homemakers and pushed them into professions
+    - automate housework (electronic appliances)
+
+## Unintended and Undesirable Consequences
+- unintended consequences often undesirable
+    - pollution, arms race, social isolation of modern life
+- some argue that there is no such thing as undesirable consequences
+    - if undesirable, people will not adopt it; claim to be merely providing more options
+    - **wrong** - 3 reasons:
+    - can't predict the consequences
+        - too late by the time you experience it (e.g. global warming)
+    - negative externalities
+        - you benefit, others pay the price
+        - everyone is worse off, because cooperative coordination is difficult
+        - e.g. spam mail, environmental pollution, Braess Paradox
+    - there are huge short term benefits, so you can't refuse to adopt, despite long term problems
+        - if you don't adopt the technology, your competitor will and drive you out of business
+        - weapons systems, cheaper energy sources, automobile, agriculture, domestication of animals
+    - even if a technology doesn't have major short term advantages, producers have the incentive to make their technology indispensable
+        - enough market power, or get government on their side
+        - create an short-term advantage and force adoption
+        - automobile industry pressured the government to build highways and suburbs; subsidize the development of suburbs and home ownership, which pressured the public to adopt the automobile technology
+
+## Managing Disruption
+- you can manage the disruption if you can predict it (difficult)
+- disruption comes in 3 stages, so it requires ongoing effort to manage
+1. Substitution
+    - the old technology is directly replaced with the new
+    - do the same things but differently
+2. Diffusion
+    - tasks that rely on the new technology become more dominant/frequent
+    - you do more of some things and less of other things (because they became easier to do)
+3. Restructuring
+    - create completely new structures to take advantage of the new technology
+    - do entirely new things
+<br>
+Example: automobile<br>
+1. substitution: replace horses & buggys
+2. diffusion: travel more (at the expense of other activities)
+    - writing letters, reading books, working on garden
+    - some of the replaced activities are difficult to predict
+3. restructuring
+    - malls, highway systems, supermarkets, nuclear families created to take advantage of automobile technology
+    - 100 years ago, average woman in US had 3 children; now 1.8
+    - for the first time in 2015, more single adults than married in the US
+    - primarily to take advantage of the professional mobility created by transportation technologies
+<br>
+- the three stages require time-dependent analysis and allows predicting the future since these three stages often arrive sequentially
+- 1960s predicted we would have personal hovercrafts, custom-designed children by 2010s, but nothing about computers and communication
+
+### Information Technology
+- substitution
+    - clerical, bookkeeping, and transaction processing work replaced by IT
+- diffusion
+    - do we use more information
+    - **internally**: production of more reports and more variety of reports
+        - Executive Information Systems: customized, dynamic, real-time, drill-down reports for executives to make decisions (with graphics)
+    - **externally**: competition on the basis of information
+        - customization of products
+        - price discrimination
+        - demand information reduces inventory in retail
+        - logistics information reduces idle time in supply chain
+        - customer information and customization reduces customer effort to use the product
+- restructuring
+    - hierarchy: policy decisions, middle management, action and information generation
+        - middle management crumbles
+    - collect information, summarize, aggregate, filter
+        - breaking up policy decisions into components
+        - not yet completely automated (currently flatter organizations)
+    - receive decisions, elaborate, analyze, divide into components
+    - difficult
+        - important to take full advantage of technologies (Business Process Reengineering)
+        - comes after long delays; sometimes doesn't even happen (because it involves changing your business models and business objectives)
+- Xerox PARC: PC, mouse, laser printer, word processing, client/server architecture, GUI
+    - could not link these technologies to their existing business objectives, which was document copying
+    - "what can we do with this technology in our business" - no technology-strategy fit
+    - next question: "how can we change our business objectives to take advantage of this technology"
+        - restructuring was too radical and too risky, especially if you are already successful
+- Gunpowder by China
+    - fit perfectly into European warfare; too radical of a change for Chinese society
+- restructuring for IT not complete/has not even started
+    - takes a long time to get started, and even longer to complete
+    - social structures are resistant to change; change is risky, and side effects are not predictable
+- grocery deliver from supermarkets to suburbs is not doing well - supermarkets and suburbs were designed for previous technologies like the automobile
+    - what would be the new structure if you redesign supermarkets to take advantage of IT?
+
+#### Feasible Scenarios: Lifestyle
+- less travel because of networking, not just fuel efficient cars and planes
+- smaller communities, because large metropolitan areas were designed for people to be near major industrial and commercial centers, and to commute to work
+- if you are not commuting to work, smaller communities may be more natural and more healthy
+- village of few thousand people, living in huge high-rise buildings, surrounded by vast open green spaces
+- high rise housing is more efficient for delivery of food, water, electricity, heat, and internet
+    - suburban lifestyle is left over from an agricultural past when people got their food and energy from land, instead of having it delivered
+    - density is higher, but congestion is not felt
+    - transportation less horizontal and more vertical, since it is more efficient and shorter
+    - shopping with self-service stores and automated payment systems
+- small institutions like families are likely to get larger with communal living, communal child rearing because it is more efficient if you are not constantly moving
+    -a new family structure is likely to change the rituals of love, sex, marriage, and family
+- large institutions are likely to break down into smaller components that can be aggregated on demand as in virtual organizations
+    - likely targets of virtualization are governments, businesses, universities, military, and churches
+- technologies can have drastic impact on social structures
+    - large scale restructuring creates huge business opportunities
 
 ---
 ### A0 CTB
@@ -1951,6 +2064,10 @@ security: public/private keys; encrypted email, cookies; privacy & security
 payment systems: create and process electronic checks; acquire and spend Bitcoin/Ripple; payment system concepts
 scripts, ASPs, Web Services: simple computations, ASPs, computational software
 
+### A5
+- many intelligent agents
+- speech and language agents both for written and spoken language
+
 ---
 - market share vs market size
     - when to outsource complexity
@@ -1961,3 +2078,8 @@ scripts, ASPs, Web Services: simple computations, ASPs, computational software
 - network effects + switching costs -> monopoly and 1st-mover advantages
 - price discrimination between light and heavy users, (software rental)
 - animation over videos: animations are client scripts/videos are run on the server -> lighter load on network
+
+- **blind exchange**?
+- bypassing intermediary
+- Braess Paradox
+- EIS

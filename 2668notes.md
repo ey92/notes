@@ -1962,7 +1962,8 @@ first to have spells written inside of burial chamber
 - only Amenhotep II and Tutankhamun found in their own tombs
 - much movement beginning at end of D18
 
-## Ahmose 1570-1546
+## Dynasty 18 
+### Ahmose 1570-1546
 - directly related to D17
 - expelled Hyksos ~ 1550 from Avaris
 - founded D18 and re-consolidated the state
@@ -1980,14 +1981,14 @@ first to have spells written inside of burial chamber
     - weather report or pretext for rebuilding temples? (allegory for problems during SIP)
     - UChicago wants to tie to THera eruption, ~1615 BC & re-date NK earlier with more literal reading of Tempest Stele
 
-## Amenhotep I 1551-1524
+### Amenhotep I 1551-1524
 - popular name for D18 "Amun is satisfied"
 - ascends to throne young, co-reigns with and continues father's works
 - worshiped with mother Ahmose-Nefertari at Deir el-Medina (established city)
     - Deir el-Medina one of few NK town sites, established on west bank to build and decorate royal tombs in Valley ofthe Kings
 - alabaster bark shrine at Karnak, in the style of Senusret I's 'White Chapel'
 
-### Deir el-Medina
+#### Deir el-Medina
 - just off the floodplain & in the shadow of Western Desert cliffs
 - across the river from Luxor
 - 50 x 130 m (relatively small)
@@ -2008,7 +2009,7 @@ first to have spells written inside of burial chamber
 - town lasts & inherited by generations of same families of tomb workers until about 1070 D20, end of NK
     - tomb robbery papyri from D20
 
-## Thutmose I 1524-1518
+### Thutmose I 1524-1518
 - popular name for D18 "born of Thoth"
     - magic, intellect, wisdom
 - married into royal family
@@ -2036,7 +2037,7 @@ first to have spells written inside of burial chamber
         - moved here by Thutmose III, who didn't want Hatshepsut next to his grandfather
         - mummy eventually found in 1881 cache of 40 TT320 (moved again 11th c.)
 
-### Nubian campaigns to 4th cataract
+#### Nubian campaigns to 4th cataract
 - ended Kush kingdom, established souther border at Kerma, with Egyptian governors
 - tomb inscription, near Kerma
     - "there is not a single one of them left. the Nubian bowmen have fallen to the slaughter"
@@ -2047,7 +2048,7 @@ first to have spells written inside of burial chamber
     - took Kerman chief strapped to bow of his boat
         - brought young daughter Hatshepsut along journey
 
-## Thutmose II 1518-1504
+### Thutmose II 1518-1504
 - short reign
 - married half-sister Hatshepsut for legitimacy
 - explicitly names son Thutmose III as successor early in reign
@@ -2060,7 +2061,7 @@ first to have spells written inside of burial chamber
         - claims to have taken what Amun-Ra put before her - pious opportunist
     - Thutmose III is recognized by many people as the legitimate king
 
-## Hatshepsut 1504/1498-1483
+### Hatshepsut 1504/1498-1483
 - co-reigned with stepson Thutmose III for 20 yrs
 - develop image via monuments within country
 - peaceful resource extraction/trade as opposed to conquest
@@ -2110,7 +2111,7 @@ first to have spells written inside of burial chamber
         - other is unidentified & missing tooth
             - claim missing tooth was in a box with her name on it; questionable
 
-### Deir el-Bahri
+#### Deir el-Bahri
 - funerary complex _djeser-djeseru_ "holy of holies"
 - influenced by Mentuhotep II's complex just south, based on _saff_ tombs begun in D11
 - 3-level saff tomb with 2 courts
@@ -2144,7 +2145,7 @@ first to have spells written inside of burial chamber
     - port of departure, ship storage facility
     - Cheryl Ward nautical archaeologis 2008 built working full-size replica
 
-## Thutmose III 1504/1483-1450
+### Thutmose III 1504/1483-1450
 - 20 years on sidelines as Hatshepsut's stepson
 - 17+ years of campaigns in Syria-Palestine
     - maintaining, expanding empire
@@ -2155,13 +2156,13 @@ first to have spells written inside of burial chamber
 - Karnak Pylon 7
     - controlling the cosmos, maintaining ma'at and suppressing isfet
 
-### Karnak Amun-Ra temple
+#### Karnak Amun-Ra temple
 - _Annals_ yearly records at core of temple
 - lists of booty, defeated foes, on Asian campaigns (pic)
     - images of Asiatics with names of defeated towns
 - campaigns enriching Amun priesthood and temples as much as the palace
 
-### Siege of Megiddo (Israel) in Annals, yr 23
+#### Siege of Megiddo (Israel) in Annals, yr 23
 - Thutmose as Horus goes against advisors' caution and takes bolder action for Amun-Ra, his father
     - becomes a common NK motif: surrounded by inferior men
 - site remembered in New Testament for huge conflict and stage (H)Armageddon (end of the world)
@@ -2173,14 +2174,14 @@ first to have spells written inside of burial chamber
     - soldiers blamed for delayed victory - begin plundering before fight is over
 - governor is appointed
 
-### Economics
+#### Economics
 - 900 chariots and 2000 horses taken at Megiddo (_Annals_)
 - yearly tribute from vassals even more lucrative: all production is taxed
 - Mitannian overlordship threatened access to imports - tin routes and cedar
 - children of vanquished taken to Egypt for re-education
 - Tomb of Menkheperreseneb: Syrians bring gifts to Thutmose III
 
-### Syro-Canaanite influence
+#### Syro-Canaanite influence
 - Canaanites goods, ideas, genes entering Egypt
 - Thutmose III took 3 foreign wives, 2 with Canaanite names (soldiers took foreign wives too)
     - had some benefits of Egyptian royal wife
@@ -2188,7 +2189,7 @@ first to have spells written inside of burial chamber
 - Mitannian glass, core-formed, becomes Egyptian industry
     - earliest in history
 
-### Tomb
+#### Tomb
 - KV 34
 - earliest tomb in Valley of Kings with preserved wall decorations
 - cartouche-shaped chamber similar to Thutmose I's
@@ -2203,7 +2204,7 @@ first to have spells written inside of burial chamber
         - Thutmose III suckled by Queen Iset(Isis) as Sycamore
         - 12th hour scene
 
-## Amenhotep II 1453-1419
+### Amenhotep II 1453-1419
 - brief co-regency with Thutmose III
 - continues defacing Hatshepsut monuments
 - brutal campaigns in Canaan and Nubia
@@ -2217,13 +2218,13 @@ first to have spells written inside of burial chamber
     - painted blue glass busts
     - cobalt blue glass used all over eastern Mediterranean by 14th c
 
-### Memphis Stele
+#### Memphis Stele
 - message for Egyptians: Syrian, Hittite, Babylonians bearing gifts, asking for "breath of life"
 - reality: parity treaties more likely, in language of brotherhood rather than domination
 - Ma'at maintenance demands dominance messaging
 - 14th c. Armana Letters show diplomatic, brotherly relations
 
-### Tomb
+#### Tomb
 - KV 35
 - site of 14-mummy cache 1898
     - bow in sarcophagus (but soon lost)
@@ -2236,7 +2237,7 @@ first to have spells written inside of burial chamber
     - red granite sarcophagus
 - tomb passageway: trap for tomb robbers - fall and can't get out
 
-## Thutmose IV 1419-1386
+### Thutmose IV 1419-1386
 - lots of monuments, active reign
 - Dream/Sphinx Stele
     - placed between paws of the sphinx
@@ -2245,6 +2246,79 @@ first to have spells written inside of burial chamber
     - sphinx gives him kingship for clearing the sand
     - sphinx is already important monument during NK
         - various offerings
+    - Greek for _shesep-ankh (Atum)_ - 'living image (of Atum)'
+    - Khafra, Amenemhet iII, Hatshepsut portrayed as sphinxes, combining the human and the terrible, in a powerful, protecting spirit
+    - named sphinx - _Horem-akhety-Khepri-Ra Atum_ (concatenation of gods)
+        - "Horus of the (western) horizon"
+        - Khepri-Ra - scarab beetle who moves sun around the heavens
+        - Atum
+- tomb KV 43
+    - painting shows Thutmose IV receiving life from old Heliopolitan gods: Osiris, Isis, Anubis, Hathor
+    - return to previous painting style, but not sculpted, less permanent
+
+### Internationalism and Social Change in D18
+- militaristic themes of Thutmose III and Amenhotep II
+    - contrast with officials' concerns with wealth, prestige, exotica, ease, privilege
+    - seen especially in private tombs of Kenamun, Menkheperreseneb, Sobekhotep, Rekhmire, and other high officials
+- Thutmose IV promotes/favors scribal bureaucrats over military officers, shifting emphasis from military to scribes
+- some satire in officials' tombs about military
+    - tomb of Rekhmire, vizier of Thutmose III, Amenhotep II
+        - many paintings on wealth, emphasizing benefits of trade and not military
+        - Aegean tributes, Syrians metal ingots, Nubians exotic animals, ebony, giraffes, workshops, music
+    - tomb of Ipy
+        - tribute bearers with animal skins
+    - tomb of Sobekhotep
+        - more metal & copper ingots, rings of gold, ivory "ingot"
+    - tomb of Kenamun
+        - Syrian maritime merchants come to Egypt, Amenhotep III
+        - display connections to wealth and exotica more than military accomplishments, which seem to be prominent indication of status
+    - tomb of Nakht (Amenhotep III)
+        - winery and fowling
+    - tomb of Sennefer (Amenhotep II)
+        - shade under arbor vine
+        - harvesting wheat and stowing grain
+    - tomb of Nebamun (Amenhotep II)
+        - vineyard cellar, sealed jars, garden
+        - musicians, dance, lotus flower unguent, wine
+        - unusual frontal view of musicians
+    - tomb of Menna (Thutmose IV)
+        - fish ponds
+- only royal tombs have depictions of gods on wall paintings
+
+### Amenhotep III 1386-1349
+- 38 years of peace and prosperity, prelude to "Armana Age"
+- emphasis on internationalism
+- referred to himself as a sun-god "the dazzling Aten"
+    - theological reform or anti-Amun policies?
+- statuary in dual crown, _khepresh_, solar uraei headdress
+- unparalleled colossal scale to monumental architecture
+- largest royal temple in Egypt at Kom el-Hatan in Western Thebes
+    - guarded by the 'Colossi of Memnon' - twin statues of Amenhotep III (only remaining structure)
+    - only foundation remains
+    - featured large, "solar courtyard" open to emphasize connection to Aten
+    - Greek travelers identified statues with heroic king Memnon, son of Eos
+    - temple raided for construction material by later Karnak, Luxor builders
+    - poorly preserved huge palace and artificial lake nearby
+    - many colossal statue fragments buried in the sand and mud
+    - new colossi restored at North gate, looted statue found 2015 in house in Edfu
+    - Sekhmet - leonine manifestation of Hathor and goddess of intoxication
+- poorly preserved mudbrick palace and man-made lake at Malkata, west of temple
+    - Aegean-style decoration
+    - why is it on the west bank? - realm of the dead, not the living
+    - not in Memphis (supposed capital)
+    - extremely large artificial mounds to the southeast for 2 km, next to the artificial lake
+        - one of the largest civil engineering projects
+        - large commemorative scarab of Amenhotep III describes lake built for Queen Tiye, with sailing boat from the Armana period
+            - 3700 cubits x 700 cubits, opening day, royal barge called Aten-nefru
+
+#### Armana Letters
+- married Babylonian and Mitannian princesses in diplomatic marriages
+- started an archive of correspondences
+    - foreign correspondence in Akkadian at son's palace at _Tell el-Amarna_
+    - Akkadian Semitic language written in cuneiform script
+    - foreign kings no longer part of _isfet_ surrounding _ma'at_, but equals and brothers-in-law
+    - **negotiate** for interests as equals
+- list wealth of person addressed and sender
 
 ---
 #### quiz up to 2/16 lecture
