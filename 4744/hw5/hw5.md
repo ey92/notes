@@ -38,25 +38,30 @@ path: `/projects/speech/sys/kaldi/egs/word/ey92/data/train-ey92/truth`
 screenshot: <br>
 ![truth screenshot](https://github.com/ey92/notes/blob/master/4744/hw5/truth.PNG)
 
-### 5
-Unfortunately, I couldn't get Kaldi to read my _wav_ files, even after checking that Audacity was recording mono tracks with 16-bit encoding at 16000Hz and re-recording several times.
+### 5 feats.scp
+Unfortunately, I couldn't get Kaldi to read my _wav_ files, even after checking that Audacity was recording mono tracks with 16-bit encoding at 16000Hz and re-recording several times. <br>
 path: `/projects/speech/sys/kaldi/egs/word/ey92/data/train-ey92/feats.scp`<br>
 screenshot: n/a
 <br>
 
 ### 6
+#### text
 path: `/projects/speech/sys/kaldi/egs/word/ey92/data/train-ey92/text`<br>
 screenshot: <br>
 ![text screenshot](https://github.com/ey92/notes/blob/master/4744/hw5/text.PNG)
-<br>
+
+#### spk2utt
 path: `/projects/speech/sys/kaldi/egs/word/ey92/data/train-ey92/spk2utt`<br>
 screenshot: <br>
 ![spk2utt screenshot](https://github.com/ey92/notes/blob/master/4744/hw5/spk2utt.PNG)
-<br>
+
+#### spk2gender
 path: `/projects/speech/sys/kaldi/egs/word/ey92/data/train-ey92/spk2gender`<br>
 screenshot: <br>
 ![spk2gender screenshot](https://github.com/ey92/notes/blob/master/4744/hw5/spk2gender.PNG)
-<br>
+
+
+#### utt2spk
 path: `/projects/speech/sys/kaldi/egs/word/ey92/data/train-ey92/utt2spk`<br>
 screenshot: <br>
 ![utt2spk screenshot](https://github.com/ey92/notes/blob/master/4744/hw5/utt2spk.PNG)
