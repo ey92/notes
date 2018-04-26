@@ -11,3 +11,7 @@ done
 
 mv ./1101/vocab.md ./1101/1101vocab.md
 mv ./1101/notes.md ./1101/1101notes.md
+
+cp ../4744/hw5/hw5.md ./4744/hw5/hw5.md
+cp ../4744/hw5/prompts.txt ./4744/hw5/prompts.txt
+cp ../4744/hw5/*.PNG ./4744/hw5/
