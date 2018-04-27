@@ -2292,33 +2292,135 @@ first to have spells written inside of burial chamber
     - theological reform or anti-Amun policies?
 - statuary in dual crown, _khepresh_, solar uraei headdress
 - unparalleled colossal scale to monumental architecture
+
+#### Funerary Temple
 - largest royal temple in Egypt at Kom el-Hatan in Western Thebes
-    - guarded by the 'Colossi of Memnon' - twin statues of Amenhotep III (only remaining structure)
-    - only foundation remains
-    - featured large, "solar courtyard" open to emphasize connection to Aten
-    - Greek travelers identified statues with heroic king Memnon, son of Eos
-    - temple raided for construction material by later Karnak, Luxor builders
-    - poorly preserved huge palace and artificial lake nearby
-    - many colossal statue fragments buried in the sand and mud
-    - new colossi restored at North gate, looted statue found 2015 in house in Edfu
-    - Sekhmet - leonine manifestation of Hathor and goddess of intoxication
+- guarded by the 'Colossi of Memnon' - twin statues of Amenhotep III (only remaining structure)
+- only foundation remains
+- featured large, "solar courtyard" open to emphasize connection to Aten
+- Greek travelers identified statues with heroic king Memnon, son of Eos
+- temple raided for construction material by later Karnak, Luxor builders
+- poorly preserved huge palace and artificial lake nearby
+- many colossal statue fragments buried in the sand and mud
+- new colossi restored at North gate, looted statue found 2015 in house in Edfu
+- Sekhmet - leonine manifestation of Hathor and goddess of intoxication
+
+#### Palace
 - poorly preserved mudbrick palace and man-made lake at Malkata, west of temple
-    - Aegean-style decoration
-    - why is it on the west bank? - realm of the dead, not the living
-    - not in Memphis (supposed capital)
-    - extremely large artificial mounds to the southeast for 2 km, next to the artificial lake
-        - one of the largest civil engineering projects
-        - large commemorative scarab of Amenhotep III describes lake built for Queen Tiye, with sailing boat from the Armana period
-            - 3700 cubits x 700 cubits, opening day, royal barge called Aten-nefru
+- Aegean-style decoration
+- why is it on the west bank? - realm of the dead, not the living
+- not in Memphis (supposed capital)
+- extremely large artificial mounds to the southeast for 2 km, next to the artificial lake
+    - one of the largest civil engineering projects
+    - large commemorative scarab of Amenhotep III describes lake built for Queen Tiye, with sailing boat from the Armana period
+        - 3700 cubits x 700 cubits, opening day, royal barge called Aten-nefru
+
+#### Luxor
+- entirely rebuilt Luxor temple, establishing himself as son of Amun-Ra
+    - still standing
+    - architect Amenhotep, son of Hapu
+    - establish close connection as son of Amun-Ra
+        - potentially saved his legacy from destruction (satisfy priests of Amun-Ra)
+        - receive kingship from Amun-Ra
+        - divine birth (of Amun-Ra and Mutemiwya)
+- Theban triad: Amun, Mut, Khonsu
+    - each had a solar bark
 
 #### Armana Letters
 - married Babylonian and Mitannian princesses in diplomatic marriages
 - started an archive of correspondences
     - foreign correspondence in Akkadian at son's palace at _Tell el-Amarna_
-    - Akkadian Semitic language written in cuneiform script
+    - _Akkadian_ Semitic language written in cuneiform script
     - foreign kings no longer part of _isfet_ surrounding _ma'at_, but equals and brothers-in-law
     - **negotiate** for interests as equals
 - list wealth of person addressed and sender
+- reveals displeasure, surprise
+    - interaction as peers among "great" kings; honesty
+    - royals are above the laws/customs
+    - diplomatic marriages
+    - Egypt uses its superior resources of gold to their advantage
+- Assyrian king accuses Akhenaten of forcing his men to stand in the sun
+    - how foreign kings viewed Atenism
+
+### Egyptian Heretics: 1350-1325, 2011
+- Akhenaten, Semenkhare, Nefertiti, Tutankhaten left out of Abydos list
+- victims of de-memorization
+    - image and text purging
+
+#### Steps to heretical monotheism without syncretism*
+- joining of belief systems
+- D4: Ra names, son of Ra title, Ra-Horakty
+- D5: sun temples
+- OK-MK: Ra fuses with Horus and Amun
+- D18: obelisks
+- Amenhotep III: "the dazzling Aten"
+- Amenhotep IV: "the son of the Aten", starts closing old temples, worship via the royal family
+- abandoning Osiris, Horus, Amun, etc al.
+
+### Amenhotep IV/Akhenaten 1350-1334
+- starts at Malkata palace of Amenhotep III
+- new eastern Karnak temple dedicated to Aten
+    - separate from complex to Amun
+    - temple destroyed
+    - remaining block shows Akhenaten offering duck to Aten
+- construction at Karnak and Akhenaten/Armana, Donald Redford
+    - used _Talatat_ blocks (small enough for one person)
+    - fast construction and destruction
+    - Horemheb used them to fill pylons for Karnak
+    - reconstruct at Luxor Museum
+        - computers used by Redford to virtually connect the thousands of blocks and imagery from destroyed temple
+
+### Armana
+- year 5
+    - Amenhotep IV starts building new city _Akhet-Aten_ "horizon of Aten"
+        - across Nile from Hermopolis
+        - empty site
+        - build royal cemetery, military area
+    - change name Amenhotep IV to Akhenaten
+- year 9
+    - move to Akhet-Aten, new capital
+    - upsets priests and bureaucrats in Memphis
+- excavations
+    - identified 1885 on tablets at Tell el-Armana
+    - Germans found Nefertiti bust 1911-1914
+    - Egyptian Exploration Society (English-Egyptian), 1921-1936
+    - 1977-present under Barry Kemp
+        - build digital GPS-GIS mapping of 440 ha area
+        - structure excavation
+        - building conservation
+        - bioarchaeology - bone studies
+- 14 boundary stelae carved into bedrock
+    - mapped out by command of Aten
+- center
+    - complex neighborhood of temples, palace, offices, baracks, harem
+    - "King's Bridge" with "window of appearances" - appear with wife and family during public festivals
+- extremely open temples
+- reconstructions based on tombs of officials, who outlived royal family
+    - large redistribution of wealth
+    - tomb paintings comparable to Narmer Palette - reconstruct how society functioned
+    - buried at West Thebes
+    - tomb of Perennefer, Thebes
+        - "window of appearances"
+- inhabited for ~25 years by ~45,000 people
+    - in contrast from Deir el-Medina, inhabited for 500 yrs, 100+ families
+    - house of chariotry officer, Ranefer: much bigger and nicer houses, own grain silos
+        - textiles & colors
+    - house of sculptor Thutmose
+        - also own grain silos, next to well (ground water)
+
+#### Aten Reforms
+- "effective for Aten"
+- unconventional art style
+    - depictions of family & harem life (humanistic, individualistic)
+    - intimate scenes, with daughters at play
+    - body irregularities, opposite of OK perfection
+    - private tombs show royal family only under the rays of Aten
+- unusual role of the queen Nefertiti, equal size, smiting enemies
+    - queen may have been equal co-ruler, or sole ruler
+- Theban nobles' tombs
+    - cult of Osiris and divine judgment replaced by loyalty to Akhenaten as pathway to eternity
+- unlike typical NK temples, Aten temples maximized incoming light with open courts and clerestory architecture, which outlasted Armana
+
 
 ---
 #### quiz up to 2/16 lecture

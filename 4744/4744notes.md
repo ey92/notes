@@ -674,7 +674,7 @@ conf input local path.sh run.sh steps utils
     - called "feature transform"
         - velocity and acceleration (delta transform) of changes
         - adjacent features (sliding window)
-    - 11 probability dimesion
+    - 11 probability dimension
 - `ali.l.gz`
     - alignment
     - `ali.1` alignment between utterance and phone
@@ -689,6 +689,38 @@ conf input local path.sh run.sh steps utils
 1. bounding recursion
     - push-down transducer
 
+## End-to-End System
+`make-graph.sh`
+- makes G in HCLG.fst & assemble fst
+
+### HCLG.fst
+- H
+    - upper side: sequence of IDs of probability density functions
+    - lower side: word sequences
+- C: not using
+- lexicon L
+    - lower: phone sequences
+    - upper: word sequences
+    - lowercase
+    - B1: 103, B2: 104, B3: 105
+- G
+    - not a transducer
+    - set of word sequences
+
+### Decoding
+- given graph, find sentence with optimal weights
+
+`steps/decode.sh --nj 1 cmd run.pl exp/mono_word/graph_word data/train-ey92 exp/mono_word/decode_word`
+- decoding results
+    - path: `exp/mono_word/decode_word2`
+
+- success: good word error rate
+- need a semantic grammar in addition to syntactic grammar
+
+- speech recognizer takes a tree, returns a string
+
+- hw6: everyone should have their own
+    - lang_word folder
 
 ---
 final project (can change your mind)

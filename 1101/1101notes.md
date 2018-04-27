@@ -1218,8 +1218,12 @@ Greenberg found:
 	- hierarchical
 		- features combine for phonemes -> syllables -> feet, etc
 	- compositional
-	- modular
+	- modular & autonomy
 		- syntax, semantics, phonology
+		- nouns and verbs, function and content words, phonological/semantic/syntactic components etc
+			- potentially as a result of the brain's modularity?
+			- not all parts of the brain are equipotential
+			- devoted to individual functions, but not necessarily language
 	- productive
 		- build indeterminately large sentences by combining words & meanings in process (recursion)
 - explain rules, modules, categories, features
@@ -1240,6 +1244,94 @@ Greenberg found:
 - psycholinguists focus on dynamic aspects of language in the mind
 	- what processes involved in retrieving, learning, using words
 - neurolinguists study direct connections between language and the brain; new non-invasive experimental methods
+
+
+# Neurolinguistics
+- **cerebrum**: left/right hemispheres separated by median longitudinal fissure
+	- joined by **corpus callosum**
+	- outer layer: **cerebral cortex** (**cerebellum** underneath)
+	- cerebral cortex has convolutions/gyri, and fissures/sulci
+	- some fissures divide into lobes (frontal, temporal parietal, occipital)
+	- each hemisphere controls movement, receives input from opposite side of the body
+
+## Hemispheres
+- two hemispheres are different with respect to function
+- certain cognitive functions, including linguistic ones are resident more in one hemisphere than the other
+- right hemisphere:
+	- perception, matching global patterns, part-whole relationships, spatial orientation, creative sensibility, musical patterns, emotional expression, recognition
+	- discern intonation, emotion, pragmatics, metaphor (indirect, figurative, humorous)
+	- damaged -> speak in monotone, trouble with antonyms
+- left hemisphere
+	- analysis, categorization, calculations, logical organization, information sequencing
+	- active when speaking, writing ,reading
+	- area of processing for most people (e.g. syntax, phonology)
+<br>
+- lateralization switched for 1/3 of left-handers
+	- most (70%) have dominant left hemisphere, but 15% have dominant right hemisphere, 15% bilateral
+	- women tend toward symmetrical/bilateral dominance
+- dichotic listening experiments
+	- different word played in each ear, see which is more accurately reported
+
+### split brain phenomena
+- separation at corpus callosum (usually effective treatment for epilepsy with less effect on cognition)
+- no changes in personality, intellect, or everyday behavior
+- integration deficits
+- right brain perceive object in left visual field and distinguish from other objects, but can't be relayed for linguistic analysis or speech
+- **fMRI** (functional magnetic resonance imaging)
+	- test which areas of brain activated when during specific tasks
+	- oxygenated blood vs non-oxygenated blood: increase flow of oxygenated blood to areas of brain requiring energy
+	- detected by fMRI as _biological oxygen level dependent (BOLD)_ image/signal
+- reading shows hemispheric asymmetries
+	- e.g. Japanese: kanji right brain, kana left brain
+
+### Brain Regions
+- understanding limited to studies of _aphasia_ (brain injury)
+- examine people with damage to specific parts of the brain
+- **Broca's Area** - Broca's Aphasia to front part of left hemisphere (Broca's Area) results in:
+	- poor articulation
+	- telegraphic speech
+	- lack of fluency
+	- omission of functional words and grammatical morphemes
+- **Wernicke's Area** - Wernicke's Aphasia
+	- speak fluently with good intonation and pronunciation
+	- utterances have little semantic content
+	- comprehension problems, separation of syntax and semantics
+	- difficulty understanding speech (not a problem for Broca's patients)
+- syntax & semantics assembled in Wernicke's Area, basic structure translated into orders for speech act (function words, phonology, inflectional morphology) in Broca's area, goes somewhere else for pronunciation
+- **Wernicke-Geschwind Model**
+	- cognition
+	- Wernicke's Area
+	- Broca's Area
+	- facial area of motor cortex
+	- cranial nerves
+	- speaks
+- listening: ear -> auditory cortex -> Wernicke's Area for interpretation
+- reading aloud: signal to visual cortex in occipital lobe
+- Broca's area not used for listening/hearing, just speech production
+- patients with similar lesions an still talk, patients with lesions elsewhere suffer aphasia, etc.
+- brain not a case of equipotentiality (specific parts of brain for interpretation)
+- other types of aphaisa
+- other language-related disorders
+	- dyslexia, dysgraphia
+- what to learn from aphasia about language
+	- Blumstein (1982): 
+	- __
+	- function words and content words
+		- loss of definite article does not imply loss of concept of definiteness
+	- grammatical abilites not just a function of conceptual and cognitive abilities
+
+## Brain Development
+- recovery possibilities from brain damage have been used as evidence of a critical age
+- after a critical age, neural plasticity lost
+- ?
+- after 10 or 11, injury to left hemisphere can result in permanent disabilities of speech or language
+	- right hemisphere is no longer able to take over these functions
+
+## Language Evolution
+- if language is genetic/biological trait & largely inborn, how did it evolve
+- previously thought to be cultural invention
+- biological trait of species: think about language in evolutionary terms
+- Ray Jackendoff:
 
 ---
 ##### Prelim 1 content
