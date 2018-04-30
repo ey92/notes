@@ -2025,8 +2025,145 @@ Example: automobile<br>
 - technologies can have drastic impact on social structures
     - large scale restructuring creates huge business opportunities
 
-# Guest Lecture: & Symbiont Blockchain
+# Guest Lecture: Ron Papanek Symbiont & Blockchain: The Future of Finance
+Peer-to-Peer smart contracts
 
+## Trading
+- trading automated with servers
+    - traders gone, but back office is still done by people with fax machines (~25M)
+    - backend most impacted by blockchain
+- computer tech over the years
+    - mainframe (1950, decentralized), PC, cloud (~2000), blockchain
+    - each shift represents unique change, but initial models much slower and less powerful than previous technology
+    - at least one advantage that made the change worth it
+        - PC: proto-excel
+        - cloud: new CRM cloud infrastructure
+        - blockchain: decentralization (not there yet), share information peer-to-peer without central management; everyone keeps updated network
+- JP Morgan better rating -> swaps could be sold for worse prices bc of stronger rating
+
+## Blockchain
+- most technology: difficult to understand, simple to use
+- blockchain: difficult to use as well as understand
+- perspectives
+| POV | technology | use case |
+| --- | ---------- | ---------------- |
+| technologist | database |
+| businessperson | asset | with ownership, titled to property |
+| lawyer | evidence | indisputable facts & who did what |
+
+- Delaware changed rules to allow use of blockchain in incorporation
+- can be used to collect evidence efficiently about who did what & when, cannot be disputed
+- different use cases lead to different opportunities
+- **blockchain**: database which is distributed, immutable, and cryptographically signed
+    - agree on facts, as well as what happens under predefined conditions
+- **smart contract**: distributed self-executing code
+    - store rules & legal contract in a format that will automatically execute any processes associated with ownership
+- traditional database model (_centralized_):
+    - one party manages the data, and anyone can login and access the data
+    - cannot dispute correctness with the centralized version (finality)
+- blockchain (_decentralized_):
+    - everyone has the "correct" record
+    - every node is a primary record
+    - each node can offer "accounts" (act as a centralized network on their own)
+        - can't go control and change information, because information can be accessed by anyone on the network
+    - opportunity: what can be done now that could never be done before
+        - if it's worth doing, it's worth doing badly
+- _business problem_: multiple entities need to 
+    - share data and logic 
+    - with a single source of truth 
+    - with no central authority
+- blockchain provides trust
+    - within national issues, people trust the government, but with international issues, there is no unbiased 3rd party
+    - control your data, instead of trusting a company to manage it; only release to peers you trust
+
+## Technological Challenge
+- Privacy, Consensus, Performance
+- current technology only allows 2 of 3 atm
+
+### Consensus
+**Public Blockchain**: anyone can join the network and participate in the consensus
+- proof of work
+- proof of stake
+
+**Permissioned Blockchain**: all members are known and invited to join the network
+- crash fault tolerant
+    - if one crashes, just rebuild from another node's copy
+- byzantine fault tolerant
+    - if data is wrong, rather than missing
+    - byzantine fault process to agree
+        - requires excess of 2/3 of nodes to be valid (1 fault - 4 nodes)   
+        - time-consuming, but important
+
+### Privacy
+- confidentiality (sender & content) & anonymity (recipient)
+- cryptography primitives
+    - one-way function
+    - symmetric key encryption
+    - public key encryption
+- anonymity: ring signature
+- confidentiality:
+    - confidential transactions
+    - range proofs
+    - homographic encryption
+
+### Performance
+- keep data integrity & privacy within performance constraints
+
+### Current Blockchains
+- public blockchains:
+    - bitcoin
+    - ethereum
+    - monero (ony public blockchain with privacy)
+    - cardano
+- permissioned blockchains:
+    - hyperledger*
+    - corda*
+    - quorum (JPM privatized ethereum model)*
+    - digital asset
+    - symbiont
+    - axoni
+- financial instruments
+    - in order to achieve privacy, uneven access
+    - some nodes see more information than others; _notary node_
+    - not truly distributed equally
+    - however, permissions can be revoked; notary nodes not essential to infrastructure
+
+### Decentralized Data Platform
+- vanguard model
+- data consumer & data provider
+- multiple data providers
+    - each party updates data in real time
+    - not blockchain
+    - vanguard controls all data provider nodes
+    - open network to data consumers/competitors
+    - ~market data platform, where Bloomberg controls the platform
+    - in this network, no one entity controls the data
+- analytics provider node
+    - operational efficiency
+    - trust outside party to provide data
+        - linked to a trusted data source, integrated into network
+- data storage is trivially cheap, but encryption may pose a challenge
+
+### Financial Instrument Issuance
+- origination
+    - documentation
+    - terms and conditions
+- primary distribution
+    - auction
+    -indications of interest
+- lifecycle management
+    - coupon or dividend payment
+    - revolver draw
+    - voting/amendments
+    - vesting
+- secondary market transactions
+    - conditional transfers - ROFR
+- simplify management of financial instruments
+
+## benefits
+- trust problem
+- operational efficiencies
+- rather than having lawyers argue over language articulation and interpretation, can run simulations with encoded smart contracts and observe potential outcome from various parameters/inputs
 
 ---
 ### A0 CTB
