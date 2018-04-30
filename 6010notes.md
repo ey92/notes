@@ -2025,6 +2025,9 @@ Example: automobile<br>
 - technologies can have drastic impact on social structures
     - large scale restructuring creates huge business opportunities
 
+# Guest Lecture: & Symbiont Blockchain
+
+
 ---
 ### A0 CTB
 - products: bagel-based meals, fresh desserts, drinks
@@ -2083,3 +2086,19 @@ scripts, ASPs, Web Services: simple computations, ASPs, computational software
 - bypassing intermediary
 - Braess Paradox
 - EIS
+
+
+The entire network itself is a hypothetical expert system, containing all of the knowledge needed to diagnose a patient. Each node is in one of 4 classes of patient-related variables, indicating either patient characteristics (e.g.height, weight, history of diseases, smoker, etc.), symptoms (e.g.coughing, Xray, dyspnea, etc.), potential diseases (e.g.influenza, bronchitis, or cancer), or logical nodes. The logical nodes connect diseases with symptoms to contribute to the probabilities of each disease based on the results of visible or tested symptoms. Patient characteristics and symptoms are given marginal probabilities of being true (based on data) and can be set to 0 or 1 upon confirmation with the patient. The logical nodes condition likelihood probabilities based on the presence of these symptoms and patient background information to build a model on what is the most likely diagnosis. These probabilities can be chained and summarized in the conditional probability tables associated with each disease However, a caveat to this would be the fact that a model like this is built on accumulated data of previous patients and doesn't have an actual medical basis for its diagnoses; it doesn't have any concept of certain characteristics of a diseases causing specific symptoms. All of these probabilities are just that - probabilities conditioned on the provided data to follow a predetermined model.
+    - 4 classes
+    - patient char
+        - marginal probability of state being true
+    - diseases
+        - conditional probability based on char
+    - logical node
+        - conditional probability of disease based on patient char and diseases
+    - symptoms
+- graph structure = qualitative structure of domain knowledge
+- arcs = probabilistic relationship between nodes
+- quantitative = conditional probability tables (CPT), associated with each node
+- states of node: true or false
+

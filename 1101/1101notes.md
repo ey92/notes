@@ -1318,7 +1318,7 @@ Greenberg found:
 	- __
 	- function words and content words
 		- loss of definite article does not imply loss of concept of definiteness
-	- grammatical abilites not just a function of conceptual and cognitive abilities
+	- grammatical abilities not just a function of conceptual and cognitive abilities
 
 ## Brain Development
 - recovery possibilities from brain damage have been used as evidence of a critical age
@@ -1332,6 +1332,42 @@ Greenberg found:
 - previously thought to be cultural invention
 - biological trait of species: think about language in evolutionary terms
 - Ray Jackendoff:
+
+# Sociolinguistics
+- use of language in society
+- language as a phenomenon of human social interaction
+- language variation
+- use language to reflect social identify in society
+- interpret difference between speeches as evidence for constructing social maps
+- sometimes variation is required
+	- social expectation of what and how to speak in certain contexts
+- **speaker related variation**
+	- variation involves different expectation placed on speakers based on who they are
+- **interlocutor related variation**
+	- variation involves different expectation placed on speakers based on who they are talking to, and whether the context is one requiring social distance or social intimacy
+	- e.g. honorifics, avoidance forms, "mother-in-law" language, secret languages, slang
+- **context related variation**
+	- expectations depend on context
+	- formality of situation (register)
+	- format of language (e.g. written vs spoken, texting)
+	- specialized settings (e.g. profession: jargon)
+- languages differ in degree to which user-related and context-related variation is formalized (grammaticized)
+	- e.g. morpheme choice
+		- gender: Japanese boku vs. watashi
+		- social status: Tamil castes, European you
+			- second person pronouns: tu/vous, tu/Usted, du/Sie, di/chi, thu/sibh, thou/ye
+		- mother-in-law: "avoidance style" pronouns
+		- social group identity: secret language Damin
+			- male Lardil speakers in Australia on initiation into adulthood
+			- only 150 lexical roots: general meanings, used sounds not in Lardil (e.g. clicks), rarely found in other languages
+			- 19 vs 2 pronouns: only language without contrast between 1st/2nd/3rd person
+		- spoken vs written: Literary vs Spoken Welsh - missing pluperfect tense in spoken
+- English
+	- gender: professions (actor vs. actress), 3rd person personal pronoun
+	- relative status: titles (sir, madam, mr, ms)
+	- "secret language": slang, jargon
+- **diglossia** Charles Ferguson 1950
+	- relatively stable language situation where in addition to primary dialect of language, there is a very divergent, highly codified, often grammatically more complex superposed variety, vehicle of large and respected body of written literature, either of another period or another speech community, learned in formal education
 
 ---
 ##### Prelim 1 content
@@ -1380,3 +1416,34 @@ jaf377
 conf.ling.cornell.edu/culc12
 wals.info World Atlas of Language Structures
 ---
+
+##### Final content
+- based on hw
+1. Phonetics
+	- identify articulation of phones
+	- identify English words in IPA
+2. Phonology/ Historical Linguistics
+	- consonant alteration in environments & defend why
+3. Morphology
+	- identify morphemes in non-English sentences & construct a sentence
+4. Syntax
+	- use syntactic tests & identify syntactic structures
+	- constituent order
+5. Language and the Mind/Brain
+	- samples of speech by people suffering from a variety of aphasia
+		- identify what type of aphasia and which areas of brain involved
+	- fMRIs
+	- which hemisphere responsible for which functions
+6. Language Acquisition
+	- what stage of linguistic development the child is at
+		- how can you tell from language produced
+7. Semantics
+	- entailment, presupposition, metonymy, hyponomy, etc..
+8. Pragmatics
+	- conversational maxims
+9. Sociolinguistics
+10. Languages in Contact
+	- e.g. Pidgin languages
+	- phonological, morphological, lexical, syntactic features
+11. Computational Linguistics
+12. Short Answer

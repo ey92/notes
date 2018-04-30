@@ -2369,8 +2369,36 @@ first to have spells written inside of burial chamber
     - Horemheb used them to fill pylons for Karnak
     - reconstruct at Luxor Museum
         - computers used by Redford to virtually connect the thousands of blocks and imagery from destroyed temple
+- idiosyncrasies
+    - "first individual in history" - Freud, Breasted
+    - first monotheist
+    - 'Armana style': exaggeration, grotesque, Frolich's Syndrome?
+    - remains as increased dynamism in Egyptian art
+- as a charismatic king
+    - 'cult of individual'/personality cult, coined by Krushchev 1956 at Stalin, channeling Marx
+        - employ language and image to main charisma of leader
+    - Great Hymn to the Aten
+        - influence on Hebrew Bible? Psalm 104
+        - phrasing: as the sun, light/rays, who causes darkness, lions coming out at night to hunt, man working in daytime, birds in marshes/by water, ships going upstream-downstream/to and fro, giver of breath, provider of all sustenance, how many your deeds/manifold thy works!
+- heresy
+    - local priests and temple personnel via Egypt
+    - Amun priesthood at Thebes
+    - Memphis & Theban administrators
+    - Canaanite vassals ignored (Armana letters)
+    - piety of average person
+    - appetite: starved his people
+    - polytheism and sense of ma'at
+    - cult of Osiris & regeneration
+    - myth of divine king undermined
+- missing mummy
+    - unfinished tomb at Armana
+    - sarcophagus at Armana tomb destroyed, mummy gone
+    - 2010 Hawass et al. sampled 16 mummies KV 55 coffin
+        - male found in coffin for a woman matches as Tutankhamun's father
+        - no identification, no images of male kids
+        - more plausibly Smenkhara as father of Tutankhamun and Akhenaten's successor
 
-### Armana
+#### Armana
 - year 5
     - Amenhotep IV starts building new city _Akhet-Aten_ "horizon of Aten"
         - across Nile from Hermopolis
@@ -2408,6 +2436,14 @@ first to have spells written inside of burial chamber
     - house of sculptor Thutmose
         - also own grain silos, next to well (ground water)
 
+#### Non-Elites
+- hard conditions, poor nutrition, shallow grave
+- osteological studies argue against royal propaganda
+- poor mortality, stunted growth, dental decay in children and adults
+- malaria problem
+- worker's village similar to Deir el-Medina
+- burial from South Tombs Cemetry, Armana
+
 #### Aten Reforms
 - "effective for Aten"
 - unconventional art style
@@ -2420,7 +2456,80 @@ first to have spells written inside of burial chamber
 - Theban nobles' tombs
     - cult of Osiris and divine judgment replaced by loyalty to Akhenaten as pathway to eternity
 - unlike typical NK temples, Aten temples maximized incoming light with open courts and clerestory architecture, which outlasted Armana
+- cult reform not very successful
+    - people still worshipped their favorite gods, even at Armana
+    - Thoth, Bes, Tawaret, Hathor, wadjet-eyes
 
+### Smenkhkara 1336-1334
+- "vigorous Ka of Ra"
+- younger brother of Akhenaten, with former wife of Akhenaten, Mery-Aten, a royal princess
+- effaced image of Smenkhkara and Mery-Aten
+- unprovenanced & uninscribed, either Smenkhkara and Mery-Aten or Tutankhaten and Ankhesenpa-Aten
+    - king on a crutch
+- probably co-reigned with Neferuneferu-Aten-Nefertiti, who also reigned after him
+- KV55 vandalized reliefs and feathered coffin of royal lady with "identity theft" and male mummy
+    - Armana-style tomb relief
+    - DNA shows he is Tutankhamun's father
+    - original sarcophagus may have been given to Tutankhamun
+    - Tutankhamun's middle coffin not like the others, face "matches" reconstructed face of KV 55 skull, Smenkhkara
+
+### Neferneferu-Aten 1336-1329
+- wrongly thought to be Smenkhkara
+- 1998 Gabolde: inscriptions prove she was a woman, and "effective for her husband", Akhenaten, thus Nefertiti
+- from Akhenaten year 5, Nefertiti's full name was Neferneferu-Aten-Nefertiti
+- ruled 7-8 years, lincluding end of Akhenaten, Smenkhkara, and early Tutankhaten
+- explains Nefertiti's pharonic role in imagery
+- Nefertiti smiting; bust in Berlin
+- changing image of Nefertiti
+    - 2009 bust scan
+    - layers of paint and plaster below surface
+    - suggests her image was altered, or revised by Thutmose the sculptor
+
+### Tutankhaten/Tutankhamun 1334-1325
+- maybe 7-9 years old, with Nefertiti ruling
+- minor figure or key witness in great tragedy
+- mother possibly royal lady Kiya
+    - KV 55 coffin and canopic jar lid plausibly hers
+    - no body
+- no parents to co-reign
+    - Nefertiti rules 5 years
+- Ay and Horemheb (Amun loyalists) successively 'help'
+- death
+    - dies in 9th or 10th year - wine jar seals end (1 for each year)
+    - forensics: died late teens
+    - 2005 CT scan: skull fracture - bones healed
+    - 2010 DNA study: complex malaria, bone necrosis (esp hip & leg)
+- restoring ma'at and Amun after Armana
+    - many people moved back to Thebes
+    - old gods restored
+    - visual manifestations of Aten cult destroyed (temples)
+    - renamed to Tutankhamun: mixture of Atenist & Amunist influence
+- restoration stele
+    - portrays destroyed Egypt being restored, in style of FIP pessimistic literature
+    - people abandoned the gods, so the gods abandoned Egypt
+- tomb
+    - 5398 items stuffed haphazardly into small tomb
+    - many items not even Tutankhamun's
+    - robbers after gold items, left wooden and burial alone
+        - in a hurry, trying to remain inconspicuous
+        - wooden objects untouched, even gilded chariot
+    - missed much inside sarcophagi, coffins
+    - golden rings with throne and birth names on rings on mummy (not robbed)
+    - holding legacies of D18: enormous wealth, dynastic and cultic crises
+    - jewelry on mummy, much of it prophylactic magic, with throne name
+    - Neb-kheperu-Ra "Ra is Lord of manifestations"
+- tragic ending to D18
+    - wife Ankhesen-Amun asks Hittites for a husband to help rule
+        - Shippiluliuma sent prince, killed en route
+        - trouble with Hittites follows in Syria
+        - stillborn children also in tomb
+        - imagery on throne still includes Aten at time of burial, despite name-changes
+
+#### Tomb of Maya
+- Tutankhamun's instrumental treasurer
+- above-ground Amun-Ra temple, with pylon entrance (Saqqara)
+- nobles' tombs again emphasize multiple gods (Osiris, Horus, etc.) and deceased access to them
+- no kings as intermediaries
 
 ---
 #### quiz up to 2/16 lecture
