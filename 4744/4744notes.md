@@ -722,6 +722,21 @@ conf input local path.sh run.sh steps utils
 - hw6: everyone should have their own
     - lang_word folder
 
+`/projects/speech/HW6/gram-ey92`
+- edit a1
+    - contains lopar grammar
+    - make nat.lex
+- a1x is transformed grammar
+`/projects/speech/sys/kaldi/egs/librispeech-kay/s5`<br>
+`/projects/speech/sys/kaldi/egs/librispeech-kay/s5/data/train-m1-all`<br>
+`/projects/speech/sys/kaldi/egs/librispeech-kay/s5/EXP/mono_word/decode_word_ey92`<br>
+    - copy this directory
+    - replace "uppercase" with "upper case"
+    - ${first//UPPERCASE/UPPER CASE}
+    - $ sed -i 's/UPPERCASE/UPPER CASE/g' metamorphosis.txt
+- lexicon has silence symbol
+    - include silence in graph: before and after utterances
+
 ---
 final project (can change your mind)
 1-2 page idea sketch

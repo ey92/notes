@@ -1958,7 +1958,8 @@ ccc: credit card company<br>
     - create completely new structures to take advantage of the new technology
     - do entirely new things
 <br>
-Example: automobile<br>
+Example: automobile
+
 1. substitution: replace horses & buggys
 2. diffusion: travel more (at the expense of other activities)
     - writing letters, reading books, working on garden
@@ -1968,7 +1969,7 @@ Example: automobile<br>
     - 100 years ago, average woman in US had 3 children; now 1.8
     - for the first time in 2015, more single adults than married in the US
     - primarily to take advantage of the professional mobility created by transportation technologies
-<br>
+
 - the three stages require time-dependent analysis and allows predicting the future since these three stages often arrive sequentially
 - 1960s predicted we would have personal hovercrafts, custom-designed children by 2010s, but nothing about computers and communication
 
@@ -2045,6 +2046,7 @@ Peer-to-Peer smart contracts
 - most technology: difficult to understand, simple to use
 - blockchain: difficult to use as well as understand
 - perspectives
+
 | POV | technology | use case |
 | --- | ---------- | ---------------- |
 | technologist | database |
