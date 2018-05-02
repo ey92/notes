@@ -2491,6 +2491,7 @@ first to have spells written inside of burial chamber
 - mother possibly royal lady Kiya
     - KV 55 coffin and canopic jar lid plausibly hers
     - no body
+    - unlikely to be Akhenaten's son
 - no parents to co-reign
     - Nefertiti rules 5 years
 - Ay and Horemheb (Amun loyalists) successively 'help'
@@ -2507,9 +2508,12 @@ first to have spells written inside of burial chamber
 - restoration stele
     - portrays destroyed Egypt being restored, in style of FIP pessimistic literature
     - people abandoned the gods, so the gods abandoned Egypt
-- tomb
+- tomb KV 62
     - 5398 items stuffed haphazardly into small tomb
     - many items not even Tutankhamun's
+        - middle sarcophagus probably Smenkhkara's
+        - mismatched lid of outer sarcophagus
+        - faces on canopic jars don't match
     - robbers after gold items, left wooden and burial alone
         - in a hurry, trying to remain inconspicuous
         - wooden objects untouched, even gilded chariot
@@ -2519,17 +2523,99 @@ first to have spells written inside of burial chamber
     - jewelry on mummy, much of it prophylactic magic, with throne name
     - Neb-kheperu-Ra "Ra is Lord of manifestations"
 - tragic ending to D18
+    - children with Ankhesen-Amun stillborn
     - wife Ankhesen-Amun asks Hittites for a husband to help rule
-        - Shippiluliuma sent prince, killed en route
-        - trouble with Hittites follows in Syria
-        - stillborn children also in tomb
-        - imagery on throne still includes Aten at time of burial, despite name-changes
+    - Shippiluliuma sent prince, killed en route
+    - trouble with Hittites follows in Syria
+    - stillborn children also in tomb
+    - imagery on throne still includes Aten at time of burial, despite name-changes
+
+#### Tomb Excavation Nov 1922
+- Howard Carter Theban expedition funded by Lord Carnarvon, rich English businessman & collector
+    - amassing one of the largest collections of Egyptian artifacts
+    - ultimatum last year of funding
+    - KV62 seemed to be accidentally buried from rubble of other tomb robberies
+    - took 10 years to do initial recording of objects
+        - recording cards
+        - during which Carnarvon died of pneumonia -> "curse"
+        - Carter retired afterwards, becomes a private collector & lives to 65 (no curse) 1939
+- jewelry on mummy, > 100 
+- daily life objects in addition to ceremonial objects
+    - _Instruction of Hardjedef_ (D5), "The House of Death is for Life"
+    - chariots, archery, scepters, beds, couches, head-rests, thrones, boxes, etc
+    - 413 shwabtis, some inscribed, some of self
+- warrior's equipment
+    - 5 gilded chariots, 90cm d wheels, for 2 horses
+    - daggers and gold sheaths
+    - meteorite iron dagger (naturally occurring stainless steel)
+    - 50 bows
+- 26 jars of wine with clay stoppers
+    - dockets with year, quality, red/white, sweet/dry, "good"/"double good" _nefernefer_
+    - organic residue analysis
+- ivory and gold boomerang for hunting birds in marshes
+- crook and flail: royally imbued agrarian tools
+- loincloth, gloves, slingshots
+- bronze razors, spatula, toiletry
+- 32 pairs plain sandals, gilt pair with enemies
+    - 9 bows under foot on mummy
+- model boats, sailed and rowed, with lines
+- Tutankhamun (gold) on reed bundle skiff, with spear & rope, damaged 2011
+- furniture
+    - imitation folding leopard skin stool, in ebony and gold
+    - gilt throne in Armana style, cedar chair with ankh and god Heh (eternity), child's chair with gold and ivory inlays
+    - gilt woden box for ankh-shaped mirror, probably gold (stolen)
+    - small gilt container on silver base, Osiris, Heh
+    - gilt wooden bed with protective leonine deities
+    - mortise-tenon, dowel joinery; others have hippopotamus and cow-goddess posts
+    - ivory headrest with Bes, blue glass headrest with SHu
+    - garment chest in Armana style, ivory, ebony inlays, royal imagery
+    - many alabaster lamps and goblets, alabaster chalice with "Beloved of Amun, Lord of the Thrones of the Two Lands"
+    - faience vase
+    - alabaster perfume vase with Hapy for Tutankhamun and wife
+    - alabaster basin, boat with Tutankhamun and wife float in water/perfume
+- scribal equipment:
+    - ivory papyrus smoother, ivory brush/ink box, reed brush holder, gilt wood w/ glass with stone inlays
+- music: ivory clappers, gilt wood rattles, bronze and gold horn w/ Ptah, Re-Horakhty, Amun-Ra
+- fans with ostrich feathers and ivory or gilt wood
+- _senet_ game, with Tjau game on reverse, played in current and next life, ivory throw sticks used in other game
+- scan:
+    - 3D scans for tourist replica and ground penetrating radar of surrounding  ground suggest seams and anomalies
+    - 3 years later, no tomb, no Nefertiti
 
 #### Tomb of Maya
 - Tutankhamun's instrumental treasurer
 - above-ground Amun-Ra temple, with pylon entrance (Saqqara)
 - nobles' tombs again emphasize multiple gods (Osiris, Horus, etc.) and deceased access to them
 - no kings as intermediaries
+
+### Ay 1325-1321
+- non-royal
+- married Tutankhamun's widow Ankhesen-Amun
+- fails to produce a male heir
+- king and priest for _Opening of the Mouth_ in Tutankhamun's tomb
+- likely inscribed back (shoulders) of Tutankhamun's funerary mask a spell to restore Tutankhamun in the eyes of the Heliopolitan gods
+    - Book of the Dead, #141b
+    - reuniting Tutankhamun with Osiris
+
+### Horemheb 1321-1293
+- non-royal
+- general and "Great Commader"
+- married Nefertiti's sister for legitimacy
+    - respect for matrilineality, despite Armana heresy
+- fills ranks with army officers, as military coup d'etat
+- adds name to Tutankhamun's Restoration Stele
+- fairly long reign
+- tomb KV 57 with Horus, Isis, Osiris, Anubis, Hathor
+- adds to Karnak temple with pylon gates and processional paths
+    - different style
+    - fortified gate, much higher wall
+    - Karnak Pylon 2 to the west built with rubble (talatat blocks) from tearing down Akhenaten's eastern temple
+    - South access: claims Amenhotep III's pylon 10 and adds pylon 9
+    - sphinx-lined processionals West and South to Luxor
+- tomb KV 57
+    - missing mummy, disturbed burial with vandalized mummies
+    - unfinished tomb decorations
+    - no heir, appointed Vizier & Commander, Ramesses, as successor
 
 ---
 #### quiz up to 2/16 lecture

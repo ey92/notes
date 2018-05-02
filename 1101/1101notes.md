@@ -1079,7 +1079,7 @@ Greenberg found:
 	- 1) born with blank slate, form habits from observations
 	- 2) language is an innate ability like walking
 	- 1st hyp can't be completely correct - learning language from scratch is too difficult
-	- 2nd hyp too extreme inccorrect, or else everyone would speak the same language
+	- 2nd hyp too extreme incorrect, or else everyone would speak the same language
 - research suggests that there is a lot of built-in knowledge in process of language learning
 	- controversy over how much is built-in
 	- how much innate knowledge is specific to language (as opposed to acceptation of other systems)
@@ -1368,6 +1368,71 @@ Greenberg found:
 	- "secret language": slang, jargon
 - **diglossia** Charles Ferguson 1950
 	- relatively stable language situation where in addition to primary dialect of language, there is a very divergent, highly codified, often grammatically more complex superposed variety, vehicle of large and respected body of written literature, either of another period or another speech community, learned in formal education
+
+# Language Contact
+- causes many phenomena
+- borrowing
+- how language influence each other
+- pidgins and croles
+- substratum/superstratum
+- sprachbund/language federations
+
+## Bilingualism
+- societal bilingualism
+	- will one replace the other, or can it be stable?
+- individual bilingualism is natural state of many/majority of people
+- are two languages in bilingual mind merged or separate?
+- levels of activations: are both languages "on" at the same time?
+- rate of language acquisition, quality of end result of acquisition, development of other cognitive functions
+	- growing up bilingual doesn't negatively affect other cognitive developments
+- **codeswitching**: jumping language mid-sentence
+	- prejudice that is degenerate linguistic behavior
+	- people who codeswitch are unaware and also prejudiced against it
+		- observer's paradox, hard to observe and record
+	- more likely to occur in bilinguals with high degree of proficiency in both languages ("stronger" bilinguals)
+		- requires high degree of confidence in both languages to switch grammars, phonologies, and lexicons seamlessly
+	- researchers say it governed by grammar/set of rules, independent of involved languages
+	- most people who codeswitch are unaware when they do it
+		- occurs often during storytelling
+<br>
+- **borrowing**
+	- most obvious kind of contact-induced influence
+	- modern English has borrowed so many words that vocabulary is less transparent than in many other languages
+<br>
+- **Sprachbund**
+	- language contact/bilingualism can also lead to linguistic convergence
+	- Balkan
+		- Albanian (Albanian), Greek (Hellenic), Romanian (Romance), Bulgarian (Slavic), Romani (Indic)
+		- lost infinitive
+		- postposed article
+		- clitic doubling
+		- analytic comparison
+	- Altaic language family more likely sprachbund
+		- Turkic, Mongolic, Tungusic, Korean, Japanese
+<br>
+- Pidgins and Creoles
+- **pidgin languages**: systems of communication which have grown up between groups brought into contact who don't have a common language and need to talk to each other, usually for commercial purposes
+	- characterized by limited vocabulary, reduced grammatical structure, native to no one, since users all have their own native language
+	- (comparable to Damin having restricted vocab and grammar due to limited time)
+	- based on vocabulary of language of those who have the upper hand in the exchange (_lexifier language_)
+	- many European-based pidgins (English, French, Portuguese, Dutch); Chinook among American NW natives
+	- English-based Pidgins: Tok Pisin, Bislama, Papua New Guinea
+	- usually ephemeral - disappear quickly, as soon as need for the language is lost, e.g. French Vietnamese Pidgin, English Vietnamese Pidgin
+- sometimes develop long enough to gain native speakers and official status, become adopted as full languages
+- **creolization**: pidgins can become native languages of a generation of speakers
+	- ceases to be limited, function-specific trade para-languages, and develop lexical and syntactic properties characteristic of human languages
+	- Krio in Sierra Leone, Gullah on US Atlantic coastal islands, Hawaiian creole, Louisiana Creole French
+	- family tree much more complicated
+- Tok Pisin most widely spoken language in Papua New Guinea
+	- "extended" pidgin" - official language, used in street signs, radio, news
+	- Papua New Guinea has more languages than anywhere else in the world (869 languages, ~4,000 speakers)
+	- "wantok" = friend (person who speaks the same language)
+	- Tok Pisin fills the need for a common language within the country, simpler grammar; became lingua franca, not quite a creole yet, since no generation of native speakers
+	- has 4 forms of "we"
+		- incl/excl dual, incl/excl trial
+- pidgins exhibit language universals
+	- universal characteristics (e.g. word order)
+
 
 ---
 ##### Prelim 1 content

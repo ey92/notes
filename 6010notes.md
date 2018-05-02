@@ -2049,7 +2049,7 @@ Peer-to-Peer smart contracts
 
 | POV | technology | use case |
 | --- | ---------- | ---------------- |
-| technologist | database |
+| technologist | database | store data |
 | businessperson | asset | with ownership, titled to property |
 | lawyer | evidence | indisputable facts & who did what |
 
