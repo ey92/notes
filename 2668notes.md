@@ -2617,6 +2617,116 @@ first to have spells written inside of burial chamber
     - unfinished tomb decorations
     - no heir, appointed Vizier & Commander, Ramesses, as successor
 
+## Ramesside Era D19-20 to 1070
+## Dynasty 19
+### Ramesses I 1293 - 1291
+- Seth man from Avaris
+- Vizier, Great Commander under previous dynasty
+- didn't accomplish much, but founded D19
+
+### Seti I  1291-1278
+- 'he of Seth'
+- another military man from Avaris
+- big campaigner, builder
+- amazing tomb KV 17
+    - nice mummy
+    - longest, deepest tomb in KV
+    - found 1817 by Giovanni Belzoni
+    - well-cut, rectilinear
+    - tomb robber traps
+    - full of underworld texts (_Amduat_, _Litany of Re_, _Book of Gates_)
+    - "Four Peoples of Mankind/Horus": Libyans, Nubians, Asiatics/Canaanites/Syrians, Egyptians, Horus
+        - the four peoples known to Egypt at the time, concept of ethnicity
+    - making full-size facsimile
+    - opening of the Mouth ceremony for a statue
+    - Horus leading Seti to Osiris (holding two crooks and a flail)
+    - Sopdet and southern stars, Seti meeting Isis with intimate embrace
+- Abydos Temple to Osiris with king-list
+    - important historical records
+    - old design, inspiration from MK, pillars like Mentuhotep II at Deir el-Bahri
+    - lists kings from D1-19, minus SIP and Armana
+    - L-shape addition by Ramesses II; pylons claimed by Merneptah
+    - full relief sculpting in temple (background carved away)
+        - Seti offering Ma'at to Osiris, Isis, Horus
+        - style and temple plan hearkens back to MK works
+        - Seti receiving life from Horus, reassurance from Anubis
+    - addition by Ramesses II
+        - "Hall of Records" in rear addition, missing SIP and Armana kings
+        - Ramesses II and father in rite of passage with a bull
+        - Seti I and son (Ramesses II) honor Osirid kings
+
+### Ramesses II 1279-1212
+- "Ramesses the Great"
+- rules much of 13th century
+- makes Luxor temple his own, either claiming front or rebuilding
+- 45 sons, 40 daughters
+- Tomb of Sons of Ramesses II KV5
+    - still being cleared and documented
+    - biggest by volume
+    - number of burial chambers somewhat corroborates number of children
+- tomb KV7
+    - elaborate
+- as Great Commander, spent early reign in Syria
+    - Hittites and Egyptians expanding into coastal Syria
+    - tensions high in Amurru, one of three Armana-era provinces, being lost to Hittites
+- year 5, 1275
+    - battle  vs. Hittites at Kadesh on the Orontes: clash of empires
+    - ca. 20,000 Egyptians and hundreds of chariots vs 35,000+ Hittites and 2500 chariots
+    - most detailed battle in pre-Greek history (numbers, tactics, etc.)
+    - Ramesses outnumbered, trapped, bu heroically triumphs by grace of Amun
+    - portrayed by Ramesses as victory, in poetry and prose on multiple monuments and papyri
+    - _Bulletin/Record_: _prose_ account
+        - ruse by Hittite commander who wanted to surprise Egyptians
+        - sent spies to be captured with disinformation (didn't want to face Egyptian commander)
+        - incompetence of officers
+        - claims to defeat Hittites on his own
+        - "all his ground was ablaze with fires; he burned all the countries with his blast"<br>"his eyes were savage as he beheld them; his power flared like fire against him..."<br>"his majesty was like Seth, great of strength, like Sekhmet, in the moment of her rage"<br>"his majesty slew the entire force of the Foe of Hatti..."<br>"as i live, as Ra loves me, as my father Atum favors me, everything that my majesty has told **I did it in truth**, in the presence of my infantry and my chariotry"
+            - swear to father Atum in presence of military
+    - _epic poetic version_
+        - contains similes, exaggeration, salvation via mun, cowardice, butlers, has more details not found in prose account
+        - "his strength like Montu, of perfect form like Atum [also like Ba''al]..."
+            - Canaanite storm god
+        - runs into Hittites and finds himself surrounded by 2500 chariots: <br> "All countries are arrayed against me, I am alone, there's none with me"<br>"My numerous troups have deserted me, not one of my chariotry looks for me..."<br>"I know Amun helps me more than a million troops"<br>"Behold, Amun gave me his strength, when I had no soldiers, no chariotry"<br>"All those who shot in my direction, their arrows veered as they attacked me..."
+            - accuses army of abandoning him
+        - "What will men say when they hear of it, that you left me alone without a comrade..."<br>"on Victory-in-Thebes, Mut-is-content, my great horses; It was they whom I found supporting me"<br>"they shall henceforth be fed in my presence, whenever I reside in my palace"<br>"and charioteer Menena, my shield-bearer, and my household butlers who were at my side. My witnesses in combat, behold I found them!"
+    - from other sources, Amurru becomes a Hittite vassal (Ramesses lost)
+    - risk of divine kingship, blame cowardice of soldiers; who can question the battlefield narrative?
+        - troops silenced by charges of cowardice
+        - witnesses kept close and quiet
+- 16 years later, 1259
+    - write with new Hittite king Hatti in Akkadian
+    - peace treaty on silver tablets, preserved on clay copies, meant to last forever
+    - parity treaty 4 main stiuplation: cease-fire, mutual alliance, mutual extradition (of fugitives), dynastic guarantee (support partner's named heir)
+    - oldest such international treaty
+    - equal footing "brothers", wives also correspond
+    - Hatti retains much of Northern Syria, Lion Gate at capital, Hattusha
+- Egyptian-Hittite peace
+    - explosion of trade in eastern Mediterranean
+    - focus on other issues
+- new capital City _Per-Ramesses_ "House of Ramesses"
+    - at Qantir, just north of Avaris (Tell el-Dab'a)
+    - port city full of foreigners
+    - temples to Egyptian and Canaanite gods
+        - Ptah, Astarte, Reshep
+    - industrial military complex for chariots, bronze weapons, glass
+    - crucible for casting blue glass ingots, glass side industry
+        - byproducts of copper and bronze used to color glass
+    - large stables: over 1.7 sq km
+        - biggest from ancient world
+        - 460 horses, 6 x 12m long halls with 12 rooms each
+    - Austrian-German excavation projects since 1984, E.Pusch/Ranzmeir
+    - did not last 200 years, branch of Nile dries up (re-done in Tanis)
+    - biblical references:
+        - Hebrew put to work at "Pi-Ramessa and Pithom" Per-Ramesses and _Per-Atum_
+        - in Biblical exodus
+        - both industrial cities found in and near Avaris
+        - no inscriptions at Qantir mention 'Hebrews'
+        - biblical authors plausibly using history of Ramesses II in the exodus story
+- Ramesseum "Ramesses United with Thebes"
+    - mortuary temple
+    - surrounded by granaries, main grain storehouse for Thebes
+    - Colossal statue fragments from the Ramesseum, mortuary temple in Western Thebes, inspiration for Shelly's 'Ozymandias' from throne name User-Ma'at-Ra
+
 ---
 #### quiz up to 2/16 lecture
 - up to D0/D1

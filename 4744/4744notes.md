@@ -722,10 +722,14 @@ conf input local path.sh run.sh steps utils
 - hw6: everyone should have their own
     - lang_word folder
 
-`/projects/speech/HW6/gram-ey92`
+`/projects/speech/HW6/gram-ey92`<br>
+`/projects/speech/HW6/gram-m1/b1/b1.gr`
+- 3-4 hrs
+- use only 100 GB
+- stop at diminishing returns - 1 new rule for each sentence
 - edit a1
     - contains lopar grammar
-    - make nat.lex
+    - make nat.lexx
 - a1x is transformed grammar
 `/projects/speech/sys/kaldi/egs/librispeech-kay/s5`<br>
 `/projects/speech/sys/kaldi/egs/librispeech-kay/s5/data/train-m1-all`<br>
@@ -736,6 +740,13 @@ conf input local path.sh run.sh steps utils
     - $ sed -i 's/UPPERCASE/UPPER CASE/g' metamorphosis.txt
 - lexicon has silence symbol
     - include silence in graph: before and after utterances
+
+`5.fst` is all sentences of length 5
+- `fstunion 5.fst 6.fst 5or6.fst`
+- scale the probabilities down before union (sum to 1/6)
+- `/projects/speech/HW6/gram-m1/a1x/script/snt2fst.awk`
+    - # sent, # bin
+    - cover at least half
 
 ---
 final project (can change your mind)

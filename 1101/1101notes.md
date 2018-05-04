@@ -1369,7 +1369,7 @@ Greenberg found:
 - **diglossia** Charles Ferguson 1950
 	- relatively stable language situation where in addition to primary dialect of language, there is a very divergent, highly codified, often grammatically more complex superposed variety, vehicle of large and respected body of written literature, either of another period or another speech community, learned in formal education
 
-# Language Contact
+# Language Contact & Variation
 - causes many phenomena
 - borrowing
 - how language influence each other
@@ -1409,30 +1409,76 @@ Greenberg found:
 		- analytic comparison
 	- Altaic language family more likely sprachbund
 		- Turkic, Mongolic, Tungusic, Korean, Japanese
-<br>
-- Pidgins and Creoles
+
+## Pidgins and Creoles
+### Pidgins
 - **pidgin languages**: systems of communication which have grown up between groups brought into contact who don't have a common language and need to talk to each other, usually for commercial purposes
-	- characterized by limited vocabulary, reduced grammatical structure, native to no one, since users all have their own native language
-	- (comparable to Damin having restricted vocab and grammar due to limited time)
-	- based on vocabulary of language of those who have the upper hand in the exchange (_lexifier language_)
-	- many European-based pidgins (English, French, Portuguese, Dutch); Chinook among American NW natives
-	- English-based Pidgins: Tok Pisin, Bislama, Papua New Guinea
-	- usually ephemeral - disappear quickly, as soon as need for the language is lost, e.g. French Vietnamese Pidgin, English Vietnamese Pidgin
-- sometimes develop long enough to gain native speakers and official status, become adopted as full languages
-- **creolization**: pidgins can become native languages of a generation of speakers
-	- ceases to be limited, function-specific trade para-languages, and develop lexical and syntactic properties characteristic of human languages
-	- Krio in Sierra Leone, Gullah on US Atlantic coastal islands, Hawaiian creole, Louisiana Creole French
-	- family tree much more complicated
-- Tok Pisin most widely spoken language in Papua New Guinea
-	- "extended" pidgin" - official language, used in street signs, radio, news
-	- Papua New Guinea has more languages than anywhere else in the world (869 languages, ~4,000 speakers)
-	- "wantok" = friend (person who speaks the same language)
-	- Tok Pisin fills the need for a common language within the country, simpler grammar; became lingua franca, not quite a creole yet, since no generation of native speakers
-	- has 4 forms of "we"
-		- incl/excl dual, incl/excl trial
+- characterized by limited vocabulary, reduced grammatical structure, native to no one, since users all have their own native language
+- (comparable to Damin having restricted vocab and grammar due to limited time)
+- based on vocabulary of language of those who have the upper hand in the exchange (_lexifier language_)
+- many European-based pidgins (English, French, Portuguese, Dutch); Chinook among American NW natives
+- English-based Pidgins: Tok Pisin, Bislama, Papua New Guinea
+- usually ephemeral - disappear quickly, as soon as need for the language is lost, e.g. French Vietnamese Pidgin, English Vietnamese Pidgin
+	- sometimes develop long enough to gain native speakers and official status, become adopted as full languages
+- restricted interlanguages, invented
 - pidgins exhibit language universals
 	- universal characteristics (e.g. word order)
 
+### Pidgin Generalization
+- all seem to share certain characteristics, regardless of grammars of involved languages:
+- take vocabulary from one of the languages (lexifer)
+- generally rigid SVO
+- little or no inflectional morphology (case, tense, plural)
+- few function words (e.g. determiners)
+- words from lexifer language typically undergo broadening of meaning
+- lack fricatives except s
+- voicing contrast seems to be eliminated in final position
+- consonant clusters eliminated
+- lack question phrase movement
+	
+### Creoles
+- **creolization**: pidgins can become native languages of a generation of speakers
+- ceases to be limited, function-specific trade para-languages, and develop lexical and syntactic properties characteristic of human languages
+- Krio in Sierra Leone, Gullah on US Atlantic coastal islands, Hawaiian creole, Louisiana Creole French
+- family tree much more complicated
+- have all attributes of human languages, but exhibit typological characteristics that reflect pidgin ancestry
+	- small phoneological inventory, little allophony, few clusters
+	- little inflectional morphology, little allomorphy
+	- SVO order
+
+### Tok Pisin
+- Tok Pisin most widely spoken language in Papua New Guinea
+- "extended" pidgin" - official language, used in street signs, radio, news
+- Papua New Guinea has more languages than anywhere else in the world (869 languages, ~4,000 speakers)
+- "wantok" = friend (person who speaks the same language)
+- Tok Pisin fills the need for a common language within the country, simpler grammar; became lingua franca, not quite a creole yet, since no generation of native speakers
+- has 4 forms of "we"
+	- incl/excl dual, incl/excl trial
+- has some inflections not from either language
+	- obligatory transitive verb marker
+	- obligatory attributive adjective marker
+	- no tense markers
+	- many apsect markers
+
+## Other Language Variation
+- intentional variation regulatated by social expectations
+- accidental variation
+	- less fixed attributes of individual speakers
+	- e.g. dialects, sociolects (socioeconomic class), establishes social identity
+	- not as noticed, can be controlled
+- **sociolects**
+	- vary based on socioeconomic class
+	- /r/-drop associated with lower socioeconomic classes in NYC, but is "received pronunciation" in Britain
+	- Observer's Paradox
+		- investigation is trick, since people will naturally skew their speech towards the prestige variety if they know what you are testing for
+		- NYC dept store experiment
+- **dialects**
+	- vary based on area
+	- generic word for soft drinks (map = isogloss)
+	- isogloss cluster = dialect
+	- isoglosses & isogloss clusters fall along lines of geographical features that disrupt communication
+	- as people radiate outward, they carry their linguistic features with them
+		- movement means interaction, reducing variation
 
 ---
 ##### Prelim 1 content
@@ -1511,4 +1557,5 @@ wals.info World Atlas of Language Structures
 	- e.g. Pidgin languages
 	- phonological, morphological, lexical, syntactic features
 11. Computational Linguistics
+	- read textbook
 12. Short Answer
