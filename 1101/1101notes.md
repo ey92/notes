@@ -1479,6 +1479,39 @@ Greenberg found:
 	- isoglosses & isogloss clusters fall along lines of geographical features that disrupt communication
 	- as people radiate outward, they carry their linguistic features with them
 		- movement means interaction, reducing variation
+	- cot/caught merger
+		- Dictionary of American Regional English (www.daredictionary.com)
+		- started 1965, published 1985-2013
+		- surveys & geographic distributions
+	- the west (US) has more uniformity
+- variation by age
+	- by accident/on accident
+	- based on/based off of
+- Northern Cities Shift/Northern Cities Vowel Rotation
+	- ongoing generational sound change
+	- long low vowels move forward
+	- short vowels move bakward
+	- Ann -> lan, bit -> bet, bet -> bat/but, lunch -> launch, talk -> tuck, locks -> lax
+- people aware of accidental variation and assign positive or negative connotations
+	- awareness can cause people to change their linguistic behavior
+
+# Computational Linguistics
+- practical 
+	- interact and share information with machines
+- conceptual
+	- special code that can be systematically translated into electrical impulse
+	- code has to have attributes like those of human languages
+- historical - moder computers have history closely related to analysis of language (Turing, Enigma)
+	- Chomsky, developed generative grammar, work involved machine translation
+- text mining, plagarism detection
+- text-based and spoken language dialogue systems
+- machine translation
+- grammar checking
+- automatic speech recognition (answering systems, dictation, etc)
+- speech synthesis (siri, alexa, phone id, gps)
+	- making language sound naturla (allophony)
+- word distributions
+- CFG parsing
 
 ---
 ##### Prelim 1 content
@@ -1538,24 +1571,27 @@ wals.info World Atlas of Language Structures
 3. Morphology
 	- identify morphemes in non-English sentences & construct a sentence
 4. Syntax
-	- use syntactic tests & identify syntactic structures
+	- use syntactic tests & identify well-formed syntactic structures
 	- constituent order
 5. Language and the Mind/Brain
 	- samples of speech by people suffering from a variety of aphasia
 		- identify what type of aphasia and which areas of brain involved
 	- fMRIs
 	- which hemisphere responsible for which functions
+	- how do we know what is going on in the brain
 6. Language Acquisition
 	- what stage of linguistic development the child is at
 		- how can you tell from language produced
 7. Semantics
-	- entailment, presupposition, metonymy, hyponomy, etc..
+	- entailment, presupposition, metonymy, specificity, definiteness, hyponomy, dietics, contradiction, performatives, reference, tautology, sense etc..
 8. Pragmatics
 	- conversational maxims
 9. Sociolinguistics
 10. Languages in Contact
 	- e.g. Pidgin languages
-	- phonological, morphological, lexical, syntactic features
+	- identify phonological, morphological, lexical, syntactic features
 11. Computational Linguistics
+	- short-answer
 	- read textbook
 12. Short Answer
+	- concepts after 2nd prelim

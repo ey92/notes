@@ -2726,6 +2726,137 @@ first to have spells written inside of burial chamber
     - mortuary temple
     - surrounded by granaries, main grain storehouse for Thebes
     - Colossal statue fragments from the Ramesseum, mortuary temple in Western Thebes, inspiration for Shelly's 'Ozymandias' from throne name User-Ma'at-Ra
+- funerary temple at Abu Simbel
+    - original location, close to Nile
+    - Ramesses to self as Osiris, 2nd cataract
+    - built into the side of the cliffs
+        - difficult to build, but well-protected from the elements
+    - many colossal statues
+        - Ramesses as Osiris, Ramesses with Ptah, Osiris, Ra-Horakhty in back
+    - UNESCO rescue archaeology 1959
+        - Aswan High Dam would have flooded temple
+        - entire temple cut into blocks and recreated upslope, now on Lake Nasser
+    - favorite wife Nefertari has a temple nearby
+        - on the same scale -> status and Ramesses' affection
+
+### Merenptah 1212-1202
+- 13th of Ramesses' 50 sons
+- known for his inscriptions
+- WMF Petrie discovered Victory Stela (Merenptah Stele, Israel Stele)
+    - mostly about defeating Libyans
+    - 1st mention of Israel
+    - only example in Egyptian texts "Israel is wasted, bare of seed..."
+- "Sea Peoples"
+    - eastern Mediterranean marauders join Libyans
+    - threaten Memphis & stopped temporarily by Merenptah
+- beginning time of crisis, much movement: hotter and drier, movement of peoples
+    - famine, migrations, grain relief shipment to Hittites (Hitties live in a more temperate climate)
+    - aridity, drought, famine implied by Paleoclimate studies
+    - pelusiac shifting course, Per-Ramesses closed
+    - potentially settings for the Exodus and the Trojan War
+
+### End of Dynasty 19
+- Amenmessu, Seti II, Siptah, Twosret - 1202-1185
+
+## Dynasty 20
+### Ramesses III
+- 2nd king
+- "last great king"
+- much documented in papyri
+- Harris Papyrus (from after his reign)
+    - under Ramesses IV
+    - first recorded labor strike in world history
+    - protests at Ramesseum granary
+    - growing Amun priesthood and their control of most arable land
+- Harem Conspiracy Papyrus
+    - voodoo dolls, trials, puishments, name changes for the guilty
+    - Meryra (Ra loves him) to Mesedura (Ra hates him) to ruin afterlife
+    - Queen Tiya, priests, Prince Pentawere
+        - magic & shwabtis to stop the guards
+        - too many people (38 mentioned)
+        - death, amputations, encouraged to commit suicide, renamed
+- CT scan of mummy of Ramesses III
+    - multiple weapons used
+    - multiple attackers
+- CT scan of Unknown E (Prince Pentawere)
+    - large, deep throat cut: trachea, esophagus, major vessels
+    - Horus amulet - courtesy for noble traitor
+- mortuary temple at Medinet Habu, W Thebes
+    - "Mansion of Millions of Years"
+    - much better preserved
+    - copy the Ramesseum
+    - records battle vs Sea Peoples in 1171
+        - new tribe PLST (Peleset -> Philistines)
+        - "Conspiracy in their isles"
+        - settled near Gaza, between Egypt and Israel
+        - text & archaeology agrees
+        - Greek pottery
+    - scenes of pharaoh combatting chaos often appear on external face of pylons
+    - campaign recorded inside and out
+    - 1st introduction "Palestine"
+    - Ramesses III repulsed the invation, forced Peleset et al. to settle in Gaza region, later named Philistine/Palestine
+- after Sea Peoples, D20 in freefall
+
+### Fall of 20th Dynasty
+- Ramesses IV-XI 1151-100
+    - each last less than a decade
+    - loss of empire
+    - rise of Amun-Re priesthood
+- tomb robbering papyri
+    - during Ramesses IX
+    - final insult to belief of divine kingship
+    - 9/10 tombs checked were robbed
+    - inside job, involving citizens of Deir el-Medina
+    - looking for gold, other precious metals, mostly
+    - e.g. gilt furniture
+    - gold traded for ox (importance of food)
+    - bribe more people
+
+## Love in the Age of Ramesses
+- Nefertari Ramesses' sweetheart, or a means to an end
+- did other Egyptians have "true loves"
+- Lichtheim: school texts
+- love poetry
+    - sublimination, enticement, anticipation, ecnomics
+    - sophisticated wordplay
+    - physical descriptions, similes
+    - lovesickness
+- much in Deir el-Medina (worker's village)
+    - ostrakon
+    - literary work in the perspective of a woman (unusual) or young man's imagination
+
+### 'Sayings of Great Happiness' in P. Chester Beatty I
+- structured as days of the week, but alternating gendered voices
+- male perspective from odd-numbered stanzas
+    - male themes: pursuit as chariotry, hunting; fantasy of marrying well
+    - must be invited by girl's father
+    - appeal to Hathor
+    - "Seven days since I saw my sister,  And sickness invaded me, I am heavy in all my limbs, My body has forsaken me; When the physician come to me, My heart rejects their remedies; The magicians are quite helpless. My sickness is not discerned...Seven days since she went from me!"
+- female perspective in even-numbered stanzas
+    - reputation, drive-by
+- both about horses, chariots, hunting, in pursuit of a mate, humor
+- lovesickness, foolishness, and anticipation throughout
+- no mention of the pharaoh, gods only featured as facilitators of romance
+
+### P. Harris 500
+- feminine voice
+- flower-titled poems and eroticism
+- "I am your sister, your best one; I belong to you like this plog of ground, That I planted with flowers and swee-smelling herbs. Sweet is its stream, Dug by your hand"
+- love, sex innocently as herbs
+- streams and farming (sublimination)
+
+### Cairo Vase
+- male perspective
+- love conquers fear
+    - ignore dangerous predators
+- walk on the Nile
+
+### Turin Papyrus
+- parody of sexual activity
+- animals replace humans in afterlife parody
+    - e.g. replace gods with animals in the Book of the Dead
+- all part of more relaxed liberality of expression ad Deir el-Medina
+    - sign of the times or the place
 
 ---
 #### quiz up to 2/16 lecture
