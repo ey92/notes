@@ -769,3 +769,6 @@ how to use if
 
 ---
 http://www.speech.cs.cmu.edu/cgi-bin/cmudict
+---
+word error rate
+sentence error rate

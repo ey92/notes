@@ -2858,6 +2858,196 @@ first to have spells written inside of burial chamber
 - all part of more relaxed liberality of expression ad Deir el-Medina
     - sign of the times or the place
 
+## Wisdom Literature
+- redefining wisdom
+- much skepticism
+- literature more literal and free
+
+### Instructions of Amenemope
+- Ramesside period
+- 30 thematic chapters on ma'at
+- now in erms of money
+- known to author of Proverbs 22:20
+- profit in ch 1-5
+    - don't falsify the rations
+- ch 7: 'don't set your heart on wealth': stolen goods
+    - 'if riches come to you by theft, they won't stay the night with you'
+- ch 13
+    - 'better is praise with the love of men than alone in your store room'
+    - 'better is bread with a happy heart than wealth with vexation'
+- wealth makes you unhappy; clear conscience is better than having material wealth
+- ch 15: cheat with writing, expect god of writing to bring retribution (Thoth), denies son of transgressor afterlife
+- warnings to merchants and officials about falsifying weights, measures
+- 16: if you see seomone who cheats, keep your distance from him
+- do not covet copper; disdain beautiful linen
+- 26:
+    - charity: take fare from him who's healthy, and let pass him who is poor
+
+### Instructions of Any
+- Ramesside Deir el-Medina
+- father to son with widsom of ages, old and new (as well as monetary)
+- father delivers list of virtues
+    - dialectic, a real argument and challenge, not just father speaking
+- some typical advice: on piety, progeny, treating your wife
+- commercial age advice & middle class concerns
+- 138-9 "if wealth is placed where it bears interest"
+    - market elements, market elements, wise profits from the fool, don't rely on another's goods; buy a house
+- 142 "one man is rich, another is poor,...when last year's watercourse is gone, another river is here today; the lord of life confounds him"
+    - irony as part of life, not just pessimistic propaganda about national chaos
+    - world is constantly changing, reflection of drying Nile, warming temperatures
+- 144 **Epilogue**: Any vs Son dialectic: does memorizing virtues guarantee ma'at
+    - father argues for merits of educations, son for impulse and pessimism for education
+    - nature/nurture question "crooked sticks can be straightened by a good carpenter"
+    - when people are old enough, they want "bread"
+        - milk is natural and doesn't require work
+        - bread must be produced as a result of technology, work, and social engineering
+        - education and civilization
+
+### Harper's Song
+- from Tomb of Intef
+- NK copy of partially MK text
+- radical Ramesside wisdom
+- what of Imhotep and Hordjedef?
+    - reputation remains (deeds, words, thoughts, writing), but they're gone
+    - "no return for them to explain their present state of being"
+- denying importance of the funerary cult
+    - "none takes his things with him, and none who go come back again"
+
+### Immortality of Scribes
+- school text from Rameesside times
+- refers to intellectual greats
+- put their texts above their funerary monuments
+- denying funerary cult
+- reflects scribal background of writers and the changing times
+    - less powerful pharaohs
+    - tomb robbery
+
+## End of Ramesside Era and New Kingdom
+- civil war
+- Ramesses XI (1099-1069): royal vs priestly vs military factions
+- Amun-Ra High Priest, Herihor rules Thebes (1080-1074) with pharonic titles
+    - starts accumulating titles
+    - building pharonic monuments & fortification
+- Ramesses near end of reign orders general Piankh to take Thebes
+    - institutes harsh martial law and worse
+    - final insult to divine kingship: sanctioned looting of Valley of the Kings
+        - to finance restructuring and rebuilding Thebes
+        - only Tutankhamun's tomb remains
+- starts Third Intermediate Period
+
+# Third Intermediate Period
+- Amun at the fore
+- Amun-Ra priesthood owns ~70% of the land, 80% of the industry, 90% of ships
+    - economic monopoly
+- high priests rule over Thebes in D21
+- Royals rule Lower Egypt from Tanis
+    - never succeded in being gods
+    - Ramesses IX on his kneew before Amun-Ra
+
+## Dynasty 21 at Tanis
+### Psusennes I 1039-10991
+- dynasts can still command vast wealth
+- silver and gold funerary mask
+
+## New Magic: Market
+### Report/Tale of Wenamun
+- at Tanis, beginning of D21, King Smendes
+- like Sinuhe or the Odyssey, with the protagonist pining for Egypt and striving to reach home
+- official Wenamun sent on mission to get Lebanese wood for bark of Amun-Ra
+- first stop: Dor, Tjeker town (Tel Dor, Israel), where he is robbed by his own crew
+    - incompetence, lack of knowledge of how things work outside of Egypt
+- Wenamun robs a Tjeker/'Sea People' ship, gets into more trouble
+- gets to Byblos: Wenamun wants cedar on word of pharaoh - not enough
+    - prince of Byblos wants cash, "new economics"
+    - Wenamun: "What your father did, what the father of your father did, you too will do it."
+    - Tjeckerbaal: "True, they did it. If you pay me for doing it, I will do it...You, what have you brought for me? ...It was not a royal gift that they gave to my father! I too am not your servant, nor am I the servant of him who sent you!"
+- Wenamun waits on the shore, waiting for goods to come from Egypt
+- story ends with Wenamun blown to Cyprus
+- ending unknown
+- Princes of Lebanon previously cut cedar for Seti I, no longer done for respect
+- Egypt must pay for things, rather than relying on Pharaoh's reputation
+
+## Israel and Egypt in TIP
+- no Egyptian records on early Israelite kings
+- divided Israel invaded by Shishak/Sheshonq (Libyan pharaoh & dynasty)
+    - Libyans D22-24 from delta, ending with 4-king coalition betweein Piankhi and __
+    - Sheshonq D22, defeating towns in Palestine, Judah, trying to recapture glory days of Thutmose III
+
+### D25: Nubians rule from Napata, Kush (747-656)
+- Nubian kings borrow Egyptian magic ofr legitimacy
+- e.g. Piankhi in the Open Festival, and allying with Amun
+- Piankhi allys himself by marrying sister to Amun priests
+- more traditional burials: small pyramids in el-Kurru, near Gebel Barkal
+- Assyrians invaded at end of D25
+
+### D26: Saite 663 636
+- last native dynasty
+- based in Sais
+- Psamtik's army built from mercenaries from around MMediterranean Greek colony at Naukratis facilitates, trade with Mediterranean: gold, wheat key
+- Egypt deals extensively with Greeks and PHonecians
+- more forward-looking
+
+#### Nekau II built canal to Red Sea
+- navy of Ionian Greeks, sent Phonecians to circumnavigate Africa
+- cross equator twice (sun changes from his normal position)
+- not believed by Heredotus
+- different set of stars to navigate
+- looking towards the seas
+- Egyptians become major exporter of grain and gold to Mediterannean world
+
+# Late Period
+## Persians
+### D25: 525-404
+### D31: 343-332
+- ruled as satraby (province) with local autonomy
+- Cambyses II Mesuti-Ra "offspring of Ra" in cartouches
+- Darius as pharaoh before Apis Bull of Osiris
+
+## Nectanebo II of D30 
+- the last Egyptian pharaoh
+- statue with self and Horus falcon at the Met
+    - king much smaller between Horus' feet
+    - contrast to D4 Khafre with Horus falcon protecting back of Khafre's head
+- medieval egyptomania has him fleeing to Macedon to father Alexander the Great
+
+## Greck Domination 332-330 BCE
+### Alexander III of Macedon, 332
+- founded Alexandria, great MEditerranean port city
+    - cultural center of learning
+    - library with wisdom of the ages
+- Egypt a breadbasket for Greece, later for ROme
+- in Luxor sanctuary before Amun-Min
+- left intact Persian satrap sstem of provincial governance
+
+### Ptolemy
+- general under Alexander
+- Ptolemaic dynasty until death of Cleopatra VII 
+- Ptolemy XII
+
+### Cleopatra
+- had Caesar depose her brother Ptolemy XIII
+- ruled as Isis
+- Dendera Temple
+- Caesar fathered Caesarion
+- Marc Antony loses to Octavian, Caesar's nephew, in sea battle 31 BC
+
+## Roman Egypt
+- Octavian takes control of Roman empire & Egyptian province
+
+### Alexandria
+- largest library of antiquity
+- center of learning in Hellenistic times
+- burned in wake of annexation to Rome
+- Osirian mythology widespread throughout Mediterranean world
+- library eventually contained works such as Plutarch's _Isis and Osiris_
+
+#### Egyptian Influence
+- Thoth adopted by Greeks as Hermes
+- Egypt's culturla genius and antiquity recognized by Persian, Greek empires
+- wisdom, medicine, philosophy, and magic _Hermetica_ - in Renaissance
+- trend becomes Egyptomania
+- unknown how library got burned down
+
 ---
 #### quiz up to 2/16 lecture
 - up to D0/D1
@@ -2882,6 +3072,10 @@ first to have spells written inside of burial chamber
 - _Papyrus Bulaq 18_ (D13): 3 parts of palace interior: nursery/harem (private), audience, open/outer
 
 #### final
+- 89-90 Qs
+- 70% post-midterm material (4/9: D12 and after)
+- the rest is cumulative
+---
 - Amenemhet III
     - sphinx reused by later rulers
     - largest MK pyramid complex "Labyrinth"

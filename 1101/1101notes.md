@@ -1513,6 +1513,62 @@ Greenberg found:
 - word distributions
 - CFG parsing
 
+# Writing Systems
+- adaptation of phones into other languages
+	 evidence for english voiceless /th/ becomming voiced
+
+## Development of Writing
+- writing is extremely unusual
+	- # of independent writing systems no more than 5
+	-"1st IT revolution"
+- modern humans have always been linguistic (~200,000 years)
+- only literate recently (~5,000 years)
+- assumed to be a necessity for preserving a languages
+	- in communities with history of orality, considered inauthentic and alien
+- capable of only recording a fragment of linguistic performance
+- perhaps made obsolete as method of preservation by new technologies
+- loss of orality
+	- development of writing -> loss of some aspects of culture?
+
+### Before Writing
+- no systematic correspondence with linguistic
+	- signata are not a linguistic unit
+- e.g. tally sticks
+	- Ishango Bone, 20,000 bce
+	- Quipu - Incan knots
+	- winter counts (Lakota)
+
+### Historical
+- written in Cuneiform
+	- earliest Sumerian writing 3200
+	- symbolic
+		- Akkadian (Semitic), Babylonian (Semitic)
+		- Hurrian and Urartian
+		- Hittite (Indo Europoean)
+	- phonetic
+		- Old Persion later
+- logographic writing system
+	- each symbol encodes a word
+	- Chinese is logographic, but determinatives
+- syllabaries
+	- most common kind of sound representation
+	- instead of individual segments (letters)
+	- Devanagari
+	- Cherokee syllabary by Sequoya
+- consonantal writing systems
+	- only write the consonants, not the vowel
+	- Afro-Asiatic (Egyptian, Arabic, Hebrew)
+	- triliteral roots (ktb) - insert different vowels for different inflections
+	- Greeks added vowels to the Phonecian consonantal alphabet
+- alphabetic systems seems to be accidental
+- Og(h)am: scratches on edge of stone, seems derived from tallying
+- Hangul by King Sejong
+- pictures/icons to words
+	- case markers are purely grammatical
+- symbolic writing to phonetic writing
+	- many more symbols
+
+
 ---
 ##### Prelim 1 content
 1. Phonetics

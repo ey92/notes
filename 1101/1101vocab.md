@@ -511,3 +511,30 @@
 **First-Language (L1) Acquisition** - process by which children acquire lexicon and grammatical rules of native language. (In native bilinguals, both languages are acquired as first languages.)
 
 **Second-Language (L2) Acquisition** - acquisition of second language as teenager or adult (after critical period)
+
+**innate** - determined from factors present at birth
+
+**innateness hypothesis** - hypothesis that humans are genetically predisposed to learn and use language
+
+**linguistic universal** -  property believed to be held in common by all natural languages
+- **universal grammar** - theory that posits a set of grammatical characteristics shared by all natural languages; also name of this set of shared characteristics
+
+**critical period** - age span, usually from birth to puberty onset, during which children must have exposure to language and build critical brain structures necessary in order to gain native speaker competence in a language
+- **neglected child** - child neglected by caretakers, often resulting in significantly lower exposure to language as a child
+- **feral child** -  child who grew up in the wild without care by human adults, often with animals
+
+**Imitation Theory** - theory of language acquisition claiming that children acquire language by listening to speech around them and reproducing what they hear
+
+**Reinforcement Theory** - theory of language acquisition saying that children learn to speak like adults because they are praised, rewarded, or otherwise reinforced when using the right forms and are corrected when using the wrong ones
+
+**Active Construction of a Grammar Theory** - theory of language acquisition saying that children acquire a language by inventing rules of grammar based on the speech around them
+
+**Connectionist Theory** -  theory of language acquisition claiming that children learn language through neural connections in the brain; connections developed by language exposure and language use
+
+**Social Interaction Theory** - theory of language acquisition claiming that children acquire language through social interaction — in particular with older children and adults — and prompt their caregivers to supply them with the appropriate language experience they need
+
+**High-Amplitude Sucking** - experimental technique used to study sound discrimination in infants from birth to about six months; infants given special pacifier connected to a sound-generating system; each suck on the pacifier generates a noise, and infants’ sucking behavior is used to draw conclusions about discrimination abilities
+
+**babbling** - a phase in child language acquisition during which the child produces meaningless sequences of consonants and vowels; generally beginning at 6mo
+- **canonical/repeated babbling** - continuous repetition of sequences of vowels and consonants like [mamama] by infants
+- **variegated babbling** - production of meaningless consonant-vowel sequences by infants

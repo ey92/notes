@@ -2241,3 +2241,31 @@ The entire network itself is a hypothetical expert system, containing all of the
 - quantitative = conditional probability tables (CPT), associated with each node
 - states of node: true or false
 
+### Final
+- May 14th 9-10 am
+- Sage B8
+- includes lectures, readings, guest lecture
+- online - bring laptop
+- 25 MC, 2pts each
+    - sample questions in hw
+    - emphasize lectures
+    - not reference article containing answer
+    - no brief explanation req (write one if question is ambiguous & multiple correct ans)
+    - #26: explanations
+- exam becomes available on Blackboard at 9am
+- cut off after 60 min
+- confirmation that exam was "saved and submitted"
+- grades posted 5/21 5pm blackboard
+
+### Journals
+- case studies & business apps:
+    - InfoWorld (tech reviews and business apps)
+    - Journal of Electronic Commerce (case studies)
+    - Red Herring (tech entrepreneurship)
+- industry news
+    - NY Times Technology
+    - Information Week
+    - Tech Crunch
+- Tools & Tech
+    - Computerworld
+    - Wired
