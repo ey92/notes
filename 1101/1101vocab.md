@@ -572,3 +572,11 @@
 **fossilization** - process through which forms from a speaker’s non-native language usage become fixed (generally in a way that would be considered ungrammatical by a native speaker) and do not change, even after years of instruction
 
 **transfer** - influence of one’s native language on the learning of subsequent languages (which can facilitate or inhibit the learning of the second language)
+
+---
+
+## Ch. 9 Psycholinguistics
+
+**psycholinguistics** - the study of how the human mind processes language in the perception, production, storage, and acquisition of language
+
+**neurolinguistics** - the study of the neural and electrochemical bases of language development and use
