@@ -148,5 +148,87 @@
 ![Types of Speech Acts](https://github.com/ey92/notes/blob/master/1101/language-development-from-birth-to-12mo.png)
 
 ## First-Language Acquisition: Acquisition of Morphology, Syntax, and Word Meaning
+- begin consistently producing words of native language beginning at 12 mo
+- variance in stages doesn't indicate intelligence or quality of development
+
+### One-Word/Holophrastic Stage
+- children produce single word in isolation
+	- typically name people, objects, pets - important/familiar parts of environment
+	- next are verbs and useful words
+- **holophrastic stage**: phrases used by adults become merged into one word
+
+### Two-Word Stage
+- 18-24 mo
+- initially two one-word sentences
+- begin to produce two words with single intonation pattern and without pausing
+- sentence structure determined by semantic relationships
+	- agent + action
+	- action + object
+	- action + location
+	- entity + location
+	- possessor + possession
+	- entity + attribute
+	- demonstrative + entity
+- some diectic terms, some pronouns, 
+- lack function morphemes and words
+	- prepositions, auxiliary verbs, determiners, inflectional affixes
+- **telegraphic**, content-based speech
+
+### Later Stages of Development
+- three-word utterances initially formed by combining or expanding two-word utterances
+	- two two-word utterances share a common element
+	- one word in two-word utterance becomes two words
+- no clear three-word stage
+- longer utterances syntactically organized
+- still telegraphic speech
+- function morphemes acquired in rather consistent order
+	- verbs: -ing, -ed, -s
+	- nouns: -s, -'s
+	- articles: a, the
+	- highly irregular verb forms much later
+- _plurals_
+	- initially copy adults
+	- discover morpheme -s & apply to all nouns
+	- _overgeneralization_ of morpheme
+	- often leave sibilant-final nouns in singular form
+	- learn -əz and temporarily replace all plural endings
+	- sort environments, but irregular forms not learned by 5 yo
+- _negatives_
+	- initially sentence-initial "no"
+	- insert negative word between subject and verb (no, not, can't, don't)
+- _interrogatives_
+	- easiest to produce by rising intonation instead of syntactic structure
+	- at 3yo, use auxiliary verbs in yes/no questions
+		- still struggle with wh-words & associated word order
+
+### Acquisition of Word Meaning
+- trial-and-error from example uses
+- order of words learned reflects complexity of concept
+- children's meanings of words are not random deviations
+- _complexive concepts_
+	- incorrect or incomplete set of unifying characteristics
+	- try different characteristics with each use
+	- create set of objects without unifying characteristic
+- _overextensions_
+	- extend word's meaning beyond typical use by adults
+	- common properties usually perceptual features (e.g. shape, size, color, taste)
+	- missing properties for definition
+- _underextensions_
+	- older children with category names
+	- unsure of properties
+	- defined by ordinary members of categories
+	- fail to apply label to unusual members
+- overgeneralizations decrease dramatically after 2yo, after rapid vocabulary expansion
+- not all words involve identification of sets
+- _relational terms_ present complex concepts
+	- e.g. small/large involves absolute size of object in question and position on scale of similar objects
+- _diectic terms_
+	- refer to personal, temporal, or spatial apsects of an utterance
+	- word's meaning depends on context of situation
+	- no absolute distances to compare to
+- verbs typically more complex concepts
+	- inverse/converse happens and the same time from a different perspective, but only describe from one verb/perspective
+
 ## How Adults Talk to Young Children
+
 ## Bilingual Language Acquisition

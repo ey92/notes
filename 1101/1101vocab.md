@@ -538,3 +538,18 @@
 **babbling** - a phase in child language acquisition during which the child produces meaningless sequences of consonants and vowels; generally beginning at 6mo
 - **canonical/repeated babbling** - continuous repetition of sequences of vowels and consonants like [mamama] by infants
 - **variegated babbling** - production of meaningless consonant-vowel sequences by infants
+
+**holophrastic stage/one-word stage** - stage in first-language acquisition during which children can produce only one word at a time
+- **holophrase** - one-word sentence
+
+**telegraphic/two-word stage** - phase during child language acquisition in which children use utterances composed primarily of content words
+- **telegraphic utterances** - utterances containing primarily content words (in the style of a telegram with many function words and function morphemes left out)
+
+**overgeneralization** - a relationship between child and adult application of rules relative to certain contexts: a process in which children extend the application of linguistic rules to contexts beyond those in the adult language
+
+**complexive concept** - group of items (abstract or concrete) that a child refers to with a single word for which it is not possible to single out any one unifying property
+
+**overextension** - relationship between child and adult perception of word meaning: the child’s application of given word has wider range than application of the same word in adult language
+
+**underextension** - application of a word to a smaller set of objects than is appropriate for mature adult speech or the usual definition of the word
+
