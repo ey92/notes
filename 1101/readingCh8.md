@@ -230,5 +230,85 @@
 	- inverse/converse happens and the same time from a different perspective, but only describe from one verb/perspective
 
 ## How Adults Talk to Young Children
+- _child-directed speech_ slow, high-pitched, repetitions, simplified syntax, exaggerated intonation, simple and concrete vocabulary
+	- influenced by 3 things
+	- 1. ensure child understands utterance directed at child -> name, special tone, touch child
+	- 2. choose concepts to maximize child's chances of understanding (child's current state/actions, but not philosophy)
+	- 3. style of speaking most beneficial to child: quickly/slowly, long/short sentences
+
+### How Adults Get Children to Pay Attention
+- speakers depend on listeners to be cooperative and listening
+- use _attention getters_ and _attention holders_
+- 2 categories:
+	- names and exclamations
+	- modulations used to distinguish utterances addressed to young children
+		- high pitch/wider pitch range
+		- whisper/speak direcly into ears when nearby
+		- gestures - look, point, motion
+
+### What Adults Say to Young Children
+- observe & impose cooperative principle
+- make what they say relevant, usually about the "here" and "now"
+	- commentaries of children's actions or future actions
+	- talk about objects the children are interested in
+	- assumptions
+		- some words easier to pronounce for children than others
+		- some words more useful for children than others
+		- some words are hard to understand and should be avoided
+	- most languages have "baby talk"
+		- e.g. replace animal with sound
+		- use diminutive form (for some words)
+	- typically related to topics of young children
+		- kinship terms, nicknames, animals, toys, games, bodily functions and routines, 
+		- characterized by "level of utility"
+	- adults tend to leave out function words and word endings
+		- instead of using pronouns, repeat antecedent
+- encourage turn-taking in conversation, even during 1st few months of life - burps, smiles, yawns, etc.
+	- implicit and explicit information about conversational turns as soon as one-word and two-word stage
+	- expand on topic introduced by child
+	- prompt questions for child to answer
+- make corrections
+	- rarely correct child's contributions
+	- usually semantic, as opposed to grammatical
+	- focus on the truth value and intelligibility rather than the composition
+
+### How Adults Talk to Children
+- about half the speed of speech to adults
+	- faster as children grow older
+	- more pauses between words rather than stretching out words
+- short sentences
+- much repetition
+	- provide structural information about how the repeated unit can be used
+- speech intended for adults doesn't necessarily help children acquire language
 
 ## Bilingual Language Acquisition
+- simultaneous bilingualism: child learns multiple languages from birth
+- sequential bilingualism: child begins learning new language as a young child
+- second-language acquisition - learn second language later in life
+
+### Bilingual First-Language Acquisition
+- if child receives sufficient input from two languages, grow up sufficiently bilingual with native proficiency in both
+- children will become competent speaker of a language if at least 25% of input is in that language
+	- learn by interacting with another speaker in that language
+	- not enough to just hear speech
+- bilingual children can differentiate languages at 4yo
+- **language mixing/code-switching** is a typical feature of bilingual speakers' speech
+	- happens when speaker knows audience also bilingual
+	- potentially strategy to avoid words that are hard to pronounce
+
+### Bilingual vs. Monolingual First-Language Acquisition
+- bilingual children may lag in vocabulary, but are more advanced in concepts of abstractness
+- catch up by puberty
+- often only inhibited by environment, not brain's capabilities
+
+### Second-Language Acquisition
+- people who learn another language later in life usually attain different levels of competence
+- learn syntax and vocabulary, but have difficulty with learning the entire phonological system
+	- most have foreign accent
+- non-native forms, as a result of morpho-syntax of pronunciation can become fixed and not change (_fossilization_)
+- native language impacts how well speaker learns another language (_transfer_)
+	- positive transfer - facilitates learning/negative transfer - inhibits learning
+	- specialization of sounds for sounds in native language
+- learning a second language requires having a native language
+	- feral and deaf children are unable to pick up a new language later
+- other factors: age, memory, motivation, context

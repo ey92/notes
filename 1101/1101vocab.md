@@ -553,3 +553,22 @@
 
 **underextension** - application of a word to a smaller set of objects than is appropriate for mature adult speech or the usual definition of the word
 
+**infant-directed/child-directed speech** - speech used by parents or caregivers when communicating with young children or infants; in many Western societies, is slow, high-pitched, has many repetitions, simplified syntax, exaggerated intonation, and a simple and concrete vocabulary
+- **attention getter** - word or phrase used to initiate an address to children
+- **attention holder** - tactic used to maintain children’s attention for extended amounts of time
+
+**conversational turn** - contribution to a conversation made by one speaker from the time that she takes the floor from another speaker to the time that she passes the floor on to another speaker
+
+**bilingual** - state of commanding two languages; having linguistic competence in two languages
+- **simultaneous bilingualism** - bilingualism in which both languages are acquired from infancy
+- **sequential bilingualism** - bilingualism in which the second language is acquired as a young child
+
+**multilingual** - state of commanding three or more languages; having linguistic competence in three or more languages
+
+**language mixing/code-switching** - using words or structural elements from more than one language within the same conversation (or even within a single sentence or phrase)
+
+**foreign accent** - accent that is marked by the phonology of another language or other languages that are more familiar to the speaker
+
+**fossilization** - process through which forms from a speaker’s non-native language usage become fixed (generally in a way that would be considered ungrammatical by a native speaker) and do not change, even after years of instruction
+
+**transfer** - influence of one’s native language on the learning of subsequent languages (which can facilitate or inhibit the learning of the second language)
