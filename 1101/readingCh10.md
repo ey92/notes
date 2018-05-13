@@ -58,6 +58,42 @@
 - West: generally hybrid pronunciation, but Northern grammar
 
 ## Factors Influencing Variation: Social Factors
-
+- socioeconomic variation
+	- show solidarity with particular socioeconomic group or difference from another group
+	- associated with levels of education
+	- NYC r-drop in poorer areas
+- age variation
+	- younger generation introduces new word uses or sentence structure
+- gender variation
+	- depends on culture
+	- direct/indirect speech, confrontational, public speech, quietness
+	- usually tied to social roles that each gender plays
+- **community of practice** - group of people who come together to share some activity or lifestyle
+- ethnic variation
+	- pronunciations, words, and constructions from ethnic group's original language
+	- compounded with identity
+	- African American English (AAE)
+		- monophthongization before voiced consonants or word final
+		- final consonant cluster reduction
+		- absence of 3PS -s suffix
+		- habitual be
+	- Chicano English 
+		- many 3rd-gen, little fluency in Spanish
+		- symbolically reference Latino and Hispanic cultural heritage & identity
+		- /oʊ/ -> /o/, /ɪŋ/ -> /iŋ/, /ɑ/ -> /ɔ/ (Spanish only has 5 monophthong vowels)
+		- simple past tense forms
+		- topicalization
+	- Lumbee English
+		- Native Americans east of Mississippi
+		-  /ɑɪ/ -> /ɔɪ/
+		- word-final [ɹ]
+		- tobacco/baccer, potato/tater (syl reduction)
+		- habitual be
+		- unique lexical items
 
 ## Language and Identity
+- language to signal identity & associate with certain groups
+- social stereotypes
+	- British -> educated
+	- Southern -> uneducated
+- difficult to predict language use from social background

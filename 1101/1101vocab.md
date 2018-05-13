@@ -824,13 +824,18 @@
 
 **isogloss** - line drawn on a dialect map marking the boundary of an area where a particular linguistic feature is found
 - **bundle of isoglosses** - set of isoglosses surrounding the same geographic region or distinguishing the same group of speakers, marking a particular language variety
+- **Northern Cities Shift** - systematic rotation of the vowel space found in speakers in the northern region of the United States
+- **double modal** - use of two modals in a single verb phrase, as in might could or might should
+- **a-prefixing** - process of attaching the prefix a- to the beginning of certain verbs in English, as in a-running
+- **multiple negation** - process of using more than one marker of negation when only one such marker would be used in Standard American English
+- **/l/-vocalization** - process of pronouncing syllable-final /l/ as a vowel or a glide
+- **near merger** - when two sounds have become so phonetically close to one other that observers claim they are merged and even their speakers have trouble perceiving the distinction
+- **near-homophones** - words that are sometimes pronounced the same, but sometimes are pronounced differently; often the result of a near merger
 
-**Northern Cities Shift** - systematic rotation of the vowel space found in speakers in the northern region of the United States
+**community of practice** - group of people who come together to share some activity or lifestyle
 
-**double modal** - use of two modals in a single verb phrase, as in might could or might should
+**habitual** - use of an uninflected form of the verb to be to indicate that a state or activity is habitual
 
-**a-prefixing** - process of attaching the prefix a- to the beginning of certain verbs in English, as in a-running
-**multiple negation** - process of using more than one marker of negation when only one such marker would be used in Standard American English
-**/l/-vocalization** - process of pronouncing syllable-final /l/ as a vowel or a glide
-**near merger** - when two sounds have become so phonetically close to one other that observers claim they are merged and even their speakers have trouble perceiving the distinction
-**near-homophones** - words that are sometimes pronounced the same, but sometimes are pronounced differently; often the result of a near merger
+**discourse analysis/conversational analysis** - study of the use of language in a discourse or conversation. Discourse analysts examine the structure of the information flow of speech, the interdependencies of sentences in speech, and other aspects of language use
+
+**centralization** - process by which a speaker’s pronunciation of a vowel approaches that of the central vowels [ə] or [ʌ]
