@@ -580,3 +580,96 @@
 **psycholinguistics** - the study of how the human mind processes language in the perception, production, storage, and acquisition of language
 
 **neurolinguistics** - the study of the neural and electrochemical bases of language development and use
+
+**right hemisphere** - right half of the brain, which is in charge of processing music, perceiving nonlinguistic sounds, and performing tasks that require visual and spatial skills or pattern recognition; receives and controls nerve input from the left half of the body
+
+**left hemisphere** - left side of the brain; the location of many language-controlling parts of the brain for most people; receives and controls nerve input from the right half of the body
+
+**temporal lobe** - area in the brain associated with the perception and recognition of auditory stimuli
+
+**frontal lobe** - area of the brain concerned with higher thinking and language production
+
+**occipital lobe** - area of the brain associated with many aspects of vision
+
+**parietal lobe** - area of the brain that is least involved in language perception and production
+
+**corpus callosum** - bundle of nerve fibers in the brain that is the major connection between the two hemispheres; partially severed in split-brain patients
+
+**cortex** - outer surface of the brain responsible for many of the brain’s cognitive abilities or functions
+- **gyrus** - protrusion in the cortex of the brain’s hemispheres that serves as a physical landmark for the identification of different sections of the brain
+- **fissure** - depression in the cortex of the brain’s hemispheres that serves as a physical boundary for the identification of different sections of the brain
+- **Sylvian Fissure** - a large horizontal fold located in the middle of each hemisphere of the brain that separates the temporal lobe from the frontal lobe of the brain
+
+**language centers** - parts of the cortex of the brain used in production and comprehension of language
+- **superior temporal gyrus (STG)** - upper portion of the temporal lobe; the left STG is involved in sound processing and mapping physical sounds to linguistic phones
+- **middle temporal gyrus (MTG)** - middle portion of the temporal lobe; the left MTG is involved in processing word meaning
+- **inferior temporal gyrus (ITG)** - lower portion of the temporal lobe; the left ITG is involved in processing word meaning
+- **inferior frontal gyrus (IFG)/Broca's Area** - lower portion of the frontal lobe; the left IFG organizes articulatory representations of language and coordinates motor commands for speech
+
+**auditory cortex** - language center of the brain located in the superior temporal gyrus (STG) next to the Sylvian fissure; responsible for receiving and identifying auditory signals and converting them into a form interpretable by other language centers of the brain
+
+**Sylvian Parietotemporal/Wernicke's area** - region at juncture of the parietal and temporal lobes grouped with posterior STG; the left SPT involved in converting phonological into motor representations
+
+**motor cortex** - posterior portion of the frontal lobe; responsible for signaling voluntary muscle movements
+
+**dorsal pathway** - connects Sylvian parietotemporal area (SPT) with inferior frontal gyrus (IFG) via arcuate fasciculus; primarily used to pass phonetic and phonological detail
+- **arcuate fasciculus** - bundle of nerve fibers in the brain connecting the Sylvian parietotemporal area (SPT) with the inferior frontal gyrus (IFG); primarily responsible for sharing of phonetic and phonological information between these centers
+
+**ventral pathway** - connects Sylvian parietotemporal area (SPT) with inferior temporal gyrus (ITG) via extreme capsule; primarily used to pass semantic information
+- **extreme capsule** - bundle of nerve fibers in brain connecting Sylvian parietotemporal area (SPT) with inferior temporal gyrus (ITG); primarily used to pass semantic information
+
+**lateralization** - specialization of brain hemispheres for different cognitive functions
+- **neural plasticity** - ability of brain to adapt to damage in one region by reassigning processing functions to another region
+- **contralaterality** - property of the brain such that one side of the body is controlled by the opposite hemisphere of the brain: the left hemisphere controls the right side of the body, and the right hemisphere controls the left side of the body
+
+**dichotic listening task** - experiment that presents two different sounds (speech and/or nonspeech) simultaneously, one in each ear; participants indicate which sound they have heard
+
+**split brain patient** - individual whose corpus callosum has been surgically disconnected (a procedure once commonly used in the treatment of severe epilepsy)
+
+**hemispherectomy** - operation in which one hemisphere or part of one hemisphere is surgically removed from the brain
+
+**aphasia** - acquired inability to perceive, process, or produce language because of physical damage to the brain
+- **Broca's Aphasia** - inability to plan the motor sequences used in speech or sign owing to damage to the inferior frontal gyrus (IFG)
+- **Wernicke's Aphasia** - speech disorder commonly associated with damage to the Sylvian parietotemporal (SPT) area and posterior parts of the superior temporal gyrus (STG) (i.e., Wernicke’s area) that involves the inability to understand linguistic input
+- **anosognosia** - any aphasia in which the aphasic is unaware that he has aphasia. Frequent in Wernicke’s aphasics who often seem to believe their speech is interpretable by others when in fact it is not
+- **conduction aphasia** - type of aphasia thought to be caused by damage in the superior temporal gyrus (STG); patients are able to comprehend the speech of others, but make characteristic phonological errors in their own speech, especially when trying to repeat back the speech of others
+- **agraphia** - Language disorder caused by damage to the angular gyrus; characterized by an acquired inability to write words; often accompanied by alexia
+- **alexia** - language disorder caused by damage to the angular gyrus; characterized by an acquired inability to read and comprehend words; often accompanied by alexia
+
+**affective facial expressions** - facial expression that conveys an emotion such as sadness, happiness, anger, fear, surprise, etc
+
+**linguistic facial expressions** - non-manual marker
+
+**Specific Language Impairment (SLI)** - disorder that affects the way people process language and other quickly changing stimuli
+
+**speech production** - processes involved in producing speech and sign
+
+**serial** - pertains to a model of speech processing in which different stages of the model form a series or succession, each influencing only those that follow
+
+**parallel** - pertains to a model of speech processing in which different stages are all processed simultaneously and influence each other
+
+**phonetic reduction** - process by which the phonetic detail of words is reduced, with some phonemes shortened or dropped entirely; more common when words are repeated or are highly predictable from context
+
+**production error** - inadvertent flaws in a speaker’s use of his or her language: “slips of the tongue” or “slips of the hands”
+
+**anticipation** - production error in which a later unit is substituted for an earlier unit or in which a later unit is added earlier in an utterance
+
+**persevaration** - production error in which an earlier unit is substituted for a later unit or in which an earlier unit is added later in an utterance
+
+**addition** - production error involving the addition of extra units (out of the blue)
+
+**deletion** -  production error involving the inadvertent omission of units
+
+**metathesis** - switching of the order of two sounds, each taking the place of the other
+- **spoonerism** - production error in which the first sounds of two separate words are switched
+
+**shift** - production error in which a linguistic unit is moved from one location to another
+
+**substitution** - production error in which one unit is replaced with another
+- **malapropism** - performance error by which a speaker uses a semantically incorrect word in place of a phonetically similar word
+
+**blend** - production error in which two words “fuse” into a single item
+
+**lexical bias effect** - describes the fact that phonological errors give rise to real words more often than chance would predict
+
+**propioception** - our sense of where our body parts are and how they are moving
