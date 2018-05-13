@@ -673,3 +673,90 @@
 **lexical bias effect** - describes the fact that phonological errors give rise to real words more often than chance would predict
 
 **propioception** - our sense of where our body parts are and how they are moving
+
+**speech perception** - processes involved in understanding speech and sign
+
+**lack of invariance** - problem in speech perception because no sound is ever produced exactly the same way twice
+
+**speaker normalization** - modification of our expectations or judgments about linguistic input to account for what we know about the speaker
+
+**categorical perception** - phenomenon by which people perceive entities differently after learning to categorize them: differences within categories are compressed, and differences across categories are expanded
+
+**rate normalization** - modification of our expectations or judgments about linguistic input to account for what we know about the speech rate
+
+**phoneme restoration** - hearing a sound that was not actually produced, because the sound fits in the context of the utterance
+
+**lexical access** - process by which we determine which word we are hearing
+
+**full-listing hypothesis** - hypothesis that every word is stored as a separate entry in the mental lexicon
+
+**resting activation** - baseline level of how likely it is that a word or a phoneme will be recognized
+
+**spreading activation** - activation that flows from words just accessed to other related words, raising (or sometimes inhibiting) the resting activation of those related words
+
+**frequency effect** - additional ease with which a word is accessed owing to its repeated occurrence in the discourse or context
+
+**recognition priming** - type of priming in which a word is accessed more easily because of its recent occurrence, having primed itself
+
+**activation threshold** - amount of activation needed before a word is recognized in lexical access
+
+**cohort model** - model of lexical access in which possible words in the mental lexicon are identified based on the initial sounds of the word; impossible words are eliminated as the auditory input progresses; a word is accessed once all other competitor words are eliminated
+
+**initial cohort** - the words that are activated as possible candidates when the first sound of a word is perceived
+
+**cohort** - set of all the words that remain on the “list of possible words” as the auditory input progresses
+
+**uniqueness point** - point in the articulation of a word at which the word can be uniquely identified relative to all other words in the language that may begin with the same sound or sequence of sounds
+
+**neural networks** - computer models that simulate brain functions via many simple units and the connections between these units
+
+**neuron** - nerve cell
+
+**TRACE model** - influential neural network model of lexical access; Three layers of nodes represent features, phonemes, and words; activation flows upward from one layer to the next and may flow back from words to phonemes
+
+**syntactic parsing** - analysis (by a human or computer) of the syntactic structure of a sentence; the reconstruction of the syntactic structure from a string of words
+
+**temporal ambiguity** - structural ambiguity that is present up until some point during the processing of a sentence but that is resolved by the end of the sentence (because, in fact, only one of the original parses is consistent with the entire sequence of words)
+
+**garden path effect** - phenomenon by which people are fooled into thinking a sentence has a different structure than it actually does because of a temporary ambiguity
+
+**unparsable** - describes a phrase or sentence that is grammatical, yet for which a person is unable to determine the syntactic structure, often due to the garden path effect
+
+**globally ambiguous** - type of structural ambiguity that isn’t resolved by the end of the utterance
+
+**heuristic model** - model of sentence parsing in which we rely on a few universal rules of thumb, such as late closure, to resolve structural ambiguities
+- **late closure** - proposed universal parsing principle according to which incoming material is incorporated into the phrase currently being processed if possible
+
+**constraint-based model** - models of sentence parsing in which context, frequency, and specific lexical information can influence decisions about structural ambiguities
+
+**prosodic break** - intonational cues in the speech continuum that cause the parser to divide the continuum into discrete units
+
+**control conditions** - experimental condition that serves as a baseline against which results from the target condition(s) may be compared
+
+**functional magnetic resonance imaging (fMRI)** - neuro-imaging technique that monitors blood oxygenation levels in different parts of the brain to determine which brain regions are used for a particular task
+
+**diffusion magnetic resonance imaging (dmRI)** - neuro-imaging technique that monitors the flow of water through particular brain regions to see how different regions are connected
+
+**electroencephalography (EEG)** - experimental technique using network of electrodes on scalp to detect small changes in electrical activity from brain, usually in response to some experimental stimuli
+
+**magnetoencephalography (MEG)** - experimental technique using extremely sensitive magnets to detect small changes in magnetic fields generated by brain, usually in response to some experimental stimuli
+
+**event-related-potentials (ERP)** - consistent changes in brain’s electrical or magnetic fields that occur in reaction to particular stimuli of interest to experimenter; generally detected via EEG or MEG tests
+
+**online task** - any task that is designed to reveal what happens during a process and when during the process it happens
+
+**offline task** - any task that measures the final result of a process but not what happens during the process
+
+**metalinguistic task** - any experimental method that requires the person to use explicit knowledge about her language to make judgments about a word or sentence, instead of just using the language
+
+**lexical decision experiments** - experimental protocol in which a participant is asked to identify stimuli as words or nonwords and the decision time is measured
+
+**naming task** - task in which a participant responds to a stimulus by saying the word for the stimulus aloud while an experimenter measures the response time
+
+**priming** - any experimental task in which participants are presented with a stimulus right before the stimulus of interest in order to see how or whether presentation of the earlier stimulus affects response to the stimulus of interest
+- **prime** - stimulus presented in a priming task right before the stimulus of interest
+- **target** - stimulus of interest that follows the prime
+
+**eye-tracking** - experimental protocol in which participants’ eye movements (where the eyes are looking at any given time) are recorded, allowing researchers to draw conclusions about processing
+
+**self-paced reading** - experimental protocol in which participants read a sentence in small chunks, usually one word at a time, and push a button to move on to the next word or chunk of words

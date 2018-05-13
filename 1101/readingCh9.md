@@ -73,7 +73,7 @@
 - **ventral pathway** - connects STG and MTG/ITG with IFG via extreme capsule
 	- **extreme capsule** - analyze semantics of incoming speech & aid syntactic processing
 
-![brain connecting pathways](https://github.com/ey92/notes/blob/master/1101/connecting-pathways.png)
+![brain connecting pathways](https://github.com/ey92/notes/blob/master/1101/brain-pathways.png)
 
 ### Produce Spoken Word
 | brain region | responsibility |
@@ -191,6 +191,7 @@
 - **blend** - two words "fuse" into single item
 
 | Intended Utterance | Actual Utterance | Error Type |
+| ------------------ | ---------------- | ---------- |
 | splicing from one tape | splacing from one tape | anticipation |
 | splicing from one tape | splicing from one type | perseveration |
 | spic and span | spic and splan | addition |
@@ -206,7 +207,110 @@
 - motions, hand shapes, etc
 
 ## Speech Perception
+- receiving and interpreting messages
+- **lack of invariance** problem requires _speaker normalization_
+	- gender, size -> average frequencies & pitch
+	- **categorical perception** - differences within categories compressed; differences between categories expanded
+		- Voice Onset Time shows categorical perception of voiced/voiceless consonants
+		- occurs as result of exposure to native language
+		- important for distinguishing consonants more than vowels
+- context
+	- articulation of sound affected by surrounding sounds
+	- [k] in cat further forward than [k] in cool
+- **rate normalization**
+	- modify expectations about linguistic input to account for speech rate
+- **McGurk Effect**: partially rely on visual information to decode sound
+	- show [ga] and play [ba] -> hear [da]
+- phonotactic constraints - English allows [sk] but not [ʃk]
+- mental lexicon - perceive phones to build existent words
 
 ## Lexical Access
+- process by which we determine which word we are hearing
+- mental lexicon
+	- recognize roots + affixes and how their meanings combine
+- **full-listing hypothesis** - hypothesis that every word is stored as a separate entry in the mental lexicon
+- **affix-stripping hypothesis** - hypothesis that each morpheme is stored individually in the mental lexicon
+- modern theory is a mix: direct lookup vs affix stripping
+	- store frequent words as whole words
+	- list less frequent words with affixes removed
+- every word has a _resting activation_
+- _spreading activation_ is given to to words related to words recently heard
+	- raises or inhibits resting activation
+- _frequency effect_ increases activation of frequently used words
+- _repetition priming_: recently heard words will be recognized more easily
+- _activation threshold_: amount of activation required for word to be recognized in lexical access
+
+### Cohort Model
+- word recognition begins as soon as 1st phoneme identified
+	- generate **initial cohort** - all known words with initial sound
+	- other words removed from **cohort** - remaining possible words
+	- repeat until one item left - **uniqueness point**
+- uniqueness point helpful in measuring consistent results for word recognition
+- difficult to identify word boundaries in running speech
+
+### Neural Network Models
+- based on neural networks, modeled on neurons
+- input nodes activate neighboring nodes until reach output node
+- **TRACE model**
+	- influential neural network model of lexical access
+	- 3 layers: features, phonemes, words
+	- activation flows upward from one layer to the next and may flow back from words to phonemes
+
+### Lexical Ambiguity
+- single word is the form of 2+ linguistic expressions differing in meaning or syntactic property
+- all possibilities considered
+- resolved by frequency and context
+
 ## Sentence Processing
+- immediately start **syntactic parsing**
+	- evidenced by disambiguation of ambiguous sentences (structural ambiguity)
+- **temporal ambiguity** - sentence structure is temporarily ambiguous, but is no longer ambiguous when parsing reaches end of sentence
+- **garden path effect** - listener temporarily parses an unintended meaning due to temporal ambiguity
+	- some remain _unparsable_ for some people, potentially due to lexically ambiguous words
+	- shows that people try one parse first before trying other possibilities 
+- **globally ambiguous** - string of words remain ambiguous by end of sentence
+
+#### Determining Initial Sentence Structure
+- **heuristic model** - rely on universal rules of thumb to resolve structural ambiguities
+	- **late closure** - incoming words attached to current phrase, building phrase as long as grammatically possible
+- **constraint-based model** - nonsyntactic factors like sentence context and real-world knowledge influence syntactic parsing
+- **intonation**: **prosodic break** between phrases
+	- not included in written sentences, making them harder to parse
+- cannot always disambiguate sentences
+
 ## Experimental Methods in Psycholinguistics
+- experimental **control conditions** & enough data for statistically significant conclusions
+- measure brain activity
+
+#### MRI (magnetic resonance imaging)
+- **fMRI**
+	- which physical sensations or activities activate which parts of the brain
+	- blood flow in the brain: increased brain activity -> increased blood flow; active nerves consume oxygen
+- **dMRI**
+	- connections between brain regions
+	- water flow in the brain
+- participants can't move, so tasks restricted
+- given audio or visual stimuli, told to think about something
+- much spatial information but slow
+- bad for capturing time information about language processing
+
+#### EEG & MEG
+- **EEG (electroencephalography)**: changes in electric field given off by brain
+- **MEG (magnetoencephalography)**: changes in magnetic field given off by brain
+- result: **ERP (event-related potentials)**
+- can be used to study time course of event to ms
+- MEG also has good spacial information, but expensive
+
+### Tasks
+- **online task** - catch language processing as it is happening
+- **offline task** - evaluate results of completed linguistic process
+- **metalinguistic task** - participant required to explicitly use knowledge of language to make judgments of words or sentences
+- **lexical decision experiments** - identify stimuli as words or non-words; measure time to decide
+- **naming task** - name stimulus aloud; measure time
+- combine with **priming**, with **prime** and **target**
+- **eye-tracking** also to test speed of comprehension/processing
+- **self-paced reading**
+	- figure out what happens during reading
+	- read (temporarily ambiguous) small chunks of words at a time
+	- time how long to understand disambiguating word
+	- longer time -> correct structure was not the initial read
