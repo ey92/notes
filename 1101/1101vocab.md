@@ -760,3 +760,77 @@
 **eye-tracking** - experimental protocol in which participants’ eye movements (where the eyes are looking at any given time) are recorded, allowing researchers to draw conclusions about processing
 
 **self-paced reading** - experimental protocol in which participants read a sentence in small chunks, usually one word at a time, and push a button to move on to the next word or chunk of words
+
+---
+
+## Ch. 10 Language Contact
+
+**internal variation** - property (of languages) of having more than one way of expressing the same meaning
+
+**language variety** - any form of language characterized by systematic features, ranging from idiolects to dialects to distinct languages 
+
+**idiolect** - language variety of an individual speaker
+
+**sociolinguistics** - study of interrelationships of language and social structure, of linguistic variation, and of attitudes toward language
+
+**dialect** - variety of a language defined by both geographical factors and social factors, such as class, religion, and ethnicity
+
+**accent** - systematic phonological variation inherent in any person’s speech
+
+**speech community** - group of people speaking the same dialect, usually defined by factors such as geographical distribution, age, gender, and socioeconomic status
+
+**extralinguistic factors** - factors influencing language variation not based in linguistic structure, such as region, socioeconomic status, ethnicity, etc
+
+**communicative isolation** - situation in which group of speakers forms coherent speech community relatively isolated from speakers outside that community
+
+**mutual intelligibility** - situation in which speakers of different language varieties are able to understand and communicate with one another
+
+**dialect continuum** - situation in which a large number of contiguous dialects exist, each mutually intelligible with the next, but with the dialects at either end of the continuum not being mutually intelligible
+
+**speech style/register** - way of speaking marked by degrees of formality (i.e., formal versus informal, casual versus careful)
+- **style shifting** - automatically switching between styles
+
+**slang** - words or expressions used in informal settings, often to indicate membership in a particular social group
+- **common slang** - type of slang that is fairly neutral and is simply informal, everyday language
+- **in-group slang** - type of slang that is associated with a particular group at a particular time
+
+**standard dialect** - variety of a language that is used by political leaders, the media, and speakers of higher socioeconomic classes and that is taught in schools; the variety of a languages associated with (overt) prestige
+
+**nonstandard dialects** - any variety of a language not considered to be representative of the prestige or standard variety
+
+**prestige** - having high standing or respect in a community; can be overt or covert
+- **overt prestige** - type of prestige attached to a particular variety of language by the community at large that defines how people should speak in order to gain status in the wider community
+- **covert prestige** - type of prestige that exists among members of nonstandard speech communities that defines how people should speak in order to be considered members of those particular communities
+
+**prescriptive standard** - standard by which a society makes judgments of “right” or “wrong”
+
+**hypercorrection** -  act of producing nonstandard forms by way of false analogy to standard forms
+
+**Standard American English (SAE)** - standard dialect of English spoken in the United States
+
+**bidilectal** - having mastery of two dialects
+
+**non-rhotic** - language variety in which sequences of vowel-/r/-consonant or vowel-/r/-word boundary are not permitted to occur
+
+**rhotic** - language variety in which sequences of vowel-/r/-consonant or vowel-/r/-word boundary are permitted to occur
+
+**regional dialect** - variety of language defined by region or geography
+
+**social dialect** - variety of a language defined by social factors such as age, religion, ethnicity, or socioeconomic status
+
+**regional variation** - internal variation of a language based on region or geography
+
+**dialectologist** - person who studies regional dialects and regional variation
+
+**isogloss** - line drawn on a dialect map marking the boundary of an area where a particular linguistic feature is found
+- **bundle of isoglosses** - set of isoglosses surrounding the same geographic region or distinguishing the same group of speakers, marking a particular language variety
+
+**Northern Cities Shift** - systematic rotation of the vowel space found in speakers in the northern region of the United States
+
+**double modal** - use of two modals in a single verb phrase, as in might could or might should
+
+**a-prefixing** - process of attaching the prefix a- to the beginning of certain verbs in English, as in a-running
+**multiple negation** - process of using more than one marker of negation when only one such marker would be used in Standard American English
+**/l/-vocalization** - process of pronouncing syllable-final /l/ as a vowel or a glide
+**near merger** - when two sounds have become so phonetically close to one other that observers claim they are merged and even their speakers have trouble perceiving the distinction
+**near-homophones** - words that are sometimes pronounced the same, but sometimes are pronounced differently; often the result of a near merger
