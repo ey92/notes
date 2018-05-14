@@ -115,14 +115,14 @@ Why is constant change a good strategy good for IT business?
 e.g. Google -> automobiles; Uber -> trucking; Apple -> music
 1. Ease of Imitation
     - to prevent competitors from imitating, you create an arms race of technologies
-    constantly build up on the lead that you hve
+    constantly build up on the lead that you have
     e.g. Snapchat, iPhone, Bitcoin
 2. Synergies between Technologies
     - there are shared components among many technologies
-    - one the shared component is in place, expanding into new areas is cheap with high returns
+    - once the shared component is in place, expanding into new areas is cheap with high returns
     e.g. cloud computing by Google and Amazon, ebay & payment
 3. Substitutability of Technologies
-    - threats can come from anywhere, because there s substitutability among technologies
+    - threats can come from anywhere, because there is substitutability among technologies
     - Google Search threatened by Facebook; search vs. social networks
     - "social shopping"
 4. Fast-Changing Technology Environment
@@ -141,7 +141,7 @@ e.g. Google -> automobiles; Uber -> trucking; Apple -> music
 - IT is designed to support communication and information processing
 
 ## 2 Hypotheses
-1. IT is the tool of trade for managers and ofen lead to new forms and styles of management
+1. IT is the tool of trade for managers and often lead to new forms and styles of management
 2. IT is a significant tool for intermediaries, and often leads to new types of intermediation
 Questions: 
 - What does IT do for managers and intermediaries?
@@ -151,10 +151,10 @@ Questions:
 
 # Communication and Conferencing, Virtual Corporation
 - communication technologies provide simple examples for several complex concepts
-    -tool-taks  fit, business processs reengineering
-        * webcasting and conferencing: consulting, education
+    - tool-task fit, business process reengineering
+        - webcasting and conferencing: consulting, education
     - impact of IT on management
-        * doc sharing, coordination
+        - doc sharing, coordination
     - impact of IT on intermediaries
 
 ## Classification
@@ -175,7 +175,7 @@ _content_: text, graphics, audio, video
 | many:many | group meetings |
 
 #### 1:M synchronous with audio-video/broadcasting
-- loudspeaker -> charismatic dictators (publci speakers)
+- loudspeaker -> charismatic dictators (public speakers)
 - live TV -> looks/image
 - Twitter -> short slogans
 - _medium is the message_ - medium distorts the message
@@ -186,14 +186,14 @@ _content_: text, graphics, audio, video
     * webcasting drastically reduced cost
 
 #### Drop in cost of technology often creates entrepreneurial opportunities
-- parentwatch.com webcasting daycare, samething for pets
+- parentwatch.com webcasting daycare, same thing for pets
 - education: distant learning
 
 #### Asynchronous Education is even cheaper
 - change education system to take advantage
 - massive open online courses (MOOCs)
 - _intelligent books_
-- online education generally considered loewr quality
+- online education generally considered lower quality
     - -> threatens lower level universities, but elitist universities may remain unaffected
 
 | | benefits |
@@ -203,7 +203,7 @@ _content_: text, graphics, audio, video
 
 #### Low Quality as a Competitive Strategy
 - in technology business, lower quality and cheaper competition is a concern
-    * with technologies that improve over time, low quality technologies can upgrade to mainstream, and high quality technologies become extravagant
+    - with technologies that improve over time, low quality technologies can upgrade to mainstream, and high quality technologies become extravagant
 - everyone's technology improves -> eventually the cheap option becomes good enough
     - high quality product may become less desirable, even at the same price
     - user experience - simple is better
@@ -219,7 +219,7 @@ _content_: text, graphics, audio, video
 - improvements: more interactivity, personal customization
 
 #### Groupware and Consulting
-- conerestone systems consulting co.: custom business software
+- cornerestone systems consulting co.: custom business software
 -teams and client meetings via Cisco's Webex Conferencing
     - save time and money
     - place yourself closer to complex information and further from simpler information
@@ -237,8 +237,98 @@ _content_: text, graphics, audio, video
     - too little: no work done
     - too much: treating employees as robots doesn't take advantage of their skills
 
+## Impact of many:many Communication Tools on Management and Intermediaries
+- many:many synchronous communication is the reason for offices
+    - bring work groups together physically for easy communication and coordination
+- **virtual office**
+    - geographically dispersed employees meet electronically to work as a team
+    - requires conferencing and document sharing
+
+### Virtual Corporation
+- employees from _different_ firms work together as a single team
+- **virtual corporation**
+    - collection of loosely coupled businesses that can act as a single firm
+    - rapidly band and disband
+    - enabled by employees rapidly forming teams of collaboration electronically as if in same office
+- Rosenbluth International Alliance (RIA)
+    - travel agency owned by Amex
+    - accommodate travel plans with local information
+    - virtual corporation of 2000 travel agents
+    - independent businesses using document sharing to cooperate
+        - synchronous
+- subcontracting
+    - film production and concert tours
+    - require large number of people from variety of businesses to come together for a project
+    - McKinsey "rapid response team" links consultant with problem to all others who may have useful information (multi-organizational teams)
+    - Uber: all operations outsourced to independent contractors
+        - drivers do not have to cooperate to serve customer
+        - platform easy to imitate - easy market entry & leave
+        - reduces market power, lowering prices and profits
+        - driverless cars: will reduce costs, more capital intensive, and more difficult for business to enter
+        - more complex platform: cut costs, make drivers more dependent on team & algorithms
+            - e.g. multiple customers to same destination, or single customer switches rides, share segment of the ride
+- advantages
+    - organizational flexibility: rapid response to opportunities and problems
+        - adapt to fast-changing environment
+    - operational efficiency of specialization
+- disadvantages
+    - coordination cost
+    - loss of control with subcontractors
+- new model for all corporations and social institutions
+
+### Asynchronous Communication
+- store information during delay
+    - additional complexity from storage
+- management reports asynchronous
+    - information needs to be stored, processed, aggregated, and delivered
+- 3 issues: 
+    - where to store information
+    - where to process point
+    - how to move information from point to point
+    - (physical goods - logistics: warehousing, manufacturing, transformation)
+
+### Information Logistics/Network Management
+- study of movement and storage information
+- Baxter Healthcare
+    - distributor for everything hospital needs
+    - physical and information logistics inseparable
+        - information to know what goes where & when
+        - can't do physical logistics without information logistics
+    - information logistics very complicated with its own private network linking member hospitals
+    - easier now with public networks like the Internet
+    - just-in-time delivery relies on information logistics
+    - DO NOT delegate to technical staff; it is a managerial issue/decision
+- Alexander the Great
+    - use local food supply
+    - time conquest with harvest
+    - scouts and messengers
+    - information needs to arrive at the right time
+    - multi-step planning
+- need to collect, organize, and move information
+    - can be very slow and costly without the right infrastructure
+- move physical resources on that bases, and complete the task
+
+### Client-Server Architecture
+- servers contain shared resource and deliver to others
+- clients contain local resources and request from servers
+- determine shared/local resources
+- tradeoff: 
+    - too much on server: heavy network load
+    - too much on client: redundancy & dynamic information (hard to update)
+- infrastructure companies have to predict future costs
+- Oracle wanted to put Windows and Office on a server
+    - bet on low network costs vs local processing and maintenance
+    - competitive strength in server software
+    - **cloud computing**: business applications reside and running on servers that are accessed remotely over networks
+    - Google Cloud, AWS, Oracle Cloud, MS Azure, Citrix Cloud Platform
+    - need good network connection (**thin clients/network computers**)
+        - chromebook, xoom tablet, amazon fire tablet, smartphone server apps, OLPC
+- built-in access points everywhere
+    - buildings, cars, street corners - login and gain access to data to connect with others
+    - (previously payphones)
+
 ---
-missing lectures 2/5, 2/7
+missing lecture 2/7
 ---
 
 # Networks
