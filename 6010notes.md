@@ -1081,7 +1081,7 @@ Interactive Data Page
 
 ## 5 Organizational Issues (Analysis of) with Digital Products
 1. Quality and Electronic Distribution
-2. Copyright ans Sharing
+2. Copyright and Sharing
 3. Customization and Interactivity
 4. Communities
 5. Price Discrimination
@@ -1410,7 +1410,7 @@ Interactive Data Page
         - widespread over-utilization by everyone
         - government regulation or technology to prevent overuse is useful
     - sensor technologies are promising to either block overuse as in spam filters or to charge over-users as in pollution control systems
-3. information about is valuable
+3. information about you is valuable
     - you can sell it if you claim ownership to it and protect it, but that requires privacy
     - shopping cards paying for information about you
     - on the web, you often reveal that information freely
@@ -1582,7 +1582,7 @@ ccc: credit card company<br>
 - electronic cash is signed by a bank rather than an individual
     - **electronic coins** for small denominations
     - no physical existence, leading to **double spending problem** if same person allowed to spend same coin repeatedly
-    - clearing and cancelling is necessary to avoid double spending
+    - clearing and canceling is necessary to avoid double spending
         - same serial number can't be used again
         - large database of spent coins, cost of clearance
     - transaction cost is **medium**, because of inter-bank clearance, as opposed to **low** with physical cash
@@ -1600,7 +1600,7 @@ ccc: credit card company<br>
 
 #### electronic cash vs physical cash
 - physical cash circulates
-    - electronic cash doesnot circulate and has to be cleared and cancelled as a spent coin after spending
+    - electronic cash does not circulate and has to be cleared and canceled as a spent coin after spending
 
 ### Anonymous Cash Technology
 - nonsequential double-encoding
@@ -2114,7 +2114,7 @@ ccc: credit card company<br>
         - forced typing mistakes and slow down typing speed
     - Loebner Contest
         - self-awareness is hard
-        - Alice, HAL, Joe Cleverbot
+        - Alice, HAL, Joe, Cleverbot
 
 #### Agents for Spoken Language
 - they hear, understand, and respond in spoken language
@@ -2228,7 +2228,7 @@ Example: automobile
 - restructuring for IT not complete/has not even started
     - takes a long time to get started, and even longer to complete
     - social structures are resistant to change; change is risky, and side effects are not predictable
-- grocery deliver from supermarkets to suburbs is not doing well - supermarkets and suburbs were designed for previous technologies like the automobile
+- grocery delivery from supermarkets to suburbs is not doing well - supermarkets and suburbs were designed for previous technologies like the automobile
     - what would be the new structure if you redesign supermarkets to take advantage of IT?
 
 #### Feasible Scenarios: Lifestyle

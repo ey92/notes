@@ -178,4 +178,4 @@ Grice's Maxims can be exploited or flouted to communicate indirectly
 - _presupposition accommodation_ - process by which participants in discourse decide to accept (and not question) information that is presupposed by a sentence uttered in the discourse, even though the presupposition was not satisfied prior to the utterance
 - requirements:
 	- plausibility - only tend to accommodate presuppositions that we find plausible
-	- accessibility - presupposition knowledge is inaccessible
+	- accessibility - presupposition knowledge is accessible
