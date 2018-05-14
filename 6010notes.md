@@ -327,31 +327,163 @@ _content_: text, graphics, audio, video
     - buildings, cars, street corners - login and gain access to data to connect with others
     - (previously payphones)
 
----
-missing lecture 2/7
----
-
 # Networks
-**Metcalfe’s Law**, which states that the value of a network is proportional to the square of the number of connected users
-- doesn't apply to Uber/Lyft
-- whoever has majority of drivers will slowly win
+## Information Logistics Technology
+1. Storage
+    - where to store: distribution
+    - organization: structure
+2. Networking
+    - connection medium
+    - nodes to connect: architecture
+3. Network Management
+    - routing
+    - protocols
 
- # Networks
- **Protocols** - rules of navigating and sharing networks
+- how to use technology in business
+- what information needed and when
+- BPR: how to better utilize the technology; can it be used elsewhere at different time
 
+## Medium
+- bandwidth and range (capacity and distance)
+    - phone lines and DSL
+    - cable
+    - fiber optics
+    - wireless
+        - infrared, RFID, bluetooth, NFC (device to device)
+        - wi-fi (device to local antenna)
+        - radio and cell(device to tower)
+        - microwave (tower to tower)
+        - satellite
+- **dedicated lines**: directly connect devices
+    - expensive
+    - security, speed, reliable
+- London Stock Exchange (LSE)
+    - connect trading floor to member firms with dedicated lines to support traders
+    - traders wanted to check in with analysts in back offices for analysis and forecasts
+    - speed and reliability important
+    - BPR?
+    - traders left the floor to back offices and started trading remotely
+    - require 2 kinds of information
+        - fast transaction data from floor (fast but simple)
+        - complex analysis from back office (want to be closer to complex information)
+    - high frequency trading
+        - automate some simple trading decisions
+        - speed became competitive advantage
+        - take advantage of quickly-changing prices
+        - move computers physically closer to cut milliseconds
+
+- where is the optimal place for decision makers
+    - transaction data is easy to move -> move decisions to center (centralized management)
+    - analysis and goals easy to communicate -> move decisions to periphery (decentralized management)
+
+## Internet Architecture
+- Local Area Network: 100 mbps
+    - switch connects to ISP
+- Internet Service Provider: 100-500 mbps
+    - connects to internet backbone
+- Internet Backbone: 200-2000 mbps
+- bottleneck: connection to bigger network
+    - intersection with server like traffic light (router)
+    - clear intersection, determine destination, send in right direction
+- if you can't control router, try to bypass it
+    - move content to another city/router
+    - create your own private network or purchase _guaranteed capacity_ on existing private network (Verizon, AT&T, Sprint)
+
+## Net Neutrality
+- guaranteed service with exclusive allocated capacity
+- everyone gets equal treatment
+- communications companies who own the internet want to change treatment
+    - provide priority service at a charge
+    - fear: wealthy who are willing to pay will always get the bandwidth; no one else will get service
+- John D. Rockefeller Standard Oil Company of Ohio 1872
+    - railroad deals to transport oil quickly and cheaply (high upfront cost)
+    - transport oil = railroad business, but get 10% from the 20% increase on railroad prices under the table
+    - dropped oil prices below cost, driving competitors out of business
+    - vertical integration
+    - Interstate Commerce Act of 1887 outlaw secret pricing and rebates
+- internet = railroads, web companies = oil companies
+- discriminate in subtle ways for "technical reasons" in the name of operational efficiency
+- happening with Cable: Comcast gives NBC priority
+- price discrimination
+
+## Wireless Communication
+- active area of development and new business models
+- 4 types of business applications
+    - wireless internet access (Mcommerce)
+    - device to internet communication (sensors, IoT)
+    - device to device communication (bluetooh, NFC)
+    - device to object communication (Ucommerce)
+
+### MCommerce/Wireless Internet
+- M = mobile
+- internet commerce over wireless hand-held devices
+- **network capacity problem**: smartphone and tablet multimedia use challenging limits of wireless network capacity
+    - 4G network
+    - mesh network: cheaper solution (FireChat, Starry)
+        - create your own network with tons of routers until you find the internet signal
+- **battery life problem**
+    - recharge phones with solar cells built into fabric of cell phone
+- **keyboard problem**
+    - Circet: lasers project virtual keyboard & sensors detect keys when light interrupted
+- compatibility
+
+### Device to Internet Communication
+- wireless sensors and transmitters detect device status and transmit over wireless network
+- "Internet of Things"
+- HP printers detect ink supply
+    - revenue, cost, competitive, information advantage
+    - auto ink reordering: much better service, drive ink competitors out of business
+    - collect information about consumer & how printers are used
+        - design new products for customers
+
+### Device to Device Communication
+- bluetooth: Ericsson, Nokia, Intel, IBM, MS
+- NFC: Sony, Nokia
+- Zigbee: Motorola, Mitsubishi
+- short-range 30ft communications
+- cut wire between computer and printer, headphones
+- Coke vending machine, charge cost to phone bill
+    - change business model of phone company
+- wireless operators become new payment intermediaries (IT creates new intermediaries)
+    - phone companies start competing with credit card companies
+    - Japan NTT Docomo 3% transaction fee for bills paid by phone & billed to phone account
+
+### UCommerce/Device to Object Communication
+- U = ubiquitous
+- ubiquitous networking for everyday objects to identify themselves
+- RFID tags act like barcodes
+    - activated by power source
+    - 6ft, doesn't have to be aligned
+- automated material flow in manufacturing without humans
+- automate identification, security checkpoints, highway tolls (Oyster, Suica, EZPass)
+- 5 cents and dropping
+    - eliminate grocery checkout process
+    - every item needs a tag (expensive to put one on everything)
+- not favored by consumers
+    - shows running total, can be taken out
+    - price discrimination: can only see price when added to cart
+- Amazon Go
+    - cameras and image recognition (more prone to mistakes)
+
+- **Metcalfe’s Law**, which states that the value of a network is proportional to the square of the number of connected users
+    - doesn't apply to Uber/Lyft
+    - whoever has majority of drivers will slowly win
+
+## Protocols
+- rules of navigating and sharing networks
 - HTTP aka WWW, supports 1:M asynchronous communication
-    - views wolrd as collection of docuents, each with address
+    - views world as collection of documents, each with address
     - address -> document
-    - hypertext: text can be linked to more docmuents (nonlinear sequence of documents)
+    - hypertext: text can be linked to more documents (nonlinear sequence of documents)
 - email, telnet, FTP
 
 ### HTTP
 - TCP
 - IP: addressing
 - client-server
-- multiple layers bc developed at different times and served different purposes/"multi-purpose components"
+- multiple layers because developed at different times and served different purposes/"multi-purpose components"
 - technologies change incrementally, allowing managers to anticipate if they know what to watch and follow the development
-- technologies take a long time todevelop, commercialize, and even longer before widespread adoption
+- technologies take a long time to develop, commercialize, and even longer before widespread adoption
 
 - 1948 Vannevar Bush: concept of WWW 1948 called Memex, manual system
 - 1980s UMinnesota: Gopher, failed because no links, text-only, no GUI
