@@ -25,17 +25,17 @@ result: 75-calorie drink caused the most brain activity - matched the expected t
 conclusion: brain likes the drink where sweetness matches predicted calorie content
 
 artificial everything:
-alginate - stabilizer, thickener, smooth texture; replaces eggs and cream
-sugar alcohols (xylitol, isomalt, maltitol) - cause diarrhea, twice as sweet, no calories
-fake fats (olestra) - zero calories, anal leakage
-Simplesse ("milk protein", "whey protein concentrate") - creamy, but not thick
-Slendid - high ester pectin - thickener
-bulking ingredients: Crystalean, Lorelite, D-LITE
-mouthfeel ("carrageenan"): Avicel, Methocel, Solka-Floc, Genutine, Genugel
-Creamfibre7000 makes water taste like fat
-modified starches: maltodextrin (fat, sweet)
-sucralose, gums, carrageenan, modified s tarches, methylcellulose, stevia, flavorings, saccarin, microparticulatated protein, Solka-Floc, maltodextrins
-can be organic
+- alginate - stabilizer, thickener, smooth texture; replaces eggs and cream
+- sugar alcohols (xylitol, isomalt, maltitol) - cause diarrhea, twice as sweet, no calories
+- fake fats (olestra) - zero calories, anal leakage
+- Simplesse ("milk protein", "whey protein concentrate") - creamy, but not thick
+- Slendid - high ester pectin - thickener
+- bulking ingredients: Crystalean, Lorelite, D-LITE
+- mouthfeel ("carrageenan"): Avicel, Methocel, Solka-Floc, Genutine, Genugel
+- Creamfibre7000 makes water taste like fat
+- modified starches: maltodextrin (fat, sweet)
+- sucralose, gums, carrageenan, modified s tarches, methylcellulose, stevia, flavorings, saccarin, microparticulatated protein, Solka-Floc, maltodextrins
+- additives can be organic
 
 food substitutions are everywhere, unreliable calorie predictions in our food -> "calorie casino"
 loss aversion >> gain potential based on Tversky and Kahneman study
@@ -104,15 +104,16 @@ lucky timing. The drink has since removed cocaine and halved the caffeine conten
 and continues strong association with American/Western values (followed WWI/II, Vietnam War, Cold War).
 
 Other fun facts:
-hops were only added to beer in the 12th century to balance sweetness and as a preservative
-beer = hopped
-ale = unhopped, top-fermented
-lager = bottom-fermented
-bappir = baked beer bread, storable pre-beer ingredient sprouted barley baked into unleavened bread
+- hops were only added to beer in the 12th century to balance sweetness and as a preservative
+- beer = hopped
+- ale = unhopped, top-fermented
+- lager = bottom-fermented
+- bappir = baked beer bread, storable pre-beer ingredient sprouted barley baked into unleavened bread
 
-King Cnut Ale - St Peter's brewery
-Midas Touch - Dogfish Head Brewery
-Sahti - Finnish folk beer
+Old-style beers:
+- King Cnut Ale - St Peter's brewery
+- Midas Touch - Dogfish Head Brewery
+- Sahti - Finnish folk beer
 
 Mas des Tourelles winery (southern France)
 1. Mulsum - red herbs and honey; diluted tastes like Ribena
@@ -121,8 +122,8 @@ Mas des Tourelles winery (southern France)
 
 Mastroberardino winery (near Naples)
 1. Greco di Tufo - from the Greeks, white
-Fiano di Avellino - 
-Aglianico- used for Taurasi
+2. Fiano di Avellino - 
+3. Aglianico- used for Taurasi
 
 Lots of fun quotes:
 - "There is no history of mankind, there are only many histories of all kinds of aspects of human life." - Karl Popper 1902-94
