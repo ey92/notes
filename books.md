@@ -75,17 +75,21 @@ binge-worthy junk food.
 ### A History of the World in 6 Glasses - Tom Standage
 
 beer, wine, spirits, coffee, tea, coca-cola
-interestingly, the drinks either have alcohol or caffeine. They began as drinks that were a safe alternative to
+
+Interestingly, the drinks either have alcohol or caffeine. They began as drinks that were a safe alternative to
 water whose safety was questionable. First by fermentation, then by boiling water. It also follows the history
 of humans from the first civilizations developing around settlements and reliable sources of food to consumable
 currency, to fueling global trade (and slavery).
+
 Another fun fact - Greeks and Romans diluted their wines with water
+
 Coffee is from Arabia, and for a time Arabian merchants kept their monopoly by only selling roasted beans. The 
 Dutch managed to smuggle a Mocha plant and developed plantations in Java. A cutting was given to Louix XIV, the
 offspring of which Louix XVI had planted across the French colonies. English coffee houses hosted men of any class
 and served as open centers of discussion for all topics. Different coffee houses became known for specific topics
 (market news, scientific discussion, literature, etc). Newspapers, LSEG, auction houses, and insurance companies
 came out of coffee houses. So much free information was available that they became known as penny universities.
+
 The British didn't have a good supply to coffee or the plant, but they managed to defeat the Dutch navy, establishing
 British supremacy at sea. The British East India company effectively had ownership of the Indian colony for a
 few decades. They got green tea from China, but could not trade anything but silver in return. They illegally
@@ -93,6 +97,7 @@ sold opium (grown in India) to Chinese merchants, developing an addiction and ma
 tea. Green tea was often adulterated, so black tea (oxidized leaves) became more popular, because it was harder
 to tell and the additives were less bad. Black tea was more bitter, so they began adding milk (also to cool faster)
 and sugar. Teahouses were open to women and Twinnings became popular for mixing custom tea flavors.
+
 Coke started as a quack medicine, using cocaine from coca and caffeine from kola. Originally copied a french kola
 wine and combined with fizzy water. Popped off due to temperance movement and dodged taxes and lawsuits due to
 lucky timing. The drink has since removed cocaine and halved the caffeine content but otherwise remains unchanged
