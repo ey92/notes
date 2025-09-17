@@ -1,3 +1,95 @@
+## 15 September 2025
+### The Dorito Effect
+Current food is less flavorful and less nutritious.
+
+People like to reduce the problem to a single source - fat, or carbs, or sugar, or MSG/salt. Nutrition is
+more complicated. Flavors are tied to different nutritious foods. Cutting one doesn't solve or fix the
+imbalance. We associate flavors with a set of aromas, all associated with different chemicals from different
+ingredients.
+
+Dorito: Frito-Lay VP Marketing wanted to make new crunchy chip that mimicked taco. The appetizing
+sound of the crunch and taco seasoning made it a success. Baked chip + chemicals (taco seasoning).
+
+Dorito effect:
+- dilution of nutrients
+- nutritional decaptiation (we capture the flavor but not the nutrients)
+- false variety: flavors provide different tastes laid over the same food/set of nutrtients
+- cognitive deception - fake flavors make you what you want in real food
+- emotional deception - establish liking for bad food
+- flavor-nutrient confusion
+
+Rules of flavor
+1. humans are flavor-seeing. flavor is the pleasure provided by food
+2. in nature, flavor and nutrition are intimately connected
+3. synthetic flavor breaks and confounds that connection
+
+Madagascar artificially raised vanilla price by reducing supply. Vanillin was created by processing pine
+bark but the imitation was off due to missing other aromas. **Gas chromatography** was able to identify
+all of the aroma compounds with a peak (magnitude). McCormick continuously ran new combinations of
+chemicals through a flavor panel until it was indistinguishable.
+
+*natural flavors* only refers to flavor chemicals that can also be made naturally. Does not made that the
+particular batch used was naturally made.
+
+In 1918, half pound of spices per person in US. In 1997, three pounds of spices per person.
+
+Most restaurants don't cook or develop their dish's flavors. They provide a target experience and consult
+flavor companies like McCormick to develop the flavors for them.
+
+Julia Child complained chicken is to bland. Good chicken doesn't need more seasoning than just salt
+and pepper. If you think about food sources and "agricultural revolution," it makes sense. Everything is
+being diluted. Use the same-sized plot of land to churn 2x or more vegetables. A dairy cow in 1948 produced
+16 pounds of milk daily, now 70 pounds. "Flavor solutions" fix the taste problem, but not the nutrition
+problem.
+
+Our food is becoming like livestock food. "Concentrates" or high-energy diets with high cabs and flavoring
+(palatants). Livestock don't normally like just corn and grains. But we add palantants (flavoring) to it,
+and it becomes tasty. Palatants are also used to wean baby animals earlier (4m -> 10 d). Like livestock,
+we're growing faster. If we let them live out natural lifespans instead of slaughtering for food, livestock
+also goes on to become obese, become afflicted with metabolic disease, hypertension, etc.
+
+The human nutrition system is amazing in sensing and calculating needs if trained.
+- Clara Davis baby nutrition study: Babies chose their own food among 34 natural foods for 6 months.
+    - They develop preferences, like meat and milk protein over vegetable protein
+    - There were unconventional combinations: liver and orange juice, eggs and bananas
+    - They naturally chose balanced diets. No constipation, Colds no longer than 3 days, protein intake
+    shot up when growing; when growing slowed and activity increased, energy intake shot up.
+- Nutritional wisdom is learned. However, it can also learn the wrong thing. E.g. phosphorus and goats with
+coconut vs maple. We can train our bodies to correctly or incorrectly associate flavors with the right nutrients.
+
+**Plant Secondary Compounds**
+Plants produce secondary compounds for a multitude of purposes not directly related to survival. It could
+attract bees for pollenation, or it could attract parasitic wasps to hunt caterpillars eating their leaves.
+Generally, the more flavors, the higher density of secondary compounds. Prime example of well cultivated plant
+that produces flavors tied to where it's grown: wine. We use spices for their secondary compounds as flavoring.
+- some plant effects:
+    - coriander inhibits pro-inflammatory mediator expression
+    - ginger alleviates nausea nad vomiting, kills cancer cells, help blood pressure
+    - dill: skin elasticity
+    - basil - kill viruses, prevent inflammation, lower cholesterol
+    - cinnamon - decrease blood glucose in Type 2 diabetes
+    - black pepper - antidepressant, stimulate digestive tract
+    - cloves modulate platelet activity
+    - turmeric - preserve cognitive function, could be antiparasitic, carioprotective, anticancer
+
+Some experts are working on cultivating fruit, vegetables and meat to bring flavor back while keeping yield up.
+For some reason, industry isn't buying most of those options. We had several strange breakthroughs with
+kale, arugula, chard.
+- Harry Klee - Garden Gem tomato
+- Douglas Hayes - Buckeye chicken
+- Mark Taylor - Mayan Gold potato
+- Chuck Brown - potato
+- France - Label Rouge chicken (less fat, more protein, minerals, vitamins)
+- David Griffin - various vegetables (sorrel, carrots, Chinese leaf lettuce, peppercress, tatsoi, radicchio, dill, kale, Amara mustard greens, basil)
+- Ilya Raskin - Rutgers Scarlet Lettuce
+- Ed Seguine - chocolate (cocoa) CATIE
+- Bob Klein - from WSU Hollis wheat kernels and berries
+
+**junk food**
+- OED: pre-prepared or packaged food that has low nutritional value
+- Merriam-Webster: food that is not good for your health because it contains high amounts of fat or sugar
+- author: food that tastes like something it is not
+
 ## 9 September 2025
 ### The End of Craving - Mark Schatzker
 carbs vs fat: body is nearly equally efficient at extracting and storing energy from either source
@@ -13,16 +105,19 @@ set points - metabolic pressure to avoid gaining/losing weight
 
 fluorosis and niacin
 
-wanting vs liking: dopamine signals cause animal cravings, not always pleasureable; achieving the goal is less
-about pleasure and more about silencing the dopamine-induced craving
+wanting vs liking: dopamine signals cause animal cravings, not always pleasureable; achieving the goal is
+less about pleasure and more about silencing the dopamine-induced craving
 - gambling, eating, sex
-uncertainty causes a spike in dopamine - an uncertain outcome is more exciting than a certain one, regardless of good or bad
+uncertainty causes a spike in dopamine - an uncertain outcome is more exciting than a certain one,
+regardless of good or bad
 
 **nutritive mismatch**
 Dana Small: chocolates have diminishing pleasure
-fake sugar study - multiple sugar waters mixed to present 75 calories of sugar's worth of sweetness, up to 150 calories
-result: 75-calorie drink caused the most brain activity - matched the expected taste of 75 calories of sugar sweetness
-conclusion: brain likes the drink where sweetness matches predicted calorie content
+- fake sugar study - multiple sugar waters mixed to present 75 calories of sugar's worth of sweetness, up
+to 150 calories
+- result: 75-calorie drink caused the most brain activity - matched the expected taste of 75 calories of
+sugar sweetness
+- conclusion: brain likes the drink where sweetness matches predicted calorie content
 
 artificial everything:
 - alginate - stabilizer, thickener, smooth texture; replaces eggs and cream
@@ -34,7 +129,8 @@ artificial everything:
 - mouthfeel ("carrageenan"): Avicel, Methocel, Solka-Floc, Genutine, Genugel
 - Creamfibre7000 makes water taste like fat
 - modified starches: maltodextrin (fat, sweet)
-- sucralose, gums, carrageenan, modified s tarches, methylcellulose, stevia, flavorings, saccarin, microparticulatated protein, Solka-Floc, maltodextrins
+- sucralose, gums, carrageenan, modified s tarches, methylcellulose, stevia, flavorings, saccarin,
+microparticulatated protein, Solka-Floc, maltodextrins
 - additives can be organic
 
 food substitutions are everywhere, unreliable calorie predictions in our food -> "calorie casino"
