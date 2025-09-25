@@ -1,5 +1,44 @@
+## 25 September 2025
+### The Omnivore's Dilemma - Michael Pollan
+- bitter (grape, blueberry, broccoli, oregano) -> satiety
+- fruity aroma increases perceived sweetness without extra sugar
+- purple lettuce
+- risotto: try carnaroli rice
+- polyunsaturatedfat > unsaturated fat > saturated fat
+
+**food seasonality**
+- pork, beef: late fall/winter
+- chicken, eggs: summer
+    - eggs less yellow in winter
+- asparagus: summer
+
+industrialized food changes:
+- "number 2 field corn" - not for human consumption
+    - feed livestock, make food additives, make supplements, make containers
+- industrialization -> monoculture -> biodiversity problems (toxic runoff, diseases)
+- omega-6 (plant seeds):omega-3 (fish, pastured meat) should be 1:1
+    - corn -> high omega-6 (inflammatory, blood clot)
+    - non-corn-fed fish/pastured meat -> higher omega-3s (anti-inflammatory, blood flow) ALA, CLA
+
+pasture farm
+- free-range pastured hens produce orange yolk eggs due to better diet and exercise
+- no waste
+- fertilizes itself and magnifies production by "stacking" livestock "holons"
+- spring/summer: grass -> cows / manure -> worms and parasites / chickens -> chicken poop / grass fertilizer
+- racken house: rabits in suspended hutches, droppings into woodchips and corn (to ferment), chickens eating
+earthworms on the ground
+    - in spring, pigs dig and eat corn while aerating compost, decomposing waste into fertilizer
+
+**omnivore's dilemma**
+- we can eat so many things, but we need to eat multiple foods to be nutritionally complete
+- neophilian and neophobia - stick to familiar foods, but also try alternatives if current food isn't enough
+
+Not practical for every day, but it is a useful lesson to understand fully where everything in the meal came
+from, as opposed to fast-food meal where you can't trace anything.
+
+
 ## 15 September 2025
-### The Dorito Effect
+### The Dorito Effect - Mark Schatzker
 Current food is less flavorful and less nutritious.
 
 People like to reduce the problem to a single source - fat, or carbs, or sugar, or MSG/salt. Nutrition is
@@ -58,7 +97,7 @@ The human nutrition system is amazing in sensing and calculating needs if traine
 coconut vs maple. We can train our bodies to correctly or incorrectly associate flavors with the right nutrients.
 
 **Plant Secondary Compounds**
-Plants produce secondary compounds for a multitude of purposes not directly related to survival. It could
+Plants produce secondary compounds (polyphenols) for a multitude of purposes not directly related to survival. It could
 attract bees for pollenation, or it could attract parasitic wasps to hunt caterpillars eating their leaves.
 Generally, the more flavors, the higher density of secondary compounds. Prime example of well cultivated plant
 that produces flavors tied to where it's grown: wine. We use spices for their secondary compounds as flavoring.
@@ -89,6 +128,7 @@ kale, arugula, chard.
 - OED: pre-prepared or packaged food that has low nutritional value
 - Merriam-Webster: food that is not good for your health because it contains high amounts of fat or sugar
 - author: food that tastes like something it is not
+
 
 ## 9 September 2025
 ### The End of Craving - Mark Schatzker
