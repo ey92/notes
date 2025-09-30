@@ -1,3 +1,106 @@
+## __ September 2025
+### How to be a Conscious Eater - Sophie Egan
+- tap water > bottled water
+- ewg on washing fruit:
+    - top pesticide residue: strawberries, spinach, apples, grapes, tomatoes, bell peppers,pears, cherries,
+    potatoes, nectarines, kale (in general if you eat the surface)
+    - lowest pesticide residue: asparagus, eggplant, cauliflower, pineapples (in general if you peel the
+    surface)
+- eat seaonally and regionally, the food will be fresher and more flavorful
+- grains:
+  - *intact* - retain all three parts (bran, germ, endosperm) and are intact, not processing (rolled is ok)
+  e.g. brown rice
+  - *refined* - bran and germ are removed, giving longer shelf life and finer texture (e.g. white rice, white
+  flour)
+  - *enriched* - refined + fortified
+  - whole grains are still carbs and take longer to cook than refined grains, but they retain much more
+  nutrients and more flavor
+  - wholegrainscouncil.org
+- fiber is good everywhere; sources: whole grains, legumes, fruits, vegetables
+- Rice is by far the most exposed to arsenic. Wash and cook with extra water. Other grains are mostly fine.
+- fruit sugars (fructose) don't spike insulin as badly due to time it takes to break down fruit cells. This
+process is skipped when drinking juices directly.
+- fat: polyunsaturated > monounsaturated > saturated > trans fat
+    - poly: fatty fish, whole grains, seeds, vegetable oil
+    - mono: avocado, olive oil, nuts
+    - saturated fat: butter, animal fat, dairy, red meat
+    - trans fat: hydrogenated oils, margarine, shortening
+- milks: nut milk is a pretty good alternative to dairy, but lower in vitD and B12
+    - top plant milks: almond, flax, nut milk
+    - soy milk good, but low on vitD and B12
+    - coconut milk has more saturated fat, rice milk high in calories and low in nutrients
+- cooking oils: in general olive oil is a good choice
+    - evoo good for cooking and dressing
+    - sesame oil also good for cooking but $$$ and strong flavor
+    - canola oil is good for cooking, higher smoke point
+    - palm oil is just bad all around
+    - coconut oil generally worse - 6x saturated fat, can use in place of butter for baking
+    - more processed -> lighter color, less flavor
+- with plenty of food fraud, it's easy to verify your food by buying it whole
+- grassfed beef certifications:
+    - `American Grassfed`
+    - `PCO Certified 100% Grassfed`
+- Greenpeace has an annual retailer scorecard "Carting Away the Oceans" that ranks sustainable seafood for
+wild and farmed products
+- wild vs farmed seafood: wild >> farmed in sustainability _and_ nutrition
+    - farmed almon + tuna is WORSE - fed corn and land animal leftovers, destroys local habitat
+    - farmed bivalves are OK - mussels, clams, scallops, oysters
+    - farmed seafood on water farms using recirculated water over land is OK
+        - arctic char, catfish, tilapia, trout, cobia
+    - farmed seafood country of origin:
+        - Chile has tons of antibiotics
+        - Norway barely uses antibiotics
+    - Thai shrimp industry questionable
+- seafood nutrition:
+    - omega-3s from fish: EPA, DHA - recommend eating 2x a week
+        - good sources: salmon, sardines, mussels, Atlantic mackerel, anchovies, sablefish/black cod
+    - mercury accumulation: king mackerel, marlin, orange roughy, shark, swordfish, tilefish/golden
+    snapper/golden bass,  bigeye tuna
+    - alt sources of omega-3s (smaller concentrations): chicken, eggs, beans, nuts, seeds provide
+    alpha-linoleic acid, precursor to DHA, EPA
+- sustainable fishing certifications:
+    - `Marine Stewardship Council (MSC)` (wild)
+    - `Aquaculture Stewardship Council (ASC)` (farmed)
+    - `Responsible Fisheries Management (RFM)` - Alaskan Seafood Marketing Institute
+        - recognized by Global Sustainable Seafood Initiative (GSSI) based on UN guidelines
+        - non-profit
+- cholesterol - fat-like substance part of cell membranes and protects nerves, produce hormones and vitD
+    - blood cholesterol vs dietary cholesterol
+    - blood cholesterol: LDL, HDL, comes from eating fat and sugar
+    - dietary cholesterol (animal-based food only), not actually impactful on blood cholesterol unless diabetic
+- eggs
+    - high vitamins, low calorie, very low saturated fat, some unsaturated fat
+    - shell color and size doesn't matter (breed)
+    - dietary cholesterol, vitamins, minerals in yolk, whites are low calorie, fat-free, high protein
+    - labels
+        - useless: `natural`, `all-natural`, `fresh`, `farm-fresh`, `united egg producers certified`,
+        `antibiotic-free`
+        - `no hormones`: required by law
+        - regulated meaningful labels: `animal welfare approved`, `certified humane raised and handled`,
+        `no antibiotics`, `certified organic`
+            - `Global Animal Partnership (GAP) certified`
+                - step 1: no cages, crates, overcrowding
+                - step 2: enriched environments that encourage natural behaviors
+                - step 3: enhanced outdoor access
+                - step 4: pasture-centered
+                - step 5: animal-centered and no physical alterations
+                - step 5+: animal-centered, no growth hormones, no animal by-products
+        - unregulated but has meaning: `cage-free`, `free-range`/`free-roaming`, `pasture-raised`,
+        `vegetarian-fed`, `omega-3s`, `raised without antibiotics`, `no antibiotics administered`,
+        `no antibiotics ever`
+- processed meats linked to cancer (if you eat a 6 bacon strips a day)
+    - aim to limit red meat to 3 portions (6oz cooked or 8oz raw) a week
+- breastfeeding lowers breast cancer risk for lactating mothers and decreases cancer risk for children
+(lowers chance of being overweight/obese)
+- 2000 calories/day means:
+    - sugar: 25-36g sugar max
+    - total fat: no guidance
+        - sat fat: 20g max
+        - trans fat: 0g
+    - sodium: 1500mg
+    - dietary fiber: 28g
+
+
 ## 25 September 2025
 ### The Omnivore's Dilemma - Michael Pollan
 - bitter (grape, blueberry, broccoli, oregano) -> satiety
