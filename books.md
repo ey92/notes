@@ -1,4 +1,4 @@
-## __ September 2025
+## 30 September 2025
 ### How to be a Conscious Eater - Sophie Egan
 - tap water > bottled water
 - ewg on washing fruit:
@@ -43,7 +43,7 @@ process is skipped when drinking juices directly.
 - Greenpeace has an annual retailer scorecard "Carting Away the Oceans" that ranks sustainable seafood for
 wild and farmed products
 - wild vs farmed seafood: wild >> farmed in sustainability _and_ nutrition
-    - farmed almon + tuna is WORSE - fed corn and land animal leftovers, destroys local habitat
+    - farmed salmon + tuna is WORSE - fed corn and land animal leftovers, destroys local habitat
     - farmed bivalves are OK - mussels, clams, scallops, oysters
     - farmed seafood on water farms using recirculated water over land is OK
         - arctic char, catfish, tilapia, trout, cobia
@@ -92,6 +92,7 @@ wild and farmed products
     - aim to limit red meat to 3 portions (6oz cooked or 8oz raw) a week
 - breastfeeding lowers breast cancer risk for lactating mothers and decreases cancer risk for children
 (lowers chance of being overweight/obese)
+- pthalates - endocrine disruptors interfering with hormones, found in plastics
 - 2000 calories/day means:
     - sugar: 25-36g sugar max
     - total fat: no guidance
@@ -99,7 +100,118 @@ wild and farmed products
         - trans fat: 0g
     - sodium: 1500mg
     - dietary fiber: 28g
+- label distractions:
+    - health halo - perceive product ot be healthier/lower calorie than it is
+        - e.g. low-fat, gluten-free, veggie sticks
+    - emphasizing some info to distract from other info
+        - e.g. 0 trans fat, but tons of sat fat
+    - functional claims `calcium builds strong bones`
+        - not regulated
+- ingredients are listed in descending order of quantity
+- fuzzy meanings:
+    - `reduced` means 25% less of something (sodium, fat) than original version
+    - `natural` means does not contain any synthetic/artificial ingredients not expected in the food
+        - allows natural flavors, which is synthetic
+- caveats:
+    - when something is removed, something replaces it to fulfill its function (texture, shelf life,
+    flavor, color)
+        - e.g. gluten: elasticity, binder - replaced with blood-sugar-spiking refined carbs tapioca/rice
+        starch
+    - fortified foods are not necessarily healthy
+        - e.g. fortified grain - removed germ and bran and manually added back vitamins and minerals as
+        "value-add"
+- focus on the big picture, long-term
+    - instead of low-calorie foods, think about the nutrients
+    - 0-calorie soda is also 0-nutrient, and artificial additives are probably negative health effect
+    - food is a way to form and maintain social connections; over-personalizing nutrition and avoiding foods
+    makes it difficult to socialize
+- artificial sweeteners are often much sweeter than real sugar - trains your palate to want something
+sweeter than naturally sweet foods
+- many "no sugar" products have sugar alcohols or artificial sweeteners
+- too many products ~75% of packaged food have added sugars
+    - cut added sugar in foods that have no business adding sugar - soups, condiments, juice, yogurt, bread
+- rating restaurants
+    - more nutritious fast casual: asian box, cava, chopt, sweetgreen, tender greens, zoe's kitchen
+    - no antibiotics: shake shack, burgerfi, chick-fil-a, panera, chipotle
+    - whole grains: au bon pain, bob evans, caribou coffee, chipotle, cracker barrel, dunkin donuts, pita pit, seasons52, starbucks, zoe's kitchen
 
+FDA vs Center for Science in the Public Interest
+| FDA "safe" | SFSPI "unsafe" |
+| ---------- | -------------- |
+| - advantame                        |                                    |
+| - aspartame (Equal/NutraSweet)     | - aspartame (Equal/NutraSweet)     |
+| - acesulfame potassium (Ace-K)     | - acesulfame potassium (Ace-K)     |
+| - luo han guo (monkfruit) extracts | - luo han guo (monkfruit) extracts |
+| - neotame                          |                                    |
+| - saccharin (Sweet'N Low)          | - saccharin (Sweet'N Low)          |
+| - steviol glycosides               | - steviol glycosides               |
+| - sucralose (Splenda)              | - sucralose (Splenda)              |
+
+- ingredients to know
+    - safe (not necessarily healthy):
+        - ascorbic acid - vitamin C, preserves food color and flavor
+        - citric acid - naturally in citrus fruit and berries, for tart flavor
+        - modified food starch - commonly made from corn, wheat, potato, tapioca to achieve shelf life
+        and stabilization and thickening
+        - cellulose - plant fiber to prevent caking, boosts fiber content, but not as good as whole food fiber
+        - tocopherol - vitamin E, prevents vegetable oils and cereals from turning rancid
+    - sounds safe:
+        - agave nectar - basically sugar, eat in moderation
+        - sea salt - basically salt, eat in moderation
+        - natural flavors - dunno, sometimes an allergen, avoid
+        - aloe vera - not good for eating - associated with digestive and blood sugar issues
+        - caramel coloring - heated ammonium compounds, carcinogenic by WHO
+    - other
+        - food dyes (blue 1, blue 2, green 4, red 3, red 40, yellow 5, yellow 6) - suspected tied to cancer and ADHD
+        - asparteme - suspected tie to cancer
+        - BHA - suspected tie to cancer
+        - saccharin - suspected tie to cancer
+        - acesulfame-potassium - suspected tie to cancer
+        - caffeine - tied to insomnia, anxiety, reduced fertility
+            - worse in supplement form, energy drinks
+            - 1-2 cups of coffee is fine
+- best-by dates
+    - most are just a suggestion for peak quality, not spoilage
+    - pay attention to foods considered unsafe for pregnant women:
+        - deli meats, unpasteurized dairy, ready-to-eat refrigerated food, uncooked hot dogs and sausages
+        - high-risk listeria which grows in refrigeration
+    - good eggs sink, bad eggs float
+    - hard cheese can cut mold off, soft cheese whole thing is bad
+- FDA requires top 8 allergens to be labelled
+- USDA does not require allergen labeling
+- gluten
+    - if you don't have celiac's disease or non-celiac gluten sensitivity (6%), you should keep eating it
+    - usually replaced with bloodsugar-spiking refined flours
+    - gluten-free often has more salt and sugar, less fiber
+    - in many whole grains
+- allergies
+    - children born outside the US are less likely to have allergy
+    - chance of having an allergy increases after 10 years in the US
+    - hypothesis: antibiotics in food, limited exposure to outdoors
+    - top 8: shellfish, eggs, fish, cow milk, peanuts, soy, tree nuts, wheat
+- calorie labelling
+    - transparency - understand how much you are consuming
+    - reformulation - options become healthier before being released when restaurants know they have to divulge the calories
+    - less waste - portion sizes tailored to be satisfying and give the impression of providing value
+- US food portions are significantly larger than food portions in the rest of the world and have grown since 1982
+    - most pleasure form first few bites and last bite. Eating more doesn't feel better.
+- Green Restaurant Association - dinegreen.com
+- Good Food Institute: Good Food Restaurant Scorecard
+- World Wildlife Fund: Palm Oil Buyers Scorecard
+- ZeroFoodprint
+- consumer demand has driven most of the progress for eliminating antibiotics and improving animal welfare in meat supply
+
+Resources
+- Berkeley Wellness berkeleywellness.com
+- Consumer Reports consumerreports.org
+- _EatingWell_ Magazine eatingwell.com
+- Environmental Working Group ewg.org
+- Harvard T. H. Chan School of Public Health's Nutrition Source hsph.harvard.edu/nutritionsource
+- Mayo Clinic mayoclinic.org
+- The _New York Times_ Well Section nytimes.com/well
+- Oldways Whole Grians Council wholegrainscouncil.org
+- WebMD webmd.com
+- World Resources Institute wri.org
 
 ## 25 September 2025
 ### The Omnivore's Dilemma - Michael Pollan
