@@ -1,8 +1,168 @@
+## _ October 2025
+### Truffle Hound: On the Trail of the World's Most Seductive Scent, with Dreamers, Schemers, and Some Extraordinary Dogs - Rowan Jacobsen
+The most common truffles are black winter (French) and white (Alba) truffles. But there are many more less
+popular truffles that could be much more affordable for different scents.
+
+Truffles are mycorrhizal fungi who cultivate relationships with various trees and plants, often
+near rivers or limestone. They help young trees retain nutrients like phosphorus and nitrogen
+from the soil in exchange for plant-produced sugars. Cultivated truffles often start with tree
+saplings inoculated with truffle mycelium. It is difficult to inoculate mature trees since the
+truffle will have to compete with existing fungi.
+
+White/Alba/Italian truffle - _tuber magnatum_ $$$$$
+- like tanned moon rocks, knobby smooth-skinned, pink prosciutto-like marbling
+- size: marble to softball size
+- season: October-December
+- climate: river forests near sand, oak, poplar and willow trees
+    - northern and central Italy east to Black Sea, around limestone
+- never cook, infuse fats and eggs and then grate raw over hot, steamy dishes/broths/cream sauces
+- scent: sharp, intense garlic, fried cheese, gym socks
+
+Black/Winter/Perigord truffle - _tuber melanosporum_ $$$$
+- black, firm, surface covered in pyramidal bumps, black/white marbling
+- size: golf ball to baseball
+- season: November-February (North), June-August (South)
+- climate: under oaks and hazelnuts, 95% farmed
+    - limstone-rich soils from eastern Spain, southern France, northern/central Italy
+    - cultivated in ESP, FRA, ITA, AUS, NZ, CN, Israel, Turkey, Suth Africa, Chile, US
+- good raw, but gentle heat brings flavors out
+    - longer shelf life (weeks)
+- scent: deep earth and forest, cocao and cognac, layers of tobacco, sorghum, cured olive
+    - slow-matureing truffles have rich brandy/sherry scent
+
+(black) Summer/Scorzone truffle - _tuber aestivum_ $$
+- black and warty outside, marbled ivory inside, very firm
+- keylime-sized, can get large
+- season: summer-fall
+- climate: hill forests, alkaline soil
+    - Europe to Caucasus, farmed
+- less popular for fancy eating, usually used for making packaged truffle product
+    - long shelf life, limited aroma
+- scent: very light, floral note
+
+(black) Autumn/Burgundy truffle - _tuber uncinatum_ $$$
+- black and warty outside, marbled cappuccino interior, firm
+- size: plum to tennis ball sized
+- season: September-November
+- climate: hill forests, alkaline soil
+    - Europe, Iran, Turkey, farmed
+    - popular until white truffles are in season
+- use like black winter, but use more
+- scent: delicate, floral, boiled corn, fried hazelnuts
+- same species as summer truffle, but darker interior and stronger aroma due to environmental factors
+    - cooler climates (higher altitude or latitude) makes them ripen later, building more aromatics
+
+(white-ish) Bianchetto/Spring/Spring White/March/Marzuolo truffle - _tuber borchii_ $$$
+- darker than white, ginger-root-like skin, interior like cured beef
+- ounce to half-pound size only
+- season: February-March
+- climate: sandy soil, under pine, plains
+    - central Italy coastal plains, farmed at Wash State, Idaho, North Carolina, NZ, Australia, Europe
+- previously uncommon, but growing popularity
+- infused olive oil, spring pasta, wild greens, peas, radishes
+- scent: gas and garlic, resinous quality; late maturity smells like Parmesan
+- easiest to grow, no competition in spring
+
+Brumale/musky truffle - _tuber brumale_ $$
+- like black winter but softer with brown skin and less dense marbling of "veins"
+- season: November-February
+- alkaline soil under oak and hazel
+- climate: wild in Europe, turns up in black winter orchards
+- cook with fatty meat, at the end; heat reduces tarry notes
+- scent: alcohol, tobacco, firearms; tarry, earthy, smoked beetroot
+- indesirable due to being used as substitute for black winter, but not necessarily worse
+
+(white) Oregon white truffle - _tuber oregonense_ $$
+- off-white, splitched with pink, thin skin, gray-pink prosciutto interior
+- grape or cherry sized
+- season: October-February
+- climate: young douglas fir - norCal to BC, mostly in OR, WA state
+    - very abundant in PNW
+- common in PNW but rare elsewhere
+- don't cook, infuse fats and eggs, grate raw over steamy dishes, broths, creams
+- scent: diesel and pine, with garlic, salami, blue cheese, model glue; fresh has soft cedar
+- _tuber gibbosum_ also from PNW is similar but without red splotches and comes in spring
+
+(black) Oregon black truffle - _leucangium carthusianum_ $$
+- fragile, smooth thin black coat over fine-grained, cake-like interior
+- size: small or large
+- season: late winter and spring, but can be found year-round
+- climate: young douglas fir - norCal to BC, mostly in OR, WA state
+    - very abundant in PNW
+- less commonly found, comes in small waves instead of large crops
+- grate into desserts
+- scent: very fruity; pineapple and banana when young, then raspberry scones, juicy fruit gum, caramel,
+then washed-rind cheese and barns
+- technically not a truffle
+
+(black) Macrosporum/large-spored/smooth-skinned truffle - _tuber macrosporum_ $$
+- smooth black skin with red splotch, dense network of sharp "veins" interrior, firm and compact
+- small
+- season: autumn
+- climate: same as white truffles, valley forests, stream banks
+    - mediterranean and eastern Europe
+- rarely makes it to market
+- use like a white - grate fresh on eggs, pasta, toast, salad, veggies
+- scent: like a debonair white truffle
+
+Appalachian/Michigan/yellow-furrowed/great Eastern white - _tuber canaliculatum_ $$
+- sienna skin with cocoa center, seems to glow
+- small, round
+- season: September-October
+- climate: sandy soil under spruce, pines, oak, hickory, roadsides
+    - midwest, Eastern Canada, Northeast, down Appalachians through MD, WV
+    - some cultivation in Quebec
+- never seen in market, rarely found wild
+- shave onto hot eggs or pasta, heat can free volatiles
+- scent: not strong but comforting, classy, subdued, pleasing
+
+Honey/sand/sweet truffle - _mattirolomyces terfezioides_ $$
+- not very truffle-like appearance; like a lumpy meringue wiht black stippling, extra dense and wet
+- baseball-sized and larger
+- season: September-November
+- climate: sandy deposits near black locust trees, along rivers like Carpathian
+    - Hungary
+- uncommon, but increasing popularity
+- use for desserts only, very sweet, holds up in cooking and freezing
+- scent: very mild and mushroomy, like bloomy-rind cheese
+
+(black) Chinese truffle - _tuber himalayensis, tuber indicum_ $$
+- himalayensis looks exactly like black winter
+- indicum is brick red outside to deep brown when ripe; interior black when ripe, white when immature
+- golf ball size and smaller
+- season: November-February
+- climate: mountain pines
+    - himalayensis: Himalayas near Tibet
+    - indicum: Yunnan and Sichuan plateaus
+- less available
+- often harvested by raking, which means harvesting unripe truffles and disturbing the soil
+- usually used as fake black winters
+- scent: none when immature (most), mature Himilayensis is chocolatey, Indicum is gingery
+
+Others
+- Bagnoli/Lorraine (_tuber mesentericum_) - like black summer or black autumn, but intense tar and
+mothballs smell. Once tar is gone, smells like almond and classic truffle
+- Maculatum (_tuber maculatum_) - light-colored truffle mistaken for bianchetti. Has white-truffle
+garlicky note, but petrol fumes
+- Excavatum (_tuber excavatum_) - extermely common, small light color, cavity in middle, too strong
+and unpleasant
+- Oregon brown (_kalapuya brunnea_) - from PNW, smlall with savory miso scent, orange-brown skin,
+speckled interior, very aromatic
+- Pecan (_tuber lyonii_) - small nut-coloreed truffle found in pecan orchards in Southeast. Early
+cultivation in GA FL, subtle pleasing butter-fried sunflower seeds with garlic scent. Relatively
+abundant and stable
+- Melanogaster (_melanogaster spp_) - not true truffles but found by truffle dogs. Smell like wine
+but texture is mushy, so used as flavoring accent in sauce and butter.
+- Desert (_terfezia, tirmania, kalaharituber spp_) - abundant in Near East, Middle East, North Africa.
+Considered delicacy, medicine, aphrodisiac. Grapefruit-sized, white or tan, like rolls. < $100 per pound,
+but no truffle scent.
+
+
 ## 30 September 2025
 ### How to be a Conscious Eater - Sophie Egan
 - tap water > bottled water
 - ewg on washing fruit:
-    - top pesticide residue: strawberries, spinach, apples, grapes, tomatoes, bell peppers,pears, cherries,
+    - top pesticide residue: strawberries, spinach, apples, grapes, tomatoes, bell peppers, pears, cherries,
     potatoes, nectarines, kale (in general if you eat the surface)
     - lowest pesticide residue: asparagus, eggplant, cauliflower, pineapples (in general if you peel the
     surface)
