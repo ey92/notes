@@ -1,4 +1,4 @@
-## _ October 2025
+## 7 October 2025
 ### Truffle Hound: On the Trail of the World's Most Seductive Scent, with Dreamers, Schemers, and Some Extraordinary Dogs - Rowan Jacobsen
 The most common truffles are black winter (French) and white (Alba) truffles. But there are many more less
 popular truffles that could be much more affordable for different scents.
@@ -7,7 +7,12 @@ Truffles are mycorrhizal fungi who cultivate relationships with various trees an
 near rivers or limestone. They help young trees retain nutrients like phosphorus and nitrogen
 from the soil in exchange for plant-produced sugars. Cultivated truffles often start with tree
 saplings inoculated with truffle mycelium. It is difficult to inoculate mature trees since the
-truffle will have to compete with existing fungi.
+truffle will have to compete with existing fungi. "Edge species" often found where pasture meets
+the woods.
+
+In the old world, truffles are shaved over and served "against a bland canvas." But in Oregon
+Truffle Festival's Grand Truffle Dinner, they serve a grand variety of colors, shapes, textures
+and take advantage of the evolving nose of Oregon white.
 
 White/Alba/Italian truffle - _tuber magnatum_ $$$$$
 - like tanned moon rocks, knobby smooth-skinned, pink prosciutto-like marbling
@@ -156,6 +161,18 @@ but texture is mushy, so used as flavoring accent in sauce and butter.
 - Desert (_terfezia, tirmania, kalaharituber spp_) - abundant in Near East, Middle East, North Africa.
 Considered delicacy, medicine, aphrodisiac. Grapefruit-sized, white or tan, like rolls. < $100 per pound,
 but no truffle scent.
+
+Where to get
+- burwellfarmsnc.com - bianchetto
+- itartufiditeo.com - organic and no syntheic aroma from Tenuta di Ghizzano
+- maison-de-la-truffe.com - Paris
+- regalisfoods.com - NY supplier from Italy and Eastern Europe (white), Spain,Aus,Chile (black winter)
+- sabatinotruffles.com - white, black summer, black autumn, black winter - Umbria, IT with CT outpost
+- terfezia.com - sweet hungarian truffle chocolate bonbons
+- truffledogcompany.com - native NA truffles, Oregon whites and blacks, pecans
+- etsy.com/shop/TuckersTruffleOil - famous dog trainer couple with all natural white truffle olive oil
+- wiltshiretruffles.com - UK supplier with black winter, black summer, black autumn white, bianchetto, honey truffles
+- wolvesandpeople.com - brewer making filberts and white truffle beer
 
 
 ## 30 September 2025
